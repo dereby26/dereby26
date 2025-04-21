@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hükümlü ve tutukluların kişisel gelişimlerinin takip süresi ne kadardır?",
+    "A": "Aylık",
+    "B": "Üç aylık",
+    "C": "Yıllık",
+    "D": "Altı aylık",
+    "Answer": "Aylık",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, nakil edilen hükümlü ve tutukluların Eğitim Takip Çizelgesi hangi işlemle gönderilecektir?",
+    "A": "İnfaz dosyasına takılarak",
+    "B": "Yeni bir çizelgeyle",
+    "C": "Posta yoluyla",
+    "D": "E-posta ile",
+    "Answer": "Posta yoluyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, eğitim çizelgeleri Genel Müdürlüğe gönderilmek üzere hangi dönemlerde hazırlanır?",
+    "A": "Müdürü olan kurumlarda üçer aylık, müdürü olmayan kurumlarda altı aylık dönemlerde",
+    "B": "Yılda bir kez",
+    "C": "Yılda iki kez",
+    "D": "Sadece yıl sonunda",
+    "Answer": "Müdürü olan kurumlarda üçer aylık, müdürü olmayan kurumlarda altı aylık dönemlerde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, çizelgedeki bilgilerin doğruluğunu kim onaylar?",
+    "A": "Eğitimden sorumlu memur",
+    "B": "Genel Müdürlük",
+    "C": "Kurum müdürü veya en üst amir",
+    "D": "Hükümlülerin eğitim danışmanı",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Yetişkin ve Genç Hükümlü ve Tutuklu Eğitim Çizelgesi kimin imzasını taşımak zorundadır?",
+    "A": "Kurum öğretmeni ve eğitimden sorumlu II. müdür",
+    "B": "Hükümlünün kendisi",
+    "C": "Güvenlik amiri",
+    "D": "Sadece infaz memuru",
+    "Answer": "Sadece infaz memuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre yukarıdaki maddede belirtilen çizelge aşağıdakilerden hangisidir?",
+    "A": "Aylık Faaliyet Raporu Çizelgesi",
+    "B": "Yetişkin ve Genç Hükümlü ve Tutuklu Eğitim Çizelgeleri",
+    "C": "Sosyal ve Kültürel Etkinlik Çizelgesi",
+    "D": "Eğitim Gelişim İzleme Çizelgesi",
+    "Answer": "Yetişkin ve Genç Hükümlü ve Tutuklu Eğitim Çizelgeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, eğitim çalışmalarına ilişkin değerlendirme çizelgesi ile ilgili aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "A": "Yetişkin ve Genç Hükümlü ve Tutuklulara Yönelik Eğitim Çalışmalarına İlişkin Değerlendirme Çizelgeleri (Ek 3-A ve Ek 3-B sayılı çizelge), kurumda yürütülen eğitim faaliyetlerinin değerlendirilmesi için her yıl Ocak ayının 15'ine kadar Genel Müdürlüğün Yetişkin Eğitim-Öğretim Şube Müdürlüğüne gönderilecektir.",
+    "B": "Değerlendirme çizelgesi, kurum öğretmeni ve eğitimden sorumlu II. müdür tarafından imzalanacak ve kurumun en üst amiri tarafından bilgilerin doğruluğu onaylanacaktır.",
+    "C": "Kurumda yürütülen eğitim faaliyetlerinin değerlendirilmesine yönelik bu çizelgeler, belirlenen süre içinde düzenli olarak gönderilerek kurumun eğitim faaliyetleri raporlanacaktır.",
+    "D": "Tüm maddeler doğrudur.",
+    "Answer": "Kurumda yürütülen eğitim faaliyetlerinin değerlendirilmesine yönelik bu çizelgeler, belirlenen süre içinde düzenli olarak gönderilerek kurumun eğitim faaliyetleri raporlanacaktır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Yetişkin ve Genç Hükümlü ve Tutuklulara Yönelik Eğitim Çalışmalarına İlişkin Değerlendirme Çizelgeleri hangi tarihe kadar Genel Müdürlüğe gönderilmelidir?",
+    "A": "1 Ocak",
+    "B": "15 Ocak",
+    "C": "31 Aralık",
+    "D": "1 Şubat",
+    "Answer": "15 Ocak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Yetişkin ve Genç Hükümlü ve Tutuklulara Yönelik Eğitim Çalışmalarına İlişkin Değerlendirme Çizelgeleri hangi birime gönderilecektir?",
+    "A": "Psiko-sosyal Yardım Servisi",
+    "B": "Eğitimden sorumlu müdürlük",
+    "C": "Yetişkin Eğitim-Öğretim Şube Müdürlüğü",
+    "D": "Ceza infaz kurumu müdürlüğü",
+    "Answer": "Psiko-sosyal Yardım Servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Değerlendirme Çizelgesi kimler tarafından imzalanacaktır?",
+    "A": "Hükümlüler ve tutuklular",
+    "B": "Kurum öğretmeni ve eğitimden sorumlu II. müdür",
+    "C": "Güvenlik görevlileri",
+    "D": "Genel Müdürlük yetkilileri",
+    "Answer": "Güvenlik görevlileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Değerlendirme Çizelgesi üzerindeki bilgilerin doğruluğunu kim onaylayacaktır?",
+    "A": "Ceza infaz kurumu en üst amiri",
+    "B": "Eğitimden sorumlu memur",
+    "C": "Hükümlülerin aileleri",
+    "D": "Psiko-sosyal yardım servisi",
+    "Answer": "Eğitimden sorumlu memur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Yetişkin ve Genç Hükümlü ve Tutuklulara Yönelik Eğitim Çalışmalarına İlişkin Değerlendirme Çizelgeleri hangi amaçla hazırlanır?",
+    "A": "Yalnızca hükümlülerin eğitim seviyesini belgelemek için",
+    "B": "Hükümlülerin kişisel gelişim belgelerini düzenlemek için",
+    "C": "Kurumda yürütülen eğitim faaliyetlerinin değerlendirilmesi için",
+    "D": "Sadece Genel Müdürlük talimatıyla",
+    "Answer": "Kurumda yürütülen eğitim faaliyetlerinin değerlendirilmesi için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre kurumda yürütülen eğitim faaliyetlerinin değerlendirilmesi için Eğitim Çalışmalarına İlişkin Değerlendirme Çizelgesi her yıl hangi ayın 15’ine kadar Genel Müdürlüğün Yetişkin Eğitim-Öğretim Şube Müdürlüğüne gönderilir?",
+    "A": "Eylül",
+    "B": "Ocak",
+    "C": "Temmuz",
+    "D": "Mart",
+    "Answer": "Mart",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre psiko-sosyal yardım servisi çalışma esasları için aşağıdakilerden hangisi yanlıştır?",
+    "A": "Psiko-sosyal yardım servisi çalışmaları \"Standartlar Sistemi\" çerçevesinde oluşturulup, kurumlara",
+    "B": "Personel ile hükümlü ve tutukluların ruh ve beden sağlığına ilişkin koruyucu, geliştirici programları araştıran, uygulayan ve psikolojik destek ve müdahalede bulunan psiko-sosyal yardım servisi için bağımsız bir \"grup çalışma odası\" oluşturulacaktır.",
+    "C": "Bireysel görüşme yapılacak hükümlü ve tutukluların listesi güvenlik ve gözetim servisi aracılığı ile gelen dilekçelere göre plânlanarak aynı gün içinde eğitimden sorumlu II. müdür ile eğitim servisine bildirilecektir.",
+    "D": "Kuruma yeni gelen hükümlü ve tutukluya psiko - sosyal yardım servisi tarafından sunulan hizmetler anlatılacaktır. Dilekçe ile psiko-sosyal yardım servisine başvuruda bulunan, psiko-sosyal yardım servisinin gerekli gördüğü veya kurum idaresi ve kurum personelinin yönlendirdiği hükümlü ve tutukluların tamamı ile bireysel görüşmelerin yapılması sağlanacaktır. Grup çalışmalarına katılacak hükümlü ve tutuklular, psikososyal yardım servisinin teklifi üzerine idare ve gözlem kurulunun onayı ile belirlenecektir.",
+    "Answer": "Bireysel görüşme yapılacak hükümlü ve tutukluların listesi güvenlik ve gözetim servisi aracılığı ile gelen dilekçelere göre plânlanarak aynı gün içinde eğitimden sorumlu II. müdür ile eğitim servisine bildirilecektir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, psiko-sosyal yardım servisi çalışma esasları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Psiko-sosyal yardım servisi çalışmaları, \"Standartlar Sistemi\" çerçevesinde oluşturulup kurumlara gönderilen \"İyileştirme Haritası\" kapsamında yürütülecektir. Psiko-sosyal yardım programları eğitimini alan personel, psikolog ve sosyal çalışmacılarla birlikte bu serviste görev yapacaktır.",
+    "B": "Psiko-sosyal yardım servisi için, personel ile hükümlü ve tutukluların ruh ve beden sağlığına ilişkin koruyucu, geliştirici programları araştırmak, uygulamak ve psikolojik destek sağlamak amacıyla bağımsız bir \"grup çalışma odası\" oluşturulacaktır.",
+    "C": "Kuruma yeni gelen hükümlü ve tutuklulara, psiko-sosyal yardım servisi tarafından sunulan hizmetler anlatılacak ve dilekçe ile başvuruda bulunan, gerekli görülen veya yönlendirilen hükümlü ve tutuklularla bireysel görüşmeler yapılacaktır.",
+    "D": "Grup çalışmalarına katılacak hükümlü ve tutuklular, psiko-sosyal yardım servisinin teklifi üzerine disiplin kurulunun onayı ile belirlenecektir.",
+    "Answer": "Grup çalışmalarına katılacak hükümlü ve tutuklular, psiko-sosyal yardım servisinin teklifi üzerine disiplin kurulunun onayı ile belirlenecektir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, psiko-sosyal yardım servisi çalışma esasları ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Bireysel görüşme yapılacak hükümlü ve tutukluların listesi, güvenlik ve gözetim servisi aracılığıyla gelen dilekçelere göre planlanarak aynı gün içinde eğitimden sorumlu II. müdür ile güvenlik ve gözetim servisine bildirilecektir.",
+    "B": "Grup çalışmalarına katılacak hükümlü ve tutukluların listesi, bir hafta öncesinden çalışmanın tarih ve yeri belirtilerek kurum I. müdürü ile II. müdürlere ve güvenlik ve gözetim servisine gönderilecektir. Listelerden bir suret, personelin konuya duyarlılığını artırmak ve işleyişe katkıda bulunmak amacıyla güvenlik ve gözetim servisi personeline duyurulacak ve personel ilan panosuna asılacaktır.",
+    "C": "Eğitimden sorumlu II. Müdür haricindeki diğer II. Müdürlerin, bu çalışmalarla ilgili herhangi bir sorumluluğu bulunmamaktadır.",
+    "D": "Kurum I. Müdürü, grup çalışmasının aksatılmadan yürütülmesinden, eğitimden sorumlu II. müdür ise ortaya çıkabilecek tüm aksaklıkların giderilmesinden ve hükümlü ile tutukluların çalışma yerinde ve zamanında hazır edilmesinden sorumludur. Diğer II. müdürler ile güvenlik ve gözetim servisi personeli, çalışmaların aksatılmadan yürütülmesine yardımcı olacaktır.",
+    "Answer": "Grup çalışmalarına katılacak hükümlü ve tutukluların listesi, bir hafta öncesinden çalışmanın tarih ve yeri belirtilerek kurum I. müdürü ile II. müdürlere ve güvenlik ve gözetim servisine gönderilecektir. Listelerden bir suret, personelin konuya duyarlılığını artırmak ve işleyişe katkıda bulunmak amacıyla güvenlik ve gözetim servisi personeline duyurulacak ve personel ilan panosuna asılacaktır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, psiko-sosyal yardım servisi çalışmaları hangi çerçevede yürütülecektir?",
+    "A": "Psiko-sosyal Yardım Yönetmeliği",
+    "B": "Genel Müdürlük Yönergesi",
+    "C": "İnfaz ve Koruma Kanunu",
+    "D": "Standartlar Sistemi ve İyileştirme Haritası",
+    "Answer": "Psiko-sosyal Yardım Yönetmeliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, psiko-sosyal yardım servisi için hangi özel alan oluşturulmalıdır?",
+    "A": "Bireysel danışma odası",
+    "B": "Grup çalışma odası",
+    "C": "Sosyal yardım birimi",
+    "D": "Destek atölyesi",
+    "Answer": "Sosyal yardım birimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, kuruma yeni gelen hükümlü ve tutuklulara psiko-sosyal yardım servisi tarafından sunulan hizmetler nasıl iletilecektir?",
+    "A": "Sözlü olarak psiko-sosyal yardım servisi tarafından",
+    "B": "Kurum öğretmeni aracılığıyla",
+    "C": "Eğitimin amacı, hükümlü ve tutukluların salıverilmelerinden sonra topluma uyum sağlamalarını ve dış olaylara karşı sabırlı, dayanıklı ve soğukkanlı hâle gelmelerini sağlamaktır.",
+    "D": "Eğitimden sorumlu II. müdür aracılığıyla",
+    "Answer": "Eğitimden sorumlu II. müdür aracılığıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, grup çalışmalarına katılacak hükümlü ve tutuklular nasıl belirlenir?",
+    "A": "Psiko-sosyal yardım servisi tarafından rastgele seçilir",
+    "B": "Güvenlik ve gözetim servisi tarafından seçilir",
+    "C": "İdare ve gözlem kurulunun onayı ile psiko-sosyal yardım servisi teklifi üzerine",
+    "D": "Eğitimden sorumlu II. müdür tarafından atanır",
+    "Answer": "Psiko-sosyal yardım servisi tarafından rastgele seçilir",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

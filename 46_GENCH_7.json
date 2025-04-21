@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Açık Öğretim Fakültesi sınavları kim tarafından gerçekleştirilecektir?",
+    "A": "Ceza infaz kurumu personeli",
+    "B": "Açık Öğretim Fakültesi Dekanlığı sınav komisyonları",
+    "C": "İl halk eğitim müdürlüğü",
+    "D": "Hükümlülerin kendileri",
+    "Answer": "Ceza infaz kurumu personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Açık Öğretim Fakültesi öğrencisi olan hükümlü ve tutukluların kayıt işlemleri hangi merkezde yapılacaktır?",
+    "A": "Öğrencinin bulunduğu ilçede",
+    "B": "Genel Müdürlükte",
+    "C": "Eğitim birimlerinde",
+    "D": "Öğrencinin bulunduğu ilin merkezinde",
+    "Answer": "Genel Müdürlükte",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hükümlü veya tutuklu öğrencilerin kayıt işlemleri yakınları tarafından yapılamazsa hangi yol izlenecektir?",
+    "A": "Kurum tarafından görevlendirilen bir personel tarafından yapılacaktır",
+    "B": "İl millî eğitim müdürlüğü tarafından yapılacaktır",
+    "C": "Halk eğitim müdürlüğüne yönlendirilecektir",
+    "D": "Başka bir hükümlü tarafından yapılacaktır",
+    "Answer": "Kurum tarafından görevlendirilen bir personel tarafından yapılacaktır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Açık Öğretim Fakültesine kayıtlı yeni gelen bir hükümlü veya tutuklu öğrenci için hangi form düzenlenerek Genel Müdürlüğe gönderilecektir?",
+    "A": "Sınav Katılım Formu",
+    "B": "Yetişkin ve Genç Açık Öğretim Fakültesi Tutuklu/Hükümlü Sınav Başvuru Formu",
+    "C": "Eğitim Durum Belgesi",
+    "D": "Öğrenci Bildirim Formu",
+    "Answer": "Öğrenci Bildirim Formu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Açık Öğretim Fakültesi Dekanlığı ile varılan mutabakat gereği, sınav bildirimlerinin yapılmaması durumunda ne olur?",
+    "A": "Öğrenciler sınava alınmaz",
+    "B": "Sınav yeri değiştirilir",
+    "C": "Öğrenciler doğrudan mezun edilir",
+    "D": "Öğrencilerden ücret talep edilir",
+    "Answer": "Öğrenciler doğrudan mezun edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Açık Öğretim Fakültesi öğrencisi olan hükümlü ve tutukluların sınava katılabilmesi için bilgileri en geç ne zaman Genel Müdürlüğe gönderilmelidir?",
+    "A": "Sınavdan iki hafta önce",
+    "B": "Sınavdan bir gün önce",
+    "C": "Sınav sabahı",
+    "D": "Sınav tarihinden bir ay önce",
+    "Answer": "Sınavdan iki hafta önce",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınav bildirimlerinin geç gönderilmesi hâlinde, hükümlü ve tutukluların sınava katılması için en son bildirim süresi nedir?",
+    "A": "Sınavdan 21 gün önce",
+    "B": "Sınavdan bir gün önce",
+    "C": "Sınavdan 10 gün önce",
+    "D": "Sınavdan üç gün önce",
+    "Answer": "Sınavdan üç gün önce",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Açık Öğretim Fakültesi Dekanlığı sınava 21 günden az bir süre kala yapılan bildirimleri kabul etmemektedir. Bu süreden sonra yapılan bildirimler için ne olur?",
+    "A": "Öğrenciler sınava alınmaz",
+    "B": "Öğrenciler sınava alınır ancak sonuçları geçersiz sayılır",
+    "C": "Sınavlar ertelenir",
+    "D": "Öğrencilere farklı sınav yapılır",
+    "Answer": "Öğrenciler sınava alınır ancak sonuçları geçersiz sayılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre AÖF'ye yeni kayıt olan hükümlü ve tutuklu öğrenciler ile her yıl ara, yıl sonu ve bütünleme sınavları öncesinde kurum içinde yapılacak taramalarla tespit edilen AÖF öğrencisi yetişkin ve genç hükümlü ve tutuklulara ilişkin bilgileri içeren (Ek 3-A ve Ek 3-B sayılı Form) her bir öğrenci için ayrı ayrı düzenlenerek, en geç sınavların yapılacağı tarihten kaç ay önce Genel Müdürlüğün Eğitim Birimine faksla gönderilecektir?",
+    "A": "Üç ay",
+    "B": "İki ay",
+    "C": "Altı hafta",
+    "D": "Bir ay",
+    "Answer": "Üç ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre AÖF Dekanlığı sınava kaç günden az süre kaldığında yapılan sınav bildirimlerini kesinlikle kabul etmemektedir?",
+    "A": "Yedi gün",
+    "B": "Yirmi bir gün",
+    "C": "On dört gün",
+    "D": "Otuz gün",
+    "Answer": "Yirmi bir gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri, Açık İlköğretim Okulu, Açık Öğretim Lisesi ve Açık Öğretim Fakültesine İlişkin Ortak Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, aşağıdakilerden hangisi doğru değildir?",
+    "A": "Hükümlü ve tutuklu öğrenciler, sınava katılacakları ceza infaz kurumuna sınavdan en az bir gün önce sevk edilecek, sınavdan sonra bekletilmeden kurumlarına iade edilecektir.",
+    "B": "Açık ceza infaz kurumundan gelen hükümlüler, sınav saatine kadar mümkün olduğunca diğer hükümlü ve tutuklulardan ayrı yerlerde barındırılacaktır.",
+    "C": "Kayıt ve sınav harçlarını ödeyemeyecek durumdaki hükümlü ve tutukluların masrafları, il veya ilçe sosyal yardımlaşma ve dayanışma vakfından veya gönüllü kurum ve kuruluşlardan yardım alınarak karşılanabilecektir.",
+    "D": "Gerekli durumlarda, yol masrafları eğitim kurulu kararıyla emanet para faizi hesabından veya kurum olanaklarıyla karşılanarak hükümlü ve tutuklu öğrencilerin mağduriyeti önlenecektir.",
+    "Answer": "Kayıt ve sınav harçlarını ödeyemeyecek durumdaki hükümlü ve tutukluların masrafları, il veya ilçe sosyal yardımlaşma ve dayanışma vakfından veya gönüllü kurum ve kuruluşlardan yardım alınarak karşılanabilecektir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınav merkezi olan kurumun müdürü, AÖF ile ilgili hususlarda kiminle iş birliği yapacaktır?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "İl sınav yöneticisi",
+    "C": "Genel Müdürlük",
+    "D": "Eğitim servisi personeli",
+    "Answer": "İl sınav yöneticisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, kapalı kurumlardan sınava katılacak hükümlü ve tutuklular hangi şekilde sınav merkezine sevk edilir?",
+    "A": "Sivil güvenlik görevlisi eşliğinde",
+    "B": "Aile üyeleri eşliğinde",
+    "C": "Dış güvenlik görevlisi muhafazasında",
+    "D": "Sadece kendi sorumluluğunda",
+    "Answer": "Sadece kendi sorumluluğunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, açık ceza infaz kurumlarından gelen hükümlüler sınav saatine kadar nasıl bir ortamda bekletilir?",
+    "A": "Sınava kadar diğer hükümlü ve tutuklularla birlikte",
+    "B": "Sınav saatine kadar mümkün olduğunca diğer hükümlü ve tutuklulardan ayrı",
+    "C": "Sadece sınav komisyonu gözetiminde",
+    "D": "Sınav günü sabahı sınav merkezine getirilir",
+    "Answer": "Sınav saatine kadar mümkün olduğunca diğer hükümlü ve tutuklulardan ayrı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, yol masraflarını karşılayamayacak durumdaki hükümlü ve tutuklular için aşağıdakilerden hangisi yapılır?",
+    "A": "Kendi sorumluluklarına bırakılır",
+    "B": "Harcamaları tamamen iptal edilir",
+    "C": "Sadece eğitim servisi tarafından karşılanır",
+    "D": "Sosyal yardımlaşma ve dayanışma vakfından veya gönüllü kurumlardan yardım istenir",
+    "Answer": "Sosyal yardımlaşma ve dayanışma vakfından veya gönüllü kurumlardan yardım istenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hükümlü ve tutukluların sınav harçları ve yol masrafları için gerekirse hangi kaynaktan yararlanılır?",
+    "A": "Genel Müdürlük bütçesinden",
+    "B": "Eğitim kurulu kararıyla emanet para faizi hesabından veya kurum olanaklarından",
+    "C": "Kişisel tasarruflarından",
+    "D": "Dış bağışlardan",
+    "Answer": "Kişisel tasarruflarından",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hükümlü ve tutuklu öğrencilerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlü ve tutuklu öğrenciler; yol ve diğer şartlar göz önünde bulundurularak, kapalı kurumlardan dış güvenlik görevlisi muhafazasında, açık kurumlardan sivil giyimli iç güvenlik görevlisi nezaretinde, sınavdan en az iki saat önce sınava katılacakları ceza infaz kurumunda bulunacak şekilde sevk edilecek, sınavdan sonra bekletilmeden kurumlarına iade edilecektir. Açık ceza infaz kurumundan gelen hükümlüler sınav saatine kadar mümkün olduğunca diğer hükümlü ve tutuklulardan ayrı yerlerde barındırılacaktır.",
+    "B": "Kayıt ve sınav harçlarını, yol masraflarını ödeyemeyecek durumdaki hükümlü ve tutukluların, bu tür masraflarının karşılanması için, il veya ilçe sosyal yardımlaşma ve dayanışma vakfından, gönüllü kurum ve kuruluşlardan yardım istenecektir. Gerekirse yol masrafları eğitim kurulu kararıyla emanet para faizi hesabından veya kurum olanaklarıyla karşılanacak, hükümlü ve tutuklu öğrenciler maddî nedenlerle mağdur edilmeyecektir.",
+    "C": "Sınavların yapıldığı ceza infaz kurumlarında, kurum idaresince, gerek sınav yapmak için kuruma gelen sınav komisyonuna, gerekse sınava katılan öğrencilere, gerekli her türlü yardım ve kolaylık gösterilecek, sınavların huzur içinde yapılması sağlanacaktır. Sınavların belirli merkezlerde yapıldığı göz önüne alınarak, kurumun fizikî şartları el verdiğince, bu sınavlar için gelen öğrencilerin kalabilecekleri ve sınavlara rahatça hazırlanabilecekleri bir koğuş veya oda ile sınavın yapılabileceği bir dershane düzenlenecektir.",
+    "D": "Öğrencilerin salıverilmeleri hâlinde ikamet edeceklerini belirttikleri adresleri, ilgili okullara kendileri bildirecek, salıverildikten sonra adres ve sınav yeri değişikliklerini okul müdürlüklerine bildirmeleri hususunda kurum idaresi tarafından kendilerine gerekli bilgilendirme yapılacaktır.",
+    "Answer": "Kayıt ve sınav harçlarını, yol masraflarını ödeyemeyecek durumdaki hükümlü ve tutukluların, bu tür masraflarının karşılanması için, il veya ilçe sosyal yardımlaşma ve dayanışma vakfından, gönüllü kurum ve kuruluşlardan yardım istenecektir. Gerekirse yol masrafları eğitim kurulu kararıyla emanet para faizi hesabından veya kurum olanaklarıyla karşılanacak, hükümlü ve tutuklu öğrenciler maddî nedenlerle mağdur edilmeyecektir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınavların yapıldığı ceza infaz kurumlarında sınav komisyonu ve sınava katılan öğrencilere ne sağlanmalıdır?",
+    "A": "Yalnızca sınav materyalleri",
+    "B": "Sadece güvenlik desteği",
+    "C": "Gerekli her türlü yardım ve kolaylık",
+    "D": "Fiziksel aktivite imkanı",
+    "Answer": "Yalnızca sınav materyalleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınavlar için gelen öğrencilere sınav hazırlığı için nasıl bir ortam sağlanmalıdır?",
+    "A": "Diğer hükümlülerle aynı ortamda",
+    "B": "Fizikî şartlar el verdiğince ayrı bir koğuş veya oda ile bir dershane",
+    "C": "Yalnızca koridorda bekleyerek",
+    "D": "Bahçede barınarak",
+    "Answer": "Yalnızca koridorda bekleyerek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, kapalı kurumlardan sınava katılacak hükümlü ve tutuklular nasıl bir güvenlik önlemi ile sınav merkezine sevk edilir?",
+    "A": "Dış güvenlik görevlisi muhafazasında",
+    "B": "Sivil giyimli iç güvenlik görevlisi eşliğinde",
+    "C": "Hiçbir güvenlik önlemi olmaksızın",
+    "D": "Aileleriyle birlikte",
+    "Answer": "Dış güvenlik görevlisi muhafazasında",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

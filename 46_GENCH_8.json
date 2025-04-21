@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, açık ceza infaz kurumlarından gelen hükümlüler sınav saatine kadar nasıl bir ortamda bekletilir?",
+    "A": "Diğer hükümlü ve tutuklularla birlikte",
+    "B": "Sınav komisyonu gözetiminde",
+    "C": "Mümkün olduğunca diğer hükümlü ve tutuklulardan ayrı yerlerde",
+    "D": "Eğitim servisinde",
+    "Answer": "Diğer hükümlü ve tutuklularla birlikte",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınav harçları ve yol masraflarını karşılayamayan hükümlü ve tutuklular için hangi kurum veya kaynaklardan yardım istenebilir?",
+    "A": "Sosyal yardımlaşma ve dayanışma vakfı, gönüllü kurum ve kuruluşlar",
+    "B": "Aile bireyleri",
+    "C": "Genel Müdürlük bütçesi",
+    "D": "Sadece mahkeme tarafından",
+    "Answer": "Aile bireyleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hükümlü ve tutukluların yol masrafları için gerekirse hangi kaynak kullanılabilir?",
+    "A": "Emanet para faizi hesabı veya kurum olanakları",
+    "B": "Kendi tasarrufları",
+    "C": "Disiplin kurulu fonu",
+    "D": "Yabancı yardım kuruluşları",
+    "Answer": "Emanet para faizi hesabı veya kurum olanakları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınav komisyonuna ve sınava katılacak öğrencilere sınavların yapıldığı ceza infaz kurumlarında hangi koşul sağlanmalıdır?",
+    "A": "Güvenlik önlemleri artırılmalıdır",
+    "B": "Gerekli her türlü yardım ve kolaylık sağlanmalıdır",
+    "C": "Kendi imkanlarıyla sınava girmeleri sağlanmalıdır",
+    "D": "Sınavlar gizli şekilde yapılmalıdır",
+    "Answer": "Sınavlar gizli şekilde yapılmalıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri, Açık İlköğretim Okulu, Açık Öğretim Lisesi ve Açık Öğretim Fakültesine İlişkin Ortak Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, aşağıdakilerden hangisi doğrudur?",
+    "A": "Sınava katılmayan öğrencilerden sınava katılmama nedenlerini belirten bir dilekçe alınacak veya tutanak tutulacaktır.",
+    "B": "Sınava katılmayan öğrencilerin durumuyla ilgili Genel Müdürlüğe bilgi verilmesi zorunlu değildir.",
+    "C": "Sınav tarihinden önce salıverilen öğrenciler, herhangi bir sınav merkezinde sınava girebilir.",
+    "D": "Sınav giriş belgesi olmayan öğrenciler de sınava katılabilir.",
+    "Answer": "Sınava katılmayan öğrencilerin durumuyla ilgili Genel Müdürlüğe bilgi verilmesi zorunlu değildir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hükümlü ve tutuklu öğrencilerin salıverilmeleri durumunda ikamet adresi hangi kuruma bildirilecektir?",
+    "A": "Ceza infaz kurumu müdürlüğüne",
+    "B": "Halk eğitim merkezine",
+    "C": "Millî Eğitim Bakanlığına",
+    "D": "İlgili okullara",
+    "Answer": "Millî Eğitim Bakanlığına",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, salıverilen öğrenciler hangi konuda uyarılacaktır?",
+    "A": "Salıverildikten sonra sınava girmemeleri",
+    "B": "Adres ve sınav yeri değişikliklerini okul müdürlüklerine bildirmeleri",
+    "C": "Eğitimlerine devam etmeme hakları",
+    "D": "Yalnızca sınav tarihlerini takip etmeleri",
+    "Answer": "Salıverildikten sonra sınava girmemeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, toplu sevk ve nakillerin sınav tarihlerine yakın olması durumunda hangi işlem yapılacaktır?",
+    "A": "Öğrenciler sınava alınmayacaktır",
+    "B": "Öğrenciler kendi istekleriyle sınava katılacaktır",
+    "C": "Sevk ve nakil sınavlardan sonra gerçekleştirilecektir",
+    "D": "Sevk işlemi sınav tarihinden önce yapılacaktır",
+    "Answer": "Sevk ve nakil sınavlardan sonra gerçekleştirilecektir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hangi sınavlardan bir hafta önce sevk ve nakil işlemleri yapılmayacaktır?",
+    "A": "AİO ve AÖL sınavları ile ÖSYM ve MEB tarafından yapılan diğer sınavlar",
+    "B": "Yetişkin I. ve II. Kademe Eğitimi Başarı kursu sonu sınavları",
+    "C": "AÖF sınavları",
+    "D": "Meslek kursları sonu sınavları",
+    "Answer": "Meslek kursları sonu sınavları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, Açık Öğretim Fakültesi (AÖF) sınavlarından kaç gün önce sevk ve nakil yapılmayacaktır?",
+    "A": "7 gün",
+    "B": "14 gün",
+    "C": "21 gün",
+    "D": "30 gün",
+    "Answer": "7 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, hangi durumlarda sevk işlemi sınav tarihinden önce yapılabilir?",
+    "A": "Hükümlünün talebiyle",
+    "B": "Eğitim kurulu kararıyla",
+    "C": "Genel Müdürlük izniyle",
+    "D": "Disiplin, duruşma, hastalık, güvenlik ve zorunlu nedenlerle",
+    "Answer": "Eğitim kurulu kararıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınava katılmayan öğrenciler için hangi işlem yapılacaktır?",
+    "A": "Dilekçe alınacak veya tutanak tutulacaktır",
+    "B": "Disiplin cezası uygulanacaktır",
+    "C": "Sınava katılmaları zorunlu kılınacaktır",
+    "D": "Genel Müdürlükten izin alınacaktır",
+    "Answer": "Genel Müdürlükten izin alınacaktır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, sınav tarihinden önce salıverilen öğrenci sınava nerede katılabilecektir?",
+    "A": "Ceza infaz kurumunda",
+    "B": "Sınav giriş belgesinde belirtilen sınav merkezinde",
+    "C": "Herhangi bir halk eğitim merkezinde",
+    "D": "Evinde çevrimiçi olarak",
+    "Answer": "Evinde çevrimiçi olarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, yukarıdakilerden hangisi/hangileri doğrudur?",
+    "A": "Yalnız I",
+    "B": "I ve III",
+    "C": "I ve II",
+    "D": "Hepsi",
+    "Answer": "Yalnız I",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, AİO, AÖL sınavları ile ÖSYM ve MEB tarafından yapılan diğer sınavlara kaç hafta kala sevk ve nakil yapılmaz?",
+    "A": "İki hafta",
+    "B": "Üç hafta",
+    "C": "Dört hafta",
+    "D": "Bir hafta",
+    "Answer": "Üç hafta",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, AÖF sınavlarına kaç gün kala sevk ve nakil yapılmaz?",
+    "A": "Yirmi bir gün",
+    "B": "On beş gün",
+    "C": "Yirmi beş gün",
+    "D": "Otuz gün",
+    "Answer": "Yirmi beş gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre iş ve meslek kursları ile Yetişkin I. ve II. Kademe Eğitimi Başarı kurs sonu sınavlarına kaç ay kala sevk ve nakil yapılmayacaktır?",
+    "A": "İki ay",
+    "B": "Bir ay",
+    "C": "Üç ay",
+    "D": "Altı hafta",
+    "Answer": "Bir ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre aşağıdakilerden hangisi yanlıştır?",
+    "A": "AÖF sınav sonuç belgesinin ve Açık İlköğretim Okulu ile Açık Öğretim Lisesi sınav giriş ve sınav sonuç belgelerinin zamanında kuruma ulaşmaması hâlinde, internetten yararlanılarak bu belgeler temin edilecek, öğrencilerin mağdur olmamaları için gerekli her türlü önlem alınacaktır.",
+    "B": "Kayıt işlemleri her öğretim yılı başında AÖF ve Millî Eğitim Bakanlığı tarafından hazırlanan iş takvimi veya yönerge esaslarına göre yürütülecektir. Kuruma ulaşmaması hâlinde, kurum idaresi ve öğretmeni tarafından iş takvimi veya yönerge zamanında temin edilecektir.",
+    "C": "Sınavlar için kurumlara sınav komisyonu gönderilmesi, hükümlü veya tutuklu olan öğrenciler ile kurum personeli içindir. Kurumda yapılan sınavlara dış dünyadan gelen öğrenciler katılamaz.",
+    "D": "Bir hükümlü veya tutuklunun öğrenci olduğu hâlde, kurum idaresi tarafından zamanında Genel Müdürlüğe bildirilmemesi veya hükümlü ve tutuklulara sınavlar hakkında bilgi verilmemesi gibi durumlarda sorumlular hakkında adlî ve idarî işlem yapılacaktır.",
+    "Answer": "AÖF sınav sonuç belgesinin ve Açık İlköğretim Okulu ile Açık Öğretim Lisesi sınav giriş ve sınav sonuç belgelerinin zamanında kuruma ulaşmaması hâlinde, internetten yararlanılarak bu belgeler temin edilecek, öğrencilerin mağdur olmamaları için gerekli her türlü önlem alınacaktır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, aşağıdakilerden hangisi yanlıştır?",
+    "A": "Sevk ve nakil tarihinin sınav tarihine yakın olması durumunda, öğrencinin mağdur olmaması için sevk ve nakil işlemi sınavlardan önce yapılacaktır.",
+    "B": "Disiplin, duruşma, hastalık, güvenlik ve zorunlu nedenlerle nakil yapılması gerektiğinde, öğrencinin sevki yapılır ve aynı gün Adalet Bakanlığına bilgi verilir.",
+    "C": "AİO, AÖL sınavları ile ÖSYM ve MEB tarafından yapılan diğer sınavlara 1 hafta, AÖF sınavlarına 21 gün, iş ve meslek kursları ile Yetişkin I. ve II. Kademe Eğitimi Başarı kurs sonu sınavlarına 1 ay kala sevk ve nakil işlemleri yapılamaz.",
+    "D": "Bir hükümlü veya tutuklunun öğrenci olduğu hâlde, kurum idaresi tarafından zamanında Genel",
+    "Answer": "AİO, AÖL sınavları ile ÖSYM ve MEB tarafından yapılan diğer sınavlara 1 hafta, AÖF sınavlarına 21 gün, iş ve meslek kursları ile Yetişkin I. ve II. Kademe Eğitimi Başarı kurs sonu sınavlarına 1 ay kala sevk ve nakil işlemleri yapılamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza ve Tevkifevleri Genel Müdürlüğü’nün, Genç ve Yetişkin Hükümlü ve Tutukluların Eğitim ve İyileştirme İşlemleri ve Diğer Hükümler Hakkındaki 46/1 sayılı Genelgesi’ne göre, aşağıdakilerden hangisi yanlıştır?",
+    "A": "Sınava katılmayan öğrencilerden sınava katılmama nedenlerini belirten bir dilekçe alınacak veya tutanak tutulacaktır. Sınavdan sonra, sınava gireceği bildirilmesine rağmen sınava giremeyen öğrencilerin sınava katılmama nedenleri konusunda Milli Eğitim Bakanlığına bilgi verilecektir. Sınav tarihinden önce salıverilen öğrenci, sınav giriş belgesinde yazılı sınav merkezinde sınava girebilecektir.",
+    "B": "Bir hükümlü veya tutuklunun öğrenci olduğu hâlde, kurum idaresi tarafından zamanında Genel Müdürlüğe bildirilmemesi veya hükümlü ve tutuklulara sınavlar hakkında bilgi verilmemesi gibi durumlarda sorumlular hakkında adlî ve idarî işlem yapılacaktır.",
+    "C": "AÖF sınav sonuç belgesinin ve Açık İlköğretim Okulu ile Açık Öğretim Lisesi sınav giriş ve sınav sonuç belgelerinin zamanında kuruma ulaşmaması hâlinde, internetten yararlanılarak bu belgeler temin edilecek, öğrencilerin mağdur olmamaları için gerekli her türlü önlem alınacaktır.",
+    "D": "Kayıt işlemleri her öğretim yılı başında AÖF ve Millî Eğitim Bakanlığı tarafından hazırlanan iş takvimi veya yönerge esaslarına göre yürütülecektir. Kuruma ulaşmaması hâlinde, kurum idaresi ve öğretmeni tarafından iş takvimi veya yönerge zamanında temin edilecektir.",
+    "Answer": "Sınava katılmayan öğrencilerden sınava katılmama nedenlerini belirten bir dilekçe alınacak veya tutanak tutulacaktır. Sınavdan sonra, sınava gireceği bildirilmesine rağmen sınava giremeyen öğrencilerin sınava katılmama nedenleri konusunda Milli Eğitim Bakanlığına bilgi verilecektir. Sınav tarihinden önce salıverilen öğrenci, sınav giriş belgesinde yazılı sınav merkezinde sınava girebilecektir.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
