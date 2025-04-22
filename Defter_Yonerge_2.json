@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü Salıverilme Defteri’nin açıklamalar bölümünde aşağıdakilerden hangisine yer verilmez?",
+    "A": "Hükümlünün disiplin cezaları",
+    "B": "Hükümlünün sevk edildiği mahkemenin yol bilgileri",
+    "C": "Sınır dışı edilme tedbiri olup olmadığı",
+    "D": "Salıverilme sonrası adres ve iletişim bilgileri",
+    "Answer": "Hükümlünün sevk edildiği mahkemenin yol bilgileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü Salıverilme Defteri en geç ne zaman kontrol edilmelidir?",
+    "A": "Her ayın sonunda",
+    "B": "Yıl sonunda topluca",
+    "C": "Salıverme işlemi bittikten sonra",
+    "D": "Takip eden günün öncesinde",
+    "Answer": "Takip eden günün öncesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü İzin Defteri hangi nitelikteki bir defterdir?",
+    "A": "Yalnızca dijital ortamda tutulan ve ay sonunda güncellenen defterdir.",
+    "B": "Her yıl yeniden düzenlenen, birbirini takip eden tek sayfalardan oluşan, her sayfaya birden fazla kaydın yapıldığı defterdir.",
+    "C": "Cezaevi doktoru tarafından günlük doldurulan kontrol defteridir.",
+    "D": "Sadece açık ceza infaz kurumlarında kullanılan ve kişiye özel olarak düzenlenen defterdir.",
+    "Answer": "Her yıl yeniden düzenlenen, birbirini takip eden tek sayfalardan oluşan, her sayfaya birden fazla kaydın yapıldığı defterdir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü İzin Defteri’nde aşağıdakilerden hangisi bulunmaz?",
+    "A": "Hükümlünün adı, soyadı ve T.C. kimlik numarası",
+    "B": "İzin süresi ve izne gittiği tarih ve saat",
+    "C": "Ceza infaz kurumu güvenlik kodu",
+    "D": "Cezanın türü, süresi ve infazın başladığı tarih",
+    "Answer": "Ceza infaz kurumu güvenlik kodu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü İzin Defteri’ndeki “izin sonrası yapılacak işlem” bölümüne hangi bilgiler yazılır?",
+    "A": "İzin günlerinde yapılan görüşmelerin detayları",
+    "B": "Cezaevinin dış güvenlik planı",
+    "C": "Mahkeme tarafından verilen yeni ceza kararı",
+    "D": "Kaçıncı izni kullandığı, izin sonrası dönüp dönmediği ve izin sırasında tespit edilen hususlar",
+    "Answer": "Kaçıncı izni kullandığı, izin sonrası dönüp dönmediği ve izin sırasında tespit edilen hususlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü İzin Defteri ile hangi belge arasında mutabakat bulunması zorunludur?",
+    "A": "Örnek D-8 Numaralı Olay Bildirme Fişi",
+    "B": "Örnek C-2 Numaralı Hükümlü Kimlik Kartı",
+    "C": "Örnek C-5 Numaralı Hükümlü İzin Belgesi",
+    "D": "Örnek A-14 Numaralı Tutuklu Adres ve Telefon Defteri",
+    "Answer": "Örnek C-5 Numaralı Hükümlü İzin Belgesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Sayım Defteri hangi amaçla kullanılır?",
+    "A": "Her gün sabah, akşam ve gece yapılan sayımlarda hükümlü ve tutuklu mevcudunu kaydetmek için",
+    "B": "Hükümlülerin disiplin puanlarını takip etmek için",
+    "C": "Cezaevi dış güvenlik planını kaydetmek için",
+    "D": "Sadece firar durumlarını belgelemek için",
+    "Answer": "Her gün sabah, akşam ve gece yapılan sayımlarda hükümlü ve tutuklu mevcudunu kaydetmek için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Sayım Defteri'ni tutmakla görevli birim aşağıdakilerden hangisidir?",
+    "A": "Eğitim servisi",
+    "B": "Ambar servisi",
+    "C": "İşyurdu müdürlüğü",
+    "D": "Güvenlik ve gözetim servisi",
+    "Answer": "Güvenlik ve gözetim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Sayım Defteri'nde imzası bulunan personelin hangi belgede görevlendirilmiş olması gerekir?",
+    "A": "Örnek D-3 Numaralı Ekmek ve Yiyecek Bordrosu",
+    "B": "Örnek D-2 Numaralı Nöbet Cetveli",
+    "C": "Örnek C-1 Numaralı Hükümlü Dosya Etiketi",
+    "D": "Örnek A-6 Numaralı İaşe Defteri",
+    "Answer": "Örnek D-2 Numaralı Nöbet Cetveli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü ve Tutuklulara Ait İaşe Bedeli Takip Defteri hangi personel tarafından düzenlenir?",
+    "A": "Cezaevi müdürü",
+    "B": "Eğitim servisi şefi",
+    "C": "Ambar memuru",
+    "D": "Sosyal hizmet uzmanı",
+    "Answer": "Ambar memuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, İaşe Bedeli Takip Defteri ile aşağıdaki belgelerden hangisi arasında mutabakat sağlanması gerekir?",
+    "A": "Örnek D-3 Numaralı Ekmek ve Yiyecek Karşılığı Bordrosu",
+    "B": "Örnek C-5 Numaralı Hükümlü İzin Belgesi",
+    "C": "Örnek D-1 Numaralı Nöbet Çizelgesi",
+    "D": "Örnek A-7 Numaralı Kasa Defteri",
+    "Answer": "Örnek D-3 Numaralı Ekmek ve Yiyecek Karşılığı Bordrosu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, işyurdunda çalışan hükümlü ve tutukluların iaşe tutarlarının hesaplanmasında hangi günler esas alınmaz?",
+    "A": "Kurumda kalınan toplam gün sayısı",
+    "B": "Mahkemeye sevk edilen günler",
+    "C": "İşyurdunda çalışılan günler",
+    "D": "Gözlem süresi içerisindeki günler",
+    "Answer": "İşyurdunda çalışılan günler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Hükümlü ve tutukluların emanete alınan kişisel paralarına ait kasa defteri hangi örnek numara ile tanımlanır?",
+    "A": "Örnek A-6",
+    "B": "Örnek A-7",
+    "C": "Örnek A-8",
+    "D": "Örnek D-11",
+    "Answer": "Örnek A-7",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, emanete alınan kişisel paralar için ayrı ayrı kayıt tutulması gereken durum aşağıdakilerden hangisidir?",
+    "A": "Hükümlüye ait ceza miktarına göre",
+    "B": "Kurum tipi ve statüsüne göre",
+    "C": "Türk lirası ve yabancı para cinsine göre",
+    "D": "Paranın bağış mı, destek mi olduğuna göre",
+    "Answer": "Türk lirası ve yabancı para cinsine göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, hükümlü ve tutuklular adına tahsil edilen paralar hangi belgeye dayanılarak deftere kaydedilir?",
+    "A": "Örnek C-3 Numaralı Salıverilme Fişi",
+    "B": "Örnek D-11 Numaralı Reddiyat Makbuzu",
+    "C": "Örnek D-8 Numaralı Olay Bildirme Fişi",
+    "D": "Örnek D-10 Numaralı Tahsilat Makbuzu",
+    "Answer": "Örnek D-10 Numaralı Tahsilat Makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-7 Numaralı Defter’in sol sayfasında aşağıdakilerden hangisi yer almaz?",
+    "A": "Parayı yatıranın adı soyadı",
+    "B": "Ödenen tutar",
+    "C": "Tahsil edilen tutar",
+    "D": "Günlük tahsilat toplamı",
+    "Answer": "Ödenen tutar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-7 Numaralı Defter ile Örnek A-8 Numaralı Defter arasında ne tür bir mutabakat bulunmalıdır?",
+    "A": "İmzalı onay belgelerinin birebir karşılaştırılması",
+    "B": "Tutukluların izin bilgileriyle karşılaştırma yapılması",
+    "C": "Tahliye tarihlerinin birebir eşleşmesi",
+    "D": "Türk lirası ve yabancı para cinsinden bakiye kayıtlarının birbiriyle uyumlu olması",
+    "Answer": "Türk lirası ve yabancı para cinsinden bakiye kayıtlarının birbiriyle uyumlu olması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-8 Numaralı “Emanet Para ve Kıymetli Eşya Kayıt Defteri” aşağıdakilerden hangisiyle birlikte düzenlenmeli ve uyumlu olmalıdır?",
+    "A": "Hükümlü ve tutuklulara ait vizite defteri",
+    "B": "Hükümlü kayıt defteri",
+    "C": "Hükümlü ve tutukluların emanete alınan kişisel paralarına ait kasa defteri (Örnek A-7)",
+    "D": "Ziyaretçi defteri",
+    "Answer": "Hükümlü ve tutukluların emanete alınan kişisel paralarına ait kasa defteri (Örnek A-7)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Emanet Para ve Kıymetli Eşya Kayıt Defteri’nin amacı nedir?",
+    "A": "Cezaevi personelinin nöbet çizelgelerini kaydetmek",
+    "B": "Hükümlü ve tutukluların ceza sürelerini belgelemek",
+    "C": "Tahliye edilen hükümlülerin adres ve telefon bilgilerini saklamak",
+    "D": "Emanete alınan para ve kıymetli eşyaların kayıt altına alınarak güvenli şekilde saklanmasını sağlamak",
+    "Answer": "Emanete alınan para ve kıymetli eşyaların kayıt altına alınarak güvenli şekilde saklanmasını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-7 ve A-8 Numaralı defterler arasında hangi tür para birimlerine göre mutabakat aranır?",
+    "A": "Hem Türk lirası hem yabancı para cinsinden kayıtlar için",
+    "B": "Sadece yabancı paralar için",
+    "C": "Sadece Türk lirası için",
+    "D": "Altın ve döviz için ayrı, Türk lirası için ayrı tutulur ama karşılaştırma gerekmez",
+    "Answer": "Hem Türk lirası hem yabancı para cinsinden kayıtlar için",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

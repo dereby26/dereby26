@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, avukatların görüşme öncesi yanlarında getirdikleri belge ve dosyaların içeriğine ilişkin hangi işlem yapılır?",
+    "A": "Deftere özet yazılır",
+    "B": "Noter tasdikli beyan alınır",
+    "C": "Yazılı beyanları alınır",
+    "D": "Kolluk tarafından kontrol edilir",
+    "Answer": "Yazılı beyanları alınır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutuklulara verilen kitapların takibi hangi defter üzerinden yapılır?",
+    "A": "Avukat ziyaret defteri",
+    "B": "Yayın dağıtım defteri",
+    "C": "Maddi duran varlıklar tasnif defteri",
+    "D": "Zimmet defteri",
+    "Answer": "Yayın dağıtım defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Yayın Dağıtım Defteri aşağıdaki personellerden hangisi tarafından düzenlenir?",
+    "A": "Psikolog",
+    "B": "İnfaz koruma başmemuru",
+    "C": "Cezaevi tabibi",
+    "D": "Kütüphaneci veya öğretmen",
+    "Answer": "Kütüphaneci veya öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Yayın Dağıtım Defteri kayıtları aşağıdaki hangi forma dayanarak yapılır?",
+    "A": "Kitap Teslim Formu",
+    "B": "Yayın İsteme Formu",
+    "C": "Ders Yoklama Formu",
+    "D": "Kütüphane Beyan Formu",
+    "Answer": "Yayın İsteme Formu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutuklular için açılan kurslara giren öğretmenlerin işledikleri ders saatleri hangi deftere kaydedilir?",
+    "A": "Ders defteri",
+    "B": "Rehberlik defteri",
+    "C": "Eğitim defteri",
+    "D": "Katılım çizelgesi",
+    "Answer": "Ders defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ders Defteri’ndeki kayıtlar hangi işlemler için esas alınır?",
+    "A": "Ceza indirimi hesaplaması",
+    "B": "Disiplin cezalarının verilmesi",
+    "C": "Ders ücretlerinin tahakkuku",
+    "D": "Nakil işlemleri",
+    "Answer": "Ders ücretlerinin tahakkuku",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, idare ve gözlem kurulu, işyurdu yönetim kurulu gibi kurullarca alınan kararlar hangi deftere kaydedilir?",
+    "A": "Zimmet defteri",
+    "B": "Arşiv defteri",
+    "C": "Karar defteri",
+    "D": "Maddi duran varlıklar tasnif defteri",
+    "Answer": "Karar defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Karar Defteri hangi şekilde düzenlenir?",
+    "A": "Haftalık olarak dijital ortamda",
+    "B": "Kararlar biriktirilip dosya şeklinde saklanarak",
+    "C": "Aylık özet raporlarla",
+    "D": "Kurum öğretmeni tarafından tutulur",
+    "Answer": "Kararlar biriktirilip dosya şeklinde saklanarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Karar Defteri’nde yer alan üçüncü bölüm aşağıdakilerden hangisini içermez?",
+    "A": "Karar numarası",
+    "B": "Karar tarihi",
+    "C": "Kurula katılanların isim ve imzaları",
+    "D": "Kararı uygulayan personelin maaş bordrosu",
+    "Answer": "Kararı uygulayan personelin maaş bordrosu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, arşive alınan evrakın takibi hangi defterde yapılır?",
+    "A": "Muhabere defteri",
+    "B": "Maddi duran varlıklar müfredat defteri",
+    "C": "Arşiv defteri",
+    "D": "Denetim defteri",
+    "Answer": "Arşiv defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Arşiv Defteri’nde her yıl için arşivlenen evraklara verilen sıra numarası nerelere yazılır?",
+    "A": "Yalnızca deftere",
+    "B": "Evrakın içeriğine",
+    "C": "Evrakın cilt kısmına",
+    "D": "Hem deftere hem de kaldırılan belgelerin üzerine",
+    "Answer": "Hem deftere hem de kaldırılan belgelerin üzerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Denetleme Defteri'ni kimler kullanmak üzere ayrı ayrı tutar?",
+    "A": "Cumhuriyet savcısı ve ceza infaz kurumu en üst amiri",
+    "B": "Kurum doktorları ve cezaevi öğretmenleri",
+    "C": "Kurum müdürü ve idare memurları",
+    "D": "Avukatlar ve kütüphane görevlileri",
+    "Answer": "Cumhuriyet savcısı ve ceza infaz kurumu en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Denetleme Defteri hangi amaçla kullanılmaktadır?",
+    "A": "Cezaevindeki ilaç dağıtımının takibi için",
+    "B": "Ziyaretçi giriş-çıkışlarının kontrolü için",
+    "C": "Denetimlerin sonuçlarının kaydı ve takibi için",
+    "D": "Maddi varlıkların fiyatlandırılması için",
+    "Answer": "Denetimlerin sonuçlarının kaydı ve takibi için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Denetleme Defteri'nde her sayfa kaç ayrı denetim için kullanılabilir?",
+    "A": "Bir",
+    "B": "İki",
+    "C": "Üç",
+    "D": "Sınırsız",
+    "Answer": "İki",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Yasaklaması Bulunan Avukat Defteri hangi amaçla düzenlenir?",
+    "A": "Mahkeme kararına dayalı yasaklı avukatların takibi için",
+    "B": "Avukatların vardiyalarını planlamak için",
+    "C": "Müdafilerin cezaevi araçlarını kullanımı için",
+    "D": "Avukatların aidat ödemeleri için",
+    "Answer": "Mahkeme kararına dayalı yasaklı avukatların takibi için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, aşağıdakilerden hangisi Yasaklaması Bulunan Avukat Defteri'nde yer alan bilgilerden biri değildir?",
+    "A": "Yasaklı avukatın sicil numarası",
+    "B": "Yasaklamaya dair mahkeme kararı",
+    "C": "Görüşme yasağı getirilen hükümlü/tutuklunun adı",
+    "D": "Avukatın önceki görüşme sayısı",
+    "Answer": "Avukatın önceki görüşme sayısı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Elektrik Bedeli Tahsil Defteri’nde hangi işlem borç olarak kaydedilir?",
+    "A": "Elektrik faturasının ödenmesi",
+    "B": "Odaya eşya teslim edilmesi",
+    "C": "Elektrik parası tahsil edilmesi",
+    "D": "Elektrik kesintisi yapılması",
+    "Answer": "Elektrik parası tahsil edilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Elektrik Bedeli Tahsil Defteri’nde hangi belgeye istinaden kayıt yapılır?",
+    "A": "Eşya alındı makbuzu",
+    "B": "Yayın isteme formu",
+    "C": "Tahsilat bordrosu",
+    "D": "Elektrik parası tahsilat makbuzu",
+    "Answer": "Elektrik parası tahsilat makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Hükümlü ve Tutuklu Eşya Defteri’ne aşağıdakilerden hangisi kaydedilmez?",
+    "A": "Kıymetli eşya ve evrak",
+    "B": "Hediye olarak gelen koliler",
+    "C": "Fazla eşyalar",
+    "D": "Postayla gelen ama verilmeyen eşyalar",
+    "Answer": "Kıymetli eşya ve evrak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Hükümlü ve Tutuklu Eşya Defteri’ndeki kayıtlar hangi belgeye dayandırılarak yapılır?",
+    "A": "Telefon görüşme formu",
+    "B": "Eşya alındı makbuzu",
+    "C": "Yayın isteme formu",
+    "D": "Nakil sevk formu",
+    "Answer": "Eşya alındı makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

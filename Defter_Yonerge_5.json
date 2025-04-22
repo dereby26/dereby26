@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar yevmiye defteri kim tarafından düzenlenir?",
+    "A": "İnfaz ve koruma memuru",
+    "B": "Ambar memuru",
+    "C": "Öğretmen",
+    "D": "Cezaevi müdürü",
+    "Answer": "Ambar memuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar yevmiye defterinin borç kısmında hangi işlemler takip edilir?",
+    "A": "Ambardan çıkan emtia kayıtları",
+    "B": "Maddi duran varlıkların zimmet bilgileri",
+    "C": "Ambara alınan emtia kayıtları",
+    "D": "Personel malzeme talepleri",
+    "Answer": "Ambara alınan emtia kayıtları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, kuruma gelen emtianın kaydında hangi belge esas alınarak işlem yapılır?",
+    "A": "Elektronik fiş",
+    "B": "Fatura fotokopisi",
+    "C": "Ambar çıkış bordrosu",
+    "D": "Ayniyat tesellüm makbuzu",
+    "Answer": "Ayniyat tesellüm makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ceza infaz kurumlarında hükümlülerin kendi paralarıyla aldıkları ilaçlar aşağıdaki defterlerden hangisine kaydedilmez?",
+    "A": "Ambar esas defteri",
+    "B": "Ambar yevmiye defteri",
+    "C": "İlaç dağıtım defteri",
+    "D": "Ayniyat tesellüm defteri",
+    "Answer": "Ambar yevmiye defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar yevmiye defterindeki KDV’li toplam tutarlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Yalnızca yıl sonunda kaydedilir",
+    "B": "Sadece borç kısmında gösterilir",
+    "C": "Günlük olarak yazılır ve yıl sonunda devredilir",
+    "D": "Deftere işlenmesi zorunlu değildir",
+    "Answer": "Günlük olarak yazılır ve yıl sonunda devredilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar yevmiye defteri ile Ambar esas defteri arasındaki ilişki açısından hangisi doğrudur?",
+    "A": "Yalnızca yıl sonunda karşılaştırma yapılır",
+    "B": "Birbiriyle ilişkisiz tutulur",
+    "C": "B-1 defteri verileri manuel olarak B-2 defterine işlenmez",
+    "D": "Her zaman mutabık olmaları gerekir",
+    "Answer": "Her zaman mutabık olmaları gerekir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar esas defterine hangi tür emtia kaydedilmez?",
+    "A": "Kurum revirine alınan ilaçlar",
+    "B": "Genel bütçe adına kaydedilmesi gereken emtia",
+    "C": "Maddi duran varlıklar dışındaki malzemeler",
+    "D": "Hükümlü şahsi eşyaları dışında kalan malzemeler",
+    "Answer": "Kurum revirine alınan ilaçlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar esas defterinin her sayfasında aşağıdakilerden hangisi bulunmaz?",
+    "A": "Borç ve alacak bölümleri",
+    "B": "Ayniyat tesellüm makbuzu bilgileri",
+    "C": "Elektronik imza alanı",
+    "D": "Emtianın cinsi",
+    "Answer": "Elektronik imza alanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, aynı cins fakat farklı fiyatlı emtia nasıl işlenir?",
+    "A": "Fiyatlarına göre karışık şekilde yazılır",
+    "B": "Önce pahalı olan kaydedilir",
+    "C": "Farklı cins gibi ayrı sayfalara yazılır",
+    "D": "Önceden gelen emtia tamamen tüketilmeden diğerinden düşüm yapılmaz",
+    "Answer": "Önceden gelen emtia tamamen tüketilmeden diğerinden düşüm yapılmaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar esas defterinde emtia fiyatları nasıl belirlenir?",
+    "A": "Yalnızca fatura fiyatına göre",
+    "B": "Katma Değer Vergisi dahil edilerek",
+    "C": "KDV’siz net fiyat üzerinden",
+    "D": "Ortalama piyasa değerine göre",
+    "Answer": "Katma Değer Vergisi dahil edilerek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar esas defteri ile hangi defterin bakiyesi her zaman eşit olmalıdır?",
+    "A": "Ambar yevmiye defteri",
+    "B": "İlaç dağıtım defteri",
+    "C": "Zimmet defteri",
+    "D": "Hurda eşya defteri",
+    "Answer": "Ambar yevmiye defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ambar esas defterine ait sayfa sonunda devreden emtia nasıl aktarılır?",
+    "A": "Yalnızca tutar belirtilerek",
+    "B": "Tahmini miktar ve değerle",
+    "C": "Miktar, fiyat ve tutar olarak ayrıntılı şekilde",
+    "D": "Yeni yılda ilk giriş kaydı olarak",
+    "Answer": "Miktar, fiyat ve tutar olarak ayrıntılı şekilde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, gelen eşya ve havalelerin kaydedildiği defter aşağıdakilerden hangisidir?",
+    "A": "Zimmet defteri",
+    "B": "Ambar esas defteri",
+    "C": "Hediye kayıt defteri",
+    "D": "Gelen eşya ve havale mutemet defteri",
+    "Answer": "Gelen eşya ve havale mutemet defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, gelen kolinin hükümlü veya tutukluya teslimi sırasında hangi belge düzenlenir?",
+    "A": "Zimmet belgesi",
+    "B": "Hediye kayıt fişi",
+    "C": "Eşya alındı makbuzu",
+    "D": "Nöbet devir cetveli",
+    "Answer": "Eşya alındı makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, eşya ya da havale teslim alındığında deftere hangi bilgiler yazılmaz?",
+    "A": "Göndericinin adı soyadı",
+    "B": "Tutuklunun disiplin durumu",
+    "C": "Eşyanın çıkış numarası",
+    "D": "Teslim alan kurum görevlisinin imzası",
+    "Answer": "Tutuklunun disiplin durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, gelen bir havale Örnek A-7 Numaralı deftere işlenecekse hangi makbuz referans alınmalıdır?",
+    "A": "Eşya alındı makbuzu",
+    "B": "Yayın arama fişi",
+    "C": "Tahsilat makbuzu",
+    "D": "Olay bildirme fişi",
+    "Answer": "Tahsilat makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ceza infaz kurumuna gelen ve kurumdan çıkan evrakların takibi hangi defterle yapılır?",
+    "A": "Arşiv defteri",
+    "B": "Zimmet defteri",
+    "C": "Karar defteri",
+    "D": "Muhabere defteri",
+    "Answer": "Muhabere defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Muhabere Defteri’nin giden evrak bölümünde aşağıdakilerden hangisi bulunmaz?",
+    "A": "Sıra numarası",
+    "B": "Gönderenin imzası",
+    "C": "Giden evrakın tarih ve numarası",
+    "D": "Gönderilen kurum veya idare",
+    "Answer": "Gönderenin imzası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, gelen evrak için Muhabere Defteri’nde hangi bilgi yer almaz?",
+    "A": "Gönderen kurum",
+    "B": "Evrak özeti",
+    "C": "Gelen evrakın tarihi ve numarası",
+    "D": "Evrakın teslim süresi",
+    "Answer": "Evrakın teslim süresi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Muhabere Defteri kim tarafından düzenlenir?",
+    "A": "Kurum müdürü",
+    "B": "Zimmet sorumlusu",
+    "C": "Evrak takibiyle görevlendirilmiş personel",
+    "D": "Arşiv memuru",
+    "Answer": "Evrak takibiyle görevlendirilmiş personel",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

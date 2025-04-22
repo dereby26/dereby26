@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, psiko-sosyal yardım servisi görüşme kayıt defterine yapılan kayıtlar hangi formlara dayanılarak düzenlenir?",
+    "A": "Grup veya bireysel görüşme formları",
+    "B": "Aile görüşme formları",
+    "C": "Denetleme formları",
+    "D": "Kurum içi eğitim formları",
+    "Answer": "Grup veya bireysel görüşme formları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, kurum dışında eğitim gören hükümlülerin kayıtları hangi deftere işlenir?",
+    "A": "İzin çıkış defteri",
+    "B": "Hükümlü öğrenci yoklama defteri",
+    "C": "Kurum dışında eğitim gören hükümlü takip defteri",
+    "D": "Eğitim sevk defteri",
+    "Answer": "Kurum dışında eğitim gören hükümlü takip defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, kurum dışında eğitim gören hükümlü takip defterinde ikinci bölümde hangi bilgiler yer alır?",
+    "A": "Ders programları",
+    "B": "Öğretmen bilgileri",
+    "C": "Nakil belgeleri",
+    "D": "Teslim alan ve eden personel ile onaylayan amirin bilgileri",
+    "Answer": "Teslim alan ve eden personel ile onaylayan amirin bilgileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hangi belgeler bilgisayar çıktısı olarak kullanılamaz?",
+    "A": "Karar defteri ve nöbet cetveli",
+    "B": "Makbuzlar ve kartlar",
+    "C": "Vizite defteri ve eşya defteri",
+    "D": "Revir formları",
+    "Answer": "Makbuzlar ve kartlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutukluların telefon görüşmeleri hangi deftere kaydedilir?",
+    "A": "İletişim formu defteri",
+    "B": "Telefon görüşme fişi defteri",
+    "C": "Hükümlü ve tutuklu telefon görüşme defteri",
+    "D": "Ziyaret defteri",
+    "Answer": "Hükümlü ve tutuklu telefon görüşme defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, telefon görüşme defteri kim tarafından düzenlenir?",
+    "A": "Cezaevi müdürü",
+    "B": "Psiko-sosyal servis",
+    "C": "Eğitim servisi",
+    "D": "Güvenlik ve gözetim servisi",
+    "Answer": "Güvenlik ve gözetim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, telefon görüşme defteri toplam kaç bölümden oluşur?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "Answer": "3",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, telefon görüşme defterinin üçüncü bölümünde hangi bilgiler yer alır?",
+    "A": "Görüşülen kişinin eğitim durumu",
+    "B": "Hükümlü veya tutuklunun kaldığı oda numarası",
+    "C": "Disiplin cezası bilgileri ve tarihleri",
+    "D": "Telefon numarasının kayıt tarihi",
+    "Answer": "Disiplin cezası bilgileri ve tarihleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, salıverilen tutukluların adres ve telefon bilgilerinin kaydedildiği defter hangisidir?",
+    "A": "Ziyaretçi kayıt defteri",
+    "B": "Tutuklu kimlik defteri",
+    "C": "Tutuklu kayıt defteri",
+    "D": "Salıverilen tutuklu adres ve telefon defteri",
+    "Answer": "Salıverilen tutuklu adres ve telefon defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, salıverilen tutuklu adres ve telefon defteri kim tarafından tutulur?",
+    "A": "Cezaevi katibi",
+    "B": "Güvenlik görevlisi",
+    "C": "Psikolog",
+    "D": "Eğitim birimi",
+    "Answer": "Cezaevi katibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, salıverilen tutukluların bildirdikleri adreslerde bir değişiklik olması durumunda bu bilgi nereye gönderilir?",
+    "A": "Adalet Bakanlığı’na",
+    "B": "Cumhuriyet Başsavcılığı’na",
+    "C": "Mahkemeye",
+    "D": "Cezaevi yönetim kuruluna",
+    "Answer": "Mahkemeye",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, salıverilen tutuklu adres ve telefon defterinde aşağıdakilerden hangisi yer almaz?",
+    "A": "T.C. kimlik numarası",
+    "B": "Doğum yeri ve tarihi",
+    "C": "Ana ve baba adı",
+    "D": "Mahkeme karar tarihi ve numarası",
+    "Answer": "Mahkeme karar tarihi ve numarası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, mahkemece verilen disiplin hapsi kararları hangi deftere kaydedilir?",
+    "A": "Mahkemece verilen disiplin hapsi defteri",
+    "B": "Hükümlü kayıt defteri",
+    "C": "Disiplin ceza takip defteri",
+    "D": "Cezaevi işlem defteri",
+    "Answer": "Mahkemece verilen disiplin hapsi defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, mahkemece verilen disiplin hapsi defterinde aşağıdakilerden hangisi yer almaz?",
+    "A": "Hükümlünün fotoğrafı",
+    "B": "Suçun nevi ve süresi",
+    "C": "Tahliye sonrası adresi",
+    "D": "Cezayı veren mahkemenin karar numarası",
+    "Answer": "Tahliye sonrası adresi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, disiplin hapsi defteri kim tarafından düzenlenir?",
+    "A": "Kurum müdürü",
+    "B": "İnfaz işlerinden sorumlu cezaevi katibi",
+    "C": "Disiplin kurulu başkanı",
+    "D": "Cumhuriyet savcısı",
+    "Answer": "İnfaz işlerinden sorumlu cezaevi katibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, disiplin hapsi defterine girilen sicil numaraları için hangi uygulama geçerlidir?",
+    "A": "Her yıl başında sıfırlanır",
+    "B": "Ceza süresine göre belirlenir",
+    "C": "Hüküm süresi tamamlandığında silinir",
+    "D": "Yıllık kayıt esas alınır, yeni yıla devredilmez",
+    "Answer": "Yıllık kayıt esas alınır, yeni yıla devredilmez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, mahkemece verilen tazyik hapsi kararları hangi deftere kaydedilir?",
+    "A": "Mahkeme karar takip defteri",
+    "B": "Tazyik hapsi işlem defteri",
+    "C": "Mahkemece verilen tazyik hapsi kararı defteri",
+    "D": "Hükümlü ceza süresi defteri",
+    "Answer": "Mahkemece verilen tazyik hapsi kararı defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, tazyik hapsi defteri kim tarafından düzenlenir?",
+    "A": "Kurum müdürü",
+    "B": "İnfaz işlerinden sorumlu cezaevi katibi",
+    "C": "İnfaz ve koruma memuru",
+    "D": "Cezaevi öğretmeni",
+    "Answer": "İnfaz işlerinden sorumlu cezaevi katibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, mahkemece verilen tazyik hapsi kararı defterinde aşağıdakilerden hangisi yer almaz?",
+    "A": "Hükümlünün adı ve soyadı",
+    "B": "Mahkeme karar tarih ve numarası",
+    "C": "Hükümlünün eğitim durumu",
+    "D": "Hükümlünün fotoğrafı",
+    "Answer": "Hükümlünün eğitim durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, deftere yapılan sicil kaydı ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "A": "Sicil numarası her yıl başında yenilenir",
+    "B": "Sicil numarası yalnızca infaz başlangıç tarihine göre belirlenir",
+    "C": "Sicil numarası hükmü veren mahkemece belirlenir",
+    "D": "Sicil numarası salıverilme tarihine kadar geçerli olacak şekilde düzenlenir",
+    "Answer": "Sicil numarası salıverilme tarihine kadar geçerli olacak şekilde düzenlenir",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

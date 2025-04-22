@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ceza infaz kurumlarında kullanılacak defterler hangi işlem yapıldıktan sonra kullanılmaya başlanabilir?",
+    "A": "Kurum arşivine teslim edildikten sonra",
+    "B": "Cumhuriyet Savcılığı tarafından onaylandıktan sonra",
+    "C": "Elektronik ortama aktarıldıktan sonra",
+    "D": "Sayfaları numaralandırılıp mühürlendikten ve son sayfası imzalandıktan sonra",
+    "Answer": "Sayfaları numaralandırılıp mühürlendikten ve son sayfası imzalandıktan sonra",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, sayfaları numaralandırılıp mühürlenen defterin son sayfasında hangi işlem yapılır?",
+    "A": "Kaç defa kullanılacağı yazılır",
+    "B": "Defterin kaç sayfadan ibaret olduğu şerhi verilir",
+    "C": "Kaç kişi tarafından kullanılacağı yazılır",
+    "D": "Hangi personel tarafından kullanılacağı belirtilir",
+    "Answer": "Defterin kaç sayfadan ibaret olduğu şerhi verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ceza infaz kurumlarında kullanılan, yönergede yer almayan ancak başka mevzuatlarda belirtilen belgeler nasıl kullanılır?",
+    "A": "Kurum inisiyatifiyle hazırlanarak kullanılır",
+    "B": "Sadece Bakanlık onayıyla hazırlanır",
+    "C": "Ekli olduğu mevzuatta belirtildiği şekilde düzenlenerek kullanılır",
+    "D": "Kullanılamaz, resmi sayılmaz",
+    "Answer": "Ekli olduğu mevzuatta belirtildiği şekilde düzenlenerek kullanılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, elektronik ortamda kayıt tutulmaya başlanan ceza infaz kurumlarında hangi uygulamadan vazgeçilebilir?",
+    "A": "Mevzuat güncellemeleri",
+    "B": "Yazılı olarak kayıtların tutulması",
+    "C": "Fiziki arşiv zorunluluğu",
+    "D": "Belgelerin mühürlenmesi",
+    "Answer": "Yazılı olarak kayıtların tutulması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, bu yönerge kimin tarafından yürütülür?",
+    "A": "Ceza ve Tevkifevleri Genel Müdürü",
+    "B": "Cumhuriyet Başsavcısı",
+    "C": "Adalet Bakanı",
+    "D": "Kurum en üst amiri",
+    "Answer": "Adalet Bakanı",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

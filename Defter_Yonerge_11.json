@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Örnek D-11 Numaralı Reddiyat Makbuzu ne zaman kullanılır?",
+    "A": "Hükümlü yeni geldiğinde",
+    "B": "Hükümlünün eğitim bilgisi güncellendiğinde",
+    "C": "Hükümlüye para ödendiğinde",
+    "D": "Eşya kaydı yapıldığında",
+    "Answer": "Hükümlüye para ödendiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Reddiyat Makbuzunun ikinci nüshası ne yapılır?",
+    "A": "Alıcıya verilir",
+    "B": "Hükümlüye verilir",
+    "C": "Posta ile Bakanlığa gönderilir",
+    "D": "Ciltte kalır ve denetime hazır şekilde saklanır",
+    "Answer": "Ciltte kalır ve denetime hazır şekilde saklanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlülerin özel kullanımına ait elektrik bedelinin tahsilinde kullanılan belge aşağıdakilerden hangisidir?",
+    "A": "Elektrik parası tahsilat makbuzu",
+    "B": "Ekmek bordrosu",
+    "C": "Tahsilat makbuzu",
+    "D": "Gider pusulası",
+    "Answer": "Elektrik parası tahsilat makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Örnek D-12 Numaralı “Elektrik parası tahsilat makbuzu” kaç nüsha olarak düzenlenir?",
+    "A": "Tek nüsha",
+    "B": "İki nüsha",
+    "C": "Üç nüsha",
+    "D": "Dört nüsha",
+    "Answer": "İki nüsha",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, “Elektrik parası tahsilat makbuzu”na istinaden yapılan kayıtlar hangi deftere işlenir?",
+    "A": "Ambar esas defteri",
+    "B": "Elektrik bedeli tahsil defteri",
+    "C": "Zimmet defteri",
+    "D": "Kıymetli eşya defteri",
+    "Answer": "Elektrik bedeli tahsil defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ceza infaz kurumu araçlarının kurum dışına çıkışı halinde kullanılan belge aşağıdakilerden hangisidir?",
+    "A": "Ziyaret çizelgesi",
+    "B": "Nöbet cetveli",
+    "C": "Taşıt görev emri formu",
+    "D": "Vardiya listesi",
+    "Answer": "Taşıt görev emri formu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Örnek D-13 Numaralı “Taşıt görev emri formu” kaç nüsha olarak düzenlenir?",
+    "A": "İki nüsha",
+    "B": "Tek nüsha",
+    "C": "Üç nüsha",
+    "D": "Dört nüsha",
+    "Answer": "İki nüsha",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, taşıt görev emri formu uygulandıktan sonra ne yapılır?",
+    "A": "İptal edilir",
+    "B": "Görevli tarafından imha edilir",
+    "C": "İmzalatılarak dosyada saklanır",
+    "D": "Sadece sözlü olarak bildirilir",
+    "Answer": "İmzalatılarak dosyada saklanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü veya tutukluların bildirdikleri yakınlarına ait telefon bilgilerini içeren form aşağıdakilerden hangisidir?",
+    "A": "Telefon görüşme istek formu",
+    "B": "Ziyaretçi bilgi formu",
+    "C": "İletişim izni belgesi",
+    "D": "Telefon görüşme formu",
+    "Answer": "Telefon görüşme formu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ziyaretçi Giriş Kartı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Ziyaretçi kartı yalnızca açık görüşlerde verilir",
+    "B": "Kart, ziyaretin sonunda geri alınmaz",
+    "C": "Kart kurum dışına çıkarılabilir",
+    "D": "Ziyaretçinin kartı yakasında taşıması zorunludur",
+    "Answer": "Ziyaretçinin kartı yakasında taşıması zorunludur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, kuruma ait araçların dış göreve çıkışlarında düzenlenen belge aşağıdakilerden hangisidir?",
+    "A": "Nöbet cetveli",
+    "B": "Taşıt görev emri formu",
+    "C": "Görevli personel çizelgesi",
+    "D": "Araç kontrol formu",
+    "Answer": "Taşıt görev emri formu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, taşıt görev emri formu kim tarafından imzalanmak zorundadır?",
+    "A": "Kurum en üst amiri",
+    "B": "Araç sürücüsü",
+    "C": "Görevli personelin amiri",
+    "D": "Güvenlik birimi amiri",
+    "Answer": "Kurum en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutukluların özel elektrik kullanımlarına ait tahsilatlar hangi belgeyle alınır?",
+    "A": "Tahsilat makbuzu",
+    "B": "Elektrik parası tahsilat makbuzu",
+    "C": "Kira ödeme makbuzu",
+    "D": "Kurum hizmet bedeli formu",
+    "Answer": "Elektrik parası tahsilat makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutukluların daha önce bildirdikleri kişilerle telefon görüşmesi yapmak istediklerinde düzenledikleri belge aşağıdakilerden hangisidir?",
+    "A": "Telefon görüşme formu",
+    "B": "Telefon konuşma değerlendirme formu",
+    "C": "Telefon görüşme tutanağı",
+    "D": "Telefon görüşme istek formu",
+    "Answer": "Telefon görüşme istek formu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, telefon görüşme istek formu kaç bölümden oluşur?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "Answer": "3",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, telefon görüşme istek formunun ikinci bölümü aşağıdaki bilgilerden hangisini içerir?",
+    "A": "Görüşmenin süresi",
+    "B": "Telefon numarası",
+    "C": "Görüşmenin kabulü veya reddi",
+    "D": "Görüşülen kişinin yakınlık derecesi",
+    "Answer": "Görüşmenin kabulü veya reddi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Örnek D-17 Numaralı “Telefon görüşme istek formu”na dayanarak kayıt yapılan defterin adı nedir?",
+    "A": "Telefon görüşme formu",
+    "B": "Ziyaretçi defteri",
+    "C": "Görüşme değerlendirme defteri",
+    "D": "Hükümlü ve tutuklu telefon görüşme defteri",
+    "Answer": "Hükümlü ve tutuklu telefon görüşme defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutukluların kurslara devamlarını takip etmek amacıyla kullanılan belge aşağıdakilerden hangisidir?",
+    "A": "Ders defteri",
+    "B": "Eğitim durum çizelgesi",
+    "C": "Ders yoklama fişi",
+    "D": "Yoklama cetveli",
+    "Answer": "Ders yoklama fişi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Örnek D-18 Numaralı fiş aşağıdaki birimde hangi şekilde saklanır?",
+    "A": "Eğitim servisinde dosyada",
+    "B": "Revir arşivinde",
+    "C": "Güvenlik dosyasında",
+    "D": "Kütüphane defterinde",
+    "Answer": "Eğitim servisinde dosyada",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ceza infaz kurumlarında her bir yayına ait bilgilerin ayrı ayrı kaydedildiği belge aşağıdakilerden hangisidir?",
+    "A": "Yayın fihrist defteri",
+    "B": "Yayın arama fişi",
+    "C": "Yayın dağıtım çizelgesi",
+    "D": "Yayın kayıt makbuzu",
+    "Answer": "Yayın arama fişi",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

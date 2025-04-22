@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-8 Numaralı “Emanet Para ve Kıymetli Eşya Kayıt Defteri” hangi amaçla kullanılır?",
+    "A": "Kurum personeline ait zimmetli eşyaların kaydı için",
+    "B": "Ziyaretçilerin teslim ettiği hediyelerin listelenmesi için",
+    "C": "Hükümlü ve tutukluların kişisel para, kıymetli eşya ve evraklarının takibi için",
+    "D": "Hükümlülerin tahliye sonrasında alacakları maaşların takibi için",
+    "Answer": "Hükümlü ve tutukluların kişisel para, kıymetli eşya ve evraklarının takibi için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-8 Numaralı defterin 1. bölümü hangi tür bilgilerin kaydedilmesi için düzenlenmiştir?",
+    "A": "Türk lirası kayıtları",
+    "B": "Ziyaretçi bilgilerinin kaydı",
+    "C": "Eğitim faaliyetleriyle ilgili belgeler",
+    "D": "Kıymetli eşya ve evrak kayıtları",
+    "Answer": "Kıymetli eşya ve evrak kayıtları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-8 Numaralı defterin kıymetli eşya giriş ve çıkış kayıtları hangi belgelere dayanılarak yapılır?",
+    "A": "Örnek D-3 ve D-4",
+    "B": "Örnek D-6 ve D-9",
+    "C": "Örnek C-1 ve C-5",
+    "D": "Örnek B-2 ve B-6",
+    "Answer": "Örnek D-6 ve D-9",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, defterin 2. bölümü hangi tür para cinsi için düzenlenmiştir?",
+    "A": "Sahte paralar",
+    "B": "Altın ve değerli madenler",
+    "C": "Yabancı para cinsleri",
+    "D": "Devlet yardımları",
+    "Answer": "Yabancı para cinsleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza infaz kurumlarında kullanılan defter ve belgelere ilişkin usul ve esasları düzenleyen Yönerge’ye göre, Örnek A-8 Numaralı defterin bakiyesi hangi defterle uyumlu olmalıdır?",
+    "A": "Örnek A-1 Hükümlü Kayıt Defteri",
+    "B": "Örnek B-2 Ambar Esas Defteri",
+    "C": "Örnek D-10 Tahsilat Makbuzu",
+    "D": "Örnek A-7 Hükümlü ve Tutukluların Emanete Alınan Kişisel Paralarına Ait Kasa Defteri",
+    "Answer": "Örnek A-7 Hükümlü ve Tutukluların Emanete Alınan Kişisel Paralarına Ait Kasa Defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, eğitim-öğretim veya meslek edindirme kurslarına katılan hükümlü ve tutukluların kaydedildiği defter aşağıdakilerden hangisidir?",
+    "A": "Hediye kayıt defteri",
+    "B": "Hükümlü ve tutuklu öğrenci kütük defteri",
+    "C": "Eğitim faaliyet defteri",
+    "D": "Kurs ilerleme defteri",
+    "Answer": "Hükümlü ve tutuklu öğrenci kütük defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutuklu öğrenci kütük defteri kim tarafından tutulur?",
+    "A": "Öğretmen",
+    "B": "Katip",
+    "C": "Rehberlik servisi",
+    "D": "Eğitim şefi",
+    "Answer": "Öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ceza infaz kurumuna uygun bulunmayan hediyelerin teslim edilmediği durumda, ilgili defterde imza kısmına ne yazılır?",
+    "A": "İade edildi",
+    "B": "Kaydedilmedi",
+    "C": "Kurum ambarına alındı",
+    "D": "Zimmete kaydedildi",
+    "Answer": "Kurum ambarına alındı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, teslim edilmeyen hediyelerin aktarılması gereken defter aşağıdakilerden hangisidir?",
+    "A": "Zimmet defteri",
+    "B": "Hediye defteri",
+    "C": "Ambar yevmiye defteri",
+    "D": "Hükümlü ve tutuklu eşya defteri",
+    "Answer": "Hükümlü ve tutuklu eşya defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hediye kayıt defterinde aşağıdakilerden hangisi yer almaz?",
+    "A": "Hediyenin geliş tarihi",
+    "B": "Teslim edilen hediyenin fiş numarası",
+    "C": "Teslim alanın imzası",
+    "D": "Hediyenin cinsi",
+    "Answer": "Teslim edilen hediyenin fiş numarası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, mahkemece verilen disiplin hapsi kararları hangi deftere kaydedilir?",
+    "A": "Disiplin karar defteri",
+    "B": "Tazyik hapsi defteri",
+    "C": "Mahkemece verilen disiplin hapsi defteri",
+    "D": "Ceza infaz defteri",
+    "Answer": "Mahkemece verilen disiplin hapsi defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutuklulara dışarıdan gönderilen hediyeler ilk olarak hangi deftere kaydedilir?",
+    "A": "Hediye kayıt defteri",
+    "B": "Hükümlü eşya defteri",
+    "C": "Ziyaretçi defteri",
+    "D": "Ambar defteri",
+    "Answer": "Hediye kayıt defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, telefon görüşme kayıtlarında aşağıdakilerden hangisi bulunmaz?",
+    "A": "Konuşma tarihi",
+    "B": "Konuşma süresi",
+    "C": "Görüşme yapıldığı oda numarası",
+    "D": "Yakınlık derecesi",
+    "Answer": "Görüşme yapıldığı oda numarası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, görüşme yasağı bulunan hükümlülerin bu durumu hangi defterde kayıt altına alınır?",
+    "A": "Ziyaretçi defteri",
+    "B": "Telefon görüşme defteri",
+    "C": "Disiplin cezası defteri",
+    "D": "Kısıtlama bildirimi listesi",
+    "Answer": "Telefon görüşme defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, mahkemece verilen tazyik hapsi kararları hangi deftere kaydedilir?",
+    "A": "Mahkeme karar defteri",
+    "B": "Disiplin hapsi defteri",
+    "C": "Tazyik hapsi kararı defteri",
+    "D": "Mahkemece verilen tazyik hapsi kararı defteri",
+    "Answer": "Mahkemece verilen tazyik hapsi kararı defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, kurum dışında eğitime devam eden hükümlülerin çıkış ve dönüş kayıtları hangi deftere işlenir?",
+    "A": "Günlük izin defteri",
+    "B": "Kurum dışı işlem defteri",
+    "C": "Kurum dışında eğitim gören hükümlü takip defteri",
+    "D": "Eğitim görevlendirme defteri",
+    "Answer": "Kurum dışında eğitim gören hükümlü takip defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlülerin bayram veya doğum günü gibi özel günlerde kabul edilen hediyeleri hangi deftere kaydedilir?",
+    "A": "Ziyaretçi defteri",
+    "B": "Hediye kayıt defteri",
+    "C": "Kişisel eşya defteri",
+    "D": "Özel gün hediyeleri defteri",
+    "Answer": "Hediye kayıt defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutukluların görüşme bilgileri kaç bölümden oluşan telefon defterine kaydedilir?",
+    "A": "Üç",
+    "B": "İki",
+    "C": "Dört",
+    "D": "Beş",
+    "Answer": "Üç",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ambar yevmiye defteri hangi amaçla kullanılır?",
+    "A": "Ziyaretlerin kaydı için",
+    "B": "Gelen ve çıkan emtia hareketlerinin kaydı için",
+    "C": "Görüşme saatlerinin izlenmesi için",
+    "D": "Eğitim belgelerinin tutulması için",
+    "Answer": "Gelen ve çıkan emtia hareketlerinin kaydı için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, psiko-sosyal yardım servisi görüşme kayıt defteri kim tarafından tutulur?",
+    "A": "Kurum müdürü",
+    "B": "Güvenlik görevlisi",
+    "C": "Psikolog ve sosyal çalışmacı",
+    "D": "Cezaevi katibi",
+    "Answer": "Psikolog ve sosyal çalışmacı",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

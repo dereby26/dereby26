@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, vizite defterinde aşağıdaki bilgilerden hangisi yer almaz?",
+    "A": "Hastanın adı ve soyadı",
+    "B": "Teşhis ve tarih",
+    "C": "Tedavi işlemleri",
+    "D": "Mahkeme kararı",
+    "Answer": "Mahkeme kararı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, maddi duran varlıklar tasnif defterinde hangi bilgiler bulunur?",
+    "A": "Zimmet devri ve ambar kodu",
+    "B": "Sicil numarası, konuşma saati ve süresi",
+    "C": "Ediniliş şekli, kayıt tarihi, fiyatı ve düşüm gerekçesi",
+    "D": "Adres değişikliği ve bildirim tarihi",
+    "Answer": "Ediniliş şekli, kayıt tarihi, fiyatı ve düşüm gerekçesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, maddi duran varlıkların düşümleri hangi kurul kararıyla yapılır?",
+    "A": "Yönetim kurulu",
+    "B": "İdare ve gözlem kurulu",
+    "C": "İşyurdu yönetimi",
+    "D": "Satın alma komisyonu",
+    "Answer": "İdare ve gözlem kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, maddi duran varlık müfredat defteri ile tasnif defteri arasında nasıl bir ilişki vardır?",
+    "A": "Birbirinden bağımsızdır",
+    "B": "Sadece müfredat defteri düzenlenir",
+    "C": "Tasnif defteri yalnızca cezaevi dışı varlıkları kapsar",
+    "D": "Tasnif defteri, müfredat defterine göre düzenlenir",
+    "Answer": "Tasnif defteri, müfredat defterine göre düzenlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, vizite defterinde hangi kişilerle ilgili bilgiler yer alabilir?",
+    "A": "Ziyaretçiler",
+    "B": "Mahkeme heyeti",
+    "C": "Cezaevi personeli, yakınları ve hükümlü-tutuklular",
+    "D": "İşyurdu çalışanları",
+    "Answer": "Cezaevi personeli, yakınları ve hükümlü-tutuklular",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, vizite defterindeki \"hastanın konumu\" ifadesi neyi belirtir?",
+    "A": "Hastanın adresini",
+    "B": "Hastanın mesleğini",
+    "C": "Hastanenin fiziksel konumunu",
+    "D": "Hastanın hükümlü, tutuklu ya da personel olup olmadığını",
+    "Answer": "Hastanın hükümlü, tutuklu ya da personel olup olmadığını",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ilaç dağıtım defteri kim tarafından düzenlenir?",
+    "A": "Eczacı veya cezaevi tabibi",
+    "B": "Ambar memuru",
+    "C": "Güvenlik personeli",
+    "D": "Kurum müdürü",
+    "Answer": "Eczacı veya cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ilaç dağıtım defterinde her ilaç için nasıl bir kayıt düzenlenir?",
+    "A": "Tüm ilaçlar tek sayfada toplanır",
+    "B": "Her ilaç için ayrı sayfa açılır",
+    "C": "Sadece fiyat bilgisi yazılır",
+    "D": "İlaçlar haftalık tablolarla izlenir",
+    "Answer": "Her ilaç için ayrı sayfa açılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutukluların paralarıyla alınan ilaçlar hangi deftere kaydedilmez?",
+    "A": "İlaç dağıtım defteri",
+    "B": "Ambar esas defteri",
+    "C": "Ambar yevmiye defteri",
+    "D": "Ayniyat tesellüm makbuzu",
+    "Answer": "Ambar yevmiye defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, ilaç dağıtım defterinde mutabakat nasıl sağlanır?",
+    "A": "Yıllık denetimle",
+    "B": "Rastgele numune kontrolü ile",
+    "C": "Zimmet defteriyle eşleştirilerek",
+    "D": "Giriş miktarı ile verilen miktar farkının karşılaştırılmasıyla",
+    "Answer": "Giriş miktarı ile verilen miktar farkının karşılaştırılmasıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, genel bütçeyle alınan ilaçların önce kaydedildiği defter aşağıdakilerden hangisidir?",
+    "A": "Ambar yevmiye defteri",
+    "B": "İlaç dağıtım defteri",
+    "C": "Ambar esas defteri",
+    "D": "Zimmet defteri",
+    "Answer": "Ambar yevmiye defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hurda ve atık satış bedelleri kayıt defteri kim tarafından düzenlenir?",
+    "A": "Güvenlik amiri",
+    "B": "Ambar memuru",
+    "C": "Kurum müdürü",
+    "D": "Öğretmen",
+    "Answer": "Ambar memuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hurda ve atık satış bedelleri kayıt defterinin kaç bölümden oluştuğu belirtilmiştir?",
+    "A": "1",
+    "B": "3",
+    "C": "2",
+    "D": "4",
+    "Answer": "2",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hurda ve atık satışlarının gelir kayıtları aşağıdaki belgelerden hangisine dayalı olarak yapılır?",
+    "A": "Zimmet defteri",
+    "B": "Taşıt görev emri formu",
+    "C": "Ambar ihraç müzekkeresi",
+    "D": "Hurda ve her türlü atık satış tahsilat makbuzu",
+    "Answer": "Hurda ve her türlü atık satış tahsilat makbuzu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, İşyurtları Kurumu hesabına gönderilen bedellerin deftere kaydı yapılırken hangi belge esas alınır?",
+    "A": "Tahsilat makbuzu",
+    "B": "Eşya alındı makbuzu",
+    "C": "Banka dekontu",
+    "D": "Reddiyat makbuzu",
+    "Answer": "Banka dekontu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, aşağıdakilerden hangisi hurda ve atık satış bedelleri kayıt defterinde ayrı bölüm açılması gereken işlemlerden biridir?",
+    "A": "Ekmek ve yemek atığı satışı",
+    "B": "Maddi duran varlıkların düşümü yapılmadan satışı",
+    "C": "Ders notlarının dağıtımı",
+    "D": "Hükümlülerin izin planlaması",
+    "Answer": "Ekmek ve yemek atığı satışı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, hükümlü ve tutukluların ziyaretine gelen yakınlarının bilgileri hangi deftere kaydedilir?",
+    "A": "Zimmet defteri",
+    "B": "Ziyaretçi defteri",
+    "C": "Avukat ziyaret defteri",
+    "D": "Görüşme tutanağı defteri",
+    "Answer": "Ziyaretçi defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ziyaretçi Defteri aşağıdaki hangi servis tarafından düzenlenir?",
+    "A": "Psiko-sosyal servis",
+    "B": "İşyurdu müdürlüğü",
+    "C": "Güvenlik ve gözetim servisi",
+    "D": "Revir birimi",
+    "Answer": "Güvenlik ve gözetim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Ziyaretçi Defteri aşağıdaki görüş türlerinden hangisi için ayrı ayrı tutulur?",
+    "A": "Hafta içi ve hafta sonu",
+    "B": "Mahkûm ve tutuklu",
+    "C": "Erkek ve kadın",
+    "D": "Açık görüş ve kapalı görüş",
+    "Answer": "Açık görüş ve kapalı görüş",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları’nda Kullanılacak Defter ve Belgeler İle Bunların Düzenlenmesine Dair Yönerge’ye göre, Avukat Ziyaret Defteri aşağıdakilerden hangisini içermez?",
+    "A": "Avukatın bağlı olduğu baro",
+    "B": "Hükümlünün ceza süresi",
+    "C": "Görüşme tarihi ve saati",
+    "D": "Avukatın imzası TEST 8",
+    "Answer": "Hükümlünün ceza süresi",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
