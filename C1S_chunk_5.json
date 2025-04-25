@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi kurumun hangi koşullarını düzenler?A) Güvenlik ve asayiş koşullarınıB) Sağlık koşullarınıC) Sosyal destek hizmetleriniD) Eğitim koşullarını",
+    "A": "Hemşire",
+    "B": "Diş tabibi",
+    "C": "Cezaevi tabibi",
+    "D": "Veteriner",
+    "Answer": "Veteriner",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi sağlık istatistiklerini ne sıklıkla düzenler?",
+    "A": "Ayda en az bir kez",
+    "B": "Yılda bir kez",
+    "C": "Haftada bir kez",
+    "D": "Altı ayda bir",
+    "Answer": "Ayda en az bir kez",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eczacının kurumda bulunmadığı durumlarda ilaçların dağıtımını kim sağlar?A) Sağlık memuruB) Cezaevi tabibiC) Diş tabibiD) Hayvan sağlık memuru",
+    "A": "Sadece spor alanları",
+    "B": "Sadece diyet düzenlemeleri",
+    "C": "Kurum güvenliği",
+    "D": "Sıhhi tesisat, ısıtma, aydınlatma ve havalandırma koşulları",
+    "Answer": "Sıhhi tesisat, ısıtma, aydınlatma ve havalandırma koşulları",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık servisinde görev yapan diş tabibinin sorumluluklarından biri aşağıdakilerden hangisidir?A) Tıbbi atıkların kontrolüB) Psikolojik destek sağlamak",
+    "A": "Haftalık olarak",
+    "B": "Gerektiğinde",
+    "C": "Ay sonunda",
+    "D": "Sağlık memurunun talebi üzerine",
+    "Answer": "Sağlık memurunun talebi üzerine",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eczacı hangi tür ilaçların tane olarak verilmesini ve kontrolünü yapar?A) Yeşil ve kırmızı reçeteyle satılan uyuşturucu ilaçlarB) Sadece antibiyotiklerC) Ağrı kesicilerD) Reçetesiz satılan ilaçlar",
+    "A": "Ağız ve diş sağlığı",
+    "B": "Hayvancılık faaliyetleri ve hayvan sağlığı",
+    "C": "Spor alanlarının düzeni",
+    "D": "Sağlık servisi düzeni",
+    "Answer": "Sağlık servisi düzeni",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, diyetisyen, kurumda bulunan hükümlülerin sağlıklı beslenmesini sağlamak için hangi faaliyetleri yürütür?A) Hükümlülere bireysel beslenme danışmanlığı verirB) Spor programlarını düzenlerC) Sosyal etkinlikler düzenler",
+    "A": "Kurum müdürü talep ettiğinde",
+    "B": "Her öğünde",
+    "C": "Vejetaryenler veya rahatsızlığı olan hükümlüler için",
+    "D": "Sadece haftalık yemek planlarında",
+    "Answer": "Sadece haftalık yemek planlarında",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık servisindeki tıbbi kayıt ve arşiv sisteminin düzenlenmesinden kim sorumludur?A) HemşireB) Cezaevi tabibiC) DiyetisyenD) Sağlık memuru",
+    "A": "Cezaevi tabibi",
+    "B": "Diş tabibi",
+    "C": "Veteriner",
+    "D": "Diyetisyen",
+    "Answer": "Diyetisyen",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumda anaları ile birlikte kalan çocukların psiko-sosyal gelişimleri kim tarafından takip edilir?A) Güvenlik personeliB) Sağlık memuruC) Psiko-sosyal yardım servisi görevlileriD) Eğitim birimi",
+    "A": "Cezaevi tabibinin gösterdiği işleri yapmak",
+    "B": "Tıbbi atıkların kontrolünü sağlamak",
+    "C": "Tıbbi kayıtları düzenlemek",
+    "D": "Beslenme düzenini sağlamak",
+    "Answer": "Beslenme düzenini sağlamak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumda aile hekimleri hangi durumda görev yapar?A) Cezaevi tabibi olduğundaB) Cezaevi tabibinin bulunmadığı durumdaC) Diş tabibinin talep etmesiyleD) Sadece hafta sonları",
+    "A": "İlaçların muhafazasını sağlamak",
+    "B": "Yemek menülerini planlamak",
+    "C": "Sağlıklı hayvancılık faaliyetlerinin yürütülmesini sağlamak",
+    "D": "Sağlık kayıtlarını düzenlemek",
+    "Answer": "Sağlık kayıtlarını düzenlemek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi, sağlık koşullarının iyileştirilmesi amacıyla hangi işlemi yapar?A) Yemek menülerini değiştirirB) Kurumu ayda en az bir kez denetleyerek rapor sunarC) Eğitim faaliyetlerini planlarD) Sosyal etkinlikler düzenler",
+    "A": "Eğitim ve öğretim servisi, yalnızca hükümlülerin eğitim faaliyetlerini düzenlemekten sorumludur.",
+    "B": "Manevi rehberlik hizmetleri, eğitim ve öğretim servisi kapsamına girmez.",
+    "C": "Eğitim ve öğretim servisinde öğretmen, eğitim uzmanı ve kütüphaneci görev yapar.",
+    "D": "Eğitim ve öğretim servisi, sadece kültürel etkinliklerden sorumlu bir birimdir.",
+    "Answer": "Eğitim ve öğretim servisi, sadece kültürel etkinliklerden sorumlu bir birimdir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Eğitim ve Öğretim Servisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Eğitim ve öğretim servisi; kurumdaki eğitim ve öğretim hizmetleri, kültürel etkinlikler, kütüphane çalışmaları ve manevi rehberlik hizmetlerinin yürütüldüğü servistir.",
+    "B": "Öğretmen ve eğitim uzmanı, hükümlülerin eğitim ve öğretimleri ile manevi kalkınmalarını sağlamakla sorumludur.",
+    "C": "Kütüphaneci bulunmadığı hâllerde, kütüphanecinin görevlerini öğretmen ve eğitim uzmanı üstlenir.",
+    "D": "Eğitim uzmanları yalnızca örgün eğitim faaliyetleriyle ilgilenir ve yaygın eğitim konularında görev almaz.",
+    "Answer": "Eğitim uzmanları yalnızca örgün eğitim faaliyetleriyle ilgilenir ve yaygın eğitim konularında görev almaz.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Eğitim ve Öğretim Servisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Okuma yazma bilmeyen hükümlülere, okuma yazma öğretilmesinden öğretmen sorumludur ve öğrenme güçlüğü görülenler kurum en üst amirine bildirilir. Kurum en üst amiri ve öğretmen bu hükümlülerin okuma yazma öğrenmeleri için gereken önlemleri alır.",
+    "B": "Eğitim ve öğretim faaliyetlerine devam eden hükümlülerin isimleri, başladıkları tarih, hangi sınıfa devam ettikleri, başlangıçtaki öğrenim düzeyleri, eğitimde gösterdikleri ilerleme, başarı, devam süreleri, sınıf yükselmeleri ve davranış notları gözlem değerlendirme raporu veya gelişim değerlendirme raporunun ilgili bölümüne kaydedilir.",
+    "C": "Kütüphaneci, kütüphane ve kitaplığa gelen eserlerin kaydını yapar, bakım ve muhafazasını sağlar, kitapların dağıtılıp toplanmasını düzenler ve iş birliği yapılan diğer kamu kurum ve kuruluşlarına ait kütüphanelerle ilgili gerekli iş ve işlemleri yürütür.",
+    "D": "Eğitim ve öğretim çalışmaları ile öğretimden yararlanma ve sınavlara ilişkin usul ve esaslar Milli Eğitim Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.",
+    "Answer": "Eğitim ve öğretim çalışmaları ile öğretimden yararlanma ve sınavlara ilişkin usul ve esaslar Milli Eğitim Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim ve öğretim servisinde görevli personel arasında aşağıdakilerden hangisi bulunmaz?A) ÖğretmenB) Eğitim uzmanıC) HemşireD) Kütüphaneci",
+    "A": "Sağlık kontrollerinin yapılması",
+    "B": "Kültürel etkinliklerin yürütülmesi",
+    "C": "Kütüphane çalışmaları",
+    "D": "Manevi rehberlik hizmetleri",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin okul kayıtlarının nakledilmesi işlemleri kim tarafından yürütülür?A) Cezaevi tabibiB) Öğretmen ve eğitim uzmanıC) KütüphaneciD) İnfaz ve koruma memuru",
+    "A": "Sağlık raporu",
+    "B": "Mali bütçe",
+    "C": "Güvenlik raporu",
+    "D": "Yıllık eğitim ve öğretim planı",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, yıllık eğitim planında değişiklik yapılması durumunda bu değişiklikleri kim yapar?A) İnfaz ve koruma memurlarıB) KütüphaneciC) Öğretmen ve eğitim uzmanıD) Cumhuriyet başsavcısı",
+    "A": "Cezaevi tabibi",
+    "B": "Eğitim uzmanı veya öğretmen",
+    "C": "Diyetisyen",
+    "D": "Veteriner",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, okuma yazma bilmeyen hükümlülerin okuma yazma öğrenmelerini sağlamakla kimler sorumludur?A) Sağlık personeliB) Öğretmen ve kurum en üst amiriC) Güvenlik personeliD) İdari memurlar",
+    "A": "Güvenlik görevlileri",
+    "B": "Öğretmen ve eğitim uzmanı",
+    "C": "Kütüphaneci",
+    "D": "Cezaevi tabibi",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kütüphaneci hangi görevi yürütmekle sorumludur?A) Sağlık kontrolleriC) Yemek planlamasıD) Güvenlik takibi",
+    "A": "Cezaevi tabibi",
+    "B": "Eğitim uzmanı ve öğretmen",
+    "C": "Güvenlik görevlisi",
+    "D": "Diyetisyen",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin eğitim ve öğretime dair bilgilerini gözlem değerlendirme raporuna kim kaydeder?A) KütüphaneciB) Eğitim uzmanı ve öğretmenC) HemşireD) Güvenlik amiri",
+    "A": "Tıbbi destek sağlamak",
+    "B": "Eğitim programlarını planlamak",
+    "C": "Kütüphane ve kitaplık ihtiyaçlarını belirlemek",
+    "D": "Güvenlik protokollerini düzenlemek",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim ve öğretim çalışmalarına ilişkin usul ve esaslar kim tarafından belirlenir?A) Sağlık BakanlığıB) Cumhuriyet BaşsavcılığıC) Milli Eğitim Bakanlığı",
+    "A": "Sağlık servisi",
+    "B": "Eğitim ve öğretim servisi",
+    "C": "Güvenlik servisi",
+    "D": "Psiko-sosyal yardım servisi",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kütüphanecinin kütüphanede iş birliği yaptığı diğer kurumlar arasında aşağıdakilerden hangisi olabilir?A) Yerel halk eğitim merkeziB) Maliye BakanlığıC) Cumhuriyet BaşsavcılığıD) Cezaevi tabibi",
+    "A": "Güvenlik görevlileri",
+    "B": "Eğitim uzmanı ve öğretmen",
+    "C": "Cezaevi tabibi",
+    "D": "Kütüphaneci",
+    "Answer": "",
+    "Image": "",
+    "Explaination": ""
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sınır dışı edilmesi gereken hükümlü, salıverilme tarihinde hangi birime teslim edilir?A) Göç İdaresi MüdürlüğüneB) Denetimli Serbestlik MüdürlüğüneC) Emniyet makamınaD) İçişleri Bakanlığına",
+    "A": "Cumhuriyet başsavcılığı",
+    "B": "İçişleri Bakanlığı",
+    "C": "Cezaevi müdürü",
+    "D": "Mahkeme",
+    "Answer": "Mahkeme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, mahkûmiyetin kesinleşme şerhinde yer alması zorunlu olan bilgilerden biri değildir:A) Hükümlünün suç türüB) Kararın kesinleşme tarihiC) Mahkeme hâkiminin adı",
+    "A": "Koşullu salıverilme süresi",
+    "B": "Kararın kesinleşme tarihi",
+    "C": "Hükümlünün gözaltında geçirdiği süre",
+    "D": "Cezanın toplam süresi",
+    "Answer": "Cezanın toplam süresi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sınır dışı edilme işlemi sırasında hükümlünün hangi durumu dikkate alınır?A) Göç İdaresi’ne bağlı olmasıB) Denetimli serbestlik yükümlülüğünün bulunmasıC) Eş ve çocuklarıyla birlikte kalma hakkıD) Ülkesine geri dönme isteği",
+    "A": "Ceza süresi",
+    "B": "Hükümlünün ekonomik durumu",
+    "C": "Kuruma alındığı tarih",
+    "D": "Hükümlünün koşullu salıverilme tarihi",
+    "Answer": "Hükümlünün koşullu salıverilme tarihi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir mahkûmiyet kararı kesinleştikten sonra Cumhuriyet başsavcılığı hükümlüye çağrı kâğıdı göndermiştir. Hükümlü bu çağrıya rağmen gelmediğinde ne yapılır?A) Karar ertelenirB) Ceza artırılırC) Doğrudan yakalama emri çıkarılırD) Hükümlüye ceza indirim talebi sunulur",
+    "A": "Yakalama emri çıkarılır",
+    "B": "İnfazın ertelenmesi talep edilir",
+    "C": "Cezaevi müdürlüğüne bildirilir",
+    "D": "Çağrı kâğıdı gönderilir",
+    "Answer": "Çağrı kâğıdı gönderilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sınır dışı edilmesi kararlaştırılan bir hükümlü için gerekli değerlendirme hangi bakanlık tarafından yapılır?A) Adalet BakanlığıB) İçişleri BakanlığıC) Dışişleri BakanlığıD) Çalışma ve Sosyal Güvenlik Bakanlığı",
+    "A": "İçişleri Bakanlığı",
+    "B": "Adalet Bakanlığı",
+    "C": "Mahalli belediye",
+    "D": "Emniyet Genel Müdürlüğü",
+    "Answer": "İçişleri Bakanlığı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tüzel kişilere uygulanacak güvenlik tedbiri, hangi usule göre infaz edilir?A) Mahkemeden doğrudan kurumlara bildirilirB) Cumhuriyet savcılığı tarafından ilgili makamlara iletilirC) Göç İdaresi tarafından yürütülürD) Denetimli Serbestlik Müdürlüğü tarafından yerine getirilir",
+    "A": "Göç İdaresi",
+    "B": "Dışişleri Bakanlığı",
+    "C": "Güvenlik Tedbir Komisyonu",
+    "D": "Yetkili izin makamına",
+    "Answer": "Yetkili izin makamına",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, infaz defterine kaydedilmesi zorunlu olan bir mahkûmiyet kararında hangi bilgi bulunmaz?A) Ceza süresiB) Ceza türüC) Hükümlünün ekonomik durumuD) İnfazın başlangıç tarihi",
+    "A": "Yükümlülük listesi",
+    "B": "Uyarı kâğıdı",
+    "C": "Süre belgesi",
+    "D": "Davetiye",
+    "Answer": "Davetiye",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çağrı kâğıdı gönderilen hükümlü on gün içinde teslim olmazsa hangi işlem uygulanır?A) Hükümlünün süresi uzatılırB) Yakalama emri çıkarılırC) Ceza iptal edilirD) Hükümlünün savunması alınır",
+    "A": "Hapis cezasına başlama tarihi",
+    "B": "Koşullu salıverme tarihi",
+    "C": "Ceza süresi",
+    "D": "Disiplin işlemi tarihi",
+    "Answer": "Disiplin işlemi tarihi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüye verilen çağrı kâğıdı ve süre belgesinde bulunması zorunlu olan bilgilerden biri değildir:A) Hükümlünün kimlik bilgileriB) Hükümlünün iş geçmişiC) İnfaz defteri numarasıD) Kuruma alınış tarihi",
+    "A": "Üç yıl ve daha az süreli taksirle işlenen suçlar",
+    "B": "Haksız yere verilmiş kısa süreli cezalar",
+    "C": "Kasten işlenmiş üç yıl ve üzeri cezalar",
+    "D": "Suç faillerine özgü kısa süreli cezalar",
+    "Answer": "Suç faillerine özgü kısa süreli cezalar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ceza türüne göre tüzel kişilere uygulanacak güvenlik tedbirleri nasıl başlatılır?A) Tüzel kişi yöneticileri tarafından başlatılırB) Cumhuriyet savcılığı tarafından karar ile uygulanırC) Göç İdaresi kararı ile başlatılırD) İçişleri Bakanlığı talimatıyla başlar",
+    "A": "Kasten işlenmiş bir suç sonucunda",
+    "B": "Göç İdaresi tarafından yönlendirildiğinde",
+    "C": "Taksirle işlenmiş küçük çaplı suçlar",
+    "D": "Özel şirketler tarafından mahkemeye başvurulduğunda",
+    "Answer": "Özel şirketler tarafından mahkemeye başvurulduğunda",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ceza türüne bağlı olarak uygulanan tüzel kişi güvenlik tedbirlerinin sorumluluğu kimdedir?A) İlgili kurum yöneticisiB) İçişleri BakanlığıC) Cumhuriyet başsavcılığıD) Mahkeme Başkanı",
+    "A": "Haklarında kesinleşmiş hapis cezasını içeren mahkûmiyet ve ödenmeyen adlî para cezalarının hapse çevrilmesine ilişkin karar bulunanlar, Cumhuriyet başsavcılığının yazılı emriyle kuruma gönderilir.",
+    "B": "Hükümlüler kuruma kabul edilirken kurum hekimi veya aile hekiminden; bunların bulunmaması durumunda hastaneden alınacak sağlık durumunu belirleyen mahsus rapor ile birlikte kuruma kabul edilir.",
+    "C": "Kuruma alınan hükümlülerin adı ve soyadı, işledikleri suç, cezalarının türü ve süresi, mahkûmiyet ilâmının tarih ve numarası ve infaza başlandığı gün hükümlü kayıt defterine kayıt olunur. Bu defterdeki sıra numarası, hükümlünün numarasını oluşturur.",
+    "D": "Tanıya yönelik olarak hükümlülerin parmak ve avuç içi izleri alınır, fotoğrafları çekilir, kan grupları, vücutlarının dış özellikleri ve ölçüleri belirlenir. Bu amaçla, gerektiğinde teknik ve tıbbi konularda, Cumhuriyet başsavcılığının talebi ile dış güvenlik görevlileri ve diğer kamu kurum ve kuruluşlarından yardım alınabilir. Hükümlünün durumuna ilişkin acil ihtiyaç ve olası risklere yönelik ilk bilgiler, kuruma kabulünde görevli infaz ve koruma memuru tarafından alınır ve en kısa zamanda ilgili birimlere iletilir.",
+    "Answer": "Tanıya yönelik olarak hükümlülerin parmak ve avuç içi izleri alınır, fotoğrafları çekilir, kan grupları, vücutlarının dış özellikleri ve ölçüleri belirlenir. Bu amaçla, gerektiğinde teknik ve tıbbi konularda, Cumhuriyet başsavcılığının talebi ile dış güvenlik görevlileri ve diğer kamu kurum ve kuruluşlarından yardım alınabilir. Hükümlünün durumuna ilişkin acil ihtiyaç ve olası risklere yönelik ilk bilgiler, kuruma kabulünde görevli infaz ve koruma memuru tarafından alınır ve en kısa zamanda ilgili birimlere iletilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kuruma alınma ve kayıt işlemlerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kayıt altına alınan bilgiler, yalnızca kuruma kabul sırasında saklanır ve daha sonra silinir.",
+    "B": "Hükümlüye ait kayıtlar, talep eden her kurum ve kişiye verilmek zorundadır.",
+    "C": "Hükümlüye ilişkin kayıtların verilmesi, talep hâlinde Cumhuriyet başsavcılığınca değerlendirilir ve yerine getirilir.",
+    "D": "Kanunların zorunlu kıldığı durumlarda dahi kayıtlar hiçbir şekilde paylaşılmaz.",
+    "Answer": "Kanunların zorunlu kıldığı durumlarda dahi kayıtlar hiçbir şekilde paylaşılmaz.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kuruma alınma ve kayıt işlemlerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin kimlik bilgileri ve fiziksel özelliklerine ait bilgiler, hiçbir durumda dış güvenlik görevlilerine verilemez.",
+    "B": "Firar veya asayiş olaylarının önlenmesi amacıyla, hükümlülerin kimlik bilgileri, fotoğrafı ve fiziksel özelliklerine ait bilgiler, aynı kurumda görevli dış güvenlik görevlileri ve bu görevlilerin bağlı bulunduğu kuruma verilebilir.",
+    "C": "Verilen bilgilerin asayiş olaylarının dışında başka amaçlarla kullanılmasına izin verilir.",
+    "D": "Hükümlülerin kişisel bilgileri, firar olayları dışında başka hiçbir nedenle paylaşılmaz.",
+    "Answer": "Hükümlülerin kişisel bilgileri, firar olayları dışında başka hiçbir nedenle paylaşılmaz.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kuruma kabulü sırasında yapılan işlemlere ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Kuruma gelen her hükümlü kabul odasına alınır. Bu süre içerisinde hükümlünün kuruma uyumuna yönelik yardım yapılarak, gerekli olan bilgiler sözlü ve yazılı olarak kendisine bildirilir. Kabul odasına alınan hükümlü burada en çok üç gün kalır",
+    "B": "Kabul odasında geçen süre içerisinde cezaevi tabibi tarafından muayeneleri yapılır ve muayene sonucu sağlık fişine kaydolunur.",
+    "C": "Muayene sonucunda, kurumda tedavisi mümkün olmayan veya bulaşıcı bir hastalığı veya cezasının infazına engel herhangi bir maluliyeti olduğu tespit edilenler, kurum doktoru tarafından derhal Cumhuriyet başsavcılığına bildirilir.",
+    "D": "Kabul odasında bulunan hükümlülerin okuma, yazma ve öğrenim durumları öğretmen tarafından belirlenir.",
+    "Answer": "Muayene sonucunda, kurumda tedavisi mümkün olmayan veya bulaşıcı bir hastalığı veya cezasının infazına engel herhangi bir maluliyeti olduğu tespit edilenler, kurum doktoru tarafından derhal Cumhuriyet başsavcılığına bildirilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kuruma kabulü sırasında yapılan işlemlere ilişkin aşağıdaki ifadelerden hangisi doğrudur?A) Hükümlülerin bir meslek ve sanatı olup olmadığı, varsa seviyesi psiko-sosyal yardım servisi görevlileri tarafından belirlenir.B) Psiko-sosyal yardım servisi görevlileri, hükümlüye ilişkin ilk bilgileri alır.C) Her hükümlünün yıkanması isteğe bağlıdır ve zorunlu tutulmaz.D) Hükümlüye kimlik belgesi olarak dışarıdan getirilmiş herhangi bir fotoğraf kullanılabilir.",
+    "A": "Hükümlülere, kuruma alındıklarında uygulanacak iyileştirme çalışmaları, disiplin suçları ve cezaları, bilgi edinme ve şikâyet yolları, hak ve sorumlulukları gibi konular ile kurumdaki yaşam biçimine uyum sağlamaları için gereken bilgiler, kurum yöneticileri tarafından sözlü olarak anlatılır ve yazılı olarak tebliğ olunur. İnfaz sonrası koruma ve yardım konusunda ayrıca bilgi verilir. Türkçe bilmeyen yabancı uyruklu hükümlülere kendi dilinde, mümkün olmadığında İngilizce, Fransızca veya Almanca olarak bildirilir. Duyma ve konuşma engellilere işaret diliyle anlatılır. Görme engellilere ise kendi alfabeleri ile yazılmış kitapçık verilir",
+    "B": "Hükümlüye, kurum en üst amirine veya görevlendirdiği bir personele, talep veya şikâyetlerini mesai günlerinde bildirme olanağı tanınır. Talep veya şikâyetler, ilgisine veya konusuna göre yargı mercilerine veya diğer yetkili makamlara iletilir. Talep veya şikâyet konusu başvurunun sonucu hakkında hükümlü, geciktirilmeden bilgilendirilir.",
+    "C": "Hükümlünün kuruma alınmasında, başka kuruma naklinde ve hastaneye yatırılmasında, isteği üzerine ailesine veya gösterdiği kişilere durum bildirilir.",
+    "D": "Hükümlü yabancı uyruklu ise kendisine uyruğu olduğu devletin diplomatik temsilcilik veya konsolosluğuna durumun bildirilmesini isteyip istemediği sorulur. Bildirimi yazılı olarak istememesi hâlinde, bu isteği bir tutanağa bağlanır ve kendisine imzalatılır. Aksi hâlde durum, uyruğu olduğu devletin diplomatik temsilcilik veya konsolosluğuna bildirilir,",
+    "Answer": "Hükümlüye, kurum en üst amirine veya görevlendirdiği bir personele, talep veya şikâyetlerini mesai günlerinde bildirme olanağı tanınır. Talep veya şikâyetler, ilgisine veya konusuna göre yargı mercilerine veya diğer yetkili makamlara iletilir. Talep veya şikâyet konusu başvurunun sonucu hakkında hükümlü, geciktirilmeden bilgilendirilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler ile yakınları ve ilgililerin bilgilendirilmesine ilişkin aşağıdaki ifadelerden hangisi doğru değildir?A) Yabancı uyruklu hükümlünün uyruğu olduğu devletin Türkiye’de yerleşik diplomatik temsilcilik veya konsolosluğu bulunmuyorsa, hükümlünün yazılı olarak karşı çıkmaması koşuluyla durum, Cumhuriyet başsavcılığı aracılığıyla Dışişleri Bakanlığına bildirilir.B) Askerlik çağına giren veya silah altında bulunan kişilerin kuruma alınmalarında, başka kuruma nakillerinde veya salıverilmeleri hâlinde durum, kayıtlı bulundukları askerlik şubesine bildirilir.",
+    "A": "Mahkeme kararıyla",
+    "B": "Cumhuriyet başsavcılığının yazılı emriyle",
+    "C": "Emniyet müdürlüğü onayıyla",
+    "D": "Adalet Bakanlığı’nın talimatıyla",
+    "Answer": "Adalet Bakanlığı’nın talimatıyla",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kuruma kabulünde hangi belge zorunludur?A) Nüfus cüzdanıB) İkametgah belgesi",
+    "A": "Suç türü, cezalarının süresi, mahkûmiyet ilâmı",
+    "B": "Ekonomik durumları",
+    "C": "Aile bilgileri",
+    "D": "Yargılama süreci",
+    "Answer": "Yargılama süreci",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin ilk ihtiyaç ve risk değerlendirmesini kim yapar?A) Cezaevi doktoruB) PsikologC) İnfaz ve koruma memuruD) Öğretmen",
+    "A": "Yalnızca kâğıt üzerinde",
+    "B": "Kişisel dosyada veya elektronik ortamda",
+    "C": "Yargı sistemine kaydedilerek",
+    "D": "Dış güvenlik birimlerine teslim edilerek",
+    "Answer": "Dış güvenlik birimlerine teslim edilerek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hükümlü kurumda kaç gün kabul odasında kalabilir?A) 2 günB) 3 günC) 4 günD) 1 hafta",
+    "A": "Kabul odasında",
+    "B": "Cezaevi revirinde",
+    "C": "Psiko-sosyal yardım servisinde",
+    "D": "Kurum dışında",
+    "Answer": "Kurum dışında",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bulaşıcı hastalığı olan hükümlüler nasıl bir işlemden geçer?A) Hastaneye gönderilirB) Cezaevinde tutulurC) Savcılığa bildirilirD) Yalnızca muayene edilir",
+    "A": "Psikolog",
+    "B": "Öğretmen",
+    "C": "İnfaz memuru",
+    "D": "Atölye şefi",
+    "Answer": "Atölye şefi",
+    "Image": "",
+    "Explaination": ""
+  }
+]
