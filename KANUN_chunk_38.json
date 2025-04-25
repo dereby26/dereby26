@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutukluların aşağıdakilerden hangisi, hapis cezası çeken hükümlüler ile aynı esaslara dayanılarak uygulanabilir?A) Özel mülk edinme hakkıB) Serbest dolaşım hakkıC) Yurt dışına çıkma izni",
+    "A": "Herhangi bir aile üyesinin hastalanması",
+    "B": "İkinci derece kan veya kayın hısımlarından birinin ölümü",
+    "C": "Arkadaşlarının düğününe katılmak istemesi",
+    "D": "Eğitim sebebiyle yurt dışına çıkmak istemesi",
+    "Answer": "Arkadaşlarının düğününe katılmak istemesi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, cenazeye katılması için izin verilen tutuklu, etkinliğe aşağıdakilerden hangisi güvenlik tedbiri altında katılır?A) Dış güvenlik görevlisi refakatindeB) Güvenlik görevlisi olmaksızın yalnız olarakC) Eğitim personeli refakatindeD) Kurum müdürünün eşliğinde",
+    "A": "Tüm birinci ve ikinci derece yakınlar",
+    "B": "Yalnızca ebeveyn ve kardeşler",
+    "C": "Sadece birinci derece akrabalar",
+    "D": "Yalnızca eşin yakınları",
+    "Answer": "Yalnızca eşin yakınları",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklunun izin süresi içinde gece konaklaması gerektiği takdirde konaklama yeri için aşağıdakilerden hangisi yetkilidir?A) Ceza infaz kurumu müdürüB) Cumhuriyet başsavcısıC) Dış güvenlik görevlisi",
+    "A": "Cumhuriyet başsavcısının izni",
+    "B": "Ceza infaz kurumu amirinin izni",
+    "C": "Kanun yurt dışına çıkış izni vermez",
+    "D": "Sağlık kurulu raporu ile onay",
+    "Answer": "Ceza infaz kurumu amirinin izni",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bir tutuklunun ana, baba, eş, kardeş veya çocuklarından birinin yaşamsal tehlike taşıyan ağır hastalık durumunda izni aşağıdakilerden hangisinden alır?B) Ceza infaz kurumu en üst amiriA) Dış güvenlik görevlisiC) İlgili ilin valisiD) Sağlık Bakanlığı",
+    "A": "Kendi evi",
+    "B": "Birinci derece akraba evi",
+    "C": "Güvenli görülen başka bir yer",
+    "D": "Yurt dışındaki bir otel",
+    "Answer": "Güvenli görülen başka bir yer",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklu toplamda aşağıdakilerden hangisi kadar hasta ziyareti izni alabilir?B) İki kezA) Üç kezC) Sınırsız izinD) Bir kez",
+    "A": "Ceza infaz kurumu yönetimi",
+    "B": "Cumhuriyet savcılığı",
+    "C": "İlgili ilin valisi",
+    "D": "Adalet Bakanlığı",
+    "Answer": "Adalet Bakanlığı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hapis cezalarının infazında dikkate alınacak diğer kanunlar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "\"Cezanın kesinleşmesinden sonra askere alınan kişiler hakkındaki hapis cezasının infazı ve geri bırakılması hususunda 21.6.1927 tarihli ve 1111 sayılı Askerlik Kanununun 39 uncu maddesi göz önünde bulundurulur ve uygulanır.\"",
+    "B": "\"Cezanın kesinleşmesinden sonra askere alınan kişilere dair işlemler yalnızca ceza infaz kurumlarının inisiyatifine bırakılmıştır.\"",
+    "C": "\"Askerlik Kanunu'nun ilgili maddeleri cezanın infazı sürecinde dikkate alınmaz.\"",
+    "D": "\"1111 sayılı Askerlik Kanununun hapis cezalarına ilişkin hükümleri, yalnızca barış zamanında uygulanır.\"",
+    "Answer": "\"Cezanın kesinleşmesinden sonra askere alınan kişiler hakkındaki hapis cezasının infazı ve geri bırakılması hususunda 21.6.1927 tarihli ve 1111 sayılı Askerlik Kanununun 39 uncu maddesi göz önünde bulundurulur ve uygulanır.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, asker edilen kişilerin cezalarının infazı ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "\"Sırf askerî suçlar ile askerî disiplin suçları ayrık olmak üzere, askere alınmadan önce ve askerlikleri sırasında işledikleri suçlardan dolayı er ve erbaşlar ile yedek subaylar hakkında kısa süreli hapis cezaları yerine hükmedilen Türk Ceza Kanununun 50’nci maddesinin birinci fıkrasının (",
+    "B": "\"Askerlik hizmetleri sırasında işlenen sırf askerî suçlar için kısa süreli hapis cezaları uygulanır.\"",
+    "C": "\"Askerlik hizmeti sırasında işlenen askerî disiplin suçları dışındaki suçlar için cezaların infazı askerlik sonrasına bırakılabilir.\"",
+    "D": "\"Bu süreler içinde zaman aşımı işlemez.\"",
+    "Answer": "\"Askerlik hizmetleri sırasında işlenen sırf askerî suçlar için kısa süreli hapis cezaları uygulanır.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yönetmeliklerin çıkarılması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "\"Bu Kanun gereğince çıkarılması gereken yönetmelikler, Cumhurbaşkanı veya ilgili bakanlıklar tarafından çıkarılır.\"",
+    "B": "\"Yönetmeliklerin çıkarılması yalnızca Adalet Bakanlığı'nın yetkisindedir.\"",
+    "C": "\"Cumhurbaşkanı, yönetmeliklerin çıkarılmasına herhangi bir şekilde müdahil olamaz.\"",
+    "D": "\"Bu Kanun kapsamında herhangi bir yönetmelik çıkarılması öngörülmemektedir.\"",
+    "Answer": "\"Bu Kanun gereğince çıkarılması gereken yönetmelikler, Cumhurbaşkanı veya ilgili bakanlıklar tarafından çıkarılır.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, cezaları kesinleşen ve asker edilen kişiler hakkındaki hapis cezasının infazında aşağıdaki kanunlardan hangisinin ilgili maddesi dikkate alınır?B) 1927 tarihli ve 1111 sayılı Askerlik Kanunu’nun 39. maddesiA) 211 sayılı Türk Silahlı Kuvvetleri KanunuC) 657 sayılı Devlet Memurları KanunuD) 2802 sayılı Hakimler ve Savcılar Kanunu",
+    "A": "Kınama cezası",
+    "B": "Adli para cezası ve rehabilitasyon",
+    "C": ", (e) ve (f) bentlerinde belirtilen tedbirler",
+    "D": "Görevden uzaklaştırma",
+    "Answer": "Görevden uzaklaştırma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, askere alınan er ve erbaşlar ile yedek subayların kısa süreli hapis cezasının infazı aşağıdakilerden hangisine bırakılır?A) Askerlik hizmetlerinin sonunaB) Ceza verildikten hemen sonrayaC) Disiplin kurulunun onayınaD) Mahkemenin belirlediği bir tarihe",
+    "A": "Geçersiz sayılır",
+    "B": "Bu Kanunda düzenlenen ilgili hükümlere yapılmış sayılır",
+    "C": "Cumhurbaşkanının onayına sunulur",
+    "D": "İlgili Bakanlık tarafından değerlendirilir",
+    "Answer": "İlgili Bakanlık tarafından değerlendirilir",
+    "Image": "",
+    "Explaination": ""
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin ceza infaz kurumunda internetten yararlanabileceği bir durumdur?A) Tüm hükümlülerB) Sadece eğitim ve iyileştirme programları kapsamında olanlarC) Ceza infaz süresi bitmek üzere olanlarD) İyi hal gösterenler",
+    "A": "Evet, belirli koşullarla",
+    "B": "Sadece belirli günlerde",
+    "C": "Yalnızca aileleriyle görüşme sırasında",
+    "D": "Hayır, hiçbir şekilde izin verilmez",
+    "Answer": "Hayır, hiçbir şekilde izin verilmez",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin aileleriyle iletişim kurabilmeleri için kullanılan bir cihazdır?A) Hükümlülerin kendi telefonlarıB) Kurumun kontrolündeki ücretli telefonlarC) Cep telefonlarıD) Kişisel telsizler",
+    "A": "Kişisel ihtiyaçlarında",
+    "B": "Bayram günlerinde",
+    "C": "Hafta sonları",
+    "D": "Salgın hastalık veya doğal afet gibi özel durumlarda",
+    "Answer": "Salgın hastalık veya doğal afet gibi özel durumlarda",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin telefonla görüşme kayıtlarının tutulduğu bir durumu ifade eder?A) Yalnızca izin verilen hallerdeB) Belirli sürelerle denetlenir",
+    "A": "Hükümlülerin aileleri tarafından sağlanır",
+    "B": "Bedeli hükümlü tarafından ödenerek kurum tarafından satın alınır",
+    "C": "Kurum tarafından ücretsiz sağlanır",
+    "D": "Bağış yoluyla temin edilir",
+    "Answer": "Bedeli hükümlü tarafından ödenerek kurum tarafından satın alınır",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi eğitim programları çerçevesinde ceza infaz kurumunda internet kullanımına izin veren yetkilidir?A) Kurum yönetimiB) Hükümlülerin kişisel talebiC) Ailelerin isteğiD) Ziyaretçilerin izni",
+    "A": "Ceza infaz kurumlarında merkezî yayın sistemi bulunduğu takdirde bu sisteme bağlı olarak radyo ve televizyon yayınlarını izleme hakkına sahiptir.",
+    "B": "Merkezî yayın sistemi bulunmayan kurumlarda, yararlı olmayan yayınların izlenmesini ve dinlenmesini engelleyecek önlemler alınmak suretiyle bağımsız anten kullanılarak televizyon ve radyo izlenmesine ve dinlenmesine izin verilir. Bu cihazlar, bedeli kendisi tarafından ödenmek koşuluyla hükümlü adına kurumca satın alınır. Her ne biçimde olursa olsun dışarıdan gelenler tarafından getirilen radyo, televizyon ve bilgisayarlar kuruma alınmaz.",
+    "C": "Kapalı ve açık ceza infaz kurumları ile çocuk eğitim evlerinde ancak, eğitim ve iyileştirme programları çerçevesinde kurum yönetimince belirlenen yerlerde görsel ve işitsel eğitim araç ve gereçlerinin kullanımına izin verilebilir. Eğitim ve iyileştirme programları gerekli kıldığı takdirde denetim altında internetten yararlanılabilir. Hükümlü, odasında bilgisayar bulunduramaz. Ancak, Adalet Bakanlığının uygun görmesi hâlinde eğitim ve kültürel amaçlı olarak bilgisayarın ceza infaz kurumuna alınmasına izin verilebilir.",
+    "D": "Tehlikeli hâlde bulunan veya örgüt mensubu hükümlüler bakımından kısıtlanmaz.",
+    "Answer": "Tehlikeli hâlde bulunan veya örgüt mensubu hükümlüler bakımından kısıtlanmaz.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün mektup, faks ve telgrafları alma ve gönderme hakkı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlü, Adalet Bakanlığı tarafından belirlenen usul ve esaslar çerçevesinde, teknik altyapının bulunduğu kurumlarda elektronik yöntemlerle de mektup alıp gönderebilir.",
+    "B": "Hükümlüye gönderilen mektup, faks ve telgraflar; kurumun asayiş ve güvenliğini tehlikeye düşüren, görevlileri hedef gösteren, terör ve çıkar amaçlı suç örgütü mensuplarının haberleşmelerine neden olan, kişi veya kuruluşları paniğe yöneltecek yalan ve yanlış bilgileri, tehdit ve hakareti içermesi durumunda hükümlüye verilmez.",
+    "C": "Hükümlü tarafından resmi makamlara veya savunması için avukatına gönderilen mektup, faks ve telgraflar denetime tabidir ve mektup okuma komisyonu tarafından incelenir.",
+    "D": "Hükümlü tarafından gönderilen ve kendisine gelen mektup, faks ve telgraflar; mektup okuma komisyonu bulunan kurumlarda bu komisyon, olmayanlarda ise kurumun en üst amirince denetlenir. Bu iletiler, alıcısı dışındaki kişilerin erişimini engelleyici tüm tedbirler alınarak hükümlünün talebine göre posta yoluyla veya elektronik ortamda alıcısına ulaştırılabilir.",
+    "Answer": "Hükümlü tarafından resmi makamlara veya savunması için avukatına gönderilen mektup, faks ve telgraflar denetime tabidir ve mektup okuma komisyonu tarafından incelenir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün mektup, faks ve telgrafları alma ve gönderme hakkı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Terör suçlarından mahkûm olan veya tehlikeli hâlde bulunan hükümlülerin gönderdiği ya da kendilerine gelen mektup, faks ve telgraflar dijital olarak kaydedilebilir veya fiziki olarak saklanabilir.",
+    "B": "Dijital olarak kaydedilen veya fiziki olarak saklanan mektup, faks ve telgraflar, kamu düzeninin korunması, toplum ve kurum güvenliği veya suç işlenmesinin önlenmesi amacıyla kanunda belirtilen haller dışında hiçbir kişi veya kurumla paylaşılamaz.",
+    "C": "Kaydedilen mektup, faks ve telgraflar, herhangi bir soruşturma veya kovuşturmaya konu edilmemişse en geç bir yıl sonunda imha edilir veya silinir. Bu işlemin denetimi Cumhuriyet savcısına aittir.",
+    "D": "Hükümlü tarafından resmi makamlara veya savunması için avukatına gönderilen mektup, faks ve telgraflar da dijital olarak kaydedilebilir ve imha sürecine tabidir.",
+    "Answer": "Hükümlü tarafından resmi makamlara veya savunması için avukatına gönderilen mektup, faks ve telgraflar da dijital olarak kaydedilebilir ve imha sürecine tabidir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kapalı ceza infaz kurumlarında bulunan hükümlülerin hediye kabul etme haklarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlüler her ay bir kez dışarıdan gönderilen hediyeyi kabul edebilirler.",
+    "B": "Çocuklar ve altmış beş yaşını tamamlamış hükümlüler ile beraberinde çocuğu bulunan kadın hükümlüler, yalnızca dinî bayramlarda hediye kabul edebilirler.",
+    "C": "Kapalı ceza infaz kurumlarındaki hükümlüler, iki ayda bir kez ve ayrıca dinî bayram, yılbaşı veya kendi doğum günlerinde dışarıdan gönderilen tehlikesiz hediyeleri kabul edebilirler.",
+    "D": "Hükümlülerin hediye kabul etme hakkı yalnızca yılbaşı ve doğum günleriyle sınırlıdır.",
+    "Answer": "Kapalı ceza infaz kurumlarındaki hükümlüler, iki ayda bir kez ve ayrıca dinî bayram, yılbaşı veya kendi doğum günlerinde dışarıdan gönderilen tehlikesiz hediyeleri kabul edebilirler.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün mektup, faks ve telgrafları alma ve gönderme hakkı hangi koşulda geçerlidir?A) Ücretsiz olarak gönderilmesi koşuluylaB) Kendisine gönderilenlerin denetlenmesi kaydıylaC) Sadece resmi makamlara gönderilenlerde geçerlidirD) Hükümlü tarafından yazılmışsa gönderilmez",
+    "A": "Telefon görüşmesi",
+    "B": "Resmi ziyaretler",
+    "C": "Hediyelerin kabulü",
+    "D": "Mektup alma ve gönderme",
+    "Answer": "Mektup alma ve gönderme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi tür mektuplar denetime tabi tutulmaz?A) Resmi makamlara veya avukata gönderilen mektuplarB) Diğer hükümlülere gönderilen mektuplarC) Cezaevi personeline yönelik mektuplarD) Ailesine gönderilen mektuplar",
+    "A": "Resmi makamlardan gelen",
+    "B": "Ailesinden gelen",
+    "C": "Kurumun güvenliğini tehdit eden içerikte olan",
+    "D": "Hükümlünün doğum günü mesajları",
+    "Answer": "Hükümlünün doğum günü mesajları",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, dış güvenlik açısından tehlike arz eden hükümlülere gönderilen veya onlar tarafından gönderilen mektuplar nasıl saklanabilir?A) Dijital olarak kaydedilir veya fiziksel olarak saklanabilirB) Anında yok edilirC) Kamuya açık bir dosyada saklanırD) Denetimsiz olarak gönderilir",
+    "A": "Bir hafta",
+    "B": "Bir ay",
+    "C": "En geç bir yıl sonunda",
+    "D": "Süresiz olarak saklanır",
+    "Answer": "Süresiz olarak saklanır",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin hediyeleri kabul etme hakkı hangi aralıklarla tanınmıştır?A) Haftada bir kezB) İki ayda bir kezC) Ayda bir kezD) Yılda bir kez",
+    "A": "Hediyenin dini bayramlarda gönderilmiş olması durumunda",
+    "B": "Hediyenin cezaevi yönetimi tarafından seçilmesi durumunda",
+    "C": "Hediye ceza infaz kurumunun güvenliği için tehlikeli değilse",
+    "D": "Hediye aile tarafından gönderilmişse",
+    "Answer": "Hediye aile tarafından gönderilmişse",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iletişim hakları hangi durumlarda sınırlandırılabilir?A) Resmi tatillerdeB) Doğal afet durumundaC) Hafta sonlarıD) Mektup komisyonu kararı olmadan",
+    "A": "65 yaş üstü hükümlüler ve çocuk hükümlüler",
+    "B": "Sadece kadın hükümlüler",
+    "C": "Çalışan hükümlüler",
+    "D": "Yalnızca ağırlaştırılmış müebbet hapis cezasına mahkûm olanlar",
+    "Answer": "Yalnızca ağırlaştırılmış müebbet hapis cezasına mahkûm olanlar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlü tarafından resmi makamlara gönderilen mektuplar için ne tür güvenlik önlemleri alınır?A) Elektronik ortamda gönderim sağlanmazB) Diğer hükümlülerle birlikte gönderilirC) Alıcısı dışındaki kişilerin erişimini engelleyici tüm tedbirler alınırD) Yönetim izni olmadan gönderilmez",
+    "A": "Kamuya açık hale getirilir",
+    "B": "Mahkemeye iletilir",
+    "C": "Diğer hükümlülere teslim edilir",
+    "D": "Savcı denetiminde imha edilir veya kaydedilir",
+    "Answer": "Savcı denetiminde imha edilir veya kaydedilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülere hediye gönderiminde usul ve esasları kim belirler?A) Hükümlü ailesiB) İdare ve gözlem kuruluC) SavcıD) Mahkeme",
+    "A": "Aile tarafından gönderilmişse",
+    "B": "Cezaevi yönetiminin onayladığı takdirde",
+    "C": "Hediyenin güvenlik açısından tehlikeli olmadığı durumlarda",
+    "D": "Hükümlü doğum günü ise",
+    "Answer": "Hükümlü doğum günü ise",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tehlikeli hükümlülere gelen iletişimlerin kaydedilmesi veya saklanması kim tarafından denetlenir?A) Cezaevi müdürüB) Cumhuriyet savcısıC) MahkemeD) İdare ve gözlem kurulu",
+    "A": "Haftalık görüş günlerinde",
+    "B": "Hükümlünün ziyaretçi kabul günlerinde",
+    "C": "Resmi tatil günlerinde",
+    "D": "Ramazan Bayramı ve Kurban Bayramı’nda",
+    "Answer": "Ramazan Bayramı ve Kurban Bayramı’nda",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, terör suçlarından mahkum olan hükümlülerin mektupları hangi durumda kaydedilebilir?A) Yalnızca avukata gönderildiğindeB) Kamu düzeni ve güvenliği açısından tehlikeli iseC) Yalnızca izin verilmişseD) Aile bireyleriyle iletişim kurduklarında",
+    "A": "Bir yıl dolmadan önce",
+    "B": "Kamu güvenliğini sağlamak amacıyla",
+    "C": "Herhangi bir soruşturma veya kovuşturmaya konu olmamışsa",
+    "D": "Ailesinin talebi varsa",
+    "Answer": "Ailesinin talebi varsa",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kapalı ceza infaz kurumlarındaki hükümlülerin hangi durumlarda hediye kabul etmelerine izin verilir?A) Cezaevine giriş yaparkenB) Belirlenen zaman dilimi dışında, çocuk ve yaşlılar için özel durumlardaC) Haftalık ziyaret günlerindeD) Her ay sonunda",
+    "A": "Mektup yasal mercilere gönderilir",
+    "B": "Mektup imha edilir ve hükümlüye bilgi verilir",
+    "C": "Mektup kaydedilerek daha sonra gönderilir",
+    "D": "Hükümlüye ceza verilir",
+    "Answer": "Hükümlüye ceza verilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün kendi isteğiyle seçtiği iletişim araçlarının denetlenmesi kim tarafından yapılır?A) İdari ve gözlem kuruluB) Kurumun en üst amiriC) İlgili avukatD) Dış güvenlik birimleri",
+    "A": "Kapalı ceza infaz kurumlarındaki hükümlü, iki ayda bir kez, ayrıca dinî bayram, yılbaşı veya kendi doğum günlerinde dışarıdan gönderilen ve kurum güvenliği için tehlikeli olmayan bir hediyeyi kabul etme hakkına sahiptir.",
+    "B": "Çocuk ve altmış beş yaşını tamamlamış hükümlüler ile beraberinde çocuğu bulunan kadın hükümlüler, idare ve gözlem kurulu tarafından alınacak karar doğrultusunda belirtilen zaman dilimi dışında da hediye kabul edebilir.",
+    "C": "Bunun esas ve usulleri yönetmelikle belirlenir.",
+    "D": "Kapalı ceza infaz kurumlarındaki hükümlü her zaman hediye alma ve gönderme hakkına sahiptir.",
+    "Answer": "Kapalı ceza infaz kurumlarındaki hükümlü her zaman hediye alma ve gönderme hakkına sahiptir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün ceza infaz kurumunda din ve ibadet özgürlüğü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlü, yalnızca ceza infaz kurumu tarafından sağlanan dinî kitap ve eserleri kullanabilir.",
+    "B": "Hükümlünün mensup olduğu dinin görevlileriyle iletişim kurması tamamen yasaktır.",
+    "C": "Hükümlü, ceza infaz kurumunda mensup olduğu dinin ibadetlerini düzeni bozmayacak ve çalışmayı engellemeyecek şekilde serbestçe yerine getirebilir.",
+    "D": "Ceza infaz kurumlarında ibadet etmek, yalnızca belirli dinlerin mensuplarına tanınan bir haktır.",
+    "Answer": "Hükümlü, ceza infaz kurumunda mensup olduğu dinin ibadetlerini düzeni bozmayacak ve çalışmayı engellemeyecek şekilde serbestçe yerine getirebilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin din ve vicdan özgürlüğüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Ceza infaz kurumunda, mensup bulunduğu dinin ibadetlerini, düzeni bozmayacak ve çalışmayı engellemeyecek biçimde serbestçe yerine getirebilir.",
+    "B": "İbadette kullanılan eşyayı, dinî yaşamı bakımından zorunlu olan kitap ve eserleri temin edebilir ve bulunduğu yerlerde muhafaza edebilir.",
+    "C": "Mensup bulunduğu dinin görevlilerince ziyaret edilmesine ve onlarla iletişim kurmasına, kurum güvenliğini tehlikeye düşürmemek koşuluyla izin verilir.",
+    "D": "Hükümlü, ibadet amacı dışında herhangi bir özel alan veya oda talep edebilir.",
+    "Answer": "Hükümlü, ibadet amacı dışında herhangi bir özel alan veya oda talep edebilir.",
+    "Image": "",
+    "Explaination": ""
+  }
+]

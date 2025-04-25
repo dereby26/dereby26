@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, uyuşturucu ticareti suçundan mahkûm olan hükümlülerin koşullu salıverilme oranı aşağıdakilerden hangisidir?A) Üçte ikisiB) YarısıC) Dörtte üçüD) Beşte dördü",
+    "A": "Evet, mahkemeye başvurarak",
+    "B": "Evet, denetimli serbestlik tedbiri uygulanarak",
+    "C": "Hayır, koşullu salıverilme süresi dolmadan önce serbest kalamaz",
+    "D": "Evet, infaz hâkiminin takdiriyle",
+    "Answer": "Evet, infaz hâkiminin takdiriyle",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, koşullu salıverilen hükümlünün denetim süresinde gözetim altında tutulma süresi maksimum aşağıdakilerden hangisidir?A) 2 yılB) 1 yılC) 5 yılD) 10 yıl",
+    "A": "Hayır, gönüllüdür",
+    "B": "Evet, zorunludur",
+    "C": "Hayır, denetimli serbestlik ofisi kararıyla",
+    "D": "Evet, sadece infaz hâkimi kararıyla",
+    "Answer": "Evet, sadece infaz hâkimi kararıyla",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, denetim süresinde yükümlülüklerini ihlal eden bir hükümlü için uygulanacak yaptırım aşağıdakilerden hangisidir?C) Koşullu salıverilme iptaliA) Para cezasıB) Disiplin hapsiD) İhtar",
+    "A": "Savcı",
+    "B": "Aile ve Sosyal Politikalar Bakanlığı",
+    "C": "Denetimli Serbestlik Müdürlüğü",
+    "D": "İnfaz hâkimi",
+    "Answer": "Denetimli Serbestlik Müdürlüğü",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, cinsel dokunulmazlığa karşı işlenen suçlardan hüküm giyenler koşullu salıverilme süresinde aşağıdakilerden hangisi tür ek yükümlülüklerle karşılaşabilir?D) Tüm yukarıdakilerA) İkamet yeri sınırlamalarıB) Tedaviye tabi tutulmaC) Çocuklarla bir arada çalışmama",
+    "A": "Yeni suç eklenir, önceki suç iptal olur",
+    "B": "Yeni suçun cezası koşullu salıverilme süresine eklenir",
+    "C": "Koşullu salıverilme geri alınır",
+    "D": "Yeni suçun cezası önceki ceza ile birleştirilir",
+    "Answer": "Yeni suçun cezası önceki ceza ile birleştirilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, denetim süresinde hükümlüye aşağıdakilerden hangisi denetimli serbestlik yükümlülükleri uygulanabilir?A) Tüm yukarıdakilerB) Psikolojik destek programlarına katılmaC) Belirli bir meslek eğitimi görmeD) Gözetim altında bulunma",
+    "A": "Disiplin cezası verilir",
+    "B": "Denetim süresi uzatılır",
+    "C": "İnfaz hâkimi tarafından uyarı yapılır",
+    "D": "Koşullu salıverilme geri alınır",
+    "Answer": "İnfaz hâkimi tarafından uyarı yapılır",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, koşullu salıverilme süresinde “iyi hâlli” olarak kabul edilme değerlendirmesi aşağıdakilerden hangisi merci tarafından yapılır?C) Ceza İnfaz Kurumu İdaresiA) Ceza MahkemesiB) İnfaz HâkimiD) Denetimli Serbestlik Müdürlüğü",
+    "A": "Düzenli rapor verme",
+    "B": "Gözetim altında çalışma",
+    "C": "Eğitim programlarına katılma",
+    "D": "Tüm yukarıdakiler",
+    "Answer": "Eğitim programlarına katılma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, denetim süresini başarıyla tamamlayan hükümlünün cezası için aşağıdakilerden hangisi olur?B) Ceza infaz edilmiş sayılırA) Süre uzatılırC) İade edilirD) Ceza iptal olur",
+    "A": "Yarısını",
+    "B": "Dörtte üçünü",
+    "C": "Üçte ikisini",
+    "D": "Üçte biri",
+    "Answer": "Üçte biri",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, mükerrirlere ve bazı suç faillerine özgü infaz rejimi ve denetimli serbestlik tedbiri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "\"Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan ağırlaştırılmış müebbet hapis cezasının otuz dokuz yılının infaz kurumunda iyi hâlli olarak çekilmesi durumunda koşullu salıverilmeden yararlanılabilir.\"",
+    "B": "\"Müebbet hapis cezasının otuz üç yılının infaz kurumunda iyi hâlli olarak çekilmesi durumunda koşullu salıverilmeden yararlanılabilir.\"",
+    "C": "\"Birden fazla süreli hapis cezasına mahkûmiyet hâlinde, infaz kurumunda en fazla otuz iki yılının iyi hâlli olarak çekilmesi durumunda koşullu salıverilmeden yararlanılabilir.\"",
+    "D": "\"Süreli hapis cezasının üçte ikisinin infaz kurumunda iyi hâlli olarak çekilmesi durumunda koşullu salıverilmeden yararlanılabilir. Ancak, koşullu salıverilme oranı dörtte üçten fazla olan suçlar bakımından tabi oldukları koşullu salıverilme oranı uygulanır.\"",
+    "Answer": "\"Süreli hapis cezasının üçte ikisinin infaz kurumunda iyi hâlli olarak çekilmesi durumunda koşullu salıverilmeden yararlanılabilir. Ancak, koşullu salıverilme oranı dörtte üçten fazla olan suçlar bakımından tabi oldukları koşullu salıverilme oranı uygulanır.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, mükerrirlere ve bazı suç faillerine özgü infaz rejimi ve denetimli serbestlik tedbiri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "\"Tekerrür nedeniyle koşullu salıverme süresine eklenecek miktar, tekerrüre esas alınan cezanın en ağırından fazla olamaz.\"",
+    "B": "\"İkinci defa tekerrür hükümlerinin uygulanması durumunda, hükümlü koşullu salıverilmez.\"",
+    "C": "\"İnfaz hâkimi, mükerrir hakkında cezanın infazının tamamlanmasından sonra başlamak ve altı aydan az olmamak üzere denetim süresi belirler.\"",
+    "D": "\"Tekerrür dolayısıyla belirlenen denetim süresinde, koşullu salıverilmeye ilişkin hükümler uygulanır.\"",
+    "Answer": "\"İnfaz hâkimi, mükerrir hakkında cezanın infazının tamamlanmasından sonra başlamak ve altı aydan az olmamak üzere denetim süresi belirler.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, mükerrirlere ve bazı suç faillerine özgü infaz rejimi ve denetimli serbestlik tedbiri ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "\"Birinci fıkradaki koşullu salıverme süreleri, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu’nun 102. maddesinin ikinci fıkrasında tanımlanan cinsel saldırı suçundan, 103. maddesinde tanımlanan çocukların cinsel istismarı suçundan, 104. maddesinin ikinci ve üçüncü fıkrasında tanımlanan reşit olmayanla cinsel ilişki suçundan, 188. maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçundan dolayı hapis cezasına mahkûm olanlar hakkında da uygulanır.\"",
+    "B": "\"İnfaz hâkimi, mükerrir hakkında denetim süresinin uzatılmasına karar verebilir ve denetim süresi en fazla üç yıla kadar uzatılabilir.\"",
+    "C": "\"Çocuğa karşı işlenen bir suçtan dolayı ağırlaştırılmış müebbet hapis cezasına veya müebbet hapis cezasına mahkûmiyet hâlinde birinci fıkradaki koşullu salıverilme süreleri uygulanmaz.\"",
+    "D": "\"Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.\"",
+    "Answer": "\"Birinci fıkradaki koşullu salıverme süreleri, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu’nun 102. maddesinin ikinci fıkrasında tanımlanan cinsel saldırı suçundan, 103. maddesinde tanımlanan çocukların cinsel istismarı suçundan, 104. maddesinin ikinci ve üçüncü fıkrasında tanımlanan reşit olmayanla cinsel ilişki suçundan, 188. maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçundan dolayı hapis cezasına mahkûm olanlar hakkında da uygulanır.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, mükerrirlere ve bazı suç faillerine özgü infaz rejimi ve denetimli serbestlik tedbiri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "\"Süreli hapis cezaları bakımından koşullu salıverilme oranı, dörtte üç olarak uygulanır.\"",
+    "B": "\"188. madde hariç olmak üzere, bu suçlardan dolayı hapis cezasına mahkûm olanlar hakkında, cezanın infazı sırasında ve koşullu salıverildikleri takdirde denetim süresi içinde tıbbi tedaviye tabi tutulmak, tedavi amaçlı programlara katılmak gibi yükümlülüklere infaz hâkimi tarafından karar verilir.\"",
+    "C": "\"İnfaz hâkimi, denetimli serbestlik süresi içinde suçluya, mağdurun bulunduğu yerlere yaklaşmama veya mağdurun oturduğu bölgeye yerleşmeme gibi yasaklar getirebilir.\"",
+    "D": "\"Suçun mağdurunun oturduğu ve çalıştığı yerleşim bölgesinde ikamet etmekten yasaklanmak, mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak gibi yükümlülüklere karar verilmesi, yalnızca hükümlüye tıbbi tedavi uygulanması halinde yapılabilir.\"",
+    "Answer": "\"Suçun mağdurunun oturduğu ve çalıştığı yerleşim bölgesinde ikamet etmekten yasaklanmak, mağdurun bulunduğu yerlere yaklaşmaktan yasaklanmak gibi yükümlülüklere karar verilmesi, yalnızca hükümlüye tıbbi tedavi uygulanması halinde yapılabilir.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, mükerrirlere ve bazı suç faillerine özgü infaz rejimi ve denetimli serbestlik tedbiri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "\"Süreli hapis cezaları bakımından koşullu salıverilme oranı, dörtte üç olarak uygulanır.\"",
+    "B": "\"188. madde hariç olmak üzere, bu suçlardan dolayı hapis cezasına mahkûm olanlar hakkında cezanın infazı sırasında ve koşullu salıverildikleri takdirde denetim süresi içinde tıbbi tedaviye tabi tutulmak, tedavi amaçlı programlara katılmak gibi yükümlülüklere infaz hâkimi tarafından karar verilir.\"",
+    "C": "\"Hükümlüye, çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan veya çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanması gibi yükümlülüklere karar verilmesi, yalnızca tıbbi tedavi uygulanması durumunda yapılabilir.\"",
+    "D": "\"Dokuzuncu fıkra hükümleri çocuklar hakkında uygulanmaz.\"",
+    "Answer": "\"Hükümlüye, çocuklarla bir arada olmayı gerektiren bir ortamda çalışmaktan veya çocuklar hakkında bakım ve gözetim yükümlülüğünü gerektiren faaliyet icra etmekten yasaklanması gibi yükümlülüklere karar verilmesi, yalnızca tıbbi tedavi uygulanması durumunda yapılabilir.\"",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tekerrür halinde işlenen ağırlaştırılmış müebbet hapis cezasına mahkûm olan bir kişinin koşullu salıverilme süresi aşağıdakilerden hangisidir?B) 39 yılA) 30 yılC) 33 yılD) 40 yıl",
+    "A": "25 yıl",
+    "B": "30 yıl",
+    "C": "33 yıl",
+    "D": "40 yıl",
+    "Answer": "40 yıl",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ikinci defa tekerrür hükümlerinin uygulanması durumunda hükümlü hakkında aşağıdakilerden hangisi geçerli olur?A) Koşullu salıverilme uygulanmazB) Koşullu salıverilme süresi uzatılırC) Denetim süresi uygulanmazD) Hükümlü aftan yararlanır",
+    "A": "Mahkeme kararında",
+    "B": "İnfaz hakimi raporunda",
+    "C": "Savcılık belgesinde",
+    "D": "Hükümlünün savunmasında",
+    "Answer": "Hükümlünün savunmasında",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz hâkimi tekerrür durumundaki bir hükümlü için cezanın infazının tamamlanmasının ardından en az aşağıdakilerden hangisi kadar denetim süresi belirleyebilir?B) 1 yılA) 6 ayC) 2 yılD) 3 yıl",
+    "A": "3 yıl",
+    "B": "5 yıl",
+    "C": "7 yıl",
+    "D": "10 yıl",
+    "Answer": "10 yıl",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, denetim süresi içinde yükümlülük veya yasaklara aykırı hareket eden mükerrir hükümlü hakkında infaz hâkimi aşağıdakilerden hangisini verebilir?D) Koşullu salıverme iptaliA) İdari para cezasıB) Disiplin hapsiC) Ek süre cezası",
+    "A": "Suç türüne göre özel süre belirlenir",
+    "B": "Aynı koşullu salıverme süresi uygulanır",
+    "C": "Süreli hapis cezaları üçte bir olarak uygulanır",
+    "D": "Dörtte üç oranında indirim yapılır",
+    "Answer": "Dörtte üç oranında indirim yapılır",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocukların cinsel istismarı suçu işleyen hükümlülerin koşullu salıverme oranı aşağıdakilerden hangisidir?C) Dörtte üçA) Üçte birB) YarısıD) Beşte dört",
+    "A": "Mağdurun yaşadığı yerleşim yerinden uzaklaştırılmak",
+    "B": "Kamu görevinden men edilmek",
+    "C": "Tıbbi tedaviye tabi tutulmak",
+    "D": "Hepsi",
+    "Answer": "Tıbbi tedaviye tabi tutulmak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, kısa süreli hapis cezasına alternatif seçenekli yaptırımlar ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "\"Kısa süreli hapis cezası yerine Türk Ceza Kanunu’nun 50. maddesine göre hükmedilen seçenekli yaptırımların infazında uygulanacak rejim, tüzükte gösterilir.\"",
+    "B": "\"Kısa süreli hapis cezası, hiçbir durumda seçenekli yaptırımlarla değiştirilemez.\"",
+    "C": "\"Türk Ceza Kanunu’nun 50. maddesi, sadece müebbet hapis cezası için geçerlidir.\"",
+    "D": "\"Seçenekli yaptırımların infaz rejimi, yönetmelikte belirlidir.",
+    "Answer": "\"Seçenekli yaptırımların infaz rejimi, yönetmelikte belirlidir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kısa süreli hapis cezası yerine Türk Ceza Kanunu'nun 50. maddesi gereğince hükmedilen seçenekli yaptırımların infazında uygulanacak rejim aşağıdaki seçeneklerden hangisiyle belirlenir?D) TüzükA) YönetmelikB) İç tüzükC) Genelge",
+    "A": "Tüzük",
+    "B": "Kanunlar",
+    "C": "Cumhurbaşkanlığı Kararnamesi",
+    "D": "Yargıtay Kararları",
+    "Answer": "Yargıtay Kararları",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kısa süreli hapis cezalarına alternatif olarak Türk Ceza Kanunu'nun 50. maddesinde yer alan seçenekli yaptırımlar hangi durumda uygulanır?B) Hapis cezasının 1 yıl veya daha az süreli olması durumundaA) Hükümlünün suçu tekrar etmesi durumundaC) Suçun nitelikli hallerde işlenmesi durumundaD) Kamu davasının açılmaması durumunda",
+    "A": "Adli para cezası",
+    "B": "Kamuya yararlı bir işte çalışma",
+    "C": "Belirli hakları kullanmaktan yoksun bırakma",
+    "D": "Hepsi",
+    "Answer": "Belirli hakları kullanmaktan yoksun bırakma",
+    "Image": "",
+    "Explaination": ""
+  }
+]
