@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi sırasında görüşme saatine denk gelen öğünlerde hükümlü ve tutuklulara hangi şekilde iaşe sağlanır?",
+    "A": "Görüşme sırasında sıcak yemek servisi yapılır.",
+    "B": "Öğünlere ilişkin iaşe, eş görüşmesi öncesinde kumanya olarak verilir.",
+    "C": "İaşe, görüşme sonrası kurum kantininden satın alınır.",
+    "D": "Öğünler, güvenlik görevlileri tarafından görüşme odasına getirilir.",
+    "Answer": "Öğünlere ilişkin iaşe, eş görüşmesi öncesinde kumanya olarak verilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hükümlü ve tutuklular eş görüşmesi öncesinde hangi imkana sahiptir?",
+    "A": "Kurum kantininden satın aldığı gıda maddelerini görüşme odasında bulundurabilir.",
+    "B": "Sadece kurum tarafından sağlanan yemekleri tüketebilir.",
+    "C": "Dışarıdan getirilen gıda maddelerini görüşme odasında bulundurabilir.",
+    "D": "Görüşme odasında yalnızca su bulundurabilir.",
+    "Answer": "Kurum kantininden satın aldığı gıda maddelerini görüşme odasında bulundurabilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi hangi günlerde yapılamaz?",
+    "A": "Hafta sonları",
+    "B": "Dini ve milli bayramlar",
+    "C": "Resmi tatiller",
+    "D": "Herhangi bir günde yapılabilir",
+    "Answer": "Dini ve milli bayramlar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi saat kaç ile kaç arasında başlamalıdır?",
+    "A": "09:00 - 17:00",
+    "B": "08:00 - 20:00",
+    "C": "10:00 - 16:00",
+    "D": "12:00 - 18:00",
+    "Answer": "09:00 - 17:00",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesinin gün ve saati kime bildirilir?",
+    "A": "Kurum yönetimine",
+    "B": "Diğer hükümlülere",
+    "C": "Hükümlü veya tutuklunun eşine",
+    "D": "Kamuoyuna",
+    "Answer": "Hükümlü veya tutuklunun eşine",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesinin yapılamaması durumunda ne yapılır?",
+    "A": "Görüşme iptal edilir",
+    "B": "Yeni bir tarih belirlenir",
+    "C": "Görüşme süresi kısaltılır",
+    "D": "Başka bir kurumda görüşme yapılır",
+    "Answer": "Yeni bir tarih belirlenir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi güvenliğini sağlamak için odada hangi güvenlik önlemi alınabilir?",
+    "A": "Kapıya yakın nezaretçi yerleştirilir",
+    "B": "Pencere açılması yasaklanır",
+    "C": "Sadece ses kaydı yapılır",
+    "D": "Giriş kapısının dışını gösteren kamera kaydı yapılır",
+    "Answer": "Giriş kapısının dışını gösteren kamera kaydı yapılır",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesinde görüşme odasına hangi durumda girilebilir?",
+    "A": "Görüşme süresi sona erdiğinde",
+    "B": "Hükümlü talep ettiğinde",
+    "C": "Görüşmeye ziyaretçi geldiğinde",
+    "D": "Herhangi bir sebeple istenildiğinde",
+    "Answer": "Hükümlü talep ettiğinde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşme odasında hangi eşyaların bulundurulmasına izin verilir?",
+    "A": "Yönetmelikte belirtilenler dışındaki eşyalar",
+    "B": "Sadece özel izinli eşyalar",
+    "C": "Ceza İnfaz Kurumlarında Bulundurulabilecek Eşya ve Maddeler Hakkında Yönetmelikte belirtilenler",
+    "D": "Kişisel olarak getirilen her türlü eşya",
+    "Answer": "Ceza İnfaz Kurumlarında Bulundurulabilecek Eşya ve Maddeler Hakkında Yönetmelikte belirtilenler",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, kurum, hükümlü ve tutukluları koruyucu sağlık tedbirleri hakkında nasıl bilgilendirir?",
+    "A": "Yazılı olarak ve bilgilendirici materyallerle",
+    "B": "Yalnızca sözlü olarak",
+    "C": "Haftalık toplantılarla",
+    "D": "E-posta ile",
+    "Answer": "Yazılı olarak ve bilgilendirici materyallerle",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi öncesinde sağlık açısından hangi durum için yazılı bilgilendirme yapılır?",
+    "A": "Dışarıda geçirilen sürenin sağlık riski oluşturması",
+    "B": "Kişisel temizlik kurallarının ihlali",
+    "C": "Yeterli sağlık ekipmanı bulunmaması",
+    "D": "Hepatit veya HIV gibi bulaşıcı hastalıkların varlığı",
+    "Answer": "Hepatit veya HIV gibi bulaşıcı hastalıkların varlığı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi kapsamında ziyaretçiden hangi beyan alınır?",
+    "A": "Cezaevi hakkında bilgi edinme isteği",
+    "B": "Hastalık taşımadığına dair beyan",
+    "C": "Ziyaret süresince kendisine verilen yemeklerle ilgili memnuniyet",
+    "D": "Günlük fiziksel durum beyanı",
+    "Answer": "Hastalık taşımadığına dair beyan",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi sırasında ihtiyaç duyulan kişisel hijyen ürünleri nasıl temin edilir?",
+    "A": "Dışarıdan satın alınarak",
+    "B": "Kurum kantininden veya ilgili kuruluşlardan sağlanarak",
+    "C": "Diğer mahkumlarla paylaşarak",
+    "D": "Hükümlünün yakınlarından alarak",
+    "Answer": "Kurum kantininden veya ilgili kuruluşlardan sağlanarak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, görüşme odasının düzeni ve temizliğinden kim sorumludur?",
+    "A": "Hükümlü veya tutuklu",
+    "B": "Kurum personeli",
+    "C": "Görüşmeye gelen ziyaretçi",
+    "D": "Güvenlik görevlisi",
+    "Answer": "Hükümlü veya tutuklu",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi sırasında hükümlü ve tutukluların yemek ihtiyaçları nasıl karşılanır?",
+    "A": "Görüşme sırasında yemek servisi yapılır",
+    "B": "Görüşme öncesinde kumanya olarak verilir",
+    "C": "Kantinden istedikleri yemek getirilir",
+    "D": "Aileleri tarafından getirilir",
+    "Answer": "Görüşme öncesinde kumanya olarak verilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi öncesinde hükümlü ve tutukluların kantinden alabileceği gıda maddeleri ile ilgili olarak hangi kısıtlama vardır?",
+    "A": "Kantinden gıda maddesi alınamaz",
+    "B": "Sadece su alınabilir",
+    "C": "Sadece belirlenen gıda maddeleri alınabilir",
+    "D": "İstediği tüm gıda maddeleri alınabilir",
+    "Answer": "Sadece belirlenen gıda maddeleri alınabilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hükümlü ve tutuklulara ilişkin sağlık tedbirleri hakkında bilgilendirici materyaller nerede bulundurulur?",
+    "A": "Yalnızca cezaevi yönetiminde",
+    "B": "Yalnızca kapalı odalarda",
+    "C": "İnternet üzerinden erişim sağlayarak",
+    "D": "Kolayca erişebilecekleri yerlerde",
+    "Answer": "Kolayca erişebilecekleri yerlerde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hükümlü ve tutukluların görüşme odasında bulundurabilecekleri eşyalar nasıl belirlenir?",
+    "A": "Ziyaretçilerin taleplerine göre",
+    "B": "Ceza İnfaz Kurumlarında Bulundurulabilecek Eşya ve Maddeler Hakkında Yönetmelikte belirtilen eşyalarla sınırlı",
+    "C": "Kişisel tercihlere göre",
+    "D": "Cezaevi müdürü tarafından TEST8",
+    "Answer": "Ceza İnfaz Kurumlarında Bulundurulabilecek Eşya ve Maddeler Hakkında Yönetmelikte belirtilen eşyalarla sınırlı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi sırasında güvenliğin sağlanması amacıyla görüşme odası nasıl kontrol edilir?",
+    "A": "Sadece görüşme öncesi",
+    "B": "Her görüşme öncesi ve sonrasında",
+    "C": "Haftada bir kez",
+    "D": "Görüşme sırasında",
+    "Answer": "Her görüşme öncesi ve sonrasında",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, eş görüşmesi sırasında hangi sağlık önlemi alınır?",
+    "A": "Psikolojik değerlendirme yapılır",
+    "B": "Fiziksel güvenlik önlemleri sağlanır",
+    "C": "Diyet programı verilir",
+    "D": "Bulaşıcı hastalığı olan hükümlülerin eşlerine yazılı bilgilendirme yapılır",
+    "Answer": "Bulaşıcı hastalığı olan hükümlülerin eşlerine yazılı bilgilendirme yapılır",
+    "Image": "",
+    "Explaination": ""
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk hükümlüler hangi durumlarda aile etkinliklerine aileleriyle katılabilir?",
+    "A": "Sadece özel eğitim günlerinde",
+    "B": "Haftalık ziyaretlerde",
+    "C": "Özel tesis kullanımında",
+    "D": "Doğum günleri veya anma günlerinde",
+    "Answer": "Doğum günleri veya anma günlerinde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk hükümlüler için hangi durumda aile etkinliklerine katılım sağlanabilir?",
+    "A": "Tören ve anma günlerinde",
+    "B": "Sadece yaz tatilinde",
+    "C": "Resmî tatillerde",
+    "D": "Ziyaretçi günlerinde",
+    "Answer": "Tören ve anma günlerinde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk hükümlünün kullanamadığı özel izinler yerine hangi imkân sağlanabilir?",
+    "A": "Günlük ziyaretler",
+    "B": "Gündüzleri il sınırları içinde izin",
+    "C": "Aile görüşmesi",
+    "D": "Sınırsız telefon görüşmesi",
+    "Answer": "Gündüzleri il sınırları içinde izin",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk hükümlünün yanında kalacağı yakını olmadığında ne yapılabilir?",
+    "A": "İzne çıkması sağlanır",
+    "B": "Günlük etkinlikler düzenlenir",
+    "C": "Gündüzleri il sınırları içinde izin verilir",
+    "D": "Başka bir cezaevine sevk edilir",
+    "Answer": "Gündüzleri il sınırları içinde izin verilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk eğitimevinde kalan hükümlülere hafta sonunda ne tür bir izin verilebilir?",
+    "A": "Aile ziyaret izni",
+    "B": "Kurum dışına çıkma izni",
+    "C": "Ekstra telefon görüşmesi",
+    "D": "Tam gün izin",
+    "Answer": "Kurum dışına çıkma izni",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk eğitimevinde kalan hükümlü hafta sonunda hangi koşulda kurum dışına çıkabilir?",
+    "A": "Tam gün boyunca",
+    "B": "Sadece velisinin gözetiminde",
+    "C": "Kurum idaresinin uygun gördüğü süre kadar",
+    "D": "Kurumda kalmak koşuluyla",
+    "Answer": "Kurum idaresinin uygun gördüğü süre kadar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk eğitimevinde kalan bir hükümlü hangi imkânlardan yararlandırılabilir?",
+    "A": "Kamu kurumlarının gençlik kampı imkânları",
+    "B": "Haftalık telefon görüşmesi",
+    "C": "Haftada bir açık ziyaret",
+    "D": "Günlük telefon konuşması",
+    "Answer": "Kamu kurumlarının gençlik kampı imkânları",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk eğitimevinde kalan hükümlü kamu kurumlarının hangi tesislerinden yararlanabilir?",
+    "A": "Adalet Bakanlığı tesisleri",
+    "B": "Emniyet Genel Müdürlüğü tesisleri",
+    "C": "Milli Eğitim Bakanlığı eğitim merkezleri",
+    "D": "Gençlik kampı ve gençlik merkezi",
+    "Answer": "Gençlik kampı ve gençlik merkezi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk eğitimevinde kalan hükümlüler hangi tür etkinliklerde aileleriyle bir araya getirilebilir?",
+    "A": "Yılbaşı ve bayram kutlamalarında",
+    "B": "Haftalık görüşmelerde",
+    "C": "Kurum içi tören ve doğum günlerinde",
+    "D": "Özel cezaevinde",
+    "Answer": "Kurum içi tören ve doğum günlerinde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk eğitimevinde kalan hükümlüler hangi durumlarda kurum dışına çıkabilir?",
+    "A": "Sadece ceza süresi dolduğunda",
+    "B": "Hafta sonlarında kurum idaresinin uygun gördüğü süre kadar",
+    "C": "Günlük kısa süreli çıkış izinlerinde",
+    "D": "Velisinin izniyle",
+    "Answer": "Hafta sonlarında kurum idaresinin uygun gördüğü süre kadar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk hükümlülerin kurum dışındaki hangi etkinliklere katılmasına izin verilebilir?",
+    "A": "Kamu kurumlarının gençlik kamplarına",
+    "B": "Adli soruşturma incelemelerine",
+    "C": "Adliye ziyaretlerine",
+    "D": "Herhangi bir devlet hastanesinde görüşmeye",
+    "Answer": "Kamu kurumlarının gençlik kamplarına",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, çocuk eğitimevinde kalan hükümlülere verilen özel izinlerde hangi sınırlama uygulanır?",
+    "A": "Eğitim amaçlı sınırlama",
+    "B": "Kurumun bulunduğu il sınırları içinde",
+    "C": "Ceza süresince geçerli sınırlama",
+    "D": "Aile onayı gerektiren sınırlama",
+    "Answer": "Kurumun bulunduğu il sınırları içinde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca hükümlü ve tutukluların ödüllendirilebileceği davranışlardan değildir?",
+    "A": "Tutum ve davranışları ile diğer hükümlü ve tutuklulara iyi örnek olmak",
+    "B": "İyileştirme faaliyetlerine geçerli mazeret dışında sürekli ve etkin bir şekilde katılarak kişisel gelişim göstermek",
+    "C": "Düzenli olarak kurumda yapılan sabah ve akşam sayımlarına katılım göstermek.",
+    "D": "İş, eğitim ve öğretim faaliyetlerine geçerli mazeret dışında sürekli katılarak üstün başarı göstermek",
+    "Answer": "Düzenli olarak kurumda yapılan sabah ve akşam sayımlarına katılım göstermek.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, aşağıdakilerden hangisi disiplin cezası almamış veya cezası kaldırılmış hükümlü ve tutuklulardan, belirtilen tutum ve davranışların bir veya birkaçını sergileyenlerin, diğer davranış türlerine de açıkça aykırı davranmamaları hâlinde ödüllendirilebileceği tutum ve davranışlardan biri değildir?",
+    "A": "Tutum ve davranışları ile diğer hükümlü ve tutuklulara iyi örnek olmak",
+    "B": "İyileştirme faaliyetlerine geçerli mazeret dışında sürekli ve etkin bir şekilde katılarak kişisel gelişim göstermek",
+    "C": "İş, eğitim ve öğretim faaliyetlerine geçerli mazeret dışında sürekli katılarak üstün başarı göstermek",
+    "D": "Kurumdaki tüm etkinliklerden uzak durarak bireysel izolasyon sağlamak",
+    "Answer": "Kurumdaki tüm etkinliklerden uzak durarak bireysel izolasyon sağlamak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, aşağıdakilerden hangisi disiplin cezası almamış veya cezası kaldırılmış hükümlü ve tutukluların ödüllendirilmesi için gereken tutum ve davranışlardan biri değildir?",
+    "A": "Kurum içi ya da dışındaki sosyal, kültürel veya sportif faaliyetlere sürekli ve etkin bir şekilde katılarak kişisel gelişim göstermek",
+    "B": "Kurum işleyişini sürdürmek için gerekli olan kurum iç hizmetlerinin yerine getirilmesinde istekli olmak ve üstün gayret göstermek",
+    "C": "Uyuşturucu, alkol veya sigara bağımlısı olup da bu bağımlılıktan kurtulmak için kurumca yürütülen eğitim veya tedavi programlarına katılarak bu konuda gelişim göstermek",
+    "D": "Kurum asayiş ve düzenini tehlikeye düşürebilecek hukuka aykırı bir eylemi gizlemek",
+    "Answer": "Kurum asayiş ve düzenini tehlikeye düşürebilecek hukuka aykırı bir eylemi gizlemek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, aşağıdaki hangi tutum veya davranış hükümlü ve tutuklulara ödül verilmesi için değerlendirilebilir?",
+    "A": "Diğer hükümlü ve tutuklulara kötü örnek olmak",
+    "B": "Kurumdaki eşyaların korunmasına özen göstermek",
+    "C": "Disiplin cezası almak",
+    "D": "Kurum içinde sürekli kavga etmek",
+    "Answer": "Kurumdaki eşyaların korunmasına özen göstermek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hangi durumda hükümlü ve tutuklular ödüllendirilmek için uygun görülmez?",
+    "A": "İyileştirme faaliyetlerine etkin katılım göstermek",
+    "B": "Kütüphaneden düzenli yararlanmak",
+    "C": "Kurum iç hizmetlerine istekli katılım sağlamak",
+    "D": "Disiplin cezası almak",
+    "Answer": "Disiplin cezası almak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, aşağıdakilerden hangisi ödül verilmesini gerektiren bir davranış türüdür?",
+    "A": "Kurum eşyalarını tahrip etmek",
+    "B": "İyileştirme faaliyetlerine etkin katılım göstermek",
+    "C": "Diğer tutuklularla sürekli tartışmak",
+    "D": "Sosyal faaliyetlerden uzak durmak",
+    "Answer": "İyileştirme faaliyetlerine etkin katılım göstermek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, ödüllendirilmeye uygun görülen hükümlüler, hangi faaliyetlere sürekli katılmalıdır?",
+    "A": "Eğitim ve öğretim faaliyetleri",
+    "B": "Disiplin cezaları",
+    "C": "Gece devriye nöbetleri",
+    "D": "Yemek servisi hazırlığı",
+    "Answer": "Eğitim ve öğretim faaliyetleri",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, aşağıdaki davranışlardan hangisi ödüllendirme için uygun görülmez?",
+    "A": "Sosyal etkinliklerde aktif katılım sağlamak",
+    "B": "Kurum iç hizmetlerine gönüllü katılmak",
+    "C": "Kurum asayişini bozmaya çalışmak",
+    "D": "Kişisel alan temizliğine dikkat etmek TEST5",
+    "Answer": "Kurum asayişini bozmaya çalışmak",
+    "Image": "",
+    "Explaination": ""
+  }
+]

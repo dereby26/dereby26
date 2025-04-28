@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hükümlü ve tutuklulara üst üste kullanmadıkları kaç haftalık ziyaret süresi toplu olarak kullandırılabilir?",
+    "A": "İki haftalık",
+    "B": "Üç haftalık",
+    "C": "Dört haftalık",
+    "D": "Beş haftalık",
+    "Answer": "Üç haftalık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, kullanılmayan ziyaret sürelerinin toplu olarak kullandırılması ödülünden ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar yararlanabilir mi?",
+    "A": "Evet, Kanunun 25. maddesine uygun olacak şekilde",
+    "B": "Hayır, yararlanamazlar",
+    "C": "Sadece açık cezaevinde kaldıkları sürece",
+    "D": "Sadece belirli şartlarda",
+    "Answer": "Evet, Kanunun 25. maddesine uygun olacak şekilde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, telefonla görüşme süresi veya sayısının artırılması ödülü ile telefonla görüşme süresi ne kadar artırılabilir?",
+    "A": "Yarı yarıya artırılabilir",
+    "B": "İki katına kadar artırılabilir",
+    "C": "Üç katına kadar artırılabilir",
+    "D": "Sınırsız artırılabilir",
+    "Answer": "İki katına kadar artırılabilir",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, telefonla görüşme süresi artırılması ödülünde ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar hangi koşulda yararlanabilir?",
+    "A": "Sadece ceza indirimi almışlarsa",
+    "B": "Sadece psiko-sosyal destek alıyorlarsa",
+    "C": "Kanunun 25. maddesine uygun şekilde",
+    "D": "Sadece iyi hal gösterirlerse",
+    "Answer": "Kanunun 25. maddesine uygun şekilde",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, kurul, telefonla görüşme süresini artırma kararı ile en fazla kaç kez görüşme süresini artırabilir?",
+    "A": "Üç kez",
+    "B": "Bir kez",
+    "C": "İki kez",
+    "D": "Dört kez",
+    "Answer": "Üç kez",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, sosyal, kültürel ve sportif etkinliklerden yararlanma ödülü ile etkinlik süresi en fazla ne kadar uzatılabilir?",
+    "A": "Bir buçuk katına kadar",
+    "B": "Üç katına kadar",
+    "C": "Sınırsız",
+    "D": "İki katına kadar",
+    "Answer": "İki katına kadar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, haftalık harcama miktarının artırılması ödülü ile harcama miktarı en fazla hangi oranda artırılabilir?",
+    "A": "Yüzde 10 oranında",
+    "B": "Yarı oranında",
+    "C": "Tamamı kadar",
+    "D": "İki katına kadar",
+    "Answer": "Yarı oranında",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, haftalık harcama miktarının artırılması ödülü verilen hükümlü için bu ödül kaç kez uygulanabilir?",
+    "A": "En fazla bir kez",
+    "B": "En fazla iki kez",
+    "C": "En fazla üç kez",
+    "D": "Sınırsız",
+    "Answer": "En fazla üç kez",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, kullanılmayan ziyaret süresinin toplu olarak kullandırılması ödülünde karar kim tarafından verilir?",
+    "A": "Kurum Müdürü",
+    "B": "Cezaevi yönetimi",
+    "C": "Mahkeme",
+    "D": "İdare ve Gözlem Kurulu",
+    "Answer": "İdare ve Gözlem Kurulu",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, sosyal, kültürel ve sportif etkinliklerden öncelikli olarak yararlanma ödülünün süresi hangi kıstaslara göre belirlenir?",
+    "A": "Hükümlünün ailesinin talebi",
+    "B": "Hükümlünün kişisel tercihi",
+    "C": "Programlanmış sürenin iki katına kadar",
+    "D": "İdarenin kararına göre sınırsız",
+    "Answer": "Programlanmış sürenin iki katına kadar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, telefonla görüşme sayısının artırılması ödülünde her bir ödüllendirme kararı ile görüşme sayısı en fazla kaç kez artırılabilir?",
+    "A": "Bir kez",
+    "B": "İki kez",
+    "C": "Üç kez",
+    "D": "Dört kez",
+    "Answer": "İki kez",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, haftalık harcama miktarının artırılması ödülü için verilen karar kim tarafından alınır?",
+    "A": "İdare ve Gözlem Kurulu",
+    "B": "Bakanlık",
+    "C": "Hükümlünün ailesi",
+    "D": "Cezaevi yönetimi",
+    "Answer": "İdare ve Gözlem Kurulu",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, kapalı ziyaret yerine açık ziyaret yapılmasına yönelik ödül kararı hangi sıklıkta verilebilir?",
+    "A": "Haftalık olarak",
+    "B": "Yılda bir kez",
+    "C": "En fazla üç kez",
+    "D": "İstenildiği kadar",
+    "Answer": "En fazla üç kez",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hükümlülerin haftalık telefonla görüşme süresi hangi durumda iki katına çıkarılabilir?",
+    "A": "İyi hal göstermeleri durumunda",
+    "B": "Haftada en fazla bir kez görüşme yaptıkları sürece",
+    "C": "Herhangi bir kısıtlama olmaksızın",
+    "D": "İdare ve Gözlem Kurulu kararı ile",
+    "Answer": "İdare ve Gözlem Kurulu kararı ile",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, telefonla görüşme sayısının artırılması ödülünden ağırlaştırılmış müebbet hapis cezası alanlar hangi koşulda yararlanabilir?",
+    "A": "Ceza indirimi almışlarsa",
+    "B": "Kanunun 25. maddesine uygun olduğu sürece",
+    "C": "Sadece açık cezaevinde kalıyorlarsa",
+    "D": "Herhangi bir durumda",
+    "Answer": "Kanunun 25. maddesine uygun olduğu sürece",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hükümlülerin kullanmadıkları ziyaret süresini birleştirme ödülünde en fazla kaç haftalık süre toplu olarak kullandırılabilir?",
+    "A": "İki hafta",
+    "B": "Dört hafta",
+    "C": "Beş hafta",
+    "D": "Üç hafta",
+    "Answer": "Üç hafta",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, kullanılmayan ziyaret süresi birleştirildiğinde hangi ziyaret türünde yapılacağı kararı kim tarafından verilir?",
+    "A": "Ziyaretçiler",
+    "B": "İdare ve Gözlem Kurulu",
+    "C": "Mahkeme",
+    "D": "Cezaevi yönetimi",
+    "Answer": "İdare ve Gözlem Kurulu",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, haftalık harcama miktarının artırılması ödülünde harcama miktarı hangi oranda artırılabilir?",
+    "A": "Üçte bir oranında",
+    "B": "Tamamı kadar",
+    "C": "Yarı oranında",
+    "D": "İki katına kadar TEST11",
+    "Answer": "Yarı oranında",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, hükümlülerin haftalık harcama miktarının artırılması ödülü en fazla kaç kez verilebilir?",
+    "A": "Bir kez",
+    "B": "İki kez",
+    "C": "En fazla üç kez",
+    "D": "Dört kez",
+    "Answer": "Bir kez",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hükümlü ve Tutukluların Ödüllendirilmesi Hakkında Yönetmelik uyarınca, telefonla görüşme süresi artırıldığında, görüşme süresi en fazla kaç katına kadar çıkarılabilir?",
+    "A": "Üç katına kadar",
+    "B": "Yarıya kadar",
+    "C": "Tam süreye kadar",
+    "D": "İki katına kadar",
+    "Answer": "Yarıya kadar",
+    "Image": "",
+    "Explaination": ""
+  }
+]
