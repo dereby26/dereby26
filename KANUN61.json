@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, özel infaz usulü kararlarına karşı aşağıdakilerden hangisi yapılabilir?",
+    "A": "İtiraz",
+    "B": "Ceza erteleme",
+    "C": "Hapis süresinin artırılması",
+    "D": "Ceza azaltılması",
+    "Answer": "Ceza azaltılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, tutuklama kararının yerine getirildiği kurumlarla ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Tutuklular, iç ve dış güvenlik görevlisi bulunan, firara karşı teknik, mekanik, elektronik veya fizikî engelleri olan, oda ve koridor kapıları sürekli kapalı tutulan ve yasal zorunluluklar dışında dışarıyla irtibat ve haberleşme olanağı bulunmayan normal güvenlik esasına dayalı tutukevlerinde barındırılırlar.",
+    "B": "Eylem ve davranışları ile 9. madde kapsamına giren tutuklular, yüksek güvenlikli tutukevlerinde barındırılırlar. Buna olanak bulunmadığında ise diğer kapalı ceza infaz kurumlarının tutuklulara ayrılan bölümlerinde barındırılırlar.",
+    "C": "Kadın, çocuk ve gençlik tutukevleri müstakil olarak kurulabilir ve tutuklular erkekler, kadınlar, gençler ve çocuklar olmak üzere suç türleri de gözetilerek ayrı yerlerde barındırılırlar.",
+    "D": "Maddî olanak bulunmadığı durumlarda, tutuklular yalnızca açık ceza infaz kurumlarında barındırılır.",
+    "Answer": "Maddî olanak bulunmadığı durumlarda, tutuklular yalnızca açık ceza infaz kurumlarında barındırılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, tutukluların barındırılması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Tutuklular, maddî olanaklar elverdiğince suç türlerine ve taşıdıkları güvenlik riskine göre ayrı odalarda barındırılırlar. Aralarında husumet bulunanlar ile iştirak hâlinde suç işlemiş olanlar aynı odalarda barındırılmazlar ve birbirleri ile temas etmelerini engelleyecek tedbirler alınır.",
+    "B": "Tutuklular, suç türleri veya güvenlik risklerine bakılmaksızın aynı odalarda barındırılabilirler.",
+    "C": "Aralarında husumet bulunan tutukluların bir arada kalmaları, yalnızca mahkeme kararı ile engellenebilir.",
+    "D": "İştirak hâlinde suç işlemiş tutukluların birbirleriyle temas etmelerini engelleyecek tedbirler alınması gerekmez.",
+    "Answer": "Tutuklular, maddî olanaklar elverdiğince suç türlerine ve taşıdıkları güvenlik riskine göre ayrı odalarda barındırılırlar. Aralarında husumet bulunanlar ile iştirak hâlinde suç işlemiş olanlar aynı odalarda barındırılmazlar ve birbirleri ile temas etmelerini engelleyecek tedbirler alınır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklular aşağıdakilerden hangisi güvenlik önlemlerine sahip tutukevlerinde tutulurlar?",
+    "A": "Oda ve koridor kapıları sürekli açık olan tutukevlerinde",
+    "B": "Sadece dış güvenlik önlemleri olan tutukevlerinde",
+    "C": "İç ve dış güvenlik görevlisi bulunan, teknik ve mekanik engellerle donatılmış tutukevlerinde",
+    "D": "Güvenlik tedbiri olmayan tutukevlerinde",
+    "Answer": "İç ve dış güvenlik görevlisi bulunan, teknik ve mekanik engellerle donatılmış tutukevlerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutukluların oda ve koridor kapıları aşağıdakilerden hangisi durumda sürekli kapalı tutulur?",
+    "A": "Mahkeme kararı olmadığında",
+    "B": "34. maddede belirtilen durumlar dışında",
+    "C": "Tutukluların talebine göre",
+    "D": "Güvenlik tedbiri olmayan durumlarda",
+    "Answer": "34. maddede belirtilen durumlar dışında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki tutuklulardan hangileri müstakil olarak kurulan tutukevlerinde barındırılır?",
+    "A": "Kadın, çocuk ve gençlik tutukluları",
+    "B": "Tüm tutuklular",
+    "C": "Kadın ve çocuk tutuklular",
+    "D": "Genç ve yaşlı tutuklular",
+    "Answer": "Kadın, çocuk ve gençlik tutukluları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutukluların tutukevine kabul edilebilmesi için aşağıdakilerden hangisi şart gereklidir?",
+    "A": "İdare tarafından verilen bir onay",
+    "B": "Tutuklunun yazılı izni",
+    "C": "Mahkeme ve savcılık onayı",
+    "D": "Mahkemeden verilmiş bir tutuklama kararı",
+    "Answer": "Mahkemeden verilmiş bir tutuklama kararı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklunun tutukevine konulmasıyla ilgili bilgi aşağıdakilerden hangisine bildirilir?",
+    "A": "Savcılığa",
+    "B": "Kararı veren hâkim veya mahkemeye",
+    "C": "Emniyet müdürlüğüne",
+    "D": "Tutuklunun ailesine",
+    "Answer": "Kararı veren hâkim veya mahkemeye",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutukluların aşağıdakilerden hangisine göre ayrı odalarda barındırılması esastır?",
+    "A": "Suç türleri ve güvenlik riskine göre",
+    "B": "Yaş gruplarına göre",
+    "C": "İdarenin tercihlerine göre",
+    "D": "Tutukluların isteklerine göre",
+    "Answer": "Suç türleri ve güvenlik riskine göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aralarında husumet bulunan tutuklular aşağıdakilerden hangisi şekilde barındırılır?",
+    "A": "Aynı odada barındırılır",
+    "B": "Birbirlerinden tamamen izole edilir",
+    "C": "Temas etmelerine izin verilir",
+    "D": "Güvenlik önlemi alınmaz",
+    "Answer": "Birbirlerinden tamamen izole edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yüksek güvenlikli tutukevlerine alınacak tutukluların hangi durumu dikkate alınır?",
+    "A": "Sadece güvenlik riskleri",
+    "B": "Suç türleri",
+    "C": "Eylem ve davranışları",
+    "D": "Sosyal durumları",
+    "Answer": "Eylem ve davranışları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, tutukluların hakları ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Tutuklulardan çalışmaları istenebilir; ancak, buna mecbur tutulamazlar. Tutuklular istediklerinde idare, barındırıldıkları odalarda çalışmalarına izin verebilir. Odada çalışma imkânı yoksa, tutukluların iş yerlerinde çalışmalarına da izin verilebilir. Bu takdirde kendileri hakkında çalışmakta olan hükümlülere ait rejim uygulanır.",
+    "B": "Soruşturma ve kovuşturma evrelerinde tutuklular, kurumun bu husustaki genel düzenine uymak suretiyle ziyaretçi kabul edebilirler. Ancak soruşturmanın selameti bakımından Cumhuriyet savcısı veya mahkeme, tutuklunun ziyaretçi kabulünü tamamen yasaklayabilir veya bu hususta kısıtlama koyabilir.",
+    "C": "Tutukluların yazılı haberleşmeleri ile telefonla görüşmeleri, soruşturma evresinde Cumhuriyet savcısı, kovuşturma evresinde hâkim veya mahkemesince kısıtlanabilir.",
+    "D": "Tutuklu, savunması için istediği müdafii seçmek ve görevlendirmek hakkına sahiptir. Her dereceden kurum görevlileri bu hususta tutukluya tavsiyelerde bulunmakla yükümlüdür.",
+    "Answer": "Tutuklu, savunması için istediği müdafii seçmek ve görevlendirmek hakkına sahiptir. Her dereceden kurum görevlileri bu hususta tutukluya tavsiyelerde bulunmakla yükümlüdür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, tutukluların hakları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Tutuklunun müdafii ile olan haberleşmesine ve kurum düzeni çerçevesinde temas ve görüşmelerine hiçbir suretle engel olunamaz ve kısıtlamalar konulamaz.",
+    "B": "Tutukluların müdafii ile görüşmeleri yalnızca belirli durumlarda kısıtlanabilir.",
+    "C": "Tutukluların müdafii ile haberleşmeleri sadece yazılı olarak yapılabilir, yüz yüze görüşmeler yasaktır.",
+    "D": "Tutukluların müdafii ile görüşmeleri, savcılık iznine tabidir.",
+    "Answer": "Tutuklunun müdafii ile olan haberleşmesine ve kurum düzeni çerçevesinde temas ve görüşmelerine hiçbir suretle engel olunamaz ve kısıtlamalar konulamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklulardan çalışmaları aşağıdakilerden hangisi koşulda istenebilir?",
+    "A": "Tutuklular çalışmak zorundadır.",
+    "B": "Çalışmaları talep edilebilir, ancak buna mecbur tutulamazlar.",
+    "C": "Çalışmaları yalnızca mahkeme kararıyla mümkündür.",
+    "D": "Sadece savcının onayıyla çalışabilirler.",
+    "Answer": "Çalışmaları talep edilebilir, ancak buna mecbur tutulamazlar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklular çalışmak istediklerinde aşağıdakilerden hangisi sağlanır?",
+    "A": "Barındırıldıkları odalarda çalışmaları sağlanır.",
+    "B": "Çalışma alanı her tutukluya ayrılır.",
+    "C": "Sadece açık hava alanında çalışabilirler.",
+    "D": "Tutuklular çalışma alanı dışında çalışamazlar.",
+    "Answer": "Barındırıldıkları odalarda çalışmaları sağlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutukluların ziyaretçi kabul etmesi aşağıdaki hangi durumda kısıtlanabilir?",
+    "A": "İdarenin uygun görmesi durumunda",
+    "B": "Savcının veya hâkimin soruşturmanın selameti açısından karar vermesi durumunda",
+    "C": "Tutukluların isteğine göre",
+    "D": "Hafta içi günlerde",
+    "Answer": "Savcının veya hâkimin soruşturmanın selameti açısından karar vermesi durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklular aşağıdaki hangi haklarını hiçbir suretle kısıtlayamaz?",
+    "A": "Yemek seçme hakları",
+    "B": "Ziyaretçi kabul etme hakları",
+    "C": "Çalışma talep etme hakları",
+    "D": "Müdafi ile haberleşme ve görüşme hakları",
+    "Answer": "Müdafi ile haberleşme ve görüşme hakları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklunun müdafii ile haberleşmesi aşağıdaki hangi koşulda kısıtlanabilir?",
+    "A": "Savcının izniyle",
+    "B": "Hiçbir suretle engellenemez ve kısıtlanamaz",
+    "C": "Hâkimin izniyle",
+    "D": "Cezaevi idaresinin talebiyle",
+    "Answer": "Hiçbir suretle engellenemez ve kısıtlanamaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutuklunun savunması için müdafi seçme hakkına aşağıdakilerden hangisi müdahale edemez?",
+    "A": "Kurum görevlileri",
+    "B": "Cumhuriyet savcısı",
+    "C": "Hâkim",
+    "D": "Mahkeme başkanı",
+    "Answer": "Kurum görevlileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tutukluların telefonla görüşmelerinin kısıtlanması aşağıdaki hangi durumda mümkündür?",
+    "A": "Mahkeme kararıyla",
+    "B": "Savcının veya hâkimin soruşturmanın veya davanın selameti açısından karar vermesi durumunda",
+    "C": "Tutuklu talebiyle",
+    "D": "Herhangi bir yazılı emir olmadan",
+    "Answer": "Savcının veya hâkimin soruşturmanın veya davanın selameti açısından karar vermesi durumunda",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hasta bir hükümlüye verilecek besinleri kim belirler?",
+    "A": "İdare",
+    "B": "Psikolog",
+    "C": "Sosyal hizmet uzmanı",
+    "D": "Kurum hekimi",
+    "Answer": "Kurum hekimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün besin ihtiyacını karşılayabilmesi için hangi seçeneğe sahip olması gerekmektedir?",
+    "A": "Cezaevi mutfağında çalışması",
+    "B": "Günlük ihtiyaçlarını kantinden sağlayabilmesi",
+    "C": "Ailesinden yiyecek getirmesi",
+    "D": "Sadece kurum tarafından sağlanan yiyecekleri alması",
+    "Answer": "Günlük ihtiyaçlarını kantinden sağlayabilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün iyileştirme programları hazırlanırken hangi kriter dikkate alınmaz?",
+    "A": "Suçluluk nedenleri",
+    "B": "Suç sicili",
+    "C": "Salıverildikten sonraki beklentisi",
+    "D": "Maddi durum",
+    "Answer": "Maddi durum",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün fizik ve ruhsal sağlığının korunması için hangi tedavi seçeneği öncelikli olarak değerlendirilir?",
+    "A": "Devlet hastanesinde tedavi",
+    "B": "Cezaevi revirinde tedavi",
+    "C": "Üniversite hastanesinde tedavi",
+    "D": "Özel hastanede tedavi",
+    "Answer": "Cezaevi revirinde tedavi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün amaca uygun iyileştirme gerekleri doğrultusunda yerleştirileceği yerler nelerdir?",
+    "A": "Genel koğuşlar",
+    "B": "Kendi isteğine uygun alanlar",
+    "C": "Eğitim ve psiko-sosyal hizmet birimlerinin bulunduğu bölümler",
+    "D": "Ailesine yakın olan cezaevleri",
+    "Answer": "Eğitim ve psiko-sosyal hizmet birimlerinin bulunduğu bölümler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün günlük besin ihtiyaçlarının dışındaki kişisel ihtiyaçlarını karşılaması için hangi seçenek geçerlidir?",
+    "A": "Yalnızca cezaevi idaresinden izin alarak dışarıdan getirilebilir",
+    "B": "Günlük besin ihtiyaçları dışındaki hiçbir ihtiyaç sağlanmaz",
+    "C": "Ailesi tarafından getirilen ürünler kullanılabilir",
+    "D": "Kantin bulunan cezaevlerinde kantin aracılığıyla sağlanabilir",
+    "Answer": "Kantin bulunan cezaevlerinde kantin aracılığıyla sağlanabilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, iyileştirme programlarının amacı nedir?",
+    "A": "Hükümlülerin iyi hal göstermelerini sağlamak",
+    "B": "Hükümlülerin topluma hukuka uygun ve üretken bir üye olarak geri dönmelerini sağlamak",
+    "C": "Hükümlülerin suçluluk duygusunu azaltmak",
+    "D": "Hükümlülerin ruhsal durumlarını incelemek",
+    "Answer": "Hükümlülerin topluma hukuka uygun ve üretken bir üye olarak geri dönmelerini sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün dini gereksinimleri karşılanırken hangi unsur göz önünde bulundurulmaz?",
+    "A": "Kurum düzenini bozmayacak şekilde ibadet",
+    "B": "İbadet eşyalarının muhafaza edilmesi",
+    "C": "Dini temsilcilerle görüşme hakkı",
+    "D": "Diğer hükümlülerin onayı",
+    "Answer": "Diğer hükümlülerin onayı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, iyileştirme programları hangi birim tarafından yürütülür?",
+    "A": "Eğitim ve psiko-sosyal hizmet servisleri",
+    "B": "Adalet Bakanlığı",
+    "C": "İdari yönetim",
+    "D": "Mahkeme",
+    "Answer": "Eğitim ve psiko-sosyal hizmet servisleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kurumda annesiyle kalan bir çocuğun beslenmesi nasıl sağlanır?",
+    "A": "Genel hükümlü beslenme düzenine göre",
+    "B": "Anneyle aynı yiyecekleri tüketir",
+    "C": "Çocuğun durumuna uygun özel gıdalar verilir",
+    "D": "Çocuğun beslenmesi aile tarafından sağlanır",
+    "Answer": "Çocuğun durumuna uygun özel gıdalar verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün sağlık durumu için Devlet hastanesine sevk edilmesi hangi durumda yapılır?",
+    "A": "Hükümlü talep ettiğinde",
+    "B": "Kurum revirinde tedavi mümkün olmadığında",
+    "C": "Ailesi talep ettiğinde",
+    "D": "Hükümlünün yaşına göre",
+    "Answer": "Kurum revirinde tedavi mümkün olmadığında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin beslenmesinde kalori hesabını belirleyen kurumlar hangileridir?",
+    "A": "Sağlık Bakanlığı ve Adalet Bakanlığı",
+    "B": "Cezaevi idaresi ve Sağlık Bakanlığı",
+    "C": "Adalet Bakanlığı ve İçişleri Bakanlığı",
+    "D": "Cezaevi müdürlüğü ve yerel yönetimler",
+    "Answer": "Sağlık Bakanlığı ve Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerle ilgili iyileştirme programlarının amacı nedir?",
+    "A": "Hükümlülerin ömür boyu cezaevi içinde kalmalarını sağlamak",
+    "B": "Hükümlüleri topluma kazandırmak",
+    "C": "Hükümlülerin iş becerilerini geliştirmek",
+    "D": "Hükümlülerin eğitim seviyesini artırmak",
+    "Answer": "Hükümlüleri topluma kazandırmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün ruhsal ve bedensel sağlığını koruma hakkı çerçevesinde hangi imkân sağlanır?",
+    "A": "Tıbbi deneyler yapılması",
+    "B": "Cezaevi dışında tedavi görme zorunluluğu",
+    "C": "Revirde tedavi imkânı",
+    "D": "Ailesi tarafından tedavi edilmesi",
+    "Answer": "Revirde tedavi imkânı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün beslenme ihtiyacında kültürel gereksinimlerin dikkate alınması nasıl sağlanır?",
+    "A": "Dini ve kültürel ihtiyaçlar göz önünde bulundurulur",
+    "B": "Yalnızca tıbbi beslenme programı oluşturulur",
+    "C": "İdare tarafından sağlanan menüye göre düzenlenir",
+    "D": "Beslenme tamamen hükümlünün isteğine bağlıdır",
+    "Answer": "Dini ve kültürel ihtiyaçlar göz önünde bulundurulur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin beslenmesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlüye Adalet ve Sağlık Bakanlıklarınca birlikte belirlenecek kalori esasına göre, sağlıklı ve güçlü kalması için nitelik ve nicelik olarak besleyici, sağlık koşullarına uygun, makul çeşitlilikte, yaş, sağlık, çalıştığı işin özelliği, dinî ve kültürel gerekleri göz önünde tutularak besin verilir ve içme suyu sağlanır.",
+    "B": "Hükümlü, kendisine verilen günlük besin ve ihtiyaç maddeleri dışındaki ihtiyaçlarını kurum kantininden sağlayabilir. Kantini bulunmayan kurumlarda, bu maddeler, idarenin izin ve kontrolü altında dışarıdan sağlanabilir.",
+    "C": "Kurumda annesiyle birlikte kalan çocuklara ve süt emziren annelere durumlarına uygun gıda verilir.",
+    "D": "Hasta hükümlüye, kurum müdürünün belirleyeceği besinler verilir.",
+    "Answer": "Hasta hükümlüye, kurum müdürünün belirleyeceği besinler verilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iyileştirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin geçmişi, suçluluk nedenleri ve suç sicilleri dikkate alınmadan standart bir iyileştirme programı uygulanır.",
+    "B": "Hükümlünün topluma uyum sağlayabilmesi için bireysel ihtiyaçlarına uygun iyileştirme programları hazırlanır ve uygulanır.",
+    "C": "Hükümlünün bireysel ihtiyaçlarına uygun iyileştirme programlarının uygulanması, suç türü ayrımı yapılmaksızın standart yöntemlerle gerçekleştirilir.",
+    "D": "Ceza infaz kurumlarında eğitim ve psiko-sosyal hizmet servislerinin oluşturulması zorunlu değildir, yalnızca ihtiyaç duyulduğunda bu hizmetlere yer verilir.",
+    "Answer": "Hükümlünün topluma uyum sağlayabilmesi için bireysel ihtiyaçlarına uygun iyileştirme programları hazırlanır ve uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iyileştirilmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlüler, herhangi bir kuruma yerleştirilebilir, iyileştirme gereklerinin sağlanması şart değildir.",
+    "B": "Hükümlüler, yalnızca güvenlik gerekçeleriyle kurumlara yerleştirilir, iyileştirme amacına öncelik verilmez.",
+    "C": "Hükümlüler, iyileştirme amacına uygun gereklerin sağlanabileceği kurumlara veya bölümlere yerleştirilir.",
+    "D": "Hükümlülerin yerleştirileceği kurumların belirlenmesinde sadece fiziksel kapasiteleri dikkate alınır.",
+    "Answer": "Hükümlüler, iyileştirme amacına uygun gereklerin sağlanabileceği kurumlara veya bölümlere yerleştirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iyileştirme programları hangi unsurlar dikkate alınarak düzenlenir?",
+    "A": "Sadece suç sicili ve fizik yeteneği",
+    "B": "Hapis cezasının süresi ve hükümlünün mesleki yeterliliği",
+    "C": "Suç türü ve işlenen suçun mağdur üzerindeki etkisi",
+    "D": "Hükümlünün geçmişi, suçluluk nedenleri, suç sicili, fizik yeteneği",
+    "Answer": "Hükümlünün geçmişi, suçluluk nedenleri, suç sicili, fizik yeteneği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, iyileştirme programlarının amacı aşağıdakilerden hangisidir?",
+    "A": "Hükümlülerin topluma uyum sağlamalarını desteklemek",
+    "B": "Hükümlülerin cezalarını artırmak",
+    "C": "Hükümlülerin topluma uygun olmayan davranışlarını korumak",
+    "D": "Hükümlülerin çalışma alışkanlıklarını kaybetmelerini sağlamak",
+    "Answer": "Hükümlülerin topluma uyum sağlamalarını desteklemek",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezasının infazına ne zaman başlanır?",
+    "A": "Disiplin kurulunun kararından sonra",
+    "B": "İnfaz hâkiminin onayı ile",
+    "C": "Cumhuriyet savcısının talebiyle",
+    "D": "Karar kesinleştikten hemen sonra",
+    "Answer": "İnfaz hâkiminin onayı ile",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kesinleşen disiplin cezalarının infazına ne zaman başlanır?",
+    "A": "Disiplin kurulunun toplantısından sonra",
+    "B": "Hükümlünün yazılı talebinden sonra",
+    "C": "Karar kesinleştikten hemen sonra",
+    "D": "İnfaz hâkimi tarafından belirlenen tarihte",
+    "Answer": "Karar kesinleştikten hemen sonra",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, birden fazla disiplin cezası verilmiş olması durumunda cezalar nasıl infaz edilir?",
+    "A": "Hepsi aynı anda infaz edilir",
+    "B": "Cezalar kesinleşme tarihine göre sırayla infaz edilir",
+    "C": "Hükümlünün seçimine göre infaz edilir",
+    "D": "Disiplin kurulu tarafından belirlenen sıraya göre infaz edilir",
+    "Answer": "Cezalar kesinleşme tarihine göre sırayla infaz edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bir cezanın infazı tamamlanmadan ne yapılmaz?",
+    "A": "Diğer cezaların infazına başlanmaz",
+    "B": "Hükümlünün savunması alınmaz",
+    "C": "Disiplin kurulu yeni karar veremez",
+    "D": "Hükümlü başka bir kuruma sevk edilmez",
+    "Answer": "Diğer cezaların infazına başlanmaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezalarının tamamı infaz edilmeden ne yapılamaz?",
+    "A": "Disiplin kuruluna itiraz",
+    "B": "Koşullu salıverilme işlemi",
+    "C": "İnfaz süresinin kısaltılması",
+    "D": "Hücre cezasının uygulanması",
+    "Answer": "Koşullu salıverilme işlemi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezalarının infazı sırasında birden fazla ceza verilmişse bu cezalar hangi sırayla infaz edilir?",
+    "A": "En hafiften en ağırına doğru",
+    "B": "En ağırdan en hafife doğru",
+    "C": "Kesinleşme tarihlerine göre sırayla",
+    "D": "İnfaz hâkiminin uygun gördüğü sırayla",
+    "Answer": "Kesinleşme tarihlerine göre sırayla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezasının infazında hangi merciin onayı gereklidir?",
+    "A": "Disiplin kurulu",
+    "B": "İnfaz hâkimi",
+    "C": "Ceza infaz kurumu müdürü",
+    "D": "Cumhuriyet savcısı",
+    "Answer": "İnfaz hâkimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezalarının infazı hangi durum dışında ertelenemez?",
+    "A": "Cezanın uygulanması teknik nedenlerle mümkün olmadığında",
+    "B": "Hükümlünün ağır hasta olması durumunda",
+    "C": "Disiplin kurulu kararıyla ertelenmesi gerektiğinde",
+    "D": "Cezanın infazına engel bir durum bulunmaması hâlinde",
+    "Answer": "Cezanın infazına engel bir durum bulunmaması hâlinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, birden fazla disiplin cezası verilmiş bir hükümlü için cezaların infazına nasıl başlanır?",
+    "A": "Hepsi birlikte uygulanır",
+    "B": "Cezalar kesinleşme sırasına göre ayrı ayrı uygulanır",
+    "C": "Hükümlünün talebine göre uygulanır",
+    "D": "Sadece en ağır ceza uygulanır",
+    "Answer": "Hükümlünün talebine göre uygulanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezası infaz edilirken diğer cezalara ne zaman başlanır?",
+    "A": "Diğer cezalar hemen başlar",
+    "B": "İlk cezanın infazı tamamlandıktan sonra",
+    "C": "Disiplin kurulu kararı ile aynı anda",
+    "D": "Cumhuriyet savcısının izniyle",
+    "Answer": "İlk cezanın infazı tamamlandıktan sonra",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezası kaldırılmadan hükümlünün hangi işlemi gerçekleştirilemez?",
+    "A": "Başka bir kuruma sevk edilmesi",
+    "B": "İnfaz süresinin yeniden hesaplanması",
+    "C": "Koşullu salıverilme işlemi",
+    "D": "Yeni bir ceza verilmesi",
+    "Answer": "Koşullu salıverilme işlemi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezalarının tamamı infaz edilmediği hâlde koşullu salıverilme hangi durumda yapılabilir?",
+    "A": "Cezanın infaz süresi dolmuşsa",
+    "B": "Disiplin kurulu kararıyla uygun bulunursa",
+    "C": "Hükümlü iyi hâl gösterirse",
+    "D": "Hiçbir durumda yapılamaz",
+    "Answer": "Hiçbir durumda yapılamaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezasının infazı sırasında hangi işlem yapılamaz?",
+    "A": "Disiplin kurulu tarafından denetim",
+    "B": "İnfaz hâkiminin denetimi",
+    "C": "Diğer cezaların infazına başlanması",
+    "D": "Hükümlünün savunmasının alınması",
+    "Answer": "Diğer cezaların infazına başlanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezası infaz edilirken bir sonraki cezanın infazı hangi durumda bekletilir?",
+    "A": "İlk cezanın tamamlanması",
+    "B": "Hükümlünün talebi",
+    "C": "Disiplin kurulunun kararı",
+    "D": "Cumhuriyet savcısının izni",
+    "Answer": "İlk cezanın tamamlanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Bir eylemden dolayı verilen disiplin cezası kesinleştikten sonra bu cezanın infazı tamamlanıp kaldırılması için infaz edildiği tarihten itibaren disiplin cezasının kaldırılmasında ve iyi halin kazandırılması için belirtilen süreler geçinceye kadar içinde yeniden disiplin cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst ceza uygulanır.",
+    "B": "Hücreye koyma ve odaya kapatma cezasının infazına, infaz hâkiminin onayı ile başlanır. Hücreye koyma cezasına ilişkin diğer hükümler saklı kalmak üzere, kesinleşen disiplin cezalarının infazına derhal başlanır. Birden fazla disiplin cezası verilmiş olması hâlinde, bu cezalar kesinleşme tarihleri sırasına göre ayrı ayrı infaz edilir. Bir cezanın infazı tamamlanmadan diğerinin infazına başlanmaz.",
+    "C": "Disiplin cezalarının tamamı infaz edilip kaldırılmadan koşullu salıverilme işlemi yapılabilir ancak bu süre hakederek salıverme tarihini geçemez.",
+    "D": "Koşullu salıverilme tarihine kadar hükümlünün iyileşeceğinin tam teşekküllü Devlet veya üniversite hastanesi sağlık kurulu raporu ile saptanması halinde hücreye koyma cezası infaz edilmez.",
+    "Answer": "Bir eylemden dolayı verilen disiplin cezası kesinleştikten sonra bu cezanın infazı tamamlanıp kaldırılması için infaz edildiği tarihten itibaren disiplin cezasının kaldırılmasında ve iyi halin kazandırılması için belirtilen süreler geçinceye kadar içinde yeniden disiplin cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst ceza uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezasına ilişkin disiplin cezasının infazı öncesinde hükümlü için hangi işlem yapılır?",
+    "A": "Savunma alınır",
+    "B": "Hekim tarafından muayene edilir",
+    "C": "Cumhuriyet savcısının izni alınır",
+    "D": "Disiplin kurulu kararı beklenir",
+    "Answer": "Cumhuriyet savcısının izni alınır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün sağlık durumunun cezaya katlanamayacağı anlaşılırsa ne yapılır?",
+    "A": "Hücre cezası iptal edilir",
+    "B": "Ceza süresiz ertelenir",
+    "C": "Ceza sonraya bırakılır veya hekimin belirleyeceği aralıklarla infaz edilir",
+    "D": "Hükümlü başka bir kuruma sevk edilir",
+    "Answer": "Ceza süresiz ertelenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, koşullu salıverilme tarihine kadar iyileşemeyeceği sağlık kurulu raporu ile belirlenen hükümlüye hangi ceza uygulanır?",
+    "A": "Hücre cezası iptal edilir",
+    "B": "Disiplin cezası süresiz ertelenir",
+    "C": "Hükümlü başka bir cezaevine sevk edilir",
+    "D": "Ziyaretçi kabulünden yoksun bırakma cezası uygulanır",
+    "Answer": "Hükümlü başka bir cezaevine sevk edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücre cezası yerine uygulanacak ziyaretçi kabulünden yoksun bırakma cezasının süresi 44. maddeye göre ne kadar olabilir?",
+    "A": "1 ay",
+    "B": "2 veya 4 ay",
+    "C": "6 ay",
+    "D": "Süresiz",
+    "Answer": "Süresiz",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

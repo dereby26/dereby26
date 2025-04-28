@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki hangi özellik yüksek güvenlikli kapalı ceza infaz kurumlarının odalarında bulunur?",
+    "A": "Sadece tek kişilik odalar kullanılır",
+    "B": "Bir veya üç kişilik odalar kullanılır",
+    "C": "On kişilik odalar kullanılır",
+    "D": "Beş kişilik odalar kullanılır",
+    "Answer": "Bir veya üç kişilik odalar kullanılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki hangi hükümlü grubu doğrudan yüksek güvenlikli ceza infaz kurumlarına gönderilir?",
+    "A": "Ekonomik suçlardan hüküm giyenler",
+    "B": "Ağır suçlar ve örgüt kurmak, yönetmek suçlarından hüküm giyenler",
+    "C": "Trafik ihlallerinden hüküm giyenler",
+    "D": "Basit suçlardan hüküm giyenler",
+    "Answer": "Basit suçlardan hüküm giyenler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kadın hükümlülerin kapalı ceza infaz kurumlarında hangi durumlarda erkek hükümlülerle temas etmesi mümkündür?",
+    "A": "Her durumda temas mümkündür",
+    "B": "Hiçbir durumda temas sağlanamaz",
+    "C": "Sadece kadın hükümlülerin talebi üzerine",
+    "D": "Güvenlik nedeniyle aynı alanı paylaşmaları hâlinde",
+    "Answer": "Sadece kadın hükümlülerin talebi üzerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki hangi yöntem yüksek güvenlikli ceza infaz kurumlarında uygulanabilir?",
+    "A": "Sadece bireysel iyileştirme yöntemleri",
+    "B": "Grup hâlinde veya bireysel iyileştirme yöntemleri",
+    "C": "İyileştirme yöntemi uygulanmaz",
+    "D": "Yalnızca kapalı hücre cezası",
+    "Answer": "Grup hâlinde veya bireysel iyileştirme yöntemleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki hangi durum diğer kapalı ceza infaz kurumlarının yüksek güvenlikli bölümlerinin kullanılmasını gerektirir?",
+    "A": "Yüksek güvenlikli ceza infaz kurumlarının kapasitesi dolduğunda",
+    "B": "Hükümlülerin isteği üzerine",
+    "C": "Sadece kadın hükümlüler için",
+    "D": "Suçluların tahliye edilmesi durumunda",
+    "Answer": "Hükümlülerin isteği üzerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kadın kapalı ceza infaz kurumları için aşağıdakilerden hangisi yanlıştır?",
+    "A": "Oda ve koridor kapıları kapalı tutulur.",
+    "B": "Firara karşı teknik, mekanik, elektronik veya fizikî engellerle donatılmıştır.",
+    "C": "İç ve dış güvenlik görevlileri bulunur.",
+    "D": "İç güvenlik görevlileri kadın ve erkeklerden oluşturulur.",
+    "Answer": "Oda ve koridor kapıları kapalı tutulur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk kapalı ceza infaz kurumları için aşağıdakilerden hangisi söylenemez?",
+    "A": "Bu kurumlarda çocuklara eğitim ve öğretim verilmesi ilkesine tam olarak uyulur.",
+    "B": "Kurumlarda ayrı bölümlerin bulunmaması hâlinde, kız çocukları kadın kapalı ceza infaz kurumlarının bir bölümünde veya diğer kapalı ceza infaz kurumlarının kendilerine ayrılan bölümlerinde barındırılırlar.",
+    "C": "Bu hükümlüler, kendilerine özgü kurumun bulunmadığı hâllerde kapalı ceza infaz kurumlarının çocuklara ayrılan bölümlerine yerleştirilirler.",
+    "D": "On beş-on sekiz yaş grubu çocuklar, cinsiyetleri ve fizikî gelişim durumları göz önüne alınarak bu kurumların ayrı ayrı bölümlerinde barındırılırlar.",
+    "Answer": "On beş-on sekiz yaş grubu çocuklar, cinsiyetleri ve fizikî gelişim durumları göz önüne alınarak bu kurumların ayrı ayrı bölümlerinde barındırılırlar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Çocuk tutukluların ya da çocuk eğitim evlerinden disiplin veya diğer nedenlerle kapalı ceza infaz kurumlarına nakillerine karar verilen çocukların barındırıldıkları ve firara karşı engelleri olan, iç ve dış güvenlik görevlileri bulunan, eğitim ve öğretime dayalı kurumlardır. 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yukarıda belirtilen kurum aşağıdakilerden hangisidir?",
+    "A": "Kapalı ceza infaz kurumları",
+    "B": "Çocuk eğitim evleri",
+    "C": "Gözlem ve sınıflandırma merkezleri",
+    "D": "Çocuk kapalı ceza infaz kurumları",
+    "Answer": "Çocuk kapalı ceza infaz kurumları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk kapalı ceza infaz kurumları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Çocuk tutukluların ya da çocuk eğitimevlerinden disiplin veya diğer nedenlerle kapalı ceza infaz kurumlarına nakillerine karar verilen çocukların barındırıldıkları ve firara karşı engelleri olan, iç ve dış güvenlik görevlileri bulunan, eğitim ve öğretime dayalı kurumlardır.",
+    "B": "On beş- yirmi bir yaş grubu çocuklar, cinsiyetleri ve fizikî gelişim durumları göz önüne alınarak bu kurumların ayrı ayrı bölümlerinde barındırılırlar.",
+    "C": "Bu hükümlüler, kendilerine özgü kurumun bulunmadığı hâllerde kapalı ceza infaz kurumlarının çocuklara ayrılan bölümlerine yerleştirilirler. Kurumlarda ayrı bölümlerin bulunmaması hâlinde, kız çocukları kadın kapalı ceza infaz kurumlarının bir bölümünde veya diğer kapalı ceza infaz kurumlarının kendilerine ayrılan bölümlerinde barındırılırlar.",
+    "D": "Bu kurumlarda çocuklara eğitim ve öğretim verilmesi ilkesine tam olarak uyulur.",
+    "Answer": "Bu hükümlüler, kendilerine özgü kurumun bulunmadığı hâllerde kapalı ceza infaz kurumlarının çocuklara ayrılan bölümlerine yerleştirilirler. Kurumlarda ayrı bölümlerin bulunmaması hâlinde, kız çocukları kadın kapalı ceza infaz kurumlarının bir bölümünde veya diğer kapalı ceza infaz kurumlarının kendilerine ayrılan bölümlerinde barındırılırlar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Cezanın infazına başlandığı tarihte on sekiz yaşını bitirmiş olup da yirmi bir yaşını doldurmamış genç hükümlülerin cezalarını çektikleri, eğitim ve öğretim esasına dayalı, firara karşı engelleri olan, iç ve dış güvenlik görevlileri bulunan kurumlardır. 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yukarıda belirtilen kurum aşağıdakilerden hangisidir?",
+    "A": "Kapalı ceza infaz kurumları",
+    "B": "Çocuk eğitim evleri",
+    "C": "Gözlem ve sınıflandırma merkezleri",
+    "D": "Gençlik kapalı ceza infaz kurumları",
+    "Answer": "Çocuk eğitim evleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, gençlik kapalı ceza infaz kurumları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Gençlik kapalı ceza infaz kurumları, cezanın infazına başlandığı tarihte on sekiz yaşını bitirmiş olup da yirmi bir yaşını doldurmamış genç hükümlülerin cezalarını çektikleri, eğitim ve öğretim esasına dayalı, firara karşı engelleri olan ve iç ile dış güvenlik görevlileri bulunan kurumlardır.",
+    "B": "Bu hükümlüler için ayrı bir gençlik kapalı ceza infaz kurumu kurulamadığı takdirde, genç hükümlüler açık ceza infaz kurumlarında barındırılırlar.",
+    "C": "Eylem ve tutumları nedeniyle tehlikeli hâlde bulunan, özel gözetim ve denetim altında bulundurulmaları gerekenler ile bulundukları kurumlarda düzen ve disiplini bozanlar veya iyileştirme tedbir, araç ve usullerine ısrarla karşı koyan genç hükümlülerin cezaları, gençlik kapalı ceza infaz kurumlarının güvenlikli bölümlerinde değil, herhangi bir kurumda yerine getirilebilir.",
+    "D": "Genç hükümlülerin cezalarının infazında, eğitim ve öğretim esaslarına dayalı programların uygulanması öngörülür.",
+    "Answer": "Genç hükümlülerin cezalarının infazında, eğitim ve öğretim esaslarına dayalı programların uygulanması öngörülür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, gözlem ve sınıflandırma merkezleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlülerin durumlarına uygun kurumlara ayrımı, 23. maddede belirtilen gözlem ve sınıflandırma merkezlerince yapılır.",
+    "B": "Gözlem ve sınıflandırma merkezlerinin kuruluş, görev ve usûlleri kanunla gösterilir.",
+    "C": "Hükümlülerin uygun kurumlara ayrılmasında gözlem ve sınıflandırma merkezlerinin değerlendirmeleri esas alınır.",
+    "D": "Gözlem ve sınıflandırma merkezlerinin çalışma esasları, yönetmelik hükümlerine göre düzenlenir.",
+    "Answer": "Gözlem ve sınıflandırma merkezlerinin kuruluş, görev ve usûlleri kanunla gösterilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk kapalı ceza infaz kurumlarının temel amacıdır?",
+    "A": "Sadece çocukların güvenliğini sağlamak",
+    "B": "Çocukların eğitim ve öğretime dayalı bir ortamda barındırılması",
+    "C": "Yetişkinlerle aynı ortamda kalmalarını sağlamak",
+    "D": "Çocukların tamamen izole edilmesi",
+    "Answer": "Yetişkinlerle aynı ortamda kalmalarını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk kapalı ceza infaz kurumlarında çocukların barındırılmasında dikkate alınan kriterlerdendir?",
+    "A": "Yaş ve suç türüne göre",
+    "B": "Cinsiyet ve fiziksel gelişim durumuna göre",
+    "C": "Sadece yaşa göre",
+    "D": "İkamet yerine göre",
+    "Answer": "Cinsiyet ve fiziksel gelişim durumuna göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi 12 yaşından küçük çocukların kapalı ceza infaz kurumuna gönderilme durumunu doğru şekilde ifade eder?",
+    "A": "Disiplin suçu işlediklerinde",
+    "B": "Her durumda gönderilebilirler",
+    "C": "Eğitim ve öğretim amacıyla",
+    "D": "12 yaşından küçük çocuklar kapalı ceza infaz kurumuna gönderilemez",
+    "Answer": "12 yaşından küçük çocuklar kapalı ceza infaz kurumuna gönderilemez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi gençlik kapalı ceza infaz kurumlarının barındırdığı yaş grubudur?",
+    "A": "18-20 yaş",
+    "B": "12-18 yaş",
+    "C": "18-21 yaş",
+    "D": "21-25 yaş",
+    "Answer": "21-25 yaş",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi gençlik kapalı ceza infaz kurumlarında firara karşı alınan güvenlik tedbirlerinden biridir?",
+    "A": "Dış güvenlik görevlisi olmadan denetim yapılır",
+    "B": "İç ve dış güvenlik görevlilerinin bulunduğu ortamda güvenlik sağlanır",
+    "C": "Güvenlik önlemi alınmaz",
+    "D": "Yalnızca iç güvenlik görevlisi bulunur",
+    "Answer": "Güvenlik önlemi alınmaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocukların kapalı ceza infaz kurumlarında bulunmadığı durumlarda, çocuk hükümlülerin barındırılacağı yerdir?",
+    "A": "Gençlik kapalı ceza infaz kurumlarında",
+    "B": "Kadın kapalı ceza infaz kurumlarının belirlenen bir bölümünde",
+    "C": "Genel cezaevinde",
+    "D": "Eğitim merkezlerinde",
+    "Answer": "Kadın kapalı ceza infaz kurumlarının belirlenen bir bölümünde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi gözlem ve sınıflandırma merkezlerinin görevidir?",
+    "A": "Sadece güvenlik sağlamak",
+    "B": "Hükümlülerin uygun kurumlara ayrımını yapmak",
+    "C": "Hükümlülerin disiplinini sağlamak",
+    "D": "Hükümlülerin rehabilitasyon sürecini yönetmek",
+    "Answer": "Hükümlülerin rehabilitasyon sürecini yönetmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk kapalı ceza infaz kurumlarında eğitim ve öğretim ilkesinin uygulanma şeklidir?",
+    "A": "Sadece talep eden çocuklara verilir",
+    "B": "Eğitim ve öğretim zorunludur",
+    "C": "Haftada bir gün eğitim verilir",
+    "D": "Yalnızca iyi hâl gösteren çocuklara verilir",
+    "Answer": "Eğitim ve öğretim zorunludur",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

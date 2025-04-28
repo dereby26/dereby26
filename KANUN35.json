@@ -1,0 +1,192 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumlarında kütüphane ya da kitaplık bulundurma şartı hangi kritere göre düzenlenir?",
+    "A": "Hükümlülerin taleplerine göre",
+    "B": "Ceza infaz kurumunun büyüklüğüne göre",
+    "C": "Her cezaevinde zorunlu olarak",
+    "D": "Sadece yüksek güvenlikli ceza infaz kurumlarında",
+    "Answer": "Ceza infaz kurumunun büyüklüğüne göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler hangi kütüphanelerden yararlanabilir?",
+    "A": "Sadece cezaevi kütüphanelerinden",
+    "B": "Sadece üniversite kütüphanelerinden",
+    "C": "Kamu kurum ve kuruluşlarına bağlı kütüphanelerden",
+    "D": "Sadece Adalet Bakanlığı kütüphanelerinden",
+    "Answer": "Kamu kurum ve kuruluşlarına bağlı kütüphanelerden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler dış kütüphanelerden hangi şartla yararlanabilir?",
+    "A": "Cezaevi idaresinin özel izni ile",
+    "B": "62. maddedeki şartları taşıyan yayınlarla sınırlı olmak üzere",
+    "C": "Haftada bir gün olmak kaydıyla",
+    "D": "Sadece ders kitaplarına erişim sağlanarak",
+    "Answer": "62. maddedeki şartları taşıyan yayınlarla sınırlı olmak üzere",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülere kütüphane hizmeti nasıl sağlanabilir?",
+    "A": "Sadece sabit kütüphanelerle",
+    "B": "Cezaevi yönetiminin izniyle",
+    "C": "Gezici kitaplıklarla da sağlanabilir",
+    "D": "Haftada bir ziyaretle",
+    "Answer": "Gezici kitaplıklarla da sağlanabilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin süreli veya süresiz yayınlardan yararlanma şartı nedir?",
+    "A": "Yayınların bedelinin cezaevi tarafından karşılanması",
+    "B": "Yayınların kurum disiplinine uygun olmaması",
+    "C": "Yayınların ilan ve reklama sahip olmaması",
+    "D": "Yayınların mahkemelerce yasaklanmamış olması",
+    "Answer": "Yayınların mahkemelerce yasaklanmamış olması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülere hangi tür yayınlar ücretsiz olarak verilebilir?",
+    "A": "Sadece üniversite yayınları",
+    "B": "Sadece cezaevi tarafından belirlenen yayınlar",
+    "C": "Resmî kurumlar ve vergi muafiyeti tanınmış vakıfların yayınları",
+    "D": "Hükümlülerin aileleri tarafından gönderilen yayınlar",
+    "Answer": "Resmî kurumlar ve vergi muafiyeti tanınmış vakıfların yayınları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin hangi tür yayınlara erişimi kısıtlanır?",
+    "A": "Sadece siyasi yayınlar",
+    "B": "Kurum disiplinini veya güvenliğini tehlikeye düşüren yayınlar",
+    "C": "Her türlü eğlence amaçlı yayınlar",
+    "D": "Sadece müstehcen içerikli yayınlar",
+    "Answer": "Kurum disiplinini veya güvenliğini tehlikeye düşüren yayınlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, resmî ilan ve reklam yayınlama hakkı olmayan gazeteler ceza infaz kurumlarına hangi durumda kabul edilmez?",
+    "A": "Süresiz olarak",
+    "B": "İlan ve reklam geçici olarak kesildiğinde",
+    "C": "Reklam almayan gazeteler ise istisna tutulur",
+    "D": "Basın İlan Kurumu aracılığıyla resmî ilan ve reklam yayınlama hakkı olmadığında",
+    "Answer": "Basın İlan Kurumu aracılığıyla resmî ilan ve reklam yayınlama hakkı olmadığında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, eğitimine devam eden hükümlülerin ders kitaplarıyla ilgili hangi uygulama geçerlidir?",
+    "A": "Denetime tabi tutulur",
+    "B": "Ücretsiz olarak verilir",
+    "C": "Cezaevi tarafından sağlanır",
+    "D": "Denetime tabi tutulmadan sağlanır",
+    "Answer": "Denetime tabi tutulmadan sağlanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin okuma alışkanlıklarını geliştirmesi amacıyla ceza infaz kurumlarında hangi olanak sağlanır?",
+    "A": "Günlük gazeteler verilir",
+    "B": "Kütüphane veya kitaplıklar kurulur",
+    "C": "Haftada bir kitap verilir",
+    "D": "Eğitim programlarına katılmaları sağlanır",
+    "Answer": "Kütüphane veya kitaplıklar kurulur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yabancı dilde yayınlanmış gazete ve dergilerin ceza infaz kurumlarına kabulü kim tarafından onaylanır?",
+    "A": "Adalet Bakanlığı",
+    "B": "Cezaevi yönetimi",
+    "C": "Cezaevi kütüphanesi",
+    "D": "Cumhurbaşkanlığı",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin süresiz yayınlardan yararlanabilmesi için ödemesi gereken bedel kim tarafından karşılanır?",
+    "A": "Cezaevi bütçesinden",
+    "B": "Hükümlünün kendisi tarafından",
+    "C": "Hükümlünün ailesi tarafından",
+    "D": "Adalet Bakanlığı tarafından",
+    "Answer": "Hükümlünün kendisi tarafından",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülere sağlanan gezici kitaplık hizmetinin amacı nedir?",
+    "A": "Hükümlülerin kitap satın almasını sağlamak",
+    "B": "Kütüphane sistemine alternatif oluşturmak",
+    "C": "Kitap okuma zorunluluğu getirmek",
+    "D": "Kütüphaneye ulaşamayan hükümlülere kitap sağlamak",
+    "Answer": "Kütüphaneye ulaşamayan hükümlülere kitap sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler hangi koşulda süreli yayınlardan yararlanabilir?",
+    "A": "Yalnızca cezaevi yönetiminin izni ile",
+    "B": "Ücretsiz olarak sağlanması durumunda",
+    "C": "Bedelini kendileri ödeyerek ve yasaklanmamış olmaları koşuluyla",
+    "D": "Belirli yayınları sınırsızca alarak",
+    "Answer": "Bedelini kendileri ödeyerek ve yasaklanmamış olmaları koşuluyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun'a göre, hükümlülerin süreli veya süresiz yayınlardan yararlanma hakkı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlü, mahkemelerce yasaklanmamış olması koşuluyla süreli ve süresiz yayınlardan bedelini ödeyerek yararlanma hakkına sahiptir.",
+    "B": "Resmî kurumlar, üniversiteler, kamu kurumu niteliğindeki meslek kuruluşları ile mahkemelerce yasaklanmamış olması koşuluyla Cumhurbaşkanınca vergi muafiyeti tanınan vakıflar ve kamu yararına çalışan dernekler tarafından çıkartılan gazete, kitap ve basılı yayınlar, hükümlülere ücretsiz olarak ve serbestçe verilir. Eğitim ve öğretimine devam eden hükümlülerin ders kitapları denetime tâbi tutulamaz.",
+    "C": "Kurum disiplinini, düzenini veya güvenliğini bozan ya da tehlikeye düşüren, hükümlülerin iyileştirilmesi amacına ulaşmayı zorlaştıran yahut müstehcen haber, yazı, fotoğraf ve yorumları kapsayan hiçbir yayın hükümlüye verilmez.",
+    "D": "Basın İlan Kurumu aracılığıyla resmî ilan ve reklam yayınlama hakkı bulunmayan gazeteler, ceza infaz kurumuna kabul edilmez. İlan ve reklamın geçici süreyle kesilmesi hâli de bu hükmün kapsamındadır.",
+    "Answer": "Basın İlan Kurumu aracılığıyla resmî ilan ve reklam yayınlama hakkı bulunmayan gazeteler, ceza infaz kurumuna kabul edilmez. İlan ve reklamın geçici süreyle kesilmesi hâli de bu hükmün kapsamındadır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun'a göre yabancı dilde yayınlanmış gazete ve dergilerin ceza infaz kurumuna kabul edilmesine aşağıdakilerden hangisi yetkilidir?",
+    "A": "İçişleri Bakanlığı",
+    "B": "Aile ve Sosyal Hizmetler Bakanlığı",
+    "C": "Ticaret Bakanlığı",
+    "D": "Adalet Bakanlığı",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, günlük yaşamda haklar ve yükümlülükler kapsamında hükümlünün barındırılması ve yatırılması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Tehlikeli hâli bulunan hükümlü ancak bir veya üç kişilik odalarda, diğer hükümlüler ise kurumun fizikî yapısı, kapasite durumu ve güvenlik gerekleri göz önüne alınarak cezaevi yönetimi tarafından belirlenecek sayıda mahkûmun kalabileceği odalarda barındırılırlar.",
+    "B": "Kadın hükümlülerin erkek hükümlülerle aynı odalarda barındırılmasına yalnızca güvenlik gerekçesiyle izin verilir.",
+    "C": "Her hükümlüye yöresel iklime uygun nitelikte tek tip yatak ve yeterli sayıda yatak takımı verilir.",
+    "D": "Oda ve kısımlarda iklim koşulları göz önüne alınarak yeterli yer, ışık, ısınma, havalandırma ve hijyen sağlanır.",
+    "Answer": "Kadın hükümlülerin erkek hükümlülerle aynı odalarda barındırılmasına yalnızca güvenlik gerekçesiyle izin verilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi tehlikeli hâlde bulunan hükümlülerin barındırılacağı odalar için geçerlidir?",
+    "A": "Herhangi bir odada",
+    "B": "İkiden fazla hükümlünün bulunduğu odalarda",
+    "C": "Bir veya üç kişilik odalarda",
+    "D": "Cezaevi yönetiminin istediği odalarda",
+    "Answer": "Bir veya üç kişilik odalarda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin odalara yerleştirilmesinde dikkate alınan kriterlerden biridir?",
+    "A": "Kurumun fiziksel yapısı, kapasite ve güvenlik gerekleri göz önüne alınarak",
+    "B": "Cezaevi yönetiminin takdirine bağlı olarak",
+    "C": "Hükümlülerin taleplerine göre",
+    "D": "Yalnızca güvenlik gerekleri dikkate alınarak",
+    "Answer": "Kurumun fiziksel yapısı, kapasite ve güvenlik gerekleri göz önüne alınarak",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

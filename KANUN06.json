@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk eğitimevlerinde kalan çocukların eğitim programları aşağıdakilerden hangisinde sürdürülebilir?",
+    "A": "Sadece kurum içinde",
+    "B": "Hem kurum içinde hem de kurum dışında",
+    "C": "Sadece kapalı alanlarda",
+    "D": "Sadece zorunlu eğitim seviyesinde",
+    "Answer": "Hem kurum içinde hem de kurum dışında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk eğitimevlerinde bulunan çocuklar hangi yaşa kadar eğitime devam edebilir?",
+    "A": "15 yaşına kadar",
+    "B": "18 yaşını tamamladıktan sonra sadece bir yıl daha",
+    "C": "18 yaşını doldurmuşsa ancak 21 yaşına kadar",
+    "D": "Herhangi bir yaş sınırlaması yoktur",
+    "Answer": "18 yaşını doldurmuşsa ancak 21 yaşına kadar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk eğitimevlerinde aşağıdaki hangi durumda dış güvenlik önlemleri alınır?",
+    "A": "Firar riskine karşı her zaman dış güvenlik sağlanır",
+    "B": "Bu tesislerde firara karşı dış güvenlik önlemleri bulunmaz",
+    "C": "Eğitim programlarının düzenlenmesi için geçici olarak alınır",
+    "D": "Sadece disiplin cezaları sırasında uygulanır",
+    "Answer": "Bu tesislerde firara karşı dış güvenlik önlemleri bulunmaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, 18 yaşını doldurmuş olan bir hükümlü aşağıdaki hangi durumda çocuk eğitimevinde kalmaya devam edebilir?",
+    "A": "Eğitim ve öğretimini tamamlayabilmesi için",
+    "B": "Fiziksel olarak sağlıklı ise",
+    "C": "İyi hal gösteriyorsa",
+    "D": "21 yaşını tamamlamışsa",
+    "Answer": "Eğitim ve öğretimini tamamlayabilmesi için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki hangi çocuk hükümlüler kapalı ceza infaz kurumlarına gönderilebilir?",
+    "A": "Herhangi bir sebeple firar girişiminde bulunan çocuklar",
+    "B": "Eğitimine ara veren çocuklar",
+    "C": "21 yaşını dolduran çocuklar",
+    "D": "11. madde kapsamına giren veya haklarında tutuklama kararı bulunan çocuklar",
+    "Answer": "11. madde kapsamına giren veya haklarında tutuklama kararı bulunan çocuklar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk eğitimevlerinin temel hedefi aşağıdakilerden hangisidir?",
+    "A": "Disiplin sağlamak",
+    "B": "Çocukların toplumla bütünleşmesini sağlamak",
+    "C": "Çocukları gözlem altında tutmak",
+    "D": "Eğitim programlarını durdurmak",
+    "Answer": "Çocukların toplumla bütünleşmesini sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk eğitimevlerinde aşağıdaki hangi durumda kapalı infaz kurumuna sevk gerçekleşmez?",
+    "A": "Eğitimini bitirmemiş olanlar için",
+    "B": "Firara karşı engel olmaması halinde",
+    "C": "Haklarında tutuklama kararı olmayan ve 11. madde kapsamına girmeyenler için",
+    "D": "18 yaşını geçmeyenler için",
+    "Answer": "Haklarında tutuklama kararı olmayan ve 11. madde kapsamına girmeyenler için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Çocuk hükümlüler hakkında verilen cezaların, hükümlülerin eğitilmeleri, meslek edinmeleri ve yeniden toplumla bütünleştirilmeleri amaçları güdülerek yerine getirildiği tesislerdir. Bu kurumlarda firara karşı engel bulundurulmaz; kurum güvenliği iç güvenlik görevlilerinin gözetim ve sorumluluğunda sağlanır. 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yukarıda belirtilen kurum aşağıdakilerden hangisidir?",
+    "A": "Kapalı ceza infaz kurumları",
+    "B": "Gençlik kapalı ceza infaz kurumları",
+    "C": "Çocuk eğitim evleri",
+    "D": "Gözlem ve sınıflandırma merkezleri",
+    "Answer": "Çocuk eğitim evleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Çocuk eğitim evleri; çocuk hükümlüler hakkında verilen cezaların, hükümlülerin eğitilmeleri, meslek edinmeleri ve yeniden toplumla bütünleştirilmeleri amaçları güdülerek yerine getirildiği tesislerdir. Bu kurumlarda firara karşı engel bulundurulmaz; kurum güvenliği, iç güvenlik görevlilerinin gözetim ve sorumluluğunda sağlanır. II. Kurum içinde veya dışında herhangi bir eğitim ve öğretim programına devam eden ve on beş yaşını dolduran çocukların, eğitim ve öğretimlerini tamamlayabilmeleri bakımından yirmi bir yaşını bitirinceye kadar bu tesislerde kalmalarına izin verilebilir. III. Haklarında tutuklama kararı bulunanlar ile 11. madde kapsamına girenler hariç olmak üzere, bu tesislerde bulunan çocuk hükümlüler kapalı ceza infaz kurumlarına gönderilmezler. 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yukarıda belirtilen maddelerin hangisi veya hangileri çocuk eğitim evleri için söylenemez?",
+    "A": "Yalnız III",
+    "B": "II-III",
+    "C": "I-III",
+    "D": "Yalnız II",
+    "Answer": "Yalnız II",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Kurum içinde veya dışında herhangi bir eğitim ve öğretim programına devam eden ve .......... yaşını dolduran çocukların, eğitim ve öğretimlerini tamamlayabilmeleri için .......... yaşını bitirinceye kadar bu tesislerde kalmalarına izin verilebilir. 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, boş bırakılan yerlere aşağıdakilerden hangileri gelmelidir?",
+    "A": "On beş (15), yirmi bir (21)",
+    "B": "On iki (12), on sekiz (18)",
+    "C": "On sekiz (18), yirmi bir (21)",
+    "D": "On beş (15), on sekiz (18)",
+    "Answer": "On sekiz (18), yirmi bir (21)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hapis cezasının infazının hastalık nedeniyle ertelenmesiyle ilgili aşağıdakilerden hangi seçenek doğrudur?",
+    "A": "Yukarıdaki fıkralarda belirtilen geri bırakma kararı, Adlî Tıp Kurumunca düzenlenen ya da Adalet Bakanlığınca belirlenen tam teşekküllü hastanelerin sağlık kurullarınca düzenlenip Adlî Tıp Kurumunca onaylanan rapor üzerine, infazın yapıldığı yer Cumhuriyet Başsavcılığınca verilir.",
+    "B": "Geri bırakma kararı, mahkûmun tâbi olacağı yükümlülükler belirtilmek suretiyle kendisine ve yasal temsilcisine tebliğ edilir.",
+    "C": "Mahkûmun sağlık durumu, geri bırakma kararını veren Cumhuriyet Başsavcılığınca veya onun istemi üzerine, bulundukları yer Cumhuriyet Başsavcılığınca, sağlık raporunda belirtilen sürelere veya birer yıllık dönemlere göre incelettirilir.",
+    "D": "Tüm maddeler doğrudur.",
+    "Answer": "Tüm maddeler doğrudur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hapis cezasının infazının hastalık nedeniyle ertelenmesiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Akıl hastalığına tutulan hükümlünün cezasının infazı geri bırakılır ve hükümlü, iyileşinceye kadar Türk Ceza Kanunu’nun 57. maddesinde belirtilen sağlık kurumunda koruma ve tedavi altına alınır. Sağlık kurumunda geçen süreler cezaevinde geçmiş sayılır.",
+    "B": "Diğer hastalıklarda, hapis cezasının infazı resmi sağlık kuruluşlarının mahkûmlara ayrılan bölümlerinde devam eder. Ancak, bu durumda bile mahkûmun cezasının infazı hayatı için kesin bir tehlike teşkil etmiyorsa yine de cezası geri bırakılabilir.",
+    "C": "Hapis cezasının infazı, gebe olan veya doğurduğu tarihten itibaren bir yıl altı ay geçmemiş bulunan kadınlar hakkında geri bırakılır. Ancak çocuk ölmüş ya da anasından başka birine verilmişse, doğumdan itibaren iki ay geçtikten sonra ceza infaz olunur.",
+    "D": "Kapalı ceza infaz kurumuna girdikten sonra gebe kalanlardan, koşullu salıverilmesine altı yıldan fazla süre kalanlar ile eylem ve tutumları nedeniyle tehlikeli sayılanlar için dördüncü fıkra hükümleri uygulanmaz. Bu kişiler için ceza, ceza infaz kurumlarında kendileri için düzenlenen uygun yerlerde infaz edilir.",
+    "Answer": "Diğer hastalıklarda, hapis cezasının infazı resmi sağlık kuruluşlarının mahkûmlara ayrılan bölümlerinde devam eder. Ancak, bu durumda bile mahkûmun cezasının infazı hayatı için kesin bir tehlike teşkil etmiyorsa yine de cezası geri bırakılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hapis cezasının infazının hastalık nedeniyle ertelenmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında hayatını yalnız idame ettiremeyen ve toplum güvenliği bakımından ağır ve somut tehlike oluşturmayacağı değerlendirilen mahkûmun cezasının infazı, üçüncü fıkrada belirlenen usule göre iyileşinceye kadar geri bırakılabilir.",
+    "B": "Ceza infaz kurumu koşullarında hayatını sürdüremeyen mahkûmun cezası, toplum güvenliği değerlendirmesine bakılmaksızın geri bırakılabilir.",
+    "C": "Toplum güvenliği açısından somut tehlike oluşturan mahkûmlar da ağır hastalık veya engellilik durumunda ceza infazının geri bırakılmasından faydalanabilir.",
+    "D": "Mahkûmun cezasının infazının geri bırakılabilmesi için hastalığının ceza infaz kurumu dışında tedavi gerektirmesi zorunlu değildir.",
+    "Answer": "Maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında hayatını yalnız idame ettiremeyen ve toplum güvenliği bakımından ağır ve somut tehlike oluşturmayacağı değerlendirilen mahkûmun cezasının infazı, üçüncü fıkrada belirlenen usule göre iyileşinceye kadar geri bırakılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün istemiyle infazın ertelenmesiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Kasten işlenen suçlarda üç yıl, taksirle işlenen suçlarda ise beş yıl veya daha az süreli hapis cezalarının infazı, çağrı üzerine gelen hükümlünün istemi üzerine Cumhuriyet Başsavcılığınca ertelenebilir.",
+    "B": "Erteleme, her defasında bir yılı geçmemek üzere en fazla iki kez uygulanabilir ve toplamda iki yıl süreyle ertelenebilir.",
+    "C": "Erteleme süresi içinde hükümlü hakkında kasten işlenen bir suçtan dolayı kamu davası açılması hâlinde, erteleme kararı kaldırılabilir.",
+    "D": "Erteleme isteminin kabulü, güvence gösterilmesine veya başka bir şarta bağlanabilir.",
+    "Answer": "Erteleme süresi içinde hükümlü hakkında kasten işlenen bir suçtan dolayı kamu davası açılması hâlinde, erteleme kararı kaldırılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün istemiyle infazın ertelenmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Kasten işlenen suçlarda üç yıl, taksirle işlenen suçlarda ise beş yıl veya daha az süreli hapis cezalarının infazına başlanmış olsa bile, hükümlünün yükseköğrenimini bitirebilmesi, ana, baba, eş veya çocuklarının ölümü ya da bu kişilerin sürekli hastalık veya malullükleri nedeniyle ailenin ticari faaliyetlerinin yürütülememesi gibi durumlarda cezanın infazına ara verilebilir.",
+    "B": "Hükümlünün eşi veya çocuklarının sürekli hastalık veya malullükleri nedeniyle bakıma muhtaç olmaları hâlinde, Cumhuriyet Başsavcılığı tarafından bir yılı geçmeyen sürelerle cezanın infazına ara verilebilir.",
+    "C": "Hükümlünün hastalığının sürekli bir tedaviyi gerektirmesi gibi zorunlu ve çok ivedi hâllerde, Cumhuriyet Başsavcılığı tarafından en fazla iki defa olmak üzere hapis cezasının infazına ara verilebilir.",
+    "D": "Tüm maddeler doğrudur.",
+    "Answer": "Tüm maddeler doğrudur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, akıl hastalığına tutulan hükümlülerin cezaları aşağıdakilerden hangisi şeklinde infaz edilir?",
+    "A": "İyileşinceye kadar Türk Ceza Kanununun 57. maddesinde belirtilen sağlık kurumunda tedavi altına alınırlar",
+    "B": "Cezaları derhal infaz edilir",
+    "C": "Hastaneye sevk edilmezler",
+    "D": "Cezaevinde kalmaya devam ederler",
+    "Answer": "İyileşinceye kadar Türk Ceza Kanununun 57. maddesinde belirtilen sağlık kurumunda tedavi altına alınırlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, diğer hastalık hallerinde hükümlünün cezasının infazına aşağıdakilerden hangisi ile devam edilir?",
+    "A": "Ceza infaz kurumunda infaz edilir",
+    "B": "Cumhuriyet Başsavcısı kararıyla ertelenir",
+    "C": "Adalet Bakanlığı’nın kararı beklenir",
+    "D": "Mahkumların ayrılan bölümlerinde tedavi uygulanır",
+    "Answer": "Mahkumların ayrılan bölümlerinde tedavi uygulanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hapis cezasının infazı hükümlünün hayatı için kesin bir tehlike teşkil ediyorsa aşağıdakilerden hangisi yapılır?",
+    "A": "Cezası infaz edilir",
+    "B": "Cumhuriyet Başsavcısı cezayı erteler",
+    "C": "İyileşinceye kadar infaz geri bırakılır",
+    "D": "Mahkûm yakınlarına bilgi verilir",
+    "Answer": "İyileşinceye kadar infaz geri bırakılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, geri bırakma kararı aşağıdakilerden hangisi üzerine verilir?",
+    "A": "Hükümlünün sağlık izleme kartı",
+    "B": "Adli Tıp Kurumu veya tam teşekküllü hastanelerin sağlık raporu",
+    "C": "Hükümlünün kişisel talebi",
+    "D": "Cezaevi yönetimi kararı",
+    "Answer": "Adli Tıp Kurumu veya tam teşekküllü hastanelerin sağlık raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, gebe olan veya doğum yapmış hükümlünün cezasının infazı aşağıdakilerden hangisi süre boyunca geri bırakılır?",
+    "A": "Gebelik süresi boyunca",
+    "B": "Doğumdan itibaren iki ay",
+    "C": "Doğurduğu tarihten itibaren bir yıl altı ay geçinceye kadar",
+    "D": "Çocuk altı yaşına gelinceye kadar",
+    "Answer": "Doğurduğu tarihten itibaren bir yıl altı ay geçinceye kadar",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

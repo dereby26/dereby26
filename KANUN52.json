@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin hastanede geçirdiği sürenin cezadan indirilmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Cezanın infazına başlandıktan sonra hastalık nedeniyle hükümlünün ceza infaz kurumundan hastaneye kaldırılması hâlinde, burada geçirdiği süre cezadan indirilir.",
+    "B": "Hükümlü, cezanın infazını durdurmak amacıyla hastalığına kasten neden olmuşsa, hastanede geçirdiği süre cezadan indirilir.",
+    "C": "Hastanede geçirilen sürelerin cezadan indirilmesi için herhangi bir şart aranmaz.",
+    "D": "Cumhuriyet savcısı, hükümlünün hastalığına kasten neden olduğunu tespit ederse, infaz hâkimliğinden bir karar alınmasına gerek yoktur.",
+    "Answer": "Cezanın infazına başlandıktan sonra hastalık nedeniyle hükümlünün ceza infaz kurumundan hastaneye kaldırılması hâlinde, burada geçirdiği süre cezadan indirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, infaz sırasında verilecek kararların mercileri ve usulü ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Cezanın infazı sırasında, 98 ila 100. maddeler gereğince mahkemeden veya infaz hâkimliğinden alınması gereken kararlar duruşma yapılmaksızın verilir.",
+    "B": "Karar verilmeden önce Cumhuriyet savcısı ve hükümlünün görüşleri yazılı olarak istenebilir.",
+    "C": "99. madde gereğince cezaların toplanması ile ilgili hüküm verme yetkisi, en fazla cezaya hükmetmiş mahkemenin bulunduğu yer infaz hâkimliğine aittir, ancak bu durumda infaz hâkimliği karar alamaz.",
+    "D": "Bu madde uyarınca verilen kararlara karşı itiraz yoluna gidilebilir.",
+    "Answer": "99. madde gereğince cezaların toplanması ile ilgili hüküm verme yetkisi, en fazla cezaya hükmetmiş mahkemenin bulunduğu yer infaz hâkimliğine aittir, ancak bu durumda infaz hâkimliği karar alamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, ceza infaz kurumlarına dış yardımlar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlülerin ceza infaz kurumlarından salıverilmelerinden önce veya salıverilmelerinden sonra kişisel zorluklarını aşmalarını, iyileştirilmelerini ve dışarıdaki yaşama uyumlarını sağlamak amacıyla ilgili bakanlıklar, kamu kurum ve kuruluşları ile kamu tüzel kişileri görev alanlarına giren konularda gerekli desteği ve hizmeti vermekle yükümlüdürler.",
+    "B": "Bu konuda yalnızca kamu kurum ve kuruluşlarından yardım alınabilir, gönüllü kişi ve kuruluşların yardımları kabul edilemez.",
+    "C": "Bu yükümlülük ve yardımların yöntem ve esasları Cumhurbaşkanınca çıkarılan yönetmelikte belirlenir.",
+    "D": "Hükümlülerin dış yardımlarla iyileştirilmesine yönelik çalışmalar, ilgili bakanlıkların yükümlülüğü altındadır.",
+    "Answer": "Bu konuda yalnızca kamu kurum ve kuruluşlarından yardım alınabilir, gönüllü kişi ve kuruluşların yardımları kabul edilemez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlüler arası yardımlaşma ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlüler arasında yardımlaşma yalnızca ceza infaz kurumlarının yönetimi tarafından düzenlenebilir, bireysel katkılar kabul edilmez.",
+    "B": "Hükümlüler arası yardımlaşma yalnızca salıverilme sonrasındaki yaşamı kapsamaktadır, ceza infaz kurumlarında böyle bir faaliyet mümkün değildir.",
+    "C": "Hükümlülerin yardımlaşma faaliyetleri herhangi bir işbirliği veya denetim olmaksızın serbestçe gerçekleştirilir.",
+    "D": "Meslek ve sanatlarında becerili olan hükümlüler, çalışma yeteneğine sahip ve istekli diğer hükümlülere, ceza infaz kurumunda iş, meslek veya sanat öğrenmelerini sağlamak amacıyla katkıda bulunabilirler.",
+    "Answer": "Meslek ve sanatlarında becerili olan hükümlüler, çalışma yeteneğine sahip ve istekli diğer hükümlülere, ceza infaz kurumunda iş, meslek veya sanat öğrenmelerini sağlamak amacıyla katkıda bulunabilirler.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün cezasının infazı sırasında hastanede geçirdiği süre ile ilgili aşağıdakilerden hangisi yapılır?",
+    "A": "Cezasına ek süre olarak eklenir",
+    "B": "Cezasından indirilir",
+    "C": "Hiçbir işlem yapılmaz",
+    "D": "Cezası iptal edilir",
+    "Answer": "Cezasından indirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlü hastalığına kasten neden olmuşsa hastanede geçen süre ile ilgili aşağıdakilerden hangisi yapılır?",
+    "A": "Süre cezadan indirilir",
+    "B": "İnfaz savcısı kararını verir",
+    "C": "Hükümlü hastaneye sevk edilmez",
+    "D": "Hükümlü, hastanede geçirdiği süreyi cezadan düşemez",
+    "Answer": "Hükümlü, hastanede geçirdiği süreyi cezadan düşemez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz sırasında 98-100. maddeler gereğince kararlar aşağıdakilerden hangisi şekilde verilir?",
+    "A": "Duruşma yapılarak",
+    "B": "Yazılı savunma alınarak",
+    "C": "Duruşma yapılmaksızın",
+    "D": "Jüri tarafından değerlendirilerek",
+    "Answer": "Duruşma yapılmaksızın",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, cezanın toplanması kararı en fazla cezaya hükmeden mahkemenin bulunduğu yer infaz hâkimliği tarafından verilirse bu yetki aşağıdakilerden hangisi durumda Ankara infaz hâkimliğine geçer?",
+    "A": "Bölge adliye mahkemesi kararı varsa",
+    "B": "Yargıtay ilk derece mahkemesi sıfatıyla karar vermişse",
+    "C": "Mahkeme kararı temyiz edilmişse",
+    "D": "En fazla ceza ağırlaştırılmış müebbetse",
+    "Answer": "Yargıtay ilk derece mahkemesi sıfatıyla karar vermişse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz sırasında Cumhuriyet savcısı aşağıdakilerden hangisi durumda hükümlünün yazılı görüşünü alabilir?",
+    "A": "İnfaz ertelenmesi durumunda",
+    "B": "Hastaneye sevk edilme durumunda",
+    "C": "Karar verilmeden önce",
+    "D": "Tahliye isteminde",
+    "Answer": "Karar verilmeden önce",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülere ceza infaz kurumuna dışarıdan yardım edilmesinin amacı aşağıdakilerden hangisidir?",
+    "A": "Ceza süresini kısaltmak",
+    "B": "Kişisel zorluklarını aşmalarını sağlamak",
+    "C": "Maddi yardım yapmak",
+    "D": "Mahkemede savunma sağlamak",
+    "Answer": "Kişisel zorluklarını aşmalarını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin ceza infaz kurumlarından salıverilmelerinden önce veya sonra yardım almaları için aşağıdakilerden hangisi destek vermekle yükümlüdür?",
+    "A": "İlgili bakanlıklar ve kamu kurumları",
+    "B": "Cezaevi müdürü",
+    "C": "Cumhuriyet savcısı",
+    "D": "Savunma avukatları",
+    "Answer": "İlgili bakanlıklar ve kamu kurumları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumuna yapılacak yardımlar için gönüllü kişi ve kuruluşlardan yardım alınabilmesi aşağıdakilerden hangisi durumda geçerlidir?",
+    "A": "Hükümlülerin talep etmesi durumunda",
+    "B": "Gönüllü kişi ve kuruluşların başvuru yapması durumunda",
+    "C": "Devlet zorunlu yardım sağlamadığı durumlarda",
+    "D": "Resmi izin alınması durumunda",
+    "Answer": "Gönüllü kişi ve kuruluşların başvuru yapması durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler arası yardımlaşma kapsamında meslek sahibi olan hükümlüler aşağıdakilerden hangisi konuda diğer hükümlülere katkıda bulunabilir?",
+    "A": "Hukuki bilgi sağlama",
+    "B": "Ceza indirimine destek sağlama",
+    "C": "Psikolojik danışmanlık yapma",
+    "D": "Çalışma yeteneği kazandırma",
+    "Answer": "Çalışma yeteneği kazandırma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz kurumuna dışarıdan yardım yapılması durumunda bu yardım ve desteğin amacı aşağıdakilerden hangisidir?",
+    "A": "Hükümlülerin sağlık masraflarını karşılamak",
+    "B": "Dış dünyaya uyum sağlamalarını desteklemek",
+    "C": "Hükümlülerin maddi ihtiyaçlarını karşılamak",
+    "D": "Mahkemeye savunma sunmak",
+    "Answer": "Dış dünyaya uyum sağlamalarını desteklemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin dış dünyaya uyumlarını sağlamaları için yapılacak destek ve yardımlar aşağıdakilerden hangisi tarafından düzenlenir?",
+    "A": "Cezaevi idaresi",
+    "B": "Cumhuriyet Savcısı",
+    "C": "Cumhurbaşkanlığı",
+    "D": "Denetimli Serbestlik Müdürlüğü",
+    "Answer": "Cumhurbaşkanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumuna yapılacak dış yardımların yönetim esasları aşağıdakilerden hangisi tarafından belirlenir?",
+    "A": "Cumhurbaşkanı",
+    "B": "Cumhuriyet Savcısı",
+    "C": "İlgili Bakanlık",
+    "D": "Cezaevi Müdürü",
+    "Answer": "Cumhurbaşkanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler arası yardımlaşmada becerikli hükümlüler aşağıdakilerden hangisi konularda diğerlerine yardımcı olabilir?",
+    "A": "Ceza hukuku konusunda",
+    "B": "Meslek ve sanat öğreniminde",
+    "C": "Kişisel finans yönetiminde",
+    "D": "Aile sorunlarında",
+    "Answer": "Meslek ve sanat öğreniminde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler arasında meslek veya sanat eğitimi vermek isteyen hükümlüler aşağıdakilerden hangisi şartı sağlamalıdır?",
+    "A": "Cezaevi yönetimi ile iş birliği yapmak",
+    "B": "Kendi isteğiyle talepte bulunmak",
+    "C": "Yüksek güvenlikli cezaevinde bulunmak",
+    "D": "Denetimli serbestlik kapsamında olmak",
+    "Answer": "Cezaevi yönetimi ile iş birliği yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iyileştirilmesi ve uyum sağlamaları için dış destek aşağıdakilerden hangisi durumda mümkündür?",
+    "A": "Mahkeme kararıyla",
+    "B": "Cezaevi yönetiminin talebiyle",
+    "C": "İlgili bakanlıkların desteğiyle",
+    "D": "Cumhurbaşkanlığı talimatıyla",
+    "Answer": "İlgili bakanlıkların desteğiyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz kurumuna dış yardım sağlayan kurumlar arasında gönüllü kişi ve kuruluşlar da bulunabilir. Bu durumda gönüllü yardımlar aşağıdakilerden hangisi şekilde düzenlenir?",
+    "A": "Gönüllülerle protokol yapılarak",
+    "B": "Yönetmelik hükümlerine göre",
+    "C": "Savcı onayı alınarak",
+    "D": "Cezaevi idaresince düzenlenerek",
+    "Answer": "Yönetmelik hükümlerine göre",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

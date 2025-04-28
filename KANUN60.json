@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kısa süreli hapis cezası yerine Türk Ceza Kanunu’nun 50. maddesi gereğince seçenekli yaptırımlar uygulanırken hangi ilkeler dikkate alınır?",
+    "A": "Kamu güvenliği ve suçu tekrar etme ihtimali",
+    "B": "Hükümlünün eğitim gereksinimleri ve topluma uyum",
+    "C": "Sadece suç geçmişi",
+    "D": "Hükümlünün ceza süresi",
+    "Answer": "Hükümlünün eğitim gereksinimleri ve topluma uyum",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kısa süreli hapis cezası yerine seçenekli yaptırımlar uygulanırken hangi yükümlülükler hükümlerine eklenebilir?",
+    "A": "Adli para cezası ödenmesi",
+    "B": "Kamuya yararlı işte çalışma",
+    "C": "Belirli hakları kullanmaktan yoksun bırakılma",
+    "D": "Hepsi",
+    "Answer": "Hepsi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi seçenekli yaptırım kısa süreli hapis cezaları yerine uygulanamaz?",
+    "A": "Kamuya yararlı bir işte çalışma",
+    "B": "Sürekli gözetim altında tutulma",
+    "C": "Adli para cezası",
+    "D": "Eğitim ve iyileştirme programlarına katılma",
+    "Answer": "Sürekli gözetim altında tutulma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kısa süreli hapis cezası yerine uygulanan seçenekli yaptırımların infaz süresi nasıl düzenlenir?",
+    "A": "Sadece ceza süresi dikkate alınır",
+    "B": "İnfaz süresi hükümlünün talebine göre belirlenir",
+    "C": "İnfaz süresi Türk Ceza Kanunu’na göre belirlenir",
+    "D": "İnfaz süresi her durumda sabittir",
+    "Answer": "İnfaz süresi Türk Ceza Kanunu’na göre belirlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kısa süreli hapis cezası yerine seçenekli yaptırımlar uygulandığında hükümlü hangi şartları sağlamak zorundadır?",
+    "A": "Ceza süresi boyunca yalnızca çalışma yapabilir",
+    "B": "Belirli eğitim programlarına katılmalıdır",
+    "C": "Kamuya yararlı işte çalışmalıdır",
+    "D": "Herhangi bir program ya da işte bulunmak zorunda değildir",
+    "Answer": "Belirli eğitim programlarına katılmalıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi durumda kısa süreli hapis cezası yerine seçenekli yaptırımlar uygulanabilir?",
+    "A": "Hükümlü daha önce suç işlememişse",
+    "B": "Ceza süresi 2 yıl ve üzeri ise",
+    "C": "Hükümlü 1 yıl veya daha kısa süreli bir hapis cezasına mahkûm ise",
+    "D": "Kamu güvenliğini tehlikeye düşüren suçlar için",
+    "Answer": "Hükümlü 1 yıl veya daha kısa süreli bir hapis cezasına mahkûm ise",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, özel infaz usulleri ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "İnfaz hâkimi, hükümlünün talebi üzerine kasten işlenen suçlarda toplam bir yıl altı ay, taksirle öldürme suçu hariç olmak üzere taksirle işlenen suçlarda ise toplam üç yıl veya daha az süreli hapis cezasının, her hafta cuma günleri saat 19.00'da girmek ve pazar günleri aynı saatte çıkmak suretiyle hafta sonları, ceza infaz kurumlarında çektirilmesine karar verebilir.",
+    "B": "İnfaz hâkimi, hükümlünün talebi üzerine her gün saat 19.00'da girmek ve ertesi gün saat 07.00'de çıkmak suretiyle geceleri ceza infaz kurumlarında çektirilmesine karar verebilir.",
+    "C": "Taksirle işlenen suçlarda toplam üç yıl veya daha az süreli hapis cezası için özel infaz usulleri uygulanabilir.",
+    "D": "İnfaz hâkiminin, hükümlünün talebi üzerine özel infaz usullerini uygulaması için suçun kasten işlenmiş olması gerekir.",
+    "Answer": "İnfaz hâkiminin, hükümlünün talebi üzerine özel infaz usullerini uygulaması için suçun kasten işlenmiş olması gerekir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, özel infaz usulleri ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Kadın, çocuk veya altmış beş yaşını bitirmiş kişilerin mahkûm oldukları toplam bir yıl veya daha az süreli hapis cezasının, konutunda çektirilmesine infaz hâkimi tarafından karar verilebilir.",
+    "B": "Yetmiş yaşını bitirmiş kişilerin mahkûm oldukları toplam iki yıl veya daha az süreli hapis cezasının, konutunda çektirilmesine infaz hâkimi tarafından karar verilebilir.",
+    "C": "Yetmiş beş yaşını bitirmiş kişilerin mahkûm oldukları toplam dört yıl veya daha az süreli hapis cezasının, konutunda çektirilmesine infaz hâkimi tarafından karar verilebilir.",
+    "D": "Erkek mahkumların hakları saklı kalmak üzere yaşları ne olursa olsun, cezalarının infazı konutlarında yapılabilir.",
+    "Answer": "Erkek mahkumların hakları saklı kalmak üzere yaşları ne olursa olsun, cezalarının infazı konutlarında yapılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, özel infaz usulleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Toplam beş yıl veya daha az süreli hapis cezasına mahkûm olan veya adli para cezası infaz sürecinde hapis cezasına çevrilen hükümlülerden, 16. maddenin üçüncü fıkrasında belirlenen usule göre maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında hayatını yalnız idame ettiremeyeceği tespit edilenlerin cezasının konutunda çektirilmesine infaz hâkimi tarafından karar verilebilir.",
+    "B": "Toplam beş yıl veya daha az süreli hapis cezasına mahkûm olan hükümlüler, yalnızca ceza infaz kurumunda cezasını çekebilirler.",
+    "C": "Adli para cezasına çevrilen hapis cezaları, hükümlüye sağlık durumu nedeniyle evde çektirilemez.",
+    "D": "Hükümlülerin, ağır hastalık veya engellilik nedeniyle ceza infaz kurumunda hayatını idame ettiremeyeceği durumlar, yalnızca bir yıl veya daha az süreli hapis cezaları için geçerlidir.",
+    "Answer": "Toplam beş yıl veya daha az süreli hapis cezasına mahkûm olan veya adli para cezası infaz sürecinde hapis cezasına çevrilen hükümlülerden, 16. maddenin üçüncü fıkrasında belirlenen usule göre maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında hayatını yalnız idame ettiremeyeceği tespit edilenlerin cezasının konutunda çektirilmesine infaz hâkimi tarafından karar verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, özel infaz usulleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kadınlar, doğum yapmadan önce cezalarını evde çekemezler.",
+    "B": "Doğum yapmış bir kadın için, cezasının konutunda çekilmesi sadece üç yıl veya daha fazla süreli hapis cezaları için uygulanabilir.",
+    "C": "Doğurduğu tarihten itibaren altı ay geçen ve toplam üç yıl veya daha az süreli hapis cezasına mahkûm olan ya da adli para cezası infaz sürecinde hapis cezasına çevrilen hükümlü kadınların cezasının konutunda çektirilmesine infaz hâkimi tarafından karar verilebilir. Bu fıkra uyarınca talepte bulunulabilmesi için kadının doğurduğu tarihten itibaren bir yıl altı ay geçmemiş olması gerekir.",
+    "D": "Konutta infaz kararı verildikten sonra çocuk ölmüş veya annesinden başka birine verilmişse, infaz hâkimi bu kararı değiştirmez.",
+    "Answer": "Doğurduğu tarihten itibaren altı ay geçen ve toplam üç yıl veya daha az süreli hapis cezasına mahkûm olan ya da adli para cezası infaz sürecinde hapis cezasına çevrilen hükümlü kadınların cezasının konutunda çektirilmesine infaz hâkimi tarafından karar verilebilir. Bu fıkra uyarınca talepte bulunulabilmesi için kadının doğurduğu tarihten itibaren bir yıl altı ay geçmemiş olması gerekir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, özel infaz usulleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Cezanın özel infaz usulüne göre çektirilmesine karar verilenler hakkında tabi oldukları infaz rejimine göre koşullu salıverilme hükümleri uygulanır. Ancak, 105/A maddesi hükümleri uygulanmaz.",
+    "B": "Cezanın özel infaz usulüne göre çektirilmesi kararı, infaza başladıktan sonra da verilebilir.",
+    "C": "İnfaz hâkimi talep üzerine, cezanın özel infaz usulüne göre çektirilmesi sırasında bu usulün uygulanmasına son verebilir.  Özel infaz usulünün gereklerine geçerli bir mazeret olmaksızın uyulmaması halinde ise bu usulün uygulanmasına son verilir ve bu halde infaza kapalı ceza infaz kurumunda devam edilir.",
+    "D": "Özel infaz usulüne göre geçirilen süre, infaz aşamasında mahsup edilir ve bu fıkranın uygulandığı hâllerde 105/A maddesi hükümleri uygulanmaz.",
+    "Answer": "İnfaz hâkimi talep üzerine, cezanın özel infaz usulüne göre çektirilmesi sırasında bu usulün uygulanmasına son verebilir.  Özel infaz usulünün gereklerine geçerli bir mazeret olmaksızın uyulmaması halinde ise bu usulün uygulanmasına son verilir ve bu halde infaza kapalı ceza infaz kurumunda devam edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, aşağıdaki verilen bilgilerden hangisi özel infaz usulleri ile ilgili yanlıştır?",
+    "A": "Terör suçları ile örgüt kurmak, yönetmek veya örgüte üye olmak suçlarından ya da örgüt faaliyeti kapsamında işlenen suçlardan mahkûm olanlar hakkında özel infaz usulleri hükümleri uygulanmaz.",
+    "B": "Cinsel dokunulmazlığa karşı işlenen suçlardan mahkûm olanlar hakkında özel infaz usul hükümleri uygulanır.",
+    "C": "Adli para cezası infaz sürecinde hapis cezasına çevrilenler hakkında özel infaz usul hükümleri uygulanmaz.",
+    "D": "Koşullu salıverilme kararının geri alınması nedeniyle cezası aynen infaz edilenler hakkında özel infaz usul hükümleri uygulanmaz.",
+    "Answer": "Cinsel dokunulmazlığa karşı işlenen suçlardan mahkûm olanlar hakkında özel infaz usul hükümleri uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kasten işlenen suçlarda, cezalarının hafta sonları veya geceleri çekilmesine karar verilebilecek hükümlülerin toplam hapis cezası aşağıdakilerden hangisidir?",
+    "A": "Bir yıl",
+    "B": "Bir yıl altı ay",
+    "C": "İki yıl",
+    "D": "Üç yıl",
+    "Answer": "Bir yıl altı ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, taksirle işlenen suçlarda (taksirle öldürme suçu hariç), hafta sonları veya geceleri infaz usulünden yararlanabilecek hükümlülerin toplam hapis cezası aşağıdakilerden hangisidir?",
+    "A": "Bir yıl",
+    "B": "İki yıl",
+    "C": "Üç yıl",
+    "D": "Dört yıl",
+    "Answer": "Üç yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kadın, çocuk veya 65 yaşını bitirmiş kişilerin mahkûm oldukları hapis cezalarının konutta çektirilebilmesi için ceza süresi aşağıdakilerden hangisi olmalıdır?",
+    "A": "Bir yıl",
+    "B": "İki yıl",
+    "C": "Üç yıl",
+    "D": "Dört yıl",
+    "Answer": "Bir yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, 75 yaşını bitirmiş kişilerin toplam kaç yıla kadar olan hapis cezaları konutta çektirilebilir?",
+    "A": "Bir yıl",
+    "B": "İki yıl",
+    "C": "Üç yıl",
+    "D": "Dört yıl",
+    "Answer": "Dört yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, doğumdan itibaren 6 ay geçmiş ve toplam ne kadar süreli hapis cezasına mahkûm olan kadınların cezaları konutta çektirilebilir?",
+    "A": "Bir yıl",
+    "B": "Üç yıl",
+    "C": "İki yıl",
+    "D": "Dört yıl",
+    "Answer": "Üç yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, konutta infaza karar verilmiş olan kadın hükümlünün çocuğunun ölmesi veya başka birine verilmesi hâlinde aşağıdakilerden hangisi olur?",
+    "A": "Ceza ertelenir",
+    "B": "Konutta infaz kararı devam eder",
+    "C": "İnfaz hâkimi konutta infaz uygulamasını kaldırır",
+    "D": "Ceza ertesi yıla bırakılır",
+    "Answer": "İnfaz hâkimi konutta infaz uygulamasını kaldırır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki durumlardan hangisinde cezanın özel infaz usulüne göre çektirilmesine karar verilemez?",
+    "A": "Terör suçlarından mahkûm olanlar",
+    "B": "65 yaş üstü olanlar",
+    "C": "Ağır hastalığı olanlar",
+    "D": "Yeni doğum yapmış kadınlar",
+    "Answer": "Terör suçlarından mahkûm olanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, cezanın özel infaz usulüne göre çektirilmesi sırasında usule uyulmaması durumunda aşağıdakilerden hangisi olur?",
+    "A": "Ceza ertelenir",
+    "B": "Ceza iptal edilir",
+    "C": "İnfaza açık ceza infaz kurumunda devam edilir",
+    "D": "Ceza sona erdirilir",
+    "Answer": "İnfaza açık ceza infaz kurumunda devam edilir",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

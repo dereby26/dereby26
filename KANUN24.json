@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, savunma yapılırken Türkçe bilmeyen hükümlülerin tercümanı kim tarafından temin edilir?",
+    "A": "Hükümlünün ailesi",
+    "B": "Cumhuriyet savcısı",
+    "C": "Kurumun kendisi",
+    "D": "Disiplin kurulu başkanı",
+    "Answer": "Kurumun kendisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin soruşturması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Uyarma, kınama ve bazı etkinliklere katılmaktan alıkoyma cezaları kurumun en üst amiri tarafından verilir ve uygulanır.",
+    "B": "Hükümlülerin diğer disiplin cezalarını gerektiren eylemlerinin öğrenilmesinden itibaren derhal ve en geç beş gün içinde kurum en üst amirince atanan bir görevli tarafından soruşturmaya başlanır.",
+    "C": "Soruşturma en geç on beş gün içinde tamamlanır. Firar hâlinde bu süre, hükümlünün yakalandığının öğrenildiği tarihte başlar. Düzenlenen rapor ve ekleri disiplin kuruluna sunulur.",
+    "D": "Savunma alınmadan disiplin cezası verilemez. Haklarında disiplin soruşturması yapılanlara, yüklenen eylemin niteliği ve sonuçları ile beş gün içinde savunmalarını vermeleri, aksi hâlde bu haklarından vazgeçmiş sayılacakları yazılı olarak bildirilir. Savunma yazılı olarak sunulabileceği gibi sözlü olarak da yapılabilir. Sözlü savunma tutanakla saptanır. Türkçe bilmeyenlerle, sağır ve dilsizlerin savunmaları tercüman aracılığıyla alınır.",
+    "Answer": "Savunma alınmadan disiplin cezası verilemez. Haklarında disiplin soruşturması yapılanlara, yüklenen eylemin niteliği ve sonuçları ile beş gün içinde savunmalarını vermeleri, aksi hâlde bu haklarından vazgeçmiş sayılacakları yazılı olarak bildirilir. Savunma yazılı olarak sunulabileceği gibi sözlü olarak da yapılabilir. Sözlü savunma tutanakla saptanır. Türkçe bilmeyenlerle, sağır ve dilsizlerin savunmaları tercüman aracılığıyla alınır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin kurulu kararları en geç kaç gün içinde karara bağlanır?",
+    "A": "2 gün",
+    "B": "3 gün",
+    "C": "5 gün",
+    "D": "7 gün",
+    "Answer": "7 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin kurulu kararları nasıl yazılır?",
+    "A": "Sözlü olarak beyan edilir",
+    "B": "Gerekçeli olarak yazılır",
+    "C": "Hükümlüye özetlenerek bildirilir",
+    "D": "Sadece infaz hâkimine iletilir",
+    "Answer": "Gerekçeli olarak yazılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin kurulu kararında aşağıdaki bilgilerden hangisi yer almaz?",
+    "A": "Şikâyet mercii",
+    "B": "Şikâyet süresi",
+    "C": "Kararın gerekçesi",
+    "D": "Ceza infaz kurumunun iç düzeni",
+    "Answer": "Ceza infaz kurumunun iç düzeni",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin kurulu kararları kimlere tebliğ edilir?",
+    "A": "Cumhuriyet savcısına",
+    "B": "Hükümlünün ailesine",
+    "C": "Haklarında soruşturma yapılan hükümlülere",
+    "D": "İnfaz hâkimine",
+    "Answer": "Haklarında soruşturma yapılan hükümlülere",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kurumun iç düzeni ve hükümlülerin yaşam ve beden bütünlükleri ciddi tehlike altında olduğunda kim derhâl tedbir alabilir?",
+    "A": "Disiplin kurulu",
+    "B": "Kurumun en üst amiri",
+    "C": "İnfaz hâkimi",
+    "D": "Cumhuriyet savcısı",
+    "Answer": "Kurumun en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, derhâl tedbir alınması durumunda alınan tedbirler hakkında kime bilgi verilir?",
+    "A": "İnfaz hâkimine",
+    "B": "Disiplin kurulu",
+    "C": "Hükümlüye",
+    "D": "Kurum personeline",
+    "Answer": "İnfaz hâkimine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin soruşturması kim tarafından yapılır?",
+    "A": "Disiplin kurulu",
+    "B": "Kurumun en üst amiri",
+    "C": "Hükümlünün avukatı",
+    "D": "Cumhuriyet savcısı",
+    "Answer": "Cumhuriyet savcısı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin soruşturmasının yapılması için aşağıdakilerden hangisi gereklidir?",
+    "A": "İnfaz hâkiminden izin alınması",
+    "B": "Ceza infaz kurumu personelinin talebi",
+    "C": "Hükümlünün yazılı savunmasının alınması",
+    "D": "Hükümlülerin şikâyetleri",
+    "Answer": "Hükümlünün yazılı savunmasının alınması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün ceza infaz kurumu dışındaki eylemleri nedeniyle disiplin soruşturması hangi kurum tarafından yapılır?",
+    "A": "İnfaz hâkimliği",
+    "B": "En son barındırıldığı ceza infaz kurumu disiplin",
+    "C": "Cumhuriyet savcılığı",
+    "D": "Ceza infaz kurumu müdürü",
+    "Answer": "En son barındırıldığı ceza infaz kurumu disiplin",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin kurulu hangi durumlarda disiplin cezası verilmesine yer olmadığına karar verebilir?",
+    "A": "Hükümlünün savunması yeterli görülürse",
+    "B": "İnfaz hâkiminin talebi doğrultusunda",
+    "C": "Savcı tarafından bildirilen bir durum yoksa",
+    "D": "Kurumun en üst amiri uygun görürse",
+    "Answer": "Hükümlünün savunması yeterli görülürse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin soruşturmasında hükümlünün savunma süresi kaç gündür?",
+    "A": "1 gün",
+    "B": "2 gün",
+    "C": "3 gün",
+    "D": "5 gün",
+    "Answer": "5 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün barındırıldığı ceza infaz kurumu disiplin kurulu tarafından yapılmayan soruşturma hangi durumda geçerli olabilir?",
+    "A": "Hükümlü başka bir cezaevine nakledildiyse",
+    "B": "Cezaevi personeli eksikse",
+    "C": "Eylemin gerçekleştiği kurum dışında yapıldıysa",
+    "D": "Hükümlünün eylem öncesi en son barındırıldığı ceza infaz kurumu disiplin kurulu tarafından yapıldığında",
+    "Answer": "Hükümlünün eylem öncesi en son barındırıldığı ceza infaz kurumu disiplin kurulu tarafından yapıldığında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin soruşturmasında hükümlülerin hangi hakkı güvence altındadır?",
+    "A": "Savunma yapma hakkı",
+    "B": "İnfaz hâkimine başvuru hakkı",
+    "C": "Hüküm erteleme hakkı",
+    "D": "Cezaevinden tahliye hakkı",
+    "Answer": "Savunma yapma hakkı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin kurulu kararlarına itiraz süresi nereye bildirilir?",
+    "A": "Disiplin kuruluna",
+    "B": "İnfaz hâkimine",
+    "C": "Şikâyet merciine",
+    "D": "Cumhuriyet savcısına",
+    "Answer": "İnfaz hâkimine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, derhâl tedbir alınması gereken durumlarda kurumun en üst amirinin yükümlülüğü nedir?",
+    "A": "Savcının yazılı emrini beklemek",
+    "B": "Disiplin kuruluna başvurmak",
+    "C": "İnfaz hâkimine bilgi vererek gerekli tedbirleri almak",
+    "D": "Hükümlünün yazılı talebini almak",
+    "Answer": "İnfaz hâkimine bilgi vererek gerekli tedbirleri almak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin soruşturmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Disiplin cezaları disiplin kurulunca evrak üzerinden görüşülerek en geç üç gün içinde karara bağlanır. Disiplin kurulu, yasada yazılı disiplin cezası uygulanmasına veya disiplin cezası verilmesine yer olmadığına karar verebilir.",
+    "B": "Disiplin kurulu kararları gerekçeli olarak yazılır ve kararda şikâyet mercii ve süresi açıkça gösterilir.",
+    "C": "Disiplin kurulu kararı, haklarında soruşturma yapılanlara yönetim tarafından derhâl tebliğ edilir.",
+    "D": "Disiplin soruşturması hükümlünün barındırıldığı ceza infaz kurumu eğitim kurulu tarafından yapılır. Hükümlünün ceza infaz kurumu dışındaki eylemleri nedeniyle yapılacak disiplin soruşturması, hükümlünün eylem öncesi en son barındırıldığı ceza infaz kurumu disiplin kurulu tarafından yapılır.",
+    "Answer": "Disiplin soruşturması hükümlünün barındırıldığı ceza infaz kurumu eğitim kurulu tarafından yapılır. Hükümlünün ceza infaz kurumu dışındaki eylemleri nedeniyle yapılacak disiplin soruşturması, hükümlünün eylem öncesi en son barındırıldığı ceza infaz kurumu disiplin kurulu tarafından yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I- Uyarma II- Kınama III- Bazı etkinliklerden alıkoyma IV- Hücreye koyma 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdaki disiplin cezalarından hangisi/hangileri kurum müdürü tarafından verilir?",
+    "A": "I-II",
+    "B": "Hepsi",
+    "C": "Yalnız IV",
+    "D": "I-II-III",
+    "Answer": "I-II-III",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aynı türden disiplin cezasını gerektiren bir eylemin tekrarı durumunda ne yapılır?",
+    "A": "Aynı ceza tekrar uygulanır",
+    "B": "Ceza infaz süresi uzatılır",
+    "C": "Her defasında bir üst ceza uygulanır",
+    "D": "İnfaz hâkimine bildirilir",
+    "Answer": "Her defasında bir üst ceza uygulanır",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

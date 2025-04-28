@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumundan geçici olarak çıkarılan bir hükümlü hakkında düzenlenen belgeler aşağıdakilerden hangisine gönderilir?",
+    "A": "Cumhuriyet Başsavcılığı",
+    "B": "Adalet Bakanlığı",
+    "C": "Sulh ceza hâkimliği",
+    "D": "Ceza infaz kurumu idaresi",
+    "Answer": "Cumhuriyet Başsavcılığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin izin süreleri ile ilgili ayrıntılar aşağıdakilerden hangisi tarafından belirlenen yönetmelikte düzenlenir?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Adalet Bakanlığı",
+    "C": "Cumhurbaşkanı",
+    "D": "Yüksek Seçim Kurulu",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlünün ceza infaz kurumundan geçici olarak çıkarılmasını gerektiren durumlardan biri değildir?",
+    "A": "Deprem gibi doğal afetler",
+    "B": "Eğitim ve öğretim için sevk",
+    "C": "Ziyaretçilerini karşılamak",
+    "D": "Hastaneye sevk edilmek",
+    "Answer": "Ziyaretçilerini karşılamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün bilgi doğruluğunu araştırma amacıyla ceza infaz kurumundan çıkarılması için rızası alınırken hangi süre sınırına uyulmalıdır?",
+    "A": "Toplamda bir haftayı geçmemek",
+    "B": "Günlük maksimum altı saatle sınırlı olmak",
+    "C": "Süresiz olarak çıkarılabilmek",
+    "D": "Her defasında en fazla dört gün ve toplamda on beş günü geçmemek",
+    "Answer": "Her defasında en fazla dört gün ve toplamda on beş günü geçmemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumundan çıkarılma sırasında hükümlünün sağlığı ile ilgili aşağıdakilerden hangisi alınacak önlemlerden biridir?",
+    "A": "Sağlık kontrolünün yapılması zorunludur",
+    "B": "Sağlık kontrolü gerekmez",
+    "C": "Sadece acil durumda sağlık kontrolü yapılır",
+    "D": "Ceza infaz kurumu personeli karar verir",
+    "Answer": "Sağlık kontrolünün yapılması zorunludur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülere mazeret izni verilmesi ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Hükümlülük süresinin onda birini iyi hâlle geçirmiş olanlara, ana, baba, eş, kardeş veya çocuğunun ölümü nedeniyle ceza infaz kurumu en üst amirinin önerisi ve Cumhuriyet Başsavcılığının onayı ile mazeret izni verilebilir.",
+    "B": "Yakınlarından birisinin yaşamsal tehlike oluşturacak önemli ve ağır hastalık hâllerinin belgelendirilmesi durumunda, Adalet Bakanlığının onayı ile mazeret izni verilebilir.",
+    "C": "Deprem, su baskını, yangın gibi felaketler nedeniyle zarara uğrayan yakınların varlığı durumunda, belgelendirilmesi koşuluyla Cumhuriyet Başsavcılığının önerisi ve Adalet Bakanlığının onayı ile mazeret izni verilebilir.",
+    "D": "Mazeret izni, yol süreleri hariç olmak üzere en fazla yedi gün süreyle verilebilir.",
+    "Answer": "Mazeret izni, yol süreleri hariç olmak üzere en fazla yedi gün süreyle verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin kapalı kurum dışına çıkabilmesi için aşağıdakilerden hangisi geçerli bir sebep olarak kabul edilmez?",
+    "A": "İzin veya hastaneye sevk",
+    "B": "Deprem, sel gibi doğal afetler",
+    "C": "Ziyaretçi kabulü",
+    "D": "Eğitim ve öğretim amacıyla sevk",
+    "Answer": "Ziyaretçi kabulü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, terör ve örgüt faaliyeti kapsamında suç işlemiş olan hükümlülerin, bilgi doğruluğunun araştırılması amacıyla geçici süreyle ceza infaz kurumundan çıkarılması için aşağıdakilerden hangisi gereklidir?",
+    "A": "İlgili makamın talebi üzerine sulh ceza hâkimi kararı",
+    "B": "Cumhuriyet Başsavcısının onayı",
+    "C": "Ceza infaz kurumu müdürünün yazılı emri",
+    "D": "Adalet Bakanlığı’nın izni",
+    "Answer": "İlgili makamın talebi üzerine sulh ceza hâkimi kararı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlü veya tutukluların bilgi doğruluğunu araştırmak için ceza infaz kurumundan geçici olarak alınması durumunda bu sürenin üst sınırı aşağıdakilerden hangisidir?",
+    "A": "7 gün",
+    "B": "10 gün",
+    "C": "15 gün",
+    "D": "30 gün",
+    "Answer": "15 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin izin hakkından yararlanma imkânı bulunmayan kişiler arasında yer alır?",
+    "A": "Yüksek güvenlikli ceza infaz kurumunda bulunanlar",
+    "B": "Terör suçlarından hüküm giymiş olanlar",
+    "C": "Eğitim hakkını kullanmak isteyen hükümlüler",
+    "D": "Adli para cezasını ödemeyenler",
+    "Answer": "Yüksek güvenlikli ceza infaz kurumunda bulunanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin izin sürelerinin hükümlülük süresinden sayılması için aşağıdakilerden hangisi gereklidir?",
+    "A": "İznin yalnızca özel izin olması",
+    "B": "İznin yalnızca mazeret izni olması",
+    "C": "İzin süresinin yönetmelikte belirlenen sınırda kalması",
+    "D": "İzin süresinin türünden bağımsız olarak hükümlülük süresine sayılması",
+    "Answer": "İzin süresinin türünden bağımsız olarak hükümlülük süresine sayılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yüksek güvenlikli ceza infaz kurumlarında bulunmayan hükümlüler için aşağıdakilerden hangisi verilebilir?",
+    "A": "Özel izin, mazeret izni ve iş arama izni",
+    "B": "Sadece mazeret izni",
+    "C": "Sadece iş arama izni",
+    "D": "Sağlık gerekçesiyle izin",
+    "Answer": "Özel izin, mazeret izni ve iş arama izni",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumundan geçici olarak çıkarılan hükümlünün ceza infaz kurumuna dönüşünde yapılması gereken işlem aşağıdakilerden hangisidir?",
+    "A": "Mahkeme kararı alınması",
+    "B": "Sağlık durumunun doktor raporuyla tespiti",
+    "C": "Cumhuriyet Başsavcılığı’na bilgi verilmesi",
+    "D": "Ceza infaz kurumu idaresinin onayı alınması",
+    "Answer": "Sağlık durumunun doktor raporuyla tespiti",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumundan geçici olarak çıkarılan bir hükümlü hakkında düzenlenen belgeler aşağıdakilerden hangisine gönderilir?",
+    "A": "Adalet Bakanlığı",
+    "B": "Sulh ceza hâkimliği",
+    "C": "Cumhuriyet Başsavcılığı",
+    "D": "Ceza infaz kurumu idaresi",
+    "Answer": "Cumhuriyet Başsavcılığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin izin süreleri ile ilgili ayrıntılar aşağıdakilerden hangisi tarafından belirlenen yönetmelikte düzenlenir?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Adalet Bakanlığı",
+    "C": "Cumhurbaşkanı",
+    "D": "Yüksek Seçim Kurulu",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlünün ceza infaz kurumundan geçici olarak çıkarılmasını gerektiren durumlardan biri değildir?",
+    "A": "Deprem gibi doğal afetler",
+    "B": "Eğitim ve öğretim için sevk",
+    "C": "Ziyaretçilerini karşılamak",
+    "D": "Hastaneye sevk edilmek",
+    "Answer": "Ziyaretçilerini karşılamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün bilgi doğruluğunu araştırma amacıyla ceza infaz kurumundan çıkarılması için rızası alınırken hangi süre sınırına uyulmalıdır?",
+    "A": "Toplamda bir haftayı geçmemek",
+    "B": "Günlük maksimum altı saatle sınırlı olmak",
+    "C": "Süresiz olarak çıkarılabilmek",
+    "D": "Her defasında en fazla dört gün ve toplamda on beş günü geçmemek",
+    "Answer": "Her defasında en fazla dört gün ve toplamda on beş günü geçmemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumundan çıkarılma sırasında hükümlünün sağlığı ile ilgili aşağıdakilerden hangisi alınacak önlemlerden biridir?",
+    "A": "Sağlık kontrolünün yapılması zorunludur",
+    "B": "Sağlık kontrolü gerekmez",
+    "C": "Sadece acil durumda sağlık kontrolü yapılır",
+    "D": "Ceza infaz kurumu personeli karar verir",
+    "Answer": "Sağlık kontrolünün yapılması zorunludur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülere ana, baba, eş, kardeş veya çocuklarının yaşamsal tehlike oluşturacak önemli ve ağır hastalık hâlleri ya da deprem, su baskını, yangın gibi felâketler nedeniyle zarara uğradıklarının belgelendirilmesi şartıyla, yol süresi hariç en fazla kaç gün mazeret izni verilebilir?",
+    "A": "Beş",
+    "B": "Yedi",
+    "C": "Sekiz",
+    "D": "On",
+    "Answer": "On",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, mazeret izni ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Yüksek güvenlikli ceza infaz kurumunda bulunan tehlikeli hükümlülere hiçbir şekilde mazeret izni verilmez.",
+    "B": "Güvenlik bakımından sakınca oluşturmaması koşuluyla, tehlikeli olmayan hükümlülerin, dış güvenlik görevlisinin refakatinde bulunmak şartıyla, talebi ve Cumhuriyet Başsavcısının onayıyla ikinci derece dahil kan veya kayın hısımlarından birinin ya da eşinin ölümü nedeniyle cenazesine katılması için yol süresi dışında iki güne kadar izin verilebilir.",
+    "C": "Mazeret izni, yalnızca ilk derece yakınlar için geçerlidir, ikinci derece yakınlar için izin verilmez.",
+    "D": "Hükümlülerin mazeret izni talepleri Cumhuriyet Başsavcısının onayına bağlıdır.",
+    "Answer": "Güvenlik bakımından sakınca oluşturmaması koşuluyla, tehlikeli olmayan hükümlülerin, dış güvenlik görevlisinin refakatinde bulunmak şartıyla, talebi ve Cumhuriyet Başsavcısının onayıyla ikinci derece dahil kan veya kayın hısımlarından birinin ya da eşinin ölümü nedeniyle cenazesine katılması için yol süresi dışında iki güne kadar izin verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

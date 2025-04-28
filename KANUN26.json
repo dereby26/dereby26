@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezası hangi durumda infaz edilmez?",
+    "A": "Hükümlü cezaevinde iyi hâl gösterdiğinde",
+    "B": "Hükümlü cezanın iptali için dilekçe verdiğinde",
+    "C": "Cumhuriyet savcısının onayı olmadığında",
+    "D": "Hükümlünün sağlık kurulu raporuyla iyileşemeyeceği tespit edildiğinde",
+    "Answer": "Hükümlünün sağlık kurulu raporuyla iyileşemeyeceği tespit edildiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün hücre cezasına katlanamayacağı hekim raporuyla anlaşıldığında ceza nasıl uygulanır?",
+    "A": "Hükümlü başka bir cezaya tabi tutulur",
+    "B": "Hücre cezası yerine para cezası uygulanır",
+    "C": "Hekimin belirlediği aralıklarla uygulanır",
+    "D": "Ceza tamamen iptal edilir",
+    "Answer": "Hekimin belirlediği aralıklarla uygulanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün sağlık raporları nereye konulur?",
+    "A": "Cezaevi müdürlüğüne",
+    "B": "İnfaz dosyasına",
+    "C": "Disiplin kurulu karar defterine",
+    "D": "Cumhuriyet savcısının arşivine",
+    "Answer": "İnfaz dosyasına",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tam teşekküllü Devlet veya üniversite hastanesi sağlık kurulu raporu neyin tespitinde kullanılır?",
+    "A": "Hükümlünün iyi hâl durumunun belirlenmesinde",
+    "B": "Hücre cezasının süresinin uzatılmasında",
+    "C": "Disiplin cezasının türünün belirlenmesinde",
+    "D": "Hükümlünün cezaya katlanamayacağının tespitinde",
+    "Answer": "Hükümlünün cezaya katlanamayacağının tespitinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün cezaya katlanamayacağı tespit edilirse hangi alternatif ceza uygulanır?",
+    "A": "Kapalı infaz kurumuna sevk",
+    "B": "Ziyaretçi kabulünden yoksun bırakma",
+    "C": "Eğitim programlarından alıkoyma",
+    "D": "İdari para cezası",
+    "Answer": "Ziyaretçi kabulünden yoksun bırakma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, sağlık kurulu raporu hangi durumlarda kullanılır?",
+    "A": "Disiplin cezasının infazının ertelenmesinde",
+    "B": "Hükümlünün ziyaretçi kabul edilme sıklığının artırılmasında",
+    "C": "Hükümlünün cezaya katlanamayacağının belirlenmesinde",
+    "D": "Hükümlünün hücre cezasından muaf tutulmasında",
+    "Answer": "Hükümlünün cezaya katlanamayacağının belirlenmesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezalarının infazıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hücreye koyma cezasına ilişkin disiplin cezalarının infazından önce ve infazı sırasında hükümlü, hekim tarafından muayene edilir. İlginin bu cezaya katlanamayacağı anlaşılırsa cezanın infazı sonraya bırakılır veya mahkemenin belirleyeceği aralıklarla infaz edilir.",
+    "B": "Koşullu salıverilme tarihine kadar hükümlünün iyileşemeyeceğinin tam teşekküllü Devlet veya üniversite hastanesi sağlık kurulu raporu ile saptanması hâlinde hücreye koyma cezası infaz edilmez; yerine 44. maddenin ikinci fıkrasının uygulandığı hâllerde iki ay, üçüncü fıkrasının uygulandığı hâllerde dört ay süreyle ziyaretçi kabulünden yoksun bırakma cezası uygulanır.",
+    "C": "Hücreye koyma cezası, infaz edilmeden önce sağlık muayenesi yapılır.",
+    "D": "Sağlık raporları infaz dosyasına konulur.",
+    "Answer": "Hücreye koyma cezasına ilişkin disiplin cezalarının infazından önce ve infazı sırasında hükümlü, hekim tarafından muayene edilir. İlginin bu cezaya katlanamayacağı anlaşılırsa cezanın infazı sonraya bırakılır veya mahkemenin belirleyeceği aralıklarla infaz edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kınama cezasının kaldırılabilmesi için hükümlünün cezanın infazından sonra ne kadar süre disiplin cezası almaması gerekir?",
+    "A": "7 gün",
+    "B": "15 gün",
+    "C": "1 ay",
+    "D": "3 ay",
+    "Answer": "15 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bazı etkinliklere katılmaktan alıkoyma cezasının kaldırılması için gereken süre nedir?",
+    "A": "15 gün",
+    "B": "3 ay",
+    "C": "6 ay",
+    "D": "1 ay",
+    "Answer": "1 ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasının kaldırılması için gereken süre nedir?",
+    "A": "1 ay",
+    "B": "3 ay",
+    "C": "6 ay",
+    "D": "1 yıl",
+    "Answer": "3 ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, haberleşme veya iletişim araçlarından yoksun bırakma cezasının kaldırılması için gereken süre ne kadardır?",
+    "A": "15 gün",
+    "B": "1 ay",
+    "C": "3 ay",
+    "D": "6 ay",
+    "Answer": "3 ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ziyaretçi kabulünden yoksun bırakma cezasının kaldırılması için ne kadar süre geçmelidir?",
+    "A": "1 ay",
+    "B": "6 ay",
+    "C": "1 yıl",
+    "D": "3 ay",
+    "Answer": "3 ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezası 44. maddenin ikinci fıkrasındaki hâllerde ne kadar sürede kaldırılır?",
+    "A": "3 ay",
+    "B": "6 ay",
+    "C": "1 yıl",
+    "D": "2 yıl",
+    "Answer": "6 ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezası 44. maddenin üçüncü fıkrasındaki hâllerde kaldırılma süresi nedir?",
+    "A": "6 ay",
+    "B": "9 ay",
+    "C": "1 yıl",
+    "D": "18 ay",
+    "Answer": "1 yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücre cezasına karşılık ziyaretçi kabulünden yoksun bırakma cezasının kaldırılması için hangi süre esas alınır?",
+    "A": "1 ay",
+    "B": "6 ay veya 1 yıl",
+    "C": "2 yıl",
+    "D": "3 ay",
+    "Answer": "6 ay veya 1 yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi disiplin cezalarının kaldırılmasında kurumun en üst amiri yetkilidir?",
+    "A": "Kınama ve bazı etkinliklere katılmaktan alıkoyma",
+    "B": "Hücre cezası ve ziyaretçi kabulünden yoksun bırakma",
+    "C": "Haberleşme araçlarından yoksun bırakma ve ücret karşılığı çalışılan işten yoksun bırakma",
+    "D": "Tüm disiplin cezaları",
+    "Answer": "Kınama ve bazı etkinliklere katılmaktan alıkoyma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi cezaların kaldırılmasında kurumun en üst amirinin önerisi ve disiplin kurulu kararı gereklidir?",
+    "A": "Kınama ve uyarma cezaları",
+    "B": "Bazı etkinliklere katılmaktan alıkoyma cezası",
+    "C": "Ücret karşılığı çalışılan işten yoksun bırakma ve hücre cezası",
+    "D": "Tüm cezalar",
+    "Answer": "Ücret karşılığı çalışılan işten yoksun bırakma ve hücre cezası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, disiplin cezalarının infazında hangi sıra takip edilir?",
+    "A": "En ağır cezadan başlanarak",
+    "B": "Kesinleşme tarihine göre",
+    "C": "Kurumun kararına göre",
+    "D": "Mahkeme kararı ile belirlenir",
+    "Answer": "Kesinleşme tarihine göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hücreye koyma cezası öncesinde hükümlü hangi işlemden geçirilir?",
+    "A": "Doktor muayenesi",
+    "B": "Psikolojik değerlendirme",
+    "C": "Disiplin kurulu kararı",
+    "D": "İnfaz hâkimi kararı",
+    "Answer": "Doktor muayenesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, birden fazla disiplin cezası verilmiş olması durumunda cezalar nasıl infaz edilir?",
+    "A": "Aynı anda infaz edilir",
+    "B": "Öncelik sırasına göre belirlenir",
+    "C": "Kesinleşme tarihine göre ayrı ayrı infaz edilir",
+    "D": "İnfaz hâkimi karar verir",
+    "Answer": "Kesinleşme tarihine göre ayrı ayrı infaz edilir",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

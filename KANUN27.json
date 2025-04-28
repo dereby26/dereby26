@@ -1,0 +1,192 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, disiplin cezasının kaldırılması ve iyi hâlin kazanılması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Kınama cezası on beş gün içinde kaldırılır.",
+    "B": "Bazı etkinliklere katılmaktan alıkoyma cezası bir ay içinde kaldırılır.",
+    "C": "Ziyaretçi kabulünden yoksun bırakma cezası üç ay içinde kaldırılır.",
+    "D": "Ücret karşılığı çalışılan işten yoksun bırakma cezası bir ay içinde kaldırılır.",
+    "Answer": "Ücret karşılığı çalışılan işten yoksun bırakma cezası bir ay içinde kaldırılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk hükümlüler için uyarma ve kınama cezaları ne zaman kalkmış sayılır?",
+    "A": "Kararla birlikte",
+    "B": "7 gün sonunda",
+    "C": "30 gün sonunda",
+    "D": "60 gün sonunda",
+    "Answer": "Kararla birlikte",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, onarma, tazmin etme ve eski hâle getirme cezası ne kadar süre sonunda kendiliğinden kalkar?",
+    "A": "Kararla birlikte",
+    "B": "30 gün sonunda",
+    "C": "60 gün sonunda",
+    "D": "7 gün sonunda",
+    "Answer": "7 gün sonunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, harcamalarına sınır koyma cezası kaç gün sonunda kendiliğinden kalkar?",
+    "A": "7 gün",
+    "B": "30 gün",
+    "C": "60 gün",
+    "D": "90 gün",
+    "Answer": "30 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bazı etkinliklere katılmaktan alıkoyma cezası ne kadar süre sonunda kendiliğinden kalkar?",
+    "A": "15 gün",
+    "B": "60 gün",
+    "C": "30 gün",
+    "D": "90 gün",
+    "Answer": "30 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, teşvik esaslı ayrıcalıkları geri alma cezası ne kadar süre sonunda kendiliğinden kalkar?",
+    "A": "30 gün",
+    "B": "60 gün",
+    "C": "90 gün",
+    "D": "120 gün",
+    "Answer": "30 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, iznin ertelenmesi cezası ne kadar süre sonunda kendiliğinden kalkar?",
+    "A": "30 gün",
+    "B": "90 gün",
+    "C": "120 gün",
+    "D": "60 gün",
+    "Answer": "60 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kapalı ceza infaz kurumuna iade cezası ne kadar süre sonunda kalkmış sayılır?",
+    "A": "30 gün",
+    "B": "60 gün",
+    "C": "90 gün",
+    "D": "120 gün",
+    "Answer": "60 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, odaya kapatma cezası kaç gün sonunda kendiliğinden kalkar?",
+    "A": "30 gün",
+    "B": "60 gün",
+    "C": "90 gün",
+    "D": "120 gün",
+    "Answer": "90 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, firar hâlinde disiplin cezası süreleri hangi tarihten itibaren başlar?",
+    "A": "Karar tarihinden",
+    "B": "İnfaz tarihinden",
+    "C": "Disiplin kurulunun kararından",
+    "D": "Ceza infaz hâkimliğinin kararından",
+    "Answer": "İnfaz tarihinden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk hükümlüler için disiplin cezalarını hangi koşulda disiplin kurulu süresiz kaldırabilir?",
+    "A": "Çocuk hakkında yeni bir disiplin cezası uygulanmaması durumunda",
+    "B": "Çocuğun iyileştirme programında ilerleme göstermesi durumunda",
+    "C": "Çocuğun ailesinin talebiyle",
+    "D": "Disiplin cezasının infazı tamamlandığında",
+    "Answer": "Çocuğun iyileştirme programında ilerleme göstermesi durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için disiplin cezalarının kaldırılmasında esas alınır?",
+    "A": "Çocuk hakkında disiplin cezası almaması ve iyi hâlli olması",
+    "B": "Çocuğun tüm cezalarını tamamlaması",
+    "C": "Çocuğun yasal temsilcisinin onayı",
+    "D": "Disiplin kurulunun önerisiyle Adalet Bakanlığı onayı",
+    "Answer": "Çocuk hakkında disiplin cezası almaması ve iyi hâlli olması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi disiplin cezası kararla birlikte kalkmış sayılır?",
+    "A": "Odaya kapatma cezası",
+    "B": "Harcamalarına sınır koyma cezası",
+    "C": "Uyarma ve kınama cezaları",
+    "D": "Kapalı ceza infaz kurumuna iade cezası",
+    "Answer": "Uyarma ve kınama cezaları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk hükümlüler için hangi ceza infazı karar tarihinden itibaren başlar?",
+    "A": "Kapalı ceza infaz kurumuna iade",
+    "B": "Odaya kapatma cezası",
+    "C": "Uyarma cezası",
+    "D": "Tüm disiplin cezaları",
+    "Answer": "Tüm disiplin cezaları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, çocuk hükümlülere uygulanan disiplin cezalarının kaldırılması ve iyi hâlin kazanılması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Uyarma ve kınama cezaları kararın verilmesiyle birlikte kaldırılır.",
+    "B": "Onarma, tazmin etme ve eski hâle getirme cezası yedi gün sonunda kaldırılır.",
+    "C": "İznin ertelenmesi cezası altmış gün sonunda kaldırılır.",
+    "D": "Odaya kapatma cezası altmış gün sonunda kaldırılır.",
+    "Answer": "Odaya kapatma cezası altmış gün sonunda kaldırılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yönetim tarafından alınabilecek tedbirlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Yönetim, disiplin soruşturması yapılan hükümlünün odasını, iş ve çalışma yerini değiştirebilir, hükümlüyü kurumun başka kesimine nakledebilir veya diğer hükümlülerden ayırabilir.",
+    "B": "Kurumun düzeninin ve kişilerin güvenliklerinin ciddi tehlikeyle karşı karşıya kalması hâlinde, asayiş ve düzeni sağlamak için kanunda açıkça belirtilmeyen diğer tedbirler de alınır. Tedbirlerin uygulanması, disiplin cezasının verilmesine engel olmaz.",
+    "C": "Yönetim, disiplin soruşturması yapılan hükümlünün odasını, iş ve çalışma yerini değiştirebilir, ancak diğer hükümlülerden ayırmak için herhangi bir tedbir alması yasaktır.",
+    "D": "Kurumun düzeninin ve kişilerin güvenliklerinin ciddi tehlikeyle karşı karşıya kalması hâlinde, sadece kanunda belirtilen tedbirler alınabilir.",
+    "Answer": "Yönetim, disiplin soruşturması yapılan hükümlünün odasını, iş ve çalışma yerini değiştirebilir, ancak diğer hükümlülerden ayırmak için herhangi bir tedbir alması yasaktır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, zorlayıcı araçların kullanılmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hiçbir hâlde zincir ve demire vurmak tedbir olarak uygulanmaz. Kelepçe ve bedensel hareketleri kısıtlayıcı araçlar; yetkili makamın önüne getirildiğinde çıkarılmak kaydıyla, sevk ve nakil sırasında kaçmayı önlemek için kullanılabilir.",
+    "B": "Hekimin talimat ve gözetiminde olmak üzere tıbbi nedenlerle kelepçe ve bedensel hareketleri kısıtlayıcı araçlar kullanılabilir.",
+    "C": "Diğer kontrol usulleri yetersizliği hâlinde, hükümlünün kendisine veya başkalarına zarar vermesine veya eşyayı tahrip etmesine engel olmak için kurum en üst amirinin emriyle kelepçe ve bedensel hareketleri kısıtlayıcı araçlar kullanılabilir.",
+    "D": "Çocuk hükümlülerin sevk ve nakilleri sırasında kaçmayı önlemek için kelepçe ve bedensel hareketleri kısıtlayıcı araçlar kısmen kullanılabilir.",
+    "Answer": "Çocuk hükümlülerin sevk ve nakilleri sırasında kaçmayı önlemek için kelepçe ve bedensel hareketleri kısıtlayıcı araçlar kısmen kullanılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ödüllendirme ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlüler, kurum içindeki veya dışındaki genel durumları, eğitim ve iyileştirme faaliyetlerine etkin katılımları, kurum düzenine karşı tutumları ve kendilerine verilen işlerdeki gayretleri dikkate alınarak teşvik esaslı ödüllerden yararlandırılabilirler.",
+    "B": "Hükümlüler, kurum içindeki veya dışındaki genel durumları, eğitim ve iyileştirme faaliyetlerine etkin katılımları, kurum düzenine karşı tutumları ve kendilerine verilen işlerdeki gayretleri dikkate alınarak teşvik esaslı ödüllerden yararlandırılabilirler. Bu madde hükümleri, çocuk hükümlüler için geçerli değildir.",
+    "C": "Hükümlüler sadece kurum içindeki faaliyetlere katıldıkları takdirde ödüllendirilirler.",
+    "D": "Teşvik esaslı ödüller yalnızca yetişkin hükümlüler için geçerlidir, çocuk hükümlülere ödül verilmez.",
+    "Answer": "Hükümlüler, kurum içindeki veya dışındaki genel durumları, eğitim ve iyileştirme faaliyetlerine etkin katılımları, kurum düzenine karşı tutumları ve kendilerine verilen işlerdeki gayretleri dikkate alınarak teşvik esaslı ödüllerden yararlandırılabilirler.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülere verilebilecek ödüllerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Kapalı ceza infaz kurumlarında bulunan evli hükümlüler, en geç üç ayda bir kez olmak üzere, üç saatten yirmi dört saate kadar eşleri ile kurum veya eklentilerinde ceza infaz kurumu personelinin yakın nezareti olmaksızın mahrem şekilde görüştürülebilir.",
+    "B": "Çocuk hükümlülere, en geç bir ayda bir kez olmak üzere, üç saatten yirmi dört saate kadar ana ve babasıyla veya vasisiyle ya da ana veya babasıyla birlikte kardeşiyle kurum ya da eklentilerinde ceza infaz kurumu personelinin yakın nezareti olmaksızın aile görüşmesi yaptırılabilir.",
+    "C": "Haftalık ziyaret süresi üç saate kadar uzatılabilir.",
+    "D": "Kapalı ziyaret yerine açık ziyaret yaptırılabilir.",
+    "Answer": "Haftalık ziyaret süresi üç saate kadar uzatılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

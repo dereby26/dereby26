@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, kesinleşmiş hapis cezasını içeren mahkûmiyet kararları ve ödenmeyen adlî para cezalarının hapse çevrilmesine ilişkin karar bulunanlar, kim tarafından ceza infaz kurumuna gönderilir?",
+    "A": "İlgili yer mahkemesi",
+    "B": "Ceza infaz kurumu",
+    "C": "Adalet Komisyonu",
+    "D": "Cumhuriyet Başsavcılığı",
+    "Answer": "Cumhuriyet Başsavcılığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, ceza infaz kurumuna alınan hükümlülerin adı ve soyadı, işledikleri suç, cezalarının türü ve süresi, mahkûmiyet ilâmının tarih ve numarası ile infaza başlandığı gün hangi deftere kaydedilir?",
+    "A": "Sağlık defteri",
+    "B": "Ambar defteri",
+    "C": "Hükümlü defteri",
+    "D": "Ders defteri",
+    "Answer": "Hükümlü defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, Türkçe bilmeyen yabancı uyruklu hükümlülere kendi dilinde bilgi verilmesi mümkün olmadığında hangi dillerde bilgi verilir?",
+    "A": "İngilizce, Almanca",
+    "B": "İngilizce, Farsça, Arapça",
+    "C": "İtalyanca, Fransızca, Arapça",
+    "D": "İngilizce, Fransızca, Almanca",
+    "Answer": "İngilizce, Fransızca, Almanca",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin ceza infaz kurumlarına alınmalarında, başka kuruma nakillerinde ve hastaneye yatırılmalarında, istekleri üzerine ailelerine veya gösterdikleri kişilere; hükümlü yabancı ise yazılı olarak karşı çıkmaması hâlinde, durumu nereye bildirilir?",
+    "A": "Uyruğu olduğu devletin diplomatik temsilciliği veya konsolosluğuna",
+    "B": "Adalet Bakanlığı Uluslararası Hukuk ve Dış İlişkiler Genel Müdürlüğüne",
+    "C": "Avrupa Birliği ve Dış İlişkiler Dairesi Başkanlığına",
+    "D": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği veya bu komiserliğin Türkiye temsilciliğine",
+    "Answer": "Uyruğu olduğu devletin diplomatik temsilciliği veya konsolosluğuna",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler ile yakınları ve ilgililerin bilgilendirilmesi konusunda aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlülere, kuruma alındıklarında uygulanacak iyileştirme çalışmaları, disiplin suçları ve cezaları, bilgi edinme ve şikâyet yolları, hak ve sorumlulukları gibi konular ile kurumdaki yaşam biçimine uyum sağlamaları için gereken bilgiler, kurum yöneticileri tarafından sözlü olarak anlatılır ve yazılı olarak tebliğ edilir. Türkçe bilmeyen yabancı uyruklu hükümlülere bu bilgiler kendi dillerinde, mümkün olmadığında İngilizce, Fransızca veya Almanca olarak bildirilir. Duyma ve konuşma engellilere işaret diliyle anlatılır, görme engellilere ise kendi alfabeleri ile yazılmış kitapçık verilir.",
+    "B": "Hükümlülerin ceza infaz kurumlarına alınmalarında, başka kuruma nakillerinde ve hastaneye yatırılmalarında, ailelerine veya gösterdikleri kişilere, hükümlü yabancı ise uyruk olduğu devletin diplomatik temsilcilik veya konsolosluğuna yazılı olarak durum bildirilir; bu bildirim için hükümlünün izni gerekmez.",
+    "C": "Askerlik çağına giren, hâlen silah altında bulunan kişilerin ceza infaz kurumlarına alınmalarında, başka kuruma nakillerinde veya kurumda iken askerlik çağına girmeleri veya salıverilmeleri hâlinde durum, kayıtlı bulundukları askerlik şubesine bildirilir.",
+    "D": "Hükümlülerin ölümü hâlinde, yukarıdaki hükümler uygulanır ve ayrıca durum ailelerine derhâl bildirilir.",
+    "Answer": "Hükümlülerin ceza infaz kurumlarına alınmalarında, başka kuruma nakillerinde ve hastaneye yatırılmalarında, ailelerine veya gösterdikleri kişilere, hükümlü yabancı ise uyruk olduğu devletin diplomatik temsilcilik veya konsolosluğuna yazılı olarak durum bildirilir; bu bildirim için hükümlünün izni gerekmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin gözlem ve sınıflandırılmasına ilişkin aşağıdakilerden hangisi söylenemez?",
+    "A": "Hükümlülerin kişisel özellikleri, bedensel, aklî ve sağlık durumları, suç işlemeden önceki yaşamları, sosyal çevre ve ilişkileri, sanat ve meslek faaliyetleri, ahlâkî eğilimleri, suça bakış açıları, hükümlülük süreleri ve suç türleri belirlenir; bu durumlarına uygun infaz kurumlarına ayrılmaları sağlanır.",
+    "B": "Saptanacak infaz ve iyileştirme rejimi; gözlem, inceleme ve değerlendirme yöntemiyle çalışan gözlem ve sınıflandırma merkezlerinde veya kapalı ceza infaz kurumlarının bu hizmete ayrılan bölümlerinde yapılır.",
+    "C": "Hükümlüler, işledikleri suç tiplerine, gösterdikleri eğilimlere, tutum ve davranışları nedeniyle sıkı gözetim ve denetim altında bulundurulmaları gerekip gerekmediğine göre yüksek güvenlikli ceza infaz kurumlarına veya normal güvenlikli ceza infaz kurumlarına ya da açık ceza infaz kurumlarına gönderilirler.",
+    "D": "Kadın, çocuk ve genç hükümlüler ile ilgili gözlem ve sınıflandırma, gerekli görülen yer veya bölgelerdeki ayrı gözlem ve sınıflandırma merkezlerinde yapılır; ancak bunların noksanlığı hâlinde gözlem ve sınıflandırma",
+    "Answer": "Kadın, çocuk ve genç hükümlüler ile ilgili gözlem ve sınıflandırma, gerekli görülen yer veya bölgelerdeki ayrı gözlem ve sınıflandırma merkezlerinde yapılır; ancak bunların noksanlığı hâlinde gözlem ve sınıflandırma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin gözlem ve sınıflandırılması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlülerin kişisel özellikleri, bedensel, aklî ve sağlık durumları, suç işlemelerinden önceki yaşamları, sosyal çevre ve ilişkileri, sanat ve meslek faaliyetleri, ahlâkî eğilimleri, suça bakış açıları, hükümlülük süreleri ve suç türleri belirlenerek durumlarına uygun infaz kurumlarına ayrılmaları, gözlem ve inceleme yöntemiyle gerçekleştirilir. Bu süreç, gözlem ve sınıflandırma merkezlerinde veya kapalı ceza infaz kurumlarının bu hizmete ayrılan bölümlerinde yapılır.",
+    "B": "Kadın, çocuk ve genç hükümlülerle ilgili gözlem ve sınıflandırma, gerekli görülen bölgelerdeki ayrı gözlem ve sınıflandırma merkezlerinde veya bu merkezlerin noksanlığı halinde kadın, çocuk ve kadın ve erkek gençlik kapalı ceza infaz kurumlarının genel kullanım alanlarında yerine getirilir.",
+    "C": "Gözlem ve sınıflandırma süreçlerinde, kriminoloji, penoloji, davranış bilimleri, adalet psikolojisi veya ceza hukuku alanında bilgi ve deneyime sahip yöneticiler, psikiyatri uzmanı, hekim, adlî tıp uzmanı, psikolog, pedagog, çocuk gelişimcisi, sosyal çalışmacı, psikolojik danışman, rehberlik uzmanı, rehberlik uzmanı ve öğretmen gibi uzman görevliler ile diğer kurum görevleri bulunur.",
+    "D": "Hükümlülerin gözlemleri, gözlem kurulunca kuruma kabul tarihinden başlayarak tek kişilik odalarda yapılır. Ancak, kurumun tek kişilik odası bulunmaması veya kısıtlı sayıda olması durumunda devlet hastanelerinin tahsis edilmiş özel bölümlerinde de yapılabilir.",
+    "Answer": "Kadın, çocuk ve genç hükümlülerle ilgili gözlem ve sınıflandırma, gerekli görülen bölgelerdeki ayrı gözlem ve sınıflandırma merkezlerinde veya bu merkezlerin noksanlığı halinde kadın, çocuk ve kadın ve erkek gençlik kapalı ceza infaz kurumlarının genel kullanım alanlarında yerine getirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, ağırlaştırılmış müebbet hapis, müebbet hapis cezalarına veya iki yıldan fazla süreli hapis cezasına mahkûm olanlar, haklarında uygulanacak rejimi ve gönderilmeleri gereken infaz kurumunu belirlemek için, bu maksatla kişisel ve sosyal özelliklerini değerlendirmek amacıyla en fazla kaç gün gözleme tâbi tutulurlar?",
+    "A": "On beş (15)",
+    "B": "Otuz (30)",
+    "C": "Doksan (90)",
+    "D": "Altmış (60)",
+    "Answer": "Doksan (90)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin gözlem ve sınıflandırılması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Ağırlaştırılmış müebbet hapis ve müebbet hapis cezalarına veya iki yıldan fazla süreli hapis cezasına mahkûm olanlar, haklarında uygulanacak rejimi, gönderilmeleri gereken infaz kurumunu ve kişisel ile sosyal özelliklerini belirlemek amacıyla Kanunda gösterilen esaslar uyarınca gözleme tabi tutulurlar. Gözlem süresi doksan günü geçemez.",
+    "B": "Hükümlü; kişiliğine, sair hâllerine ve suçun işlenmesindeki özelliklere göre gözleme tabi tutulmayabilir.",
+    "C": "Gözlem sonunda, gözlem merkezi hükümlüye ait dosyayı, görüşü ile birlikte Adalet Bakanlığına gönderir.",
+    "D": "Yapılan gözlem ve sınıflandırma sonunda idare ve gözlem kurulunca aynı ceza infaz kurumunda veya o yer Cumhuriyet Başsavcılığına bağlı diğer ceza infaz kurumlarında kalması uygun bulunan hükümlülerin dosyaları Bakanlığa gönderilemez ve cezalarının infazına bulundukları veya Cumhuriyet Başsavcılığınca gönderilecekleri bağlı ceza infaz kurumlarında devam olunur.",
+    "Answer": "Ağırlaştırılmış müebbet hapis ve müebbet hapis cezalarına veya iki yıldan fazla süreli hapis cezasına mahkûm olanlar, haklarında uygulanacak rejimi, gönderilmeleri gereken infaz kurumunu ve kişisel ile sosyal özelliklerini belirlemek amacıyla Kanunda gösterilen esaslar uyarınca gözleme tabi tutulurlar. Gözlem süresi doksan günü geçemez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, gözlem sonunda, gözlem merkezi hükümlüye ait dosyayı görüşü ile nereye gönderir?",
+    "A": "İçişleri Bakanlığı",
+    "B": "Dışişleri Bakanlığı",
+    "C": "Millî Eğitim Bakanlığı",
+    "D": "Adalet Bakanlığı",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin gözlem ve sınıflandırılmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Gözlem sonunda, gözlem merkezi hükümlüye ait dosyayı, görüşü ile Adalet Bakanlığına gönderir. Gözlem sonucuna göre hükümlünün gönderileceği infaz kurumu Bakanlıkça belirlenir.",
+    "B": "Yapılan gözlem ve sınıflandırma sonunda idare ve gözlem kurulunca aynı ceza infaz kurumunda veya o yer Cumhuriyet Başsavcılığına bağlı diğer ceza infaz kurumlarında kalması uygun bulunan hükümlülerin dosyaları Bakanlığa gönderilmez ve cezalarının infazına bulundukları veya Cumhuriyet Başsavcılığınca gönderilecekleri bağlı ceza infaz kurumlarında devam olunur.",
+    "C": "Gözlem sonucunda idare ve gözlem kurulunun karar verdiği durumlarda hükümlülerin dosyaları mutlaka Ceza ve Tevkif Genel Müdürlüğüne gönderilmek zorundadır ve cezalarının infazına bulundukları veya Cumhuriyet Başsavcılığınca gönderilecekleri bağlı ceza infaz kurumlarında devam olunur.",
+    "D": "Kısa süreli hapis cezaları, Kanunda gösterilen esaslara göre infaz olunur.",
+    "Answer": "Gözlem sonucunda idare ve gözlem kurulunun karar verdiği durumlarda hükümlülerin dosyaları mutlaka Ceza ve Tevkif Genel Müdürlüğüne gönderilmek zorundadır ve cezalarının infazına bulundukları veya Cumhuriyet Başsavcılığınca gönderilecekleri bağlı ceza infaz kurumlarında devam olunur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, gözlem ve sınıflandırma merkezlerinde veya kapalı ceza infaz kurumlarının bu hizmete ayrılan bölümlerinde yapılan gözlem için hangisi doğrudur?",
+    "A": "Ağırlaştırılmış müebbet hapis ve müebbet hapis cezalarına veya altı aydan fazla süreli hapis cezasına mahkûm olanlar, haklarında uygulanacak rejimi ve gönderilmeleri gereken infaz kurumunu ve bu maksatla kişisel ve sosyal özelliklerini belirlemek için Kanunda gösterilen esaslar uyarınca gözleme tâbi tutulurlar.",
+    "B": "Hükümlülerin gözlemleri, gözlem kurulunca kuruma kabul tarihinden başlayarak grup halinde yapılır. Ancak kurumun grup odası bulunmaması veya kısıtlı sayıda olması durumunda tahsis edilmiş özel bölümlerinde de yapılabilir.",
+    "C": "Saptanacak infaz ve iyileştirme rejimi; gözlem, inceleme ve değerlendirme yöntemiyle çalışan gözlem ve sınıflandırma merkezlerinde yapılır. Ancak bu merkezlerin olmaması durumunda gözlem yapılmaz.",
+    "D": "İdare ve gözlem kurulunca aynı ceza infaz kurumunda veya o yer Cumhuriyet Başsavcılığına bağlı diğer ceza infaz kurumlarında kalması uygun bulunan hükümlülerin dosyaları Bakanlığa gönderilmez ve cezalarının infazına, bulundukları veya Cumhuriyet Başsavcılığınca gönderilecekleri ceza infaz kurumlarında devam olunur.",
+    "Answer": "İdare ve gözlem kurulunca aynı ceza infaz kurumunda veya o yer Cumhuriyet Başsavcılığına bağlı diğer ceza infaz kurumlarında kalması uygun bulunan hükümlülerin dosyaları Bakanlığa gönderilmez ve cezalarının infazına, bulundukları veya Cumhuriyet Başsavcılığınca gönderilecekleri ceza infaz kurumlarında devam olunur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. İlk defa suç işleyenler, mükerrerler, itiyadı suçlular veya suç işlemeyi meslek edinenler II. Akli ve bedensel durumları nedeniyle veya yaşları itibarıyla özel bir infaz rejimine tâbi tutulması gerekenler III. Tehlike hâli taşıyanlar IV. Terör suçluları V. Suç örgütlerine veya çıkar amaçlı suç örgütlerine mensup olan suçlular VI. Cinsel suçlardan hükümlü olanlar 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdakilerden hangisi/hangileri hükümlülerin gruplandırıldığı suç türleri için doğrudur?",
+    "A": "Yalnız I",
+    "B": "I-II-III-V-VI",
+    "C": "II-III-IV-V-VI",
+    "D": "I-II-III-IV-V",
+    "Answer": "I-II-III-IV-V",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ağırlaştırılmış müebbet hapis cezasının infazıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlü, kurum idare kurulunun uygun gördüğü hâllerde ve onbeş günde bir kez olmak üzere, (f) bendinde gösterilen kişilere, süresi on dakikayı geçmemek üzere telefon edebilir.",
+    "B": "Hükümlüyü; eşi, altsoy ve üstsoyu, kardeşleri ve vasisi, belirlenen gün, saat ve koşullar içerisinde onbeş günlük aralıklarla ve günde bir saati geçmemek üzere ziyaret edebilirler.",
+    "C": "Hükümlü, ceza infaz kurumunun dışında çalıştırılabilir. Ancak, çalıştırılabilmesi için Bakanlık izni alınması gerekmektedir.",
+    "D": "Hükümlü, kurum iç yönetmeliğinde belirtilenlerin dışında herhangi bir spor ve iyileştirme faaliyetlerine katılamaz.",
+    "Answer": "Hükümlü, ceza infaz kurumunun dışında çalıştırılabilir. Ancak, çalıştırılabilmesi için Bakanlık izni alınması gerekmektedir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ağırlaştırılmış müebbet hapis cezasının infazıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlünün cezasının infazına hiçbir surette ara verilemez. Hükümlü hakkında uygulanacak tüm sağlık tedbirleri, tıbbi tetkik ve zorunluluklar hariç ceza infaz kurumlarında, mümkün olmadığı takdirde tam teşekküllü Devlet ya da üniversite hastanelerinin tek kişilik ve yüksek güvenlikli mahkûm koğuşlarında uygulanır.",
+    "B": "Hükümlünün cezası, sağlık tedbirlerinin uygulanacağı hastanelerde verilecek tedavi süresi boyunca infaz edilmez.",
+    "C": "Hükümlü hakkında uygulanan sağlık tedbirleri, yalnızca devlet hastanelerinde değil, özel hastanelerde de yapılabilir.",
+    "D": "Ceza infaz kurumlarında, sağlık tedbirlerinin uygulanması için hiçbir durum söz konusu olamaz.",
+    "Answer": "Hükümlünün cezasının infazına hiçbir surette ara verilemez. Hükümlü hakkında uygulanacak tüm sağlık tedbirleri, tıbbi tetkik ve zorunluluklar hariç ceza infaz kurumlarında, mümkün olmadığı takdirde tam teşekküllü Devlet ya da üniversite hastanelerinin tek kişilik ve yüksek güvenlikli mahkûm koğuşlarında uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Hükümlü, tek kişilik odada barındırılır. II. Hükümlüye, günde bir saat açık havaya çıkma ve spor yapma hakkı tanınır. III. Hükümlü, kurum iç yönetmeliğinde belirtilenlerin dışında herhangi bir spor ve iyileştirme faaliyetine katılamaz. IV. Hükümlü, kurum idare kurulunun uygun gördüğü hâllerde ve on beş günde bir kez olmak üzere ilgili bendinde gösterilen kişilere, süresi yirmi dakikayı geçmemek üzere telefon edebilir. 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, ağırlaştırılmış müebbet hapis cezasına ilişkin yukarıdaki maddelerden hangileri doğrudur?",
+    "A": "Yalnız IV",
+    "B": "I-II-IV",
+    "C": "Hepsi",
+    "D": "I-II-III",
+    "Answer": "I-II-III",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlü, hapis cezasının yerine getirilmesine katlanma ve bu amaçla düzenlenen infaz rejimine uygun tutum ve davranışlar içinde bulunmakla yükümlüdür.",
+    "B": "Hükümlü, ceza infaz kurumunun güvenlik ve iyileştirme programlarına tam bir uyum göstermekle yükümlüdür. Her ne amaçla olursa olsun, bilerek kendi yaşamlarını ve bedensel bütünlüklerini tehlikeye düşürecek eylemlere girmeleri, cezanın yerine getirilmesine usuli yükümlülüğünün ihlali sayılır.",
+    "C": "Hükümlü, sağlığının korunması ve salgın hastalıkların önlenmesi için gerekli ve alınmış tedbirlere uymak, kişi sağlığı için tehlike doğuran durumları gecikmeksizin kurum yönetimine bildirmek, kendi ve içinde yaşadığı ortamın temizliğine uygun davranışlar göstermek zorundadır.",
+    "D": "Hükümlü hem kendi sağlığını hem de diğer hükümlülerin sağlığını tehlikeye düşürebilecek eylemlerden kaçınmakla yükümlüdür.",
+    "Answer": "Hükümlü, sağlığının korunması ve salgın hastalıkların önlenmesi için gerekli ve alınmış tedbirlere uymak, kişi sağlığı için tehlike doğuran durumları gecikmeksizin kurum yönetimine bildirmek, kendi ve içinde yaşadığı ortamın temizliğine uygun davranışlar göstermek zorundadır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bina ve eşyanın korunmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlü, barındırıldığı odayı, kurum binasını, yönetimce kendisine bırakılan eşyaları düzenli bir biçimde kullanmak ve bunlarla diğer kişilere ait eşyayı özenle korumakla yükümlüdür.",
+    "B": "Hükümlü, barındırıldığı odayı, kurum binasını ve yönetimce kendisine bırakılan eşyaları düzenli bir biçimde kullanmakla yükümlü değildir, sadece kendi eşyalarını korumakla sorumludur.",
+    "C": "Hükümlü, kurum binasını düzenli bir biçimde kullanmak zorunda değildir, sadece kendi odasını düzenlemelidir.",
+    "D": "Hükümlü, kendisine bırakılan eşyaları kullanmak zorunda değildir, bunları özenle korumakla yükümlü değildir.",
+    "Answer": "Hükümlü, barındırıldığı odayı, kurum binasını, yönetimce kendisine bırakılan eşyaları düzenli bir biçimde kullanmak ve bunlarla diğer kişilere ait eşyayı özenle korumakla yükümlüdür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin çalıştırılması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Kurum hekimi tarafından ruhsal ve bedensel olarak sağlıklı olduğu belirlenen meslek sahibi olmayan hükümlüler ile meslek sahibi olan istekliler, kurum imkânları ölçüsünde belirlenen ücret karşılığında atölye veya işyurtlarında çalıştırılabilirler.",
+    "B": "Çalıştırmanın amacı, hükümlülerin salıverilmelerinden sonra yaşamlarını sürdürecek meslek ve sanatları öğrenmelerini sağlamak, çalışma ve üretme isteklerini geliştirmek veya güçlendirmektir. Çalıştırmada hükümlünün yeteneği, becerisi, eğilimi, zihinsel ve bedensel durumları göz önünde bulundurulur.",
+    "C": "Çocuk hükümlülerin çalıştırılması yalnızca iş gücü ihtiyacına yönelik olur. Öğretim kurumlarına veya örgün eğitime devam eden çocuk ile genç hükümlüler, öğretim yılı içinde atölye ve işyerlerinde çalıştırılmazlar.",
+    "D": "Bunların çalıştırılmalarında 5.6.1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu’nun, bu Kanuna aykırı olmayan hükümleri uygulanır.",
+    "Answer": "Çocuk hükümlülerin çalıştırılması yalnızca iş gücü ihtiyacına yönelik olur. Öğretim kurumlarına veya örgün eğitime devam eden çocuk ile genç hükümlüler, öğretim yılı içinde atölye ve işyerlerinde çalıştırılmazlar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, çocuk hükümlülerin çalıştırılmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+    "A": "Öğretim yılı içinde boş vakitlerinde atölye ve işyerinde çalıştırılabilirler.",
+    "B": "Çalıştırmada meslek sahibi olanlara öncelik tanınırlar.",
+    "C": "Maddi getirisi yüksek işlerde çalıştırılırlar.",
+    "D": "Öğretim yılı içinde atölye ve işyerlerinde çalıştırılmazlar.",
+    "Answer": "Öğretim yılı içinde boş vakitlerinde atölye ve işyerinde çalıştırılabilirler.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

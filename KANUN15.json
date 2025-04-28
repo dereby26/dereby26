@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlünün eylemlerinin nitelik ve ağırlığına göre bir günden on güne kadar hücre cezasını gerektiren eylemlerden biri değildir?",
+    "A": "Tünel kazmaya teşebbüs etmek.",
+    "B": "Firara teşebbüs etmek.",
+    "C": "Kasten yangın çıkarmak.",
+    "D": "Kurum görevlilerine hakaret veya tehditte bulunmak.",
+    "Answer": "Kasten yangın çıkarmak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlünün eylemlerinin nitelik ve ağırlığına göre on günden yirmi güne kadar hücre cezasını gerektiren eylemlerden biri değildir?",
+    "A": "Firar etmek veya tünel kazmak.",
+    "B": "Görevlileri veya hükümlü ve tutukluları rehin almak.",
+    "C": "Adam öldürmek veya öldürmeye kalkışmak.",
+    "D": "Kurum görevlilerine hakaret veya tehditte bulunmak.",
+    "Answer": "Kurum görevlilerine hakaret veya tehditte bulunmak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuklar hakkında uygulanabilecek disiplin tedbirlerinden değildir?",
+    "A": "Teşvik esaslı ayrıcalıkları ertelemek.",
+    "B": "Bulunduğu kurumun başka bir kısmına nakletmek.",
+    "C": "Bazı eşyaları bulundurmasını veya kullanmasını yasaklamak.",
+    "D": "Bazı etkinliklere katılmaktan alıkoymak.",
+    "Answer": "Bulunduğu kurumun başka bir kısmına nakletmek.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdakilerden hangisi/hangileri çocuklar hakkında uygulanabilecek disiplin tedbirlerindendir?",
+    "A": "II-III",
+    "B": "I-II-III",
+    "C": "Yalnız I",
+    "D": "Hepsi",
+    "Answer": "Hepsi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler hakkında uyarma cezasını gerektiren bir davranıştır?",
+    "A": "Yatakhane, atölye, etüt salonu veya kütüphanede sigara içmek",
+    "B": "Katıldığı derslerde aktif olmak",
+    "C": "Eğitim programlarına tam uyum sağlamak",
+    "D": "Kütüphane kurallarına dikkat etmek",
+    "Answer": "Yatakhane, atölye, etüt salonu veya kütüphanede sigara içmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk hükümlülerin aşağıdakilerden hangisi uyarma cezası almasına neden olur?",
+    "A": "Yatma ve kalkma saatlerine uymak",
+    "B": "Kişisel temizliğine dikkat etmemek",
+    "C": "Kurum görevlilerine saygılı davranmak",
+    "D": "Eğitim programlarında başarı sağlamak",
+    "Answer": "Kişisel temizliğine dikkat etmemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlülerin uyarma cezası almasına neden olur?",
+    "A": "Arkadaşlarına saygılı davranmak",
+    "B": "Etkinliklere zamanında katılmak",
+    "C": "Yattığı odayı izinsiz değiştirmek",
+    "D": "Kütüphaneden düzenli faydalanmak",
+    "Answer": "Yattığı odayı izinsiz değiştirmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler hakkında uyarma cezası gerektirir?",
+    "A": "Yatarken izinsiz yemek yemek",
+    "B": "Kurum dışı etkinliklerde kurallara uymak",
+    "C": "Eğitim programlarına düzenli katılım göstermek",
+    "D": "Derslerinde başarı sağlamak",
+    "Answer": "Yatarken izinsiz yemek yemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk hükümlülerin uyarma cezası almasına neden olacak bir davranış aşağıdakilerden hangisidir?",
+    "A": "Ders araç gereçlerini yanında bulundurmak",
+    "B": "Kişisel durum hakkında yalan bilgi vermek",
+    "C": "Kurum etkinliklerine zamanında katılmak",
+    "D": "Arkadaşlarıyla uyumlu çalışmak",
+    "Answer": "Kişisel durum hakkında yalan bilgi vermek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için uyarma cezasını gerektirir?",
+    "A": "Eğitim programlarına düzenli katılmak",
+    "B": "Kişisel temizliğe dikkat etmek",
+    "C": "Derslerde başarı sağlamak",
+    "D": "Kurumda belirlenen kalkış saatlerine uymamak",
+    "Answer": "Kurumda belirlenen kalkış saatlerine uymamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler hakkında uyarma cezasını gerektirir?",
+    "A": "Kurum etkinliklerine geç katılmak",
+    "B": "Arkadaşlarına destek olmak",
+    "C": "Eğitim programlarına zamanında katılmak",
+    "D": "Kütüphane kurallarına dikkat etmek",
+    "Answer": "Kurum etkinliklerine geç katılmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlülerin disiplin cezası almasına neden olmaz?",
+    "A": "Katıldığı etkinliklerle ilgili araç ve gereçleri bulundurmamak",
+    "B": "Yemek saatlerine dikkat etmek",
+    "C": "Siyasi parti amblemleri bulundurmak",
+    "D": "Arkadaşlarına kaba davranışlar sergilemek",
+    "Answer": "Yemek saatlerine dikkat etmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlülerin uyarma cezası almasına neden olur?",
+    "A": "Etüt saatlerine düzenli katılmak",
+    "B": "Eğitim programlarında başarı göstermek",
+    "C": "Yemek yeri varken odada yemek yemek",
+    "D": "Kurum görevlilerine saygılı davranmak",
+    "Answer": "Yemek yeri varken odada yemek yemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için uyarma cezası gerektirir?",
+    "A": "Kütüphaneden düzenli faydalanmak",
+    "B": "Siyasi partiye ait rozet taşımak",
+    "C": "Derslere katılım sağlamak",
+    "D": "Yemek saatlerine dikkat etmek",
+    "Answer": "Siyasi partiye ait rozet taşımak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlülerin uyarma cezası almasına neden olur?",
+    "A": "Eğitim etkinliklerine izinsiz katılmamak",
+    "B": "Etkinliklere düzenli katılmak",
+    "C": "Eğitim araç gereçlerini düzenli kullanmak",
+    "D": "Arkadaşlarına saygılı davranmak",
+    "Answer": "Eğitim etkinliklerine izinsiz katılmamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için uyarma cezası gerektirir?",
+    "A": "Yemek saatlerinde düzen sağlamak",
+    "B": "Kütüphane kurallarına uymak",
+    "C": "Arkadaşlarına destek olmak",
+    "D": "Sayımı geciktirmek veya geç çıkmak",
+    "Answer": "Sayımı geciktirmek veya geç çıkmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için uyarma cezasını gerektirir?",
+    "A": "Etkinliklere düzenli katılmak",
+    "B": "Eğitim araç gereçlerini düzenli kullanmak",
+    "C": "Siyasi partiye ait broşür taşımak",
+    "D": "Arkadaşlarına saygılı davranmak",
+    "Answer": "Siyasi partiye ait broşür taşımak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için uyarma cezası gerektirir?",
+    "A": "Etüt salonunda gürültü yapmak",
+    "B": "Arkadaşlarına destek olmak",
+    "C": "Etkinliklere düzenli katılmak",
+    "D": "Eğitim araç gereçlerini düzenli kullanmak",
+    "Answer": "Etüt salonunda gürültü yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için uyarma cezasını gerektirir?",
+    "A": "Derslere düzenli katılmak",
+    "B": "Kurum görevlilerine saygılı olmak",
+    "C": "Arkadaşlarına karşı yardımsever davranmak",
+    "D": "Katıldığı etkinliklerde izin almadan ayrılmak",
+    "Answer": "Katıldığı etkinliklerde izin almadan ayrılmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi çocuk hükümlüler için uyarma cezasını gerektirir?",
+    "A": "Yatakhane dışında yemek yemek",
+    "B": "Eğitim programlarına düzenli katılmak",
+    "C": "Derslerde başarı sağlamak",
+    "D": "Arkadaşlarına karşı destekleyici davranışlarda bulunmak",
+    "Answer": "Yatakhane dışında yemek yemek",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

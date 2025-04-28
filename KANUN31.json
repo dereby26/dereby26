@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün sağlık nedenleriyle başka bir kuruma nakli için gerekli olan ilk koşul hangisidir?",
+    "A": "Hükümlünün kendisinin talep etmesi",
+    "B": "Sağlık kurulu raporuyla uygun görülmesi",
+    "C": "Ailesinin talebi",
+    "D": "Mahkeme kararının olması",
+    "Answer": "Sağlık kurulu raporuyla uygun görülmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, başka bir kuruma nakledilmesi gereken hükümlü hakkında kim tarafından rapor hazırlanır?",
+    "A": "Cezaevi yönetimi",
+    "B": "Kurumun en üst amiri",
+    "C": "Savcılık",
+    "D": "Cezaevi sağlık kurulu",
+    "Answer": "Cezaevi sağlık kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün sevki zorunlu görülen hastane türü hangisidir?",
+    "A": "Özel hastaneler",
+    "B": "Cezaevi sağlık birimi",
+    "C": "Devlet veya üniversite hastaneleri",
+    "D": "Askeri hastaneler",
+    "Answer": "Devlet veya üniversite hastaneleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin sağlık nedeniyle sevk koşulları için söylenemez?",
+    "A": "Sağlık kurulu raporu gereklidir",
+    "B": "Sevk Devlet veya üniversite hastanesine yapılır",
+    "C": "Sevk sadece hükümlünün talebine bağlıdır",
+    "D": "Acil hallerde Adalet Bakanlığı bilgilendirilir",
+    "Answer": "Sağlık kurulu raporu gereklidir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hastaneye sevki zorunlu görülen hükümlüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlünün bu hastanelerde kontrol ve tedavisinin devam edip etmeyeceğinin sağlık kurulu raporuyla belgelendirilmesi gerekir; aksi hâlde hükümlü ait olduğu kuruma iade edilir.",
+    "B": "Hastaneye sevki zorunlu görülen hükümlü, bulunduğu yere en yakın tam teşekküllü Devlet veya üniversite hastanesinin hükümlü koğuşuna yatırılır.",
+    "C": "Hükümlü, sağlık nedenleriyle bulunduğu kurumda kalmasının uygun olmadığı, kurum hekiminin önerisi ve en üst amirinin isteği üzerine alınacak sağlık kurulu raporuyla belirlendiği takdirde, başka kurumlara nakledilebilir.",
+    "D": "Hükümlü, acil hâller dışında özel sağlık kuruluşlarında tedavi edilebilir. Acil hâllerin varlığı hâlinde kurumun en üst amirine bilgi verilir.",
+    "Answer": "Hükümlü, acil hâller dışında özel sağlık kuruluşlarında tedavi edilebilir. Acil hâllerin varlığı hâlinde kurumun en üst amirine bilgi verilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, nakillerde alınacak tedbirlerle ilgili aşağıdaki hangi ifade yanlıştır?",
+    "A": "Hükümlülerin kuruma veya başka bir yere götürülüp getirilmesi sırasında, halkla bir araya gelmelerine ve başkaları tarafından görülmelerine engel olacak tedbirler alınır.",
+    "B": "Hükümlü, havalandırma ve ışık durumu yetersiz araçlarla, eziyet verici veya onur kırıcı şekilde nakledilemez. Nakil sırasında alınacak tedbirler, hükümlünün firarını önleyici ve halkla bir araya gelmelerine ve başkaları tarafından görülmelerine engel olacak tedbirler dışında sınırlar aşılamaz.",
+    "C": "Çocuk eğitim evlerine nakiller kurum görevlisinin nezaretinde yapılır. Açık ceza infaz kurumlarına nakiller ise kurum görevlisi olmaksızın yapılır. Bu hâlde hükümlünün, aynı il sınırları içinde bulunan ceza infaz kurumları arasındaki nakillerde aynı gün içinde; farklı illerde bulunan ceza infaz kurumları arasındaki nakillerde ise kurum amirinin yirmi dört saati geçmeyecek şekilde belirleyeceği süre içinde, nakledildiği açık ceza infaz kurumuna giriş yapması gerekir. Belirlenen sürelerde açık ceza infaz kurumuna giriş yapmayan hükümlüler hakkında 97’nci madde hükümleri uygulanır.",
+    "D": "Görevli nezaretinde yapılan nakiller sırasında hükümlünün iaşe ve bedensel ihtiyaçları giderilir.",
+    "Answer": "Çocuk eğitim evlerine nakiller kurum görevlisinin nezaretinde yapılır. Açık ceza infaz kurumlarına nakiller ise kurum görevlisi olmaksızın yapılır. Bu hâlde hükümlünün, aynı il sınırları içinde bulunan ceza infaz kurumları arasındaki nakillerde aynı gün içinde; farklı illerde bulunan ceza infaz kurumları arasındaki nakillerde ise kurum amirinin yirmi dört saati geçmeyecek şekilde belirleyeceği süre içinde, nakledildiği açık ceza infaz kurumuna giriş yapması gerekir. Belirlenen sürelerde açık ceza infaz kurumuna giriş yapmayan hükümlüler hakkında 97’nci madde hükümleri uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin kuruma veya başka bir yere nakledilmesi sırasında alınması gereken tedbirlerdendir?",
+    "A": "Halkla bir araya gelmelerini engellemek",
+    "B": "Firar riskini önlemek için fiziki güvenlik önlemleri almak",
+    "C": "İnfaz koruma memurları eşliğinde yürümelerini sağlamak",
+    "D": "Sadece gece saatlerinde nakil yapılmasını sağlamak",
+    "Answer": "Firar riskini önlemek için fiziki güvenlik önlemleri almak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi nakil sırasında hükümlülere davranılması gereken uygun yöntemdir?",
+    "A": "Eziyet verici veya onur kırıcı şekilde taşınmaları sağlanmalıdır",
+    "B": "Havalandırması yetersiz araçlarla taşınmaları sağlanmalıdır",
+    "C": "Firarını önleyici tedbirler alınarak ve onur kırıcı olmayan şekilde taşınmalıdır",
+    "D": "Sadece kendi kıyafetleri ile taşınmaları sağlanmalıdır",
+    "Answer": "Firarını önleyici tedbirler alınarak ve onur kırıcı olmayan şekilde taşınmalıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi açık ceza infaz kurumuna nakledilen hükümlülerin yeni kurumlarına giriş süresiyle ilgilidir?",
+    "A": "Aynı gün içinde",
+    "B": "48 saat içinde",
+    "C": "24 saat içinde",
+    "D": "Bir hafta içinde",
+    "Answer": "48 saat içinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, farklı il sınırları içindeki ceza infaz kurumları arasındaki nakillerde açık ceza infaz kurumuna giriş süresi aşağıdakilerden hangisi olmalıdır?",
+    "A": "24 saat",
+    "B": "72 saat",
+    "C": "48 saat",
+    "D": "Bir hafta",
+    "Answer": "48 saat",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, çocuk eğitimevine yapılan nakillerde aşağıdakilerden hangisi gereklidir?",
+    "A": "Çocuğun yalnız seyahat etmesi",
+    "B": "Çocuk eğitimevi görevlisinin nezaretinde yapılması",
+    "C": "Hükümlünün avukatı tarafından refakat edilmesi",
+    "D": "Nakil sırasında diğer hükümlülerle taşınması",
+    "Answer": "Çocuk eğitimevi görevlisinin nezaretinde yapılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi görevli nezaretinde yapılan nakillerde karşılanması gereken ihtiyaçlardandır?",
+    "A": "Sadece barınma ihtiyaçları",
+    "B": "İaşe ve bedensel ihtiyaçlar",
+    "C": "Sosyal ihtiyaçlar",
+    "D": "Eğitim ihtiyaçları",
+    "Answer": "İaşe ve bedensel ihtiyaçlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin firar etmemesi için alınması gereken tedbirlerin sınırıdır?",
+    "A": "Yalnızca halkla temasını engelleyecek şekilde olmalıdır",
+    "B": "Hükümlüyü tamamen tecrit edecek şekilde olmalıdır",
+    "C": "Fiziki ve bedensel kontrolle sınırlı olmalıdır",
+    "D": "Firar önleyici ve insan onurunu koruyacak şekilde olmalıdır",
+    "Answer": "Firar önleyici ve insan onurunu koruyacak şekilde olmalıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin nakil sırasında birbirleriyle iletişime geçmemelerini engellemek için alınabilecek bir önlemdir?",
+    "A": "Fiziksel temas olmamasını sağlamak",
+    "B": "Görevliler tarafından sürekli gözlem altında bulundurmak",
+    "C": "Tartışmayı engelleyici düzeyde olmak, ancak aşırıya kaçmamak",
+    "D": "Tamamen tecrit etmek ve iletişim araçları vermemek",
+    "Answer": "Tartışmayı engelleyici düzeyde olmak, ancak aşırıya kaçmamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, açık ceza infaz kurumlarına yapılan nakillerde aşağıdakilerden hangisinde kurum görevlisinin refakati zorunlu değildir?",
+    "A": "Aynı il sınırları içinde yapılacak nakillerde",
+    "B": "Farklı iller arasındaki nakillerde",
+    "C": "Hükümlü talep ederse",
+    "D": "Hükümlü tehlikeli halde değilse",
+    "Answer": "Aynı il sınırları içinde yapılacak nakillerde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin nakli sırasında alınması gereken tedbirlerin amacıdır?",
+    "A": "Hükümlülerin güvenliğini sağlamak ve firarı önlemek",
+    "B": "Toplumla bütünleşmelerini hızlandırmak",
+    "C": "Diğer hükümlülerle iletişim kurmalarını sağlamak",
+    "D": "Halkla temas etmelerini sağlamak",
+    "Answer": "Hükümlülerin güvenliğini sağlamak ve firarı önlemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin nakil sırasında iletişimlerini engellemeye yönelik bir önlem değildir?",
+    "A": "Fiziksel temas olmamasını sağlamak",
+    "B": "Gözetim altında bulundurmak",
+    "C": "İletişim araçlarını kısıtlamak",
+    "D": "Hükümlüleri tam tecrit altında tutmak",
+    "Answer": "Hükümlüleri tam tecrit altında tutmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin nakli sırasında güvenliğin sağlanması için alınması gereken bir tedbirdir?",
+    "A": "Sadece gece saatlerinde nakil yapılması",
+    "B": "Hükümlülerin refakatçi olmadan taşınması",
+    "C": "İnfaz koruma memurları eşliğinde nakil yapılması",
+    "D": "Hükümlülerin aileleriyle birlikte taşınması",
+    "Answer": "İnfaz koruma memurları eşliğinde nakil yapılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, nakil sırasında görevli nezaretinde yapılan sevk işlemlerinde aşağıdakilerden hangisi karşılanması zorunlu olan ihtiyaçlardandır?",
+    "A": "Psikolojik danışmanlık",
+    "B": "İaşe ve bedensel ihtiyaçlar",
+    "C": "Eğitim materyalleri sağlama",
+    "D": "Sosyal güvenlik sağlama",
+    "Answer": "İaşe ve bedensel ihtiyaçlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin firara karşı alınacak tedbirlerinin sınırları aşağıdakilerden hangisidir?",
+    "A": "Halkla temas etmelerini tamamen engellemek",
+    "B": "Hükümlüyü fiziksel ve psikolojik tecrit altında tutmak",
+    "C": "Firar önleyici, ancak insan onuruna saygılı şekilde düzenlemek",
+    "D": "Hükümlülerin iletişim araçlarını tamamen yasaklamak",
+    "Answer": "Firar önleyici, ancak insan onuruna saygılı şekilde düzenlemek",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

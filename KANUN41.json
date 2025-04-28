@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün bireysel ihtiyaçlarına uygun iyileştirme programlarının amacı nedir?",
+    "A": "Hükümlünün üretken bir birey olarak topluma kazandırılması",
+    "B": "Hükümlünün suça olan eğiliminin artırılması",
+    "C": "Hükümlünün kendi ihtiyaçlarını karşılayabilmesi",
+    "D": "Hükümlünün cezalandırılmasına yönelik işlemlerin hızlandırılması",
+    "Answer": "Hükümlünün üretken bir birey olarak topluma kazandırılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi durumda hükümlü iyileştirme programlarından yararlanır?",
+    "A": "Hükümlü programlara katılmayı reddederse",
+    "B": "Hükümlü sadece ağır suçlardan mahkûm olduysa",
+    "C": "Hükümlü bu hizmetleri ücretsiz almazsa",
+    "D": "Hükümlü, kurumun iyileştirme gereklerine uygun şekilde bir kuruma yerleştirilirse",
+    "Answer": "Hükümlü, kurumun iyileştirme gereklerine uygun şekilde bir kuruma yerleştirilirse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün yerleştirileceği kurumun özellikleri neye göre belirlenir?",
+    "A": "Hükümlünün hapis cezasının süresine göre",
+    "B": "Hükümlünün geçmişine ve bireysel ihtiyaçlarına göre",
+    "C": "Hükümlünün fiziksel kapasitesine göre",
+    "D": "Hükümlünün ailesinin talebine göre",
+    "Answer": "Hükümlünün geçmişine ve bireysel ihtiyaçlarına göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iyileştirme çabaları çerçevesinde hangi kurumlarla işbirliği yapılabilir?",
+    "A": "Sadece ceza infaz kurumu",
+    "B": "Yalnızca Adalet Bakanlığı",
+    "C": "Eğitim kurumları",
+    "D": "Dernekler, vakıflar ve gönüllü kuruluşlar",
+    "Answer": "Dernekler, vakıflar ve gönüllü kuruluşlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iyileştirilmesi için hangi kurumların yardım sağlama yükümlülüğü vardır?",
+    "A": "Sadece sağlık kuruluşları",
+    "B": "Özel sektör kuruluşları",
+    "C": "Kamu kurum ve kuruluşları",
+    "D": "Ceza infaz kurumları",
+    "Answer": "Kamu kurum ve kuruluşları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumlarında düzenlenen iyileştirme programlarının öncelikli amacı nedir?",
+    "A": "Hükümlülerin sosyal uyum sağlamalarına destek olmak",
+    "B": "Hükümlülerin disiplin cezalarını artırmak",
+    "C": "Hükümlülerin kurallara uyumunu sağlamak",
+    "D": "Hükümlülerin fiziksel gelişimini takip etmek",
+    "Answer": "Hükümlülerin sosyal uyum sağlamalarına destek olmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin sayısı ve uygulanacak güvenlik tedbirleri ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Hükümlülerin bireyselleştirmeyi mümkün kılacak sayıda bulundurulmalarına özen gösterilir.",
+    "B": "İyileştirme programları uygulanan grupların özelliklerine göre farklı güvenlik tedbirlerine yer verilir.",
+    "C": "Tehlikeli hâlde oldukları saptanan hükümlüler, bireyselleştirme çalışmaları için yirmi kişilik gruplara ayrılabilir.",
+    "D": "Tehlikeli hâlde olduğu belirlenen hükümlüler, on kişiyi aşmayacak biçimde gruplandırılabilir.",
+    "Answer": "Tehlikeli hâlde oldukları saptanan hükümlüler, bireyselleştirme çalışmaları için yirmi kişilik gruplara ayrılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Suçluluk nedenleri II. Ruhsal yapısı III. Arz edebileceği tehlike hâlleri IV. Hapis cezasının süresi V. Salıverildikten sonraki beklentisi 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdaki ifadelerden hangileri iyileştirme programlarının belirlenmesi için kullanılan kıstaslardandır?",
+    "A": "I-III-IV-V",
+    "B": "I-II-III-V",
+    "C": "II-III-IV-V",
+    "D": "Hepsi",
+    "Answer": "Hepsi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, tehlikeli durumda oldukları belirlenen hükümlüler, bireyselleştirme çalışmaları kapsamında en fazla kaç kişilik gruplar halinde düzenlenebilir?",
+    "A": "12",
+    "B": "5",
+    "C": "9",
+    "D": "10",
+    "Answer": "5",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Kişiliğini geliştirecek II. Eğitimini güçlendirecek III. Yeni beceriler elde etmesini IV. Suç işleme eğilimini yok etmeyi sağlayacak 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdaki ifadelerden hangisi/hangileri hükümlülerin ceza infaz kurumlarında uygulanacak eğitim programlarının özelliklerindendir?",
+    "A": "I ve II",
+    "B": "Yalnız IV",
+    "C": "I-II-III",
+    "D": "Hepsi",
+    "Answer": "Hepsi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Din eğitimi II. Beden eğitimi III. Temel eğitim IV. Kütüphane V. Suç psikolojisi 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdaki ifadelerden hangileri ceza infaz kurumlarında uygulanan eğitim programlarına dahildir?",
+    "A": "I-III-V",
+    "B": "II-IV-V",
+    "C": "I-II-III-IV",
+    "D": "II-III-IV",
+    "Answer": "I-II-III-IV",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin öğretimden yararlanma hakkıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kapalı ceza infaz kurumlarında bulunan hükümlülerin yalnızca örgün öğretimden yararlanmaları sağlanır.",
+    "B": "Ceza infaz kurumlarında bulunan hükümlülerin her türlü eğitime katılmaları zorunludur.",
+    "C": "Çocuk eğitim evlerinde yalnızca belirli eğitim programlarına katılım sağlanır.",
+    "D": "Açık ceza infaz kurumları ile çocuk eğitim evlerinde bulunan hükümlülerin örgün ve yaygın, kapalı ceza infaz kurumunda bulunan hükümlülerin yaygın öğretimden yararlanmaları sağlanır.",
+    "Answer": "Açık ceza infaz kurumları ile çocuk eğitim evlerinde bulunan hükümlülerin örgün ve yaygın, kapalı ceza infaz kurumunda bulunan hükümlülerin yaygın öğretimden yararlanmaları sağlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, ceza infaz kurumlarında uygulanan eğitim ve öğretim programları ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Ceza infaz kurumlarında bulunduğu süre içinde hükümlüye, kişiliğini geliştirecek, eğitimini güçlendirecek, yeni beceriler elde etmesini, suç işleme eğilimini yok etmeyi sağlayacak ve salıverilme sonrasına hazırlayacak programlar uygulanır.",
+    "B": "Hükümlünün yaş, ceza süresi ve yeteneklerine öncelik verilerek, ekonomik ve kültür durumuna uygun biçimde düzenlenen eğitim programları; temel eğitim, orta ve yükseköğretim, meslek eğitimi, din eğitimi, beden eğitimi, kütüphane ve psiko-sosyal hizmet konularını kapsar.",
+    "C": "Kapalı ceza infaz kurumlarında bulunan hükümlülerin örgün öğretimden yararlanmaları sağlanır.",
+    "D": "Hükümlülerin iyileştirilme çabalarında başarıya ulaşılması için dernekler, vakıflar ve gönüllü kişi ve kuruluşlar ile işbirliği yapılabilir; kamu kurum ve kuruluşları bu maksatla olanakları ölçüsünde gerekli yardımları yapmakla yükümlüdürler.",
+    "Answer": "Kapalı ceza infaz kurumlarında bulunan hükümlülerin örgün öğretimden yararlanmaları sağlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Dernekler II. Vakıflar III. Gönüllü kişi ve kuruluşlar IV. Kamu kurum ve kuruluşları 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdaki ifadelerden hangileri/hangisi hükümlülerin iyileştirme çabalarında başarıya ulaşması için olanakları ölçüsünde gerekli yardımı yapmakla yükümlüdür?",
+    "A": "Hepsi",
+    "B": "I-II ve IV",
+    "C": "I ve II",
+    "D": "Yalnız IV",
+    "Answer": "Hepsi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin sağlık hizmetleriyle ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Kurumun sağlık koşullarının düzenlenmesi, hükümlünün acil veya olağan muayene ve tedavisi kurumun hekimi tarafından yapılır. Genel veya hastalık nedeniyle yapılan tüm muayene ve tedavi sonuçları, sağlık izleme kartına işlenir ve dosyasında saklanır.",
+    "B": "Sağlık Bakanlığı ve Çalışma ve Sosyal Güvenlik Bakanlığı ile üniversitelerin sağlık kuruluşları, hükümlülerin tedavileri bakımından gerekli yardımları yapmakla görevlidirler.",
+    "C": "Rızası alınması halinde hükümlüler üzerinde kısmen tıbbî deney yapılabilir.",
+    "D": "Hükümlülerin tedavisiyle ilgili olarak sağlık izleme kartı oluşturulması ve bu kartın dosyasında saklanması esastır.",
+    "Answer": "Rızası alınması halinde hükümlüler üzerinde kısmen tıbbî deney yapılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, kurum hekiminin sağlık denetimiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Kurum hekimi, kurumu yılda iki kez denetler ve kurumda sağlık koşulları yönünden alınması gereken önerileri içeren bir rapor düzenler ve kurum yönetimine verir.",
+    "B": "Kurum hekimi, kurumu ayda en az bir kez denetleyerek genel ve özel önlem alınması gereken hastalıklar ile kurumda sağlık koşulları yönünden alınması gereken önerileri içeren bir rapor düzenler ve kurum yönetimine verir.",
+    "C": "Sağlık denetimi yalnızca kurum dışından uzman kişilerce yapılır.",
+    "D": "Sağlık denetimi sırasında yalnızca bulaşıcı hastalıklara yönelik önlemler değerlendirilir.",
+    "Answer": "Kurum hekimi, kurumu ayda en az bir kez denetleyerek genel ve özel önlem alınması gereken hastalıklar ile kurumda sağlık koşulları yönünden alınması gereken önerileri içeren bir rapor düzenler ve kurum yönetimine verir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlünün hastaneye sevki ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlünün sağlık nedeniyle hastaneye sevkine yalnızca ceza infaz kurumu yönetimi karar verir.",
+    "B": "Hükümlünün hastaneye sevki için herhangi bir rapor düzenlenmesine gerek yoktur.",
+    "C": "Hastaneye sevk talepleri yalnızca hükümlünün kendisi tarafından yapılabilir.",
+    "D": "Hükümlünün sağlık nedeniyle hastaneye sevkine gerek duyulduğunda, durum kurum hekimi tarafından derhâl bir raporla ceza infaz kurumu yönetimine bildirilir.",
+    "Answer": "Hükümlünün sağlık nedeniyle hastaneye sevkine gerek duyulduğunda, durum kurum hekimi tarafından derhâl bir raporla ceza infaz kurumu yönetimine bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, infazı engelleyecek hastalık hâli ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlünün cezasını yerine getirmesine engel olabilecek hastalık, yalnızca hükümlünün beyanı ile saptanır.",
+    "B": "Kurum hekimi veya görevli hekim tarafından yapılan muayene ve incelemeler sonucunda hükümlünün cezasını yerine getirmesine engel olabilecek hastalığı saptanırsa, durum kurum yönetimine bildirilir.",
+    "C": "Hekimlerin raporu olmadan, hükümlünün infazı engelleyecek hastalık hâlleri değerlendirilemez.",
+    "D": "Hükümlünün hastalık hâline ilişkin bildirimler, yalnızca Sağlık Bakanlığı tarafından yapılır.",
+    "Answer": "Kurum hekimi veya görevli hekim tarafından yapılan muayene ve incelemeler sonucunda hükümlünün cezasını yerine getirmesine engel olabilecek hastalığı saptanırsa, durum kurum yönetimine bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin iyileştirilme çabalarında başarıya ulaşılması için hangi kuruluşlarla iş birliği yapılabilir?",
+    "A": "Sadece kamu kurumları",
+    "B": "Sadece özel şirketler",
+    "C": "Dernekler, vakıflar ve gönüllü kişi ve kuruluşlar",
+    "D": "Uluslararası kuruluşlar",
+    "Answer": "Dernekler, vakıflar ve gönüllü kişi ve kuruluşlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi kurumlar, hükümlülerin iyileştirilme çabalarına katkı sağlamakla yükümlüdür?",
+    "A": "Sadece dernekler",
+    "B": "Kamu kurum ve kuruluşları",
+    "C": "Sadece sosyal hizmetler",
+    "D": "Sadece üniversiteler",
+    "Answer": "Kamu kurum ve kuruluşları",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

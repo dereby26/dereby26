@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasının süresi aşağıdakilerden hangisidir?",
+    "A": "15 günden 1 aya kadar",
+    "B": "2 aydan 6 aya kadar",
+    "C": "3 aydan 1 yıla kadar",
+    "D": "1 aydan 3 aya kadar",
+    "Answer": "1 aydan 3 aya kadar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektirir?",
+    "A": "İş yerinde zamanında bulunmak",
+    "B": "İş yerini izinsiz terk etmek",
+    "C": "İş yönergelerine uymak",
+    "D": "Görevini titizlikle yerine getirmek",
+    "Answer": "İş yerini izinsiz terk etmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasına neden olmaz?",
+    "A": "İş yerinde kullanılan aletleri kasten bozmak",
+    "B": "İş kıyafetini giymemek",
+    "C": "Çalışma ortamını düzenli tutmak",
+    "D": "İş yerini tehlikeye düşürmek",
+    "Answer": "Çalışma ortamını düzenli tutmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektiren eylemlerden biri aşağıdakilerden hangisidir?",
+    "A": "İş yerindeki çalışma yönergelerine uymamak",
+    "B": "Çalışma arkadaşlarına yardım etmek",
+    "C": "İş disiplinine uygun hareket etmek",
+    "D": "İş yerinde zamanında bulunmak",
+    "Answer": "İş yerindeki çalışma yönergelerine uymamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasına neden olabilir?",
+    "A": "İşin gereğini titizlikle yerine getirmek",
+    "B": "İş kıyafetini düzenli olarak giymek",
+    "C": "İş yerinde dikkatsiz ve tedbirsiz davranışlarla başkalarını tehlikeye düşürmek",
+    "D": "İş yerindeki ekipmanları düzenli kullanmak",
+    "Answer": "İş yerinde dikkatsiz ve tedbirsiz davranışlarla başkalarını tehlikeye düşürmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektirmez?",
+    "A": "İşte kullanılan gereçleri kasten bozmak",
+    "B": "İş yerini izinsiz terk etmek",
+    "C": "İş kıyafetini giymemek",
+    "D": "İş yerinde gerekli özeni göstermek",
+    "Answer": "İş yerinde gerekli özeni göstermek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasının sebeplerinden biridir?",
+    "A": "İş yerinde çalışma arkadaşlarının dikkatle çalışmalarını engellemek",
+    "B": "İş güvenliği kurallarına uygun davranmak",
+    "C": "İş kıyafetini düzenli olarak giymek",
+    "D": "İş yerindeki aletleri dikkatli kullanmak",
+    "Answer": "İş yerinde çalışma arkadaşlarının dikkatle çalışmalarını engellemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasına neden olmaz?",
+    "A": "İşin gereğini yerine getirmemek",
+    "B": "İş yerini izinsiz terk etmek",
+    "C": "İş yerindeki ekipmanları dikkatle kullanmak",
+    "D": "İş yerindeki çalışma yönergelerine uymamak",
+    "Answer": "İş yerindeki ekipmanları dikkatle kullanmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektiren eylemler arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "İş yerinde özeni göstermek",
+    "B": "İş kıyafetini giymemek",
+    "C": "İş yerini veya çalışanları tehlikeye düşürmek",
+    "D": "İş yerindeki gereçleri kasten bozmak",
+    "Answer": "İş yerinde özeni göstermek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektirir?",
+    "A": "İş yerinde gereksiz tartışmalardan kaçınmak",
+    "B": "İş yerindeki çalışanları tehlikeye düşürmek",
+    "C": "İş yönergelerine uygun hareket etmek",
+    "D": "İş arkadaşlarına yardım etmek",
+    "Answer": "İş yerindeki çalışanları tehlikeye düşürmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasının kapsamındadır?",
+    "A": "İş yerinde tehlikeye neden olan dikkatsiz davranışlarda bulunmak",
+    "B": "İş disiplinine uygun hareket etmek",
+    "C": "Çalışma arkadaşlarına destek olmak",
+    "D": "İş yerindeki görevini düzenli yerine getirmek",
+    "Answer": "İş yerinde tehlikeye neden olan dikkatsiz davranışlarda bulunmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasına neden olan davranışlardan biri aşağıdakilerden hangisidir?",
+    "A": "İş yerindeki çalışma arkadaşlarına yardım etmek",
+    "B": "",
+    "C": "Çalışma ortamını düzenli tutmak",
+    "D": "",
+    "Answer": "",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektiren eylemler arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "İş yerindeki gereçleri dikkatsiz kullanmak",
+    "B": "İş disiplinine uygun hareket etmek",
+    "C": "İş kıyafetini giymemek",
+    "D": "İş yerini izinsiz terk etmek",
+    "Answer": "İş disiplinine uygun hareket etmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezası aşağıdaki hangi durumda uygulanır?",
+    "A": "Çalışma yönergelerine uymamak",
+    "B": "İş yerinde disiplinli çalışmak",
+    "C": "Çalışma arkadaşlarının işine yardımcı olmak",
+    "D": "Çalışma alanını düzenli tutmak",
+    "Answer": "Çalışma yönergelerine uymamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektiren davranışlardan biri aşağıdakilerden hangisidir?",
+    "A": "İş yerinde dikkatli çalışmak",
+    "B": "İş arkadaşlarının ciddiyetle çalışmasını engellemek",
+    "C": "İş kıyafetini düzenli giymek",
+    "D": "Çalışma yönergelerine uygun hareket etmek",
+    "Answer": "İş arkadaşlarının ciddiyetle çalışmasını engellemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasına neden olmaz?",
+    "A": "İş yerinde tehlikeye neden olmak",
+    "B": "İş yerindeki araçları kasıtlı olarak bozmak",
+    "C": "İş yönergelerine dikkat etmek",
+    "D": "İş yerini izinsiz terk etmek",
+    "Answer": "İş yönergelerine dikkat etmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasına neden olan eylemler arasında aşağıdakilerden hangisi yer alır?",
+    "A": "Çalışma disiplinine uygun davranmak",
+    "B": "İş yerindeki gereçleri dikkatle kullanmak",
+    "C": "Çalışma arkadaşlarına yardımcı olmak",
+    "D": "İşin gerektirdiği özeni göstermemek",
+    "Answer": "İşin gerektirdiği özeni göstermemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezası aşağıdaki hangi durumda uygulanır?",
+    "A": "İş disiplinine titizlikle uymak",
+    "B": "İş arkadaşlarını tehlikeye düşürmek",
+    "C": "İş yerindeki gereçleri düzgün kullanmak",
+    "D": "Çalışma ortamını temiz tutmak",
+    "Answer": "İş arkadaşlarını tehlikeye düşürmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdakilerden hangisi ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektiren bir davranış değildir?",
+    "A": "İşin gerektirdiği özeni göstermek",
+    "B": "İş yerindeki ekipmanları kasten bozmak",
+    "C": "İş yerini izinsiz terk etmek",
+    "D": "İş yerinde çalışanları tehlikeye düşürmek",
+    "Answer": "İşin gerektirdiği özeni göstermek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektiren davranışlardan biri aşağıdakilerden hangisidir?",
+    "A": "İş yerindeki ekipmanları dikkatle kullanmak",
+    "B": "Çalışma ortamını düzenli tutmak",
+    "C": "İş kıyafetini giymemek",
+    "D": "Çalışma arkadaşlarının işine yardımcı olmak",
+    "Answer": "İş kıyafetini giymemek",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

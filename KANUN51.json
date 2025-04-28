@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülere iş arama izni verilmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlülere iş arama izni yalnızca ceza infaz kurumunda bir yılını doldurmuş olanlara verilebilir.",
+    "B": "Ceza infaz kurumlarında hükümlülük sürelerinin en az altı ayını kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere, olağan yaşamlarına döndüklerinde uyum sorunu ile karşılaşmamaları ve iş bulma olanakları sağlanması amacıyla, kurum en üst amirinin önerisi ve Cumhuriyet Başsavcılığının onayı ile çalışma günleri içinde sekiz saate kadar izin verilebilir.",
+    "C": "İş arama izni kapsamında hükümlülerin ceza infaz kurumu dışına çıkmalarına izin verilmez.",
+    "D": "Hükümlülere iş arama izni, yalnızca mahkeme kararı ile verilebilir.",
+    "Answer": "Ceza infaz kurumlarında hükümlülük sürelerinin en az altı ayını kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere, olağan yaşamlarına döndüklerinde uyum sorunu ile karşılaşmamaları ve iş bulma olanakları sağlanması amacıyla, kurum en üst amirinin önerisi ve Cumhuriyet Başsavcılığının onayı ile çalışma günleri içinde sekiz saate kadar izin verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, ceza infaz kurumlarında hükümlülük sürelerinin en az altı ayını kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere, olağan yaşamlarına döndüklerinde uyum sorunu yaşamamaları ve iş bulma olanaklarını artırmak amacıyla, çalışma günleri içinde en fazla kaç saate kadar izin verilebilir?",
+    "A": "İki",
+    "B": "Dört",
+    "C": "Altı",
+    "D": "Sekiz",
+    "Answer": "Sekiz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, hükümlülerin izin dönüşleri ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "İzinden dönmeyen veya iki günden fazla bir süre geçtikten sonra dönen hükümlüler hakkında Türk Ceza Kanunu’nun 292. maddesi ve izleyen maddelerinde yazılı hükümler uygulanır.",
+    "B": "Salgın hastalık, doğal afet, savaş veya seferberlik durumunda, bu sebeplerden dolayı izinden dönemeyen veya geç dönen hükümlülere ceza verilmez.",
+    "C": "İzin süresini iki gün veya daha az bir süre geçiren hükümlüler hakkında disiplin işlemi yapılır.",
+    "D": "İzinden dönmeyen veya üç günden fazla bir süre geçtikten sonra dönen hükümlüler ile firar eden hükümlülere bir daha özel izin verilmez.",
+    "Answer": "İzinden dönmeyen veya üç günden fazla bir süre geçtikten sonra dönen hükümlüler ile firar eden hükümlülere bir daha özel izin verilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, mahkûmiyet hükmünün yorumunda veya çektirilecek cezanın hesabında duraksama hâlleriyle ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Mahkûmiyet hükmünün yorumunda duraksama olursa veya sonradan yürürlüğe giren kanun hükmünün Türk Ceza Kanunu’nun 7. maddesi kapsamında değerlendirilmesi gerekirse, duraksamanın giderilmesi için hükmü veren mahkemeden karar istenir.",
+    "B": "Çektirilecek cezanın hesabında duraksama olursa ya da cezanın kısmen veya tamamen yerine getirilip getirilemeyeceği ileri sürülürse, duraksamanın giderilmesi veya yerine getirilecek cezanın belirlenmesi için infaz hâkimliğinden karar istenir.",
+    "C": "Anayasa mahkemesine yapılan başvurular cezanın infazını otomatik olarak erteler.",
+    "D": "Mahkeme veya infaz hâkimliği, olayın özelliğine göre cezanın infazının ertelenmesine veya durdurulmasına karar verebilir.",
+    "Answer": "Anayasa mahkemesine yapılan başvurular cezanın infazını otomatik olarak erteler.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, birden fazla hükümdeki cezaların toplanması ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Bir kişi hakkında hükmolunan her bir ceza diğerinden bağımsızdır ve varlıklarını ayrı ayrı korurlar.",
+    "B": "Bir kişi hakkında başka başka kesinleşmiş hükümler bulunması hâlinde, infaz hâkimliğinden bir toplama kararı istenmesine gerek yoktur.",
+    "C": "Adli para cezasından çevrilen ve ceza infaz kurumunda infaz edilme aşamasına gelen hapis cezaları toplama kararına dahil edilmez.",
+    "D": "107. maddenin uygulanabilmesi yönünden ilgili asliye ceza mahkemesinden toplama kararı istenir.",
+    "Answer": "Bir kişi hakkında hükmolunan her bir ceza diğerinden bağımsızdır ve varlıklarını ayrı ayrı korurlar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, izin süresini iki günden fazla aşan hükümlüler hakkında aşağıdakilerden hangisi yapılır?",
+    "A": "İdari uyarı verilir",
+    "B": "Ceza indirimi yapılır",
+    "C": "Özel izin hakları iptal edilir",
+    "D": "İki gün içinde geri dönme zorunluluğu getirilir",
+    "Answer": "Özel izin hakları iptal edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki durumlardan hangisinde izinden geç dönen veya dönemeyen hükümlülere ceza verilmez?",
+    "A": "İzinden döndüğünde yazılı beyan vermesi durumunda",
+    "B": "Salgın hastalık, doğal afet gibi durumlar nedeniyle",
+    "C": "Cezaevi yönetiminin izniyle",
+    "D": "Kendi isteğiyle geç dönme talebinde bulunursa",
+    "Answer": "Salgın hastalık, doğal afet gibi durumlar nedeniyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bir hükümlünün izin süresini iki gün veya daha az aşması durumunda aşağıdakilerden hangisi yapılır?",
+    "A": "Disiplin işlemi yapılır",
+    "B": "Hükümlüye tekrar izin verilmez",
+    "C": "İki gün izin uzatılır",
+    "D": "Ceza indirimi uygulanır",
+    "Answer": "Disiplin işlemi yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, mahkûmiyet hükmünün yorumunda duraksama olması durumunda aşağıdakilerden hangisinden karar istenir?",
+    "A": "Cumhuriyet Başsavcılığı",
+    "B": "İnfaz Hakimliği",
+    "C": "Hükmü veren mahkeme",
+    "D": "Denetimli Serbestlik Müdürlüğü",
+    "Answer": "Hükmü veren mahkeme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, cezanın infazının durdurulması veya ertelenmesi kararı aşağıdakilerden hangisi durumda alınabilir?",
+    "A": "Mahkûmun talebi üzerine",
+    "B": "Savcının talimatıyla",
+    "C": "Mahkûmiyet hükmü kesinleştiğinde",
+    "D": "Mahkeme veya infaz hakimliği, olayın özelliğine göre karar verirse",
+    "Answer": "Mahkeme veya infaz hakimliği, olayın özelliğine göre karar verirse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, cezanın hesabında duraksama olduğunda aşağıdakilerden hangisine başvurulur?",
+    "A": "İnfaz Hakimliği",
+    "B": "Hükmü veren mahkeme",
+    "C": "Adalet Bakanlığı",
+    "D": "Cumhuriyet Başsavcılığı",
+    "Answer": "İnfaz Hakimliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün izinden dönmeyip iki günden fazla geç döndüğü durumlarda aşağıdakilerden hangisi yapılır?",
+    "A": "Özel izin verilmeye devam edilir",
+    "B": "Hapis cezası süresi uzatılır",
+    "C": "Bir daha özel izin verilmez",
+    "D": "İzin süresi cezasından indirilir",
+    "Answer": "Bir daha özel izin verilmez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bir kişinin birden fazla hükmü varsa infaz hakimliği aşağıdakilerden hangisi durumda toplama kararı verir?",
+    "A": "Sadece hapis cezaları varsa",
+    "B": "Para cezası veya hapis cezası varsa",
+    "C": "Suçlar arasında bağlantı varsa",
+    "D": "İnfaz aşamasına gelmiş adli para cezası veya hapis cezası varsa",
+    "Answer": "İnfaz aşamasına gelmiş adli para cezası veya hapis cezası varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, izinden dönmeyen veya geç dönen hükümlülere ceza verilmemesi durumu aşağıdaki koşullardan hangisinde uygulanır?",
+    "A": "Kişisel sebeplerle geç döndüğünde",
+    "B": "Disiplin suçu işlememesi durumunda",
+    "C": "Cezaevi idaresi tarafından izin verilmesi halinde",
+    "D": "Savaş, salgın veya doğal afet durumunda",
+    "Answer": "Savaş, salgın veya doğal afet durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bir hükümlüye verilen adli para cezasının hapis cezasına çevrilmesi durumunda bu ceza aşağıdakilerden hangisi şekilde değerlendirilir?",
+    "A": "Diğer cezalarla birlikte toplanır",
+    "B": "Ayrı infaz edilir",
+    "C": "Süre açısından indirime tabi tutulur",
+    "D": "Toplama işlemine dahil edilmez",
+    "Answer": "Diğer cezalarla birlikte toplanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, mahkûmiyet hükmünün yorumunda bir belirsizlik olması halinde duraksamanın giderilmesi için aşağıdakilerden hangisi yapılır?",
+    "A": "Savcının kararı ile giderilir",
+    "B": "Hükmü veren mahkemeden karar istenir",
+    "C": "Hükümlüye ek süre verilir",
+    "D": "Disiplin kurulunca karar verilir",
+    "Answer": "Hükmü veren mahkemeden karar istenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, bir hükümlü ceza infaz kurumunda adli para cezasını hapis cezasına çevirmişse, bu hapis cezası toplama işlemine dahil edilir mi?",
+    "A": "Evet, toplama işlemine dahil edilir",
+    "B": "Hayır, toplama işlemine dahil edilmez",
+    "C": "İnfaz hakimliği kararına göre dahil edilir",
+    "D": "İlgili mahkemenin kararına bağlıdır",
+    "Answer": "Evet, toplama işlemine dahil edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz işlemi sırasında duraksama olması halinde aşağıdakilerden hangisi yapılır?",
+    "A": "İnfaz duraksar",
+    "B": "İnfaz ertelenir",
+    "C": "İnfaz kesintisiz devam eder",
+    "D": "Savcı tarafından infaz kararı verilir",
+    "Answer": "İnfaz kesintisiz devam eder",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infazın ertelenmesi veya durdurulması kararı aşağıdakilerden hangisi tarafından alınabilir?",
+    "A": "Cezaevi müdürü",
+    "B": "İnfaz hakimliği veya mahkeme",
+    "C": "Cumhuriyet Savcısı",
+    "D": "Cezaevi Disiplin Kurulu",
+    "Answer": "İnfaz hakimliği veya mahkeme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, mahkûmiyet hükmünün Türk Ceza Kanunu’nun 7. Maddesi kapsamında değerlendirilmesi gerekirse aşağıdakilerden hangisinden karar istenir?",
+    "A": "Adalet Bakanlığı",
+    "B": "Yargıtay",
+    "C": "Hükmü veren mahkeme",
+    "D": "Cezaevi Disiplin Kurulu",
+    "Answer": "Hükmü veren mahkeme",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

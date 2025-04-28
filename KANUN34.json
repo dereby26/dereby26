@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "İnfaz hâkimi tarafından bu madde uyarınca verilen kararlara itiraz hakkı bulunmamaktadır.",
+    "B": "İnfaz hâkimliği, hükümlünün kurallara uyumunu, toplum veya ceza infaz kurumu bakımından arz ettiği tehlikeyi ve rehabilitasyon çalışmalarındaki gelişimini değerlendirerek, kararda belirttiği süreyi üç aydan fazla olmamak üzere müteaddit defa uzatabileceği gibi kısaltılmasına veya sonlandırılmasına da karar verebilir.",
+    "C": "Beşinci fıkra kapsamında yapılan bir görüşmenin amaca yönelik yapıldığının anlaşılması hâlinde, görüşmeye derhal son verilir ve bu durum gerekçesiyle birlikte tutanağa bağlanır. Taraflar bu konuda görüşme başlamadan önce uyarılır.",
+    "D": "Bu madde hükümleri, yüksek güvenlikli ceza infaz kurumlarında bulunan hükümlüler hakkında da uygulanır.",
+    "Answer": "İnfaz hâkimi tarafından bu madde uyarınca verilen kararlara itiraz hakkı bulunmamaktadır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Tutuklular hakkında bu madde hükümlerine göre karar vermeye infaz hâkimi yetkilidir.",
+    "B": "Tutukluların durumu yalnızca kovuşturma aşamasında değerlendirilir.",
+    "C": "Soruşturma aşamasında sulh ceza hâkimi, kovuşturma aşamasında ise mahkeme tutuklular hakkında bu madde hükümlerine göre karar vermeye yetkilidir.",
+    "D": "Bu madde hükümleri sadece hükümlüler için uygulanabilir, tutuklular için geçerli değildir.",
+    "Answer": "Soruşturma aşamasında sulh ceza hâkimi, kovuşturma aşamasında ise mahkeme tutuklular hakkında bu madde hükümlerine göre karar vermeye yetkilidir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, Türkiye Cumhuriyeti'nin taraf olduğu uluslararası sözleşmelere ve karşılıklılık esasına uygun olmak koşuluyla aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Yabancı uyruklu avukatlar, vekâletname sunmaksızın hükümlülerle bireysel görüşme yapabilir.",
+    "B": "Türk vatandaşı veya yabancı uyruklu hükümlüler, sadece Türkiye’deki mahkemelerdeki davalar için avukatlarıyla görüşebilir.",
+    "C": "Hükümlü ile yabancı uyruklu avukatın görüşmesi, sadece vekâletname olmasa da mümkündür.",
+    "D": "Yabancı uyruklu avukatlar, vekâletname sunmaksızın Türk barolarına kayıtlı bir avukat ile hükümlülerle görüşebilir.",
+    "Answer": "Yabancı uyruklu avukatlar, vekâletname sunmaksızın Türk barolarına kayıtlı bir avukat ile hükümlülerle görüşebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin avukatlarıyla vekâletname olmaksızın görüşme hakkı kaç kez ile sınırlıdır?",
+    "A": "Sınırsız",
+    "B": "Bir kez",
+    "C": "En fazla üç kez",
+    "D": "Yılda bir kez",
+    "Answer": "En fazla üç kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, avukatlar hükümlülerle görüşürken hangi koşullar sağlanmalıdır?",
+    "A": "Görüşme mahkeme salonunda yapılmalıdır",
+    "B": "Tatil günleri dışında ve mesai saatlerinde yapılmalıdır",
+    "C": "Görüşmeler yalnızca avukatın ofisinde yapılabilir",
+    "D": "Görüşme sadece hafta sonları yapılabilir",
+    "Answer": "Görüşme sadece hafta sonları yapılabilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, avukatların aynı anda birden fazla hükümlüyle görüşmesi için hangi şart geçerlidir?",
+    "A": "Vekâletnameleri olması",
+    "B": "Özel izin alması",
+    "C": "Aynı anda görüşme yapamazlar",
+    "D": "Her iki hükümlü de aynı davadan mahkûm olması",
+    "Answer": "Aynı anda görüşme yapamazlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi durumda hükümlü ile avukat arasındaki görüşmeler kaydedilebilir?",
+    "A": "Hükümlü talep ederse",
+    "B": "Hükümlünün disiplin suçu işlemesi durumunda",
+    "C": "Her görüşme sırasında",
+    "D": "Güvenlik açısından tehlike oluşturduğuna dair bilgi, bulgu veya belge varsa",
+    "Answer": "Güvenlik açısından tehlike oluşturduğuna dair bilgi, bulgu veya belge varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hangi suçlardan mahkûm olan hükümlülerin avukat görüşmeleri belirli koşullarda kaydedilebilir?",
+    "A": "Sadece terör suçlarından mahkûm olanlar",
+    "B": "Her türlü suçtan mahkûm olanlar",
+    "C": "Terör ve örgüt suçlarından mahkûm olanlar",
+    "D": "Yalnızca hırsızlık ve gasp suçlarından mahkûm olanlar",
+    "Answer": "Sadece terör suçlarından mahkûm olanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, avukat görüşmelerinde avukata teslim edilen belgeler hangi durumda incelenebilir?",
+    "A": "Mahkeme kararı ile",
+    "B": "Cumhuriyet Başsavcılığı onayı ile",
+    "C": "Sadece güvenlik açısından gerekliyse",
+    "D": "Normal şartlarda hiçbir durumda incelenemez",
+    "Answer": "Sadece güvenlik açısından gerekliyse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz hâkimi, tehlikeli durumdaki bir hükümlü için avukat görüşme yasağını en fazla ne kadar süreyle uzatabilir?",
+    "A": "Üç ay",
+    "B": "Altı ay",
+    "C": "Bir yıl",
+    "D": "Süresiz",
+    "Answer": "Süresiz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, infaz hâkiminin avukat görüşmelerine ilişkin aldığı kararlara karşı hangi yolla itiraz edilebilir?",
+    "A": "Cumhuriyet Başsavcılığı’na dilekçe vererek",
+    "B": "Avukatlar Birliği’ne başvurarak",
+    "C": "4675 sayılı Kanuna göre itiraz ederek",
+    "D": "Baro başkanlığına dilekçe vererek",
+    "Answer": "4675 sayılı Kanuna göre itiraz ederek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, yabancı ülkelerde haklarında dava açılmak isteyen hükümlüler, hangi şartla yabancı avukatlarıyla görüşebilir?",
+    "A": "Yalnızca tatil günlerinde",
+    "B": "Türkiye Barolar Birliği’nin izniyle",
+    "C": "Herhangi bir koşul olmadan",
+    "D": "Vekâletname sunarak",
+    "Answer": "Türkiye Barolar Birliği’nin izniyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler hangi amaçla kültür ve sanat etkinliklerine katılabilir?",
+    "A": "Serbest zamanlarını doldurmak için",
+    "B": "Ceza indiriminden yararlanmak için",
+    "C": "İfade yeteneklerini geliştirmek ve bilgilerini artırmak için",
+    "D": "Sadece hobi edinmek için",
+    "Answer": "Serbest zamanlarını doldurmak için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin katılacağı kültür ve sanat programlarının düzenlenmesinden kim sorumludur?",
+    "A": "Hükümlülerin kendileri",
+    "B": "Ceza infaz kurumu yöneticisi",
+    "C": "Kültür ve Turizm Bakanlığı",
+    "D": "Adalet Bakanlığı",
+    "Answer": "Ceza infaz kurumu yöneticisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin ifade özgürlüğü çerçevesinde gerçekleştirecekleri yayın etkinlikleri hangi kurallara bağlıdır?",
+    "A": "Çalışma esasları ve bu konudaki şartlara",
+    "B": "Hükümlülerin taleplerine göre",
+    "C": "İnfaz hâkiminin onayına bağlıdır",
+    "D": "Tamamen serbest bırakılmıştır",
+    "Answer": "İnfaz hâkiminin onayına bağlıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, Devletin kültür ve sanat işlerinden sorumlu kuruluşları hükümlülere hangi konularda yardımcı olur?",
+    "A": "Hükümlülerin çalıştırılmasında",
+    "B": "Kültür ve sanat programları düzenlenmesinde",
+    "C": "Güvenlik tedbirlerinde",
+    "D": "Hükümlülere yasal destek sağlanmasında",
+    "Answer": "Hükümlülere yasal destek sağlanmasında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kültür ve sanat etkinliklerine katılma ile ifade özgürlüğü konusunda aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Ceza infaz kurumlarında, olanaklar elverdiğince, kültürün ve sanatın çeşitli dallarını temsil eden programlar hazırlanır ve hükümlülerin bunlara katılmaları hususundaki usûller düzenlenir.",
+    "B": "Programların temel hedefi, hükümlülerin ifade yeteneklerini geliştirmelerini ve bilgilerini artırmalarını sağlamaktır.",
+    "C": "Hükümlülerin ifade özgürlüğü çerçevesinde gerçekleştirebilecekleri yayın etkinlikleri, kurumda çalışma esaslarını düzenleyen hükümlere ve bu husustaki koşullara bağlıdır.",
+    "D": "Kurumun kültür ve sanat programları, Milli Eğitim Bakanlığınca belirlenen esaslara göre kurum en üst amiri tarafından düzenlenir ve bu maksatla devletin kültür ve sanat işleriyle görevli kuruluşları gerekli yardımları yapar.",
+    "Answer": "Hükümlülerin ifade özgürlüğü çerçevesinde gerçekleştirebilecekleri yayın etkinlikleri, kurumda çalışma esaslarını düzenleyen hükümlere ve bu husustaki koşullara bağlıdır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Ceza infaz kurumlarında, olanaklar elverdiğince, kültürün ve sanatın çeşitli dallarını temsil eden programlar hazırlanır ve hükümlülerin bunlara katılmaları hususundaki usuller düzenlenir. II. Programların temel hedefi, hükümlülerin ifade yeteneklerini geliştirmelerini ve bilgilerini artırmalarını sağlamaktır. III. Kurumun kültür ve sanat programları, Adalet Bakanlığınca belirlenen esaslara göre kurumun en üst amiri tarafından düzenlenir. Bu maksatla, devletin kültür ve sanat işleriyle görevli kuruluşları gerekli yardımları yaparlar. IV. Hükümlülerin ifade özgürlüğü çerçevesinde gerçekleştirebilecekleri yayın etkinlikleri, kurumda çalışma esaslarını düzenleyen hükümlere ve bu husustaki koşullara bağlıdır. 5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, yukarıdaki ifadelerden hangisi/hangileri hükümlülerin kültür ve sanat etkinliklerine katılma hakkı ile ifade özgürlüğü kapsamında değerlendirilebilir?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "II ve IV",
+    "D": "Hepsi",
+    "Answer": "I ve II",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, ceza infaz kurumlarında olanaklar elverdiğince, kültürün ve sanatın çeşitli dallarını temsil eden programlar hazırlanır ve hükümlülerin bunlara katılmaları hususundaki usûller düzenlenir. Bu programların temel hedefi aşağıdakilerden hangisidir?",
+    "A": "Hükümlülerin sosyal uyumlarını artırmak ve topluma yeniden entegrasyon süreçlerini desteklemek.",
+    "B": "Hükümlülerin mesleki becerilerini geliştirmek ve gelecekteki iş olanaklarını artırmak.",
+    "C": "Hükümlülerin ifade yeteneklerini geliştirmelerini ve bilgilerini artırmalarını sağlamak.",
+    "D": "Hükümlülerin fiziksel sağlığını ve zindeliklerini korumak için çeşitli spor etkinliklerine katılımlarını sağlamak.",
+    "Answer": "Hükümlülerin fiziksel sağlığını ve zindeliklerini korumak için çeşitli spor etkinliklerine katılımlarını sağlamak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, kütüphaneden yararlanma ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Ceza infaz kurumlarının büyüklüğüne bağlı olarak kütüphane veya kitaplık oluşturulur.",
+    "B": "Kütüphanelerde yalnızca derslere kaynaklık edecek kitaplar bulundurulur, diğer yayınlar yer almaz.",
+    "C": "Hükümlülerin, kamu kurum ve kuruluşlarına bağlı kütüphanelerdeki belirli şartları taşıyan yayınlardan faydalanmaları mümkündür.",
+    "D": "Gezici kitaplıklar aracılığıyla hükümlülere kütüphane hizmeti sunulabilir.",
+    "Answer": "Gezici kitaplıklar aracılığıyla hükümlülere kütüphane hizmeti sunulabilir.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

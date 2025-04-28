@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin zorunlu nedenlerle nakledilmesinde aşağıdakilerden hangisi dikkate alınır?",
+    "A": "Hükümlünün eğitim durumu",
+    "B": "Hükümlünün talebi",
+    "C": "Hükümlünün yaşadığı şehir",
+    "D": "Kurumların konumlarına uygunluk",
+    "Answer": "Kurumların konumlarına uygunluk",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin başka bir kuruma nakline sebep olan zorunlu nedenler arasında hangisi yer almaz?",
+    "A": "Doğal afet",
+    "B": "Asayiş ve güvenlik sorunları",
+    "C": "Hükümlünün sağlık durumu",
+    "D": "Büyük onarım ihtiyaçları",
+    "Answer": "Hükümlünün sağlık durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin elverişsiz ve yetersiz kalan bir kurumdan nakledilmesi hangi durumlarda gereklidir?",
+    "A": "Hükümlülerin kişisel talepleri doğrultusunda",
+    "B": "Kurumun yetersiz fiziki koşullara sahip olması",
+    "C": "Hükümlülerin sosyal rehabilitasyon programlarına erişimi için",
+    "D": "Hükümlünün ailesinin yaşadığı ilde başka bir kurum bulunması",
+    "Answer": "Kurumun yetersiz fiziki koşullara sahip olması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin başka bir kuruma nakline sebep olan ‘büyük onarım’ durumu ne tür bir durum olarak değerlendirilir?",
+    "A": "Zorunlu neden",
+    "B": "Hükümlünün isteği",
+    "C": "İdari tercih",
+    "D": "Güvenlik gerekçesi olmayan bir talep",
+    "Answer": "Zorunlu neden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlüler hangi durumlarda yargı çevresi dışında bir kuruma nakledilebilir?",
+    "A": "Kendi talepleri doğrultusunda",
+    "B": "Asayiş ve güvenlik gerektirdiğinde",
+    "C": "Yakın akrabalarının yaşadığı yerlerde kurum bulunması halinde",
+    "D": "Eğitim ve kültürel faaliyetlere katılmak istemeleri durumunda",
+    "Answer": "Asayiş ve güvenlik gerektirdiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, doğal afet gibi zorunlu bir durum oluştuğunda hükümlülerin nakli için kim yetkilidir?",
+    "A": "Hükümlünün aile üyeleri",
+    "B": "Cumhuriyet savcısı",
+    "C": "Ceza infaz kurumu idaresi",
+    "D": "Adalet Bakanlığı",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, ceza infaz kurumlarının kapasite aşımı durumunda hükümlüler hangi gerekçeyle nakledilebilir?",
+    "A": "Eğitim programlarına erişim için",
+    "B": "Hükümlülerin istekleri doğrultusunda",
+    "C": "Güvenlik sağlanması için",
+    "D": "Kamu yararı gerekçesiyle",
+    "Answer": "Güvenlik sağlanması için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlülerin hangi durumda kurum değişikliği mümkün değildir?",
+    "A": "Hükümlünün kendi isteği doğrultusunda",
+    "B": "Yangın tehlikesi olduğunda",
+    "C": "Doğal afet nedeniyle",
+    "D": "Güvenlik gerekçesiyle",
+    "Answer": "Hükümlünün kendi isteği doğrultusunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, aşağıdakilerden hangisi hükümlülerin zorunlu nedenlerle nakil sebepleri için söylenemez?",
+    "A": "Yangın",
+    "B": "Doğal afet",
+    "C": "Asayiş",
+    "D": "Ekonomik",
+    "Answer": "Ekonomik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirleri Hakkında Kanun’a göre, kurumların elverişsiz ve yetersiz kalması, kapasitesinin aşılması, kullanılamaz hâle gelmesi, asayiş, güvenlik, doğal afet, yangın ve büyük onarım gibi zorunlu nedenlerle başka kurumlara nakledilmeleri gerekli görülen hükümlüler, yargı çevresi dışında hangi bakanlık tarafından belirlenen ve konumlarına uygun olan diğer kurumlara nakledilebilir?",
+    "A": "Çevre ve Şehircilik Bakanlığı",
+    "B": "Aile ve Sosyal Hizmetler Bakanlığı",
+    "C": "İçişleri Bakanlığı",
+    "D": "Adalet Bakanlığı",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hastalık nedeniyle nakil ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlü, sağlık nedenleriyle bulunduğu kurumda kalmasının uygun olmadığı, kurum hekiminin önerisi ve en üst amirinin isteği üzerine alınacak sağlık kurulu raporuyla belirlendiği takdirde, başka kurumlara nakledilebilir.",
+    "B": "Hükümlü, hastaneye sevki zorunlu görüldüğünde, bulunduğu yere en yakın tam teşekküllü Devlet veya üniversite hastanesinin hükümlü koğuşuna yatırılır.",
+    "C": "Hükümlünün hastanelerde kontrol ve tedavisinin devam edip etmeyeceğinin sağlık kurulu raporuyla belgelendirilmesi gerekir; aksi hâlde hükümlü ait olduğu kuruma iade edilir.",
+    "D": "Hükümlü, acil hâller dışında özel sağlık kuruluşlarında tedavi edilemez. Acil hâllerin varlığı hâlinde Adalet Bakanlığı'na bilgi verilir.",
+    "Answer": "Hükümlü, sağlık nedenleriyle bulunduğu kurumda kalmasının uygun olmadığı, kurum hekiminin önerisi ve en üst amirinin isteği üzerine alınacak sağlık kurulu raporuyla belirlendiği takdirde, başka kurumlara nakledilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hastalık nedeniyle nakil ile ilgili aşağıdaki ifade doğrudur?",
+    "A": "Bu hastanelere gönderilen hükümlülerin başka yerlerdeki hastanelere sevki, sağlık kurulu raporuyla, acil ve yaşamsal tehlikesi bulunması hâlinde, varsa biri hastalığın uzmanı olmak üzere iki uzman hekim tarafından verilip, başhekim tarafından onaylanan ve hastalığın sebebi, tedavinin hangi sebeple bulunduğu hastanede gerçekleştirilemediği, hastaya nerede ve ne tür bir tedavi gerektirdiğini açıkça belirten bir raporla mümkündür. Bu durumda da en yakın ve hükümlü koğuşu bulunan Devlet veya üniversite hastaneleri tercih edilir.",
+    "B": "Hükümlülerin başka hastanelere sevki, yalnızca sağlık kurulu raporuyla değil, sadece doktorun onayı ile yapılabilir.",
+    "C": "Hükümlülerin sevki, acil durumlar dışında kesinlikle yapılmaz.",
+    "D": "Başka hastanelere sevk, yalnızca hastanın onayı ile mümkündür.",
+    "Answer": "Bu hastanelere gönderilen hükümlülerin başka yerlerdeki hastanelere sevki, sağlık kurulu raporuyla, acil ve yaşamsal tehlikesi bulunması hâlinde, varsa biri hastalığın uzmanı olmak üzere iki uzman hekim tarafından verilip, başhekim tarafından onaylanan ve hastalığın sebebi, tedavinin hangi sebeple bulunduğu hastanede gerçekleştirilemediği, hastaya nerede ve ne tür bir tedavi gerektirdiğini açıkça belirten bir raporla mümkündür. Bu durumda da en yakın ve hükümlü koğuşu bulunan Devlet veya üniversite hastaneleri tercih edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hastaneye sevki zorunlu görülen hükümlü hangi koşullarda sevk edilir?",
+    "A": "İstediği hastaneye",
+    "B": "En yakın tam teşekküllü Devlet veya üniversite hastanesine",
+    "C": "Herhangi bir özel hastaneye",
+    "D": "Ailesinin seçtiği bir hastaneye",
+    "Answer": "En yakın tam teşekküllü Devlet veya üniversite hastanesine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün bulunduğu hastaneden başka bir hastaneye sevki hangi durumda yapılabilir?",
+    "A": "Hükümlü talep ettiğinde",
+    "B": "Hükümlü ailesi onay verdiğinde",
+    "C": "Sağlık kurulu raporu ve acil yaşam tehlikesi olduğunda",
+    "D": "Tedavi süresi dolduğunda",
+    "Answer": "Sağlık kurulu raporu ve acil yaşam tehlikesi olduğunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, acil ve yaşam tehlikesi durumunda hastane sevki için gerekli uzman sayısı nedir?",
+    "A": "Sadece bir uzman hekim",
+    "B": "İki uzman hekim, biri hastalığın uzmanı olmak üzere",
+    "C": "Üç hekim",
+    "D": "Sadece başhekim",
+    "Answer": "İki uzman hekim, biri hastalığın uzmanı olmak üzere",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün başka bir hastaneye sevki için hazırlanan sağlık raporunda aşağıdaki bilgilerden hangisi yer almalıdır?",
+    "A": "Hastanın geçmiş tedavi süreci",
+    "B": "Hükümlünün suç geçmişi",
+    "C": "Tedavinin neden mevcut hastanede yapılamadığı",
+    "D": "Hükümlünün ziyaretçileri hakkında bilgi",
+    "Answer": "Tedavinin neden mevcut hastanede yapılamadığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlünün tedavisinin devam edip etmeyeceği hangi şekilde belgelendirilir?",
+    "A": "Hükümlünün talebiyle",
+    "B": "Sağlık kurulu raporuyla",
+    "C": "Mahkeme kararıyla",
+    "D": "Ailesinin beyanıyla",
+    "Answer": "Sağlık kurulu raporuyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, tedavi süresi dolmayan ancak sevk edilen hükümlü hangi durumda geri iade edilir?",
+    "A": "Sağlık kurulu raporu olmadan tedavisi devam ederse",
+    "B": "Tedavi süresi bittiğinde",
+    "C": "Hükümlü iade talep ettiğinde",
+    "D": "Ailesi talep ettiğinde",
+    "Answer": "Sağlık kurulu raporu olmadan tedavisi devam ederse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, hükümlü acil haller dışında hangi tür sağlık kuruluşlarında tedavi edilemez?",
+    "A": "Devlet hastanelerinde",
+    "B": "Üniversite hastanelerinde",
+    "C": "Özel sağlık kuruluşlarında",
+    "D": "Mahkûm koğuşu olan hastanelerde",
+    "Answer": "Özel sağlık kuruluşlarında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre, özel sağlık kuruluşlarında tedavi edilen hükümlü hakkında kim bilgilendirilir?",
+    "A": "Mahkeme",
+    "B": "Adalet Bakanlığı",
+    "C": "Cezaevi müdürü",
+    "D": "Hükümlünün ailesi",
+    "Answer": "Adalet Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
