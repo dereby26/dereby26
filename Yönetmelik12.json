@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, iyi hâl değerlendirmesi kuruluna katılan Aile ve Sosyal Hizmetler Bakanlığı temsilcisi ne tür bir personel olmalıdır?",
+    "A": "Güvenlik görevlisi",
+    "B": "Sağlık uzmanı",
+    "C": "Psikolog veya sosyal hizmet uzmanı",
+    "D": "Eğitim uzmanı",
+    "Answer": "Psikolog veya sosyal hizmet uzmanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu toplantısında psiko-sosyal yardım servisinden kaç temsilci bulunur?",
+    "A": "İki temsilci",
+    "B": "Üç temsilci",
+    "C": "Temsilci bulundurulmaz",
+    "D": "Bir temsilci",
+    "Answer": "Bir temsilci",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu yönetim kurulunda para ve muhasebe işlerinden sorumlu kişi kimdir?",
+    "A": "Ambar memuru",
+    "B": "Sayman",
+    "C": "İşyurdu müdürü",
+    "D": "Teknik personel",
+    "Answer": "Sayman",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, idare ve gözlem kurulu hangi kriter doğrultusunda hükümlülerin sınıflandırmasını yapar?",
+    "A": "Mali durumları",
+    "B": "Sosyal statüleri",
+    "C": "Gözlem ve sınıflandırma raporları",
+    "D": "Aile durumları",
+    "Answer": "Gözlem ve sınıflandırma raporları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu yönetim kuruluna ek olarak hangi durumlarda atölye şefi katılabilir?",
+    "A": "Psikolojik değerlendirmelerde",
+    "B": "Teknik ve taahhüt işlerinin görüşülmesinde",
+    "C": "Sağlık işlemlerinde",
+    "D": "Eğitim istatistiklerinin hazırlanmasında",
+    "Answer": "Teknik ve taahhüt işlerinin görüşülmesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, eğitim kurulu kimlerden oluşur?",
+    "A": "Eğitim kurulu, kurum müdürünün başkanlığında, eğitimden sorumlu ikinci müdür, cezaevi tabibi, bir psikolog ve psiko-sosyal yardım servisinde görevli diğer unvandan bir personel ile kurumda görev yapan bütün öğretmenler, eğitim uzmanı ve kütüphaneciden oluşur.",
+    "B": "Eğitim kurulu, sadece kurum müdürü ve eğitim uzmanından oluşur.",
+    "C": "Eğitim kurulu, sadece kurum müdürü ve öğretmenlerden oluşur.",
+    "D": "Eğitim kurulu, sadece cezaevi tabibi ve psikologdan oluşur.",
+    "Answer": "Eğitim kurulu, kurum müdürünün başkanlığında, eğitimden sorumlu ikinci müdür, cezaevi tabibi, bir psikolog ve psiko-sosyal yardım servisinde görevli diğer unvandan bir personel ile kurumda görev yapan bütün öğretmenler, eğitim uzmanı ve kütüphaneciden oluşur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, eğitim kurulu ile ilgili hangi durum doğrudur?",
+    "A": "Eğitim ve iyileştirme faaliyetlerinde görev alan kurum personeli ya da kurum dışından gelen diğer görevliler, görüşlerine başvurulmak üzere kurul toplantılarına çağrılabilir.",
+    "B": "Eğitim ve iyileştirme faaliyetlerinde görev alan kurum personeli veya kurum dışından gelen diğer görevliler, kurul toplantılarına katılamaz.",
+    "C": "Eğitim kurulu yalnızca kurum müdürü ve öğretmenlerden oluşur, diğer personel dahil edilemez.",
+    "D": "Eğitim kurulunda sadece eğitim uzmanları bulunur, diğer görevliler çağrılmaz.",
+    "Answer": "Eğitim ve iyileştirme faaliyetlerinde görev alan kurum personeli ya da kurum dışından gelen diğer görevliler, görüşlerine başvurulmak üzere kurul toplantılarına çağrılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kuruluna kim başkanlık eder?",
+    "A": "Cezaevi tabibi",
+    "B": "Eğitim uzmanı",
+    "C": "Kurum müdürü",
+    "D": "Psikolog",
+    "Answer": "Kurum müdürü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunun asli üyelerinden biri aşağıdakilerden hangisidir?",
+    "A": "Veznedar",
+    "B": "Kütüphaneci",
+    "C": "Güvenlik görevlisi",
+    "D": "Tahsildar",
+    "Answer": "Tahsildar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda görev yapan sağlık personeli kimdir?",
+    "A": "Psikiyatrist",
+    "B": "Cezaevi tabibi",
+    "C": "Diyetisyen",
+    "D": "Veteriner",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulu hangi durumda mevcut olan üyelerle toplanabilir?",
+    "A": "Tüm üyelerin bulunmaması durumunda",
+    "B": "Yalnızca kurum müdürü bulunmadığında",
+    "C": "Üyelerden bazıları kurumda olmadığında",
+    "D": "Psikolog bulunmadığında",
+    "Answer": "Üyelerden bazıları kurumda olmadığında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda psiko-sosyal yardım servisinden görevli hangi unvan yer alabilir?",
+    "A": "Güvenlik görevlisi",
+    "B": "İdare memuru",
+    "C": "Psikolog veya başka bir personel",
+    "D": "Ambar memuru",
+    "Answer": "Psikolog veya başka bir personel",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunun tüm öğretmen üyeleri nereden temin edilir?",
+    "A": "Kurum dışından",
+    "B": "Kurumda görev yapan öğretmenlerden",
+    "C": "İşyurdu müdürlüğünden",
+    "D": "Cumhuriyet başsavcılığından",
+    "Answer": "Kurumda görev yapan öğretmenlerden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda kütüphane hizmetleri kimin sorumluluğundadır?",
+    "A": "Kütüphaneci",
+    "B": "Psikolog",
+    "C": "İnfaz memuru",
+    "D": "Eğitim uzmanı",
+    "Answer": "Kütüphaneci",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda eğitim ve iyileştirme faaliyetlerine kimler katılabilir?",
+    "A": "Yalnızca kurum içi personel",
+    "B": "Sadece sağlık personeli",
+    "C": "Kurum dışı uzmanlar çağrılabilir",
+    "D": "Güvenlik görevlileri",
+    "Answer": "Kurum dışı uzmanlar çağrılabilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda cezaevi tabibinin görevi nedir?",
+    "A": "Sağlık hizmetlerini organize etmek",
+    "B": "Hükümlülerin eğitim süreçlerini denetlemek",
+    "C": "Eğitim planlarını hazırlamak",
+    "D": "Eğitim ve iyileştirme faaliyetlerine sağlık yönünden katkı sağlamak",
+    "Answer": "Eğitim ve iyileştirme faaliyetlerine sağlık yönünden katkı sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kuruluna görüş almak için çağrılabilecek kişiler kimlerdir?",
+    "A": "İnfaz ve koruma memurları",
+    "B": "Eğitim veya iyileştirme faaliyetlerinde görev alan personel",
+    "C": "Cumhuriyet savcıları",
+    "D": "Diyetisyenler",
+    "Answer": "Eğitim veya iyileştirme faaliyetlerinde görev alan personel",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulu üyelerinden biri eksikse kurul toplantısı nasıl yapılır?",
+    "A": "Toplantı iptal edilir",
+    "B": "Mevcut olan üyelerle yapılır",
+    "C": "Kurul tamamlanana kadar ertelenir",
+    "D": "Yedek üyeler atanır",
+    "Answer": "Mevcut olan üyelerle yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda görev yapan öğretmenlerin ana sorumluluğu nedir?",
+    "A": "Sağlık raporlarını hazırlamak",
+    "B": "Disiplin işlemlerini yönetmek",
+    "C": "Hükümlülerin sınıflandırmasını yapmak",
+    "D": "Eğitim faaliyetlerini yürütmek ve denetlemek",
+    "Answer": "Eğitim faaliyetlerini yürütmek ve denetlemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunun ana görevlerinden biri nedir?",
+    "A": "Disiplin cezalarını değerlendirmek",
+    "B": "Hükümlülerin eğitim ve iyileştirme süreçlerini koordine etmek",
+    "C": "Sağlık hizmetlerini planlamak",
+    "D": "Güvenlik önlemlerini almak",
+    "Answer": "Hükümlülerin eğitim ve iyileştirme süreçlerini koordine etmek",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

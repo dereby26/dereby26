@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre özel izin süresi içinde hükümlünün dış dünyaya uyum sağlamasını amaçlayan izin türü hangisidir?",
+    "A": "Eğitim izni",
+    "B": "Özel izin",
+    "C": "Mazeret izni",
+    "D": "İş arama izni",
+    "Answer": "İş arama izni",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlülere üç ayda bir yedi güne kadar verilen izin hangi izin türüdür?",
+    "A": "İş arama izni",
+    "B": "Özel izin",
+    "C": "Geçici izin",
+    "D": "Tatil izni",
+    "Answer": "Özel izin",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre iş arama izni yalnızca hangi günler içinde geçerlidir?",
+    "A": "Resmî tatillerde",
+    "B": "Hafta sonlarında",
+    "C": "Çalışma günlerinde",
+    "D": "Yıl sonlarında",
+    "Answer": "Çalışma günlerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlülerin özel izinle izne gönderilmeden önce düzenlenen belge nedir?",
+    "A": "Sağlık raporu",
+    "B": "İzin belgesi",
+    "C": "Mazeret izni formu",
+    "D": "Disiplin kaydı",
+    "Answer": "İzin belgesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlüler kaç ayda bir özel izin kullanabilir?",
+    "A": "Üç ayda bir",
+    "B": "Her ay",
+    "C": "İki ayda bir",
+    "D": "Altı ayda bir",
+    "Answer": "İki ayda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre açık kurumlarda bulunan hükümlüler, özel izin ile izne gönderilmeden önce nereye bildirilir?",
+    "A": "Cezaevi idaresine",
+    "B": "Dış güvenlik birimine",
+    "C": "Aile ve Sosyal Hizmetler Bakanlığı’na",
+    "D": "İlgili kolluk birimine",
+    "Answer": "İlgili kolluk birimine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, iş arama izniyle ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Kurumlarda hükümlülük sürelerinin en az üç ayını kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere, iş bulma olanakları sağlanması amacıyla çalışma günleri içinde sekiz saate kadar izin verilebilir.",
+    "B": "İzin süreleri, hükümlünün kalmakta olduğu kurumun bulunduğu il sınırları içinde kalan işyerleri ve yardım kuruluşlarıyla görüşme süresi göz önünde bulundurularak belirlenir.",
+    "C": "Hükümlülerin iş arama izni kullanmalarında dış güvenlik görevlilerinin gözetimi aranmaz.",
+    "D": "İş arama izni verilmesi, kurum en üst amirinin önerisi ve Cumhuriyet başsavcılığının onayı ile gerçekleştirilir.",
+    "Answer": "Kurumlarda hükümlülük sürelerinin en az üç ayını kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere, iş bulma olanakları sağlanması amacıyla çalışma günleri içinde sekiz saate kadar izin verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre aşağıdakilerden hangisi kurumlarda hükümlüye iş arama izni verilebilmesi için gerekli olan şartlardan biridir?",
+    "A": "Hükümlünün ailesiyle birlikte yaşama imkânına sahip olması ve düzenli aile ziyaretleri yapmış olması",
+    "B": "Hükümlünün eğitim ve mesleki programların en az birine katılmış ve başarılı olmuş olması",
+    "C": "Hükümlünün sağlık raporları ile çalışma engeli olmadığının belgelenmiş olması",
+    "D": "Hükümlülük sürelerinin en az altı ayını kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere",
+    "Answer": "Hükümlülük sürelerinin en az altı ayını kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, izinden dönmeme veya geç dönme ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "İzinden dönmeyen veya iki günden fazla bir süre geçtikten sonra dönen hükümlüler hakkında 5237 sayılı Kanunun 292. maddesi ve izleyen maddeleri uygulanır. Salgın hastalık, doğal afet, savaş veya seferberlik durumunda bu sebeplerden dolayı izinden dönemeyen veya geç dönen hükümlülere ceza verilmez.",
+    "B": "İzin süresini dört gün veya daha az bir süre geçiren hükümlüler hakkında disiplin işlemi yapılır. İzinden dönmeyen veya iki günden fazla bir süre geçtikten sonra dönen hükümlüler ile firar eden hükümlülere bir daha özel izin verilmez.",
+    "C": "Hastalığın tedavisinin tamamlanması veya zorunlu nedenin ortadan kalkması hâlinde, hükümlü dış güvenlik görevlisi nezaretinde izne ayrılmış ise yine dış güvenlik görevlisi nezaretinde, aksi takdirde serbest olarak izne ayrıldığı kuruma gönderilir.",
+    "D": "Hastalığın tedavisinin tamamlanması veya zorunlu nedenin ortadan kalkması durumunda, hükümlü dış güvenlik görevlisi nezaretinde izne ayrıldığı kuruma gönderilir.",
+    "Answer": "İzin süresini dört gün veya daha az bir süre geçiren hükümlüler hakkında disiplin işlemi yapılır. İzinden dönmeyen veya iki günden fazla bir süre geçtikten sonra dönen hükümlüler ile firar eden hükümlülere bir daha özel izin verilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, izinden dönme sırasında yaşanabilecek zorunlu durumlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "İzne gidiş veya dönüş sırasında yolda herhangi bir zorunlu nedenin doğması hâlinde, hükümlü en yakın kuruma alınır ve bu durum izne ayrıldığı kuruma derhal bildirilir.",
+    "B": "İzne gidiş veya dönüş sırasında zorunlu bir neden oluştuğunda, hükümlünün izne ayrıldığı kuruma bilgi verilmesine gerek yoktur.",
+    "C": "Zorunlu nedenler nedeniyle yolda kalan hükümlüler, herhangi bir kuruma alınmadan bekletilir.",
+    "D": "Hükümlü, zorunlu durum oluştuğunda en yakın kuruma alınır, ancak izne ayrıldığı kuruma bilgi verilmesi zorunlu değildir.",
+    "Answer": "İzne gidiş veya dönüş sırasında yolda herhangi bir zorunlu nedenin doğması hâlinde, hükümlü en yakın kuruma alınır ve bu durum izne ayrıldığı kuruma derhal bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, izin dönüşlerinde hükümlülerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin izin dönüşlerinde, yolda geçecek süreyi dikkate almamaları durumunda mazeretleri kabul edilir ve disiplin işlemi yapılmaz.",
+    "B": "Hükümlüler izin dönüşlerinde geç kalsalar dahi herhangi bir disiplin işlemine tabi tutulmazlar.",
+    "C": "Hükümlüler izin dönüşlerinde gecikmeleri hâlinde, mazeretlerine bakılmaksızın hiçbir işlem yapılmaz.",
+    "D": "İzin dönüşlerinde, yolda geçecek yeterli süreyi dikkate almayan hükümlüler, ikinci fıkrada belirtilen süreler içerisinde gecikmeleri durumunda, mazeretlerine bakılmaksızın haklarında disiplin işlemi yapılır.",
+    "Answer": "İzin dönüşlerinde, yolda geçecek yeterli süreyi dikkate almayan hükümlüler, ikinci fıkrada belirtilen süreler içerisinde gecikmeleri durumunda, mazeretlerine bakılmaksızın haklarında disiplin işlemi yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin cezaları ve tedbirleri ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Çocuklar haricindeki hükümlüler hakkında, 5275 sayılı Kanunun 38 ila 44. maddelerinde düzenlenen disiplin cezaları veya tedbirleri uygulanır.",
+    "B": "Çocuk hükümlüler hakkında, 5275 sayılı Kanunun 45 ve 46. maddelerinde düzenlenen disiplin cezaları veya tedbirleri uygulanır.",
+    "C": "Hükümlünün duruşma, sağlık, eğitim ve çalışma gibi nedenlerle geçici olarak kurum dışında bulunduğu yerler disiplin uygulamaları açısından kurum olarak değerlendirilmez.",
+    "D": "Hükümlü, düzenli bir yaşamın sürdürülmesi ve güvenliğin sağlanması için mevzuata aykırı davranışlarda bulunması hâlinde eylemin niteliğine ve ağırlık derecesine göre disiplin cezasına tabi tutulur.",
+    "Answer": "Hükümlünün duruşma, sağlık, eğitim ve çalışma gibi nedenlerle geçici olarak kurum dışında bulunduğu yerler disiplin uygulamaları açısından kurum olarak değerlendirilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre iş arama izni alabilmek için hükümlünün infaz süresinin en az ne kadarını kesintisiz olarak geçirmiş olması gerekir?",
+    "A": "3 ay",
+    "B": "6 ay",
+    "C": "1 yıl",
+    "D": "2 yıl",
+    "Answer": "6 ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre iş arama izni kaç saatle sınırlıdır?",
+    "A": "8 saat",
+    "B": "6 saat",
+    "C": "12 saat",
+    "D": "4 saat",
+    "Answer": "8 saat",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre iş arama iznini kullanabilmek için hükümlünün koşullu salıverilmesine ne kadar süre kalması gereklidir?",
+    "A": "15 gün",
+    "B": "2 ay",
+    "C": "3 ay",
+    "D": "1 ay",
+    "Answer": "1 ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre iş arama izninin verilmesi için hangi iki makamın onayı gereklidir?",
+    "A": "Disiplin kurulu ve savcılık",
+    "B": "Kurum en üst amiri ve Cumhuriyet başsavcılığı",
+    "C": "Cezaevi müdürü ve güvenlik amiri",
+    "D": "İdare ve gözlem kurulu",
+    "Answer": "Kurum en üst amiri ve Cumhuriyet başsavcılığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre iş arama izninde dış güvenlik görevlilerinin gözetimi hangi durumlarda uygulanır?",
+    "A": "Yalnızca kapalı kurumlardaki hükümlüler için",
+    "B": "Sadece sağlık kontrolü sırasında",
+    "C": "Hiçbir durumda uygulanmaz",
+    "D": "Eğitim amaçlı izinlerde",
+    "Answer": "Yalnızca kapalı kurumlardaki hükümlüler için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre izinden dönmeyen hükümlüler hakkında hangi kanun maddeleri uygulanır?",
+    "A": "5237 sayılı Kanunun 292 ve devamı",
+    "B": "5378 sayılı Kanunun 58 ve 59. maddeleri",
+    "C": "5561 sayılı Kanunun 12. ve 14. Maddeleri",
+    "D": "5275 sayılı Kanunun 40 ve 41. Maddeleri",
+    "Answer": "5275 sayılı Kanunun 40 ve 41. Maddeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre salgın hastalık gibi zorunlu nedenlerle izne dönemeyen hükümlülere hangi işlem uygulanır?",
+    "A": "Disiplin cezası verilir",
+    "B": "Ek izin verilir",
+    "C": "Ceza verilmez",
+    "D": "İzin süresi iptal edilir",
+    "Answer": "Ceza verilmez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre izin süresini iki gün veya daha az geçiren hükümlüler için hangi işlem yapılır?",
+    "A": "Yeni izin verilmez",
+    "B": "Disiplin işlemi yapılır",
+    "C": "Ek süre tanınır",
+    "D": "Geri çağırma yapılır",
+    "Answer": "Geri çağırma yapılır",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

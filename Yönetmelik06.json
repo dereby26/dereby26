@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık servisine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Sağlık servisi, cezaevi tabibinin başkanlığında koruyucu ve tedavi edici sağlık hizmetlerini yerine getirir.",
+    "B": "Sağlık servisi sadece cezaevi tabibi ve hemşirelerden oluşur.",
+    "C": "Sağlık servisinde yalnızca koruyucu sağlık hizmetleri sunulmaktadır.",
+    "D": "Sağlık servisi çalışmaları için herhangi bir yönetmelik düzenlenmesine gerek yoktur.",
+    "Answer": "Sağlık servisi, cezaevi tabibinin başkanlığında koruyucu ve tedavi edici sağlık hizmetlerini yerine getirir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdakilerden hangisi cezaevi tabibinin görevlerinden biri değildir?",
+    "A": "Kurumun sağlık koşullarını düzenleyerek, hükümlülerin ve kurum personelinin muayene ve tedavilerini yapar.",
+    "B": "Kurumun sağlık koşullarını bozan hareketlerin önlenmesi amacıyla, tedavi olmayı reddedenleri ve kurumun sağlığını bozacak şekilde hareket edenleri, kurum en üst amirine bildirir.",
+    "C": "Kurumda eczacının bulunmaması durumunda infaz ve koruma memurlarından birini görevlendirir.",
+    "D": "Merkezi bütçe ve işyurdu tarafından alınan tüm gıda maddelerinin muayenesini yapar ve tüketilmesinde sakınca görülen ve imha edilmesi gereken gıda maddelerini tespit eder.",
+    "Answer": "Kurumda eczacının bulunmaması durumunda infaz ve koruma memurlarından birini görevlendirir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdakilerden hangisi cezaevi tabibinin görevlerinden biridir?",
+    "A": "Kurumun sadece personeline sağlık hizmeti sunmak ve bu kapsamda rapor hazırlamak.",
+    "B": "Hükümlülerin yalnızca acil sağlık ihtiyaçlarını karşılamak ve sağlık kayıtlarını arşivlemek.",
+    "C": "Kurumu ayda en az bir kez denetleyerek, sağlık şartlarına ilişkin rapor hazırlayıp kurum en üst amirine sunmak.",
+    "D": "Beden eğitimi ve spor faaliyetlerini yönetmek ve düzenlemek.",
+    "Answer": "Kurumu ayda en az bir kez denetleyerek, sağlık şartlarına ilişkin rapor hazırlayıp kurum en üst amirine sunmak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdakilerden hangisi sağlık servisi görevleri arasında yer almaz?",
+    "A": "Sağlık servisinin tıbbi, idari ve teknik hizmetlerini mevzuata uygun yürütmek ve denetlemek.",
+    "B": "Sağlık servisinin, tıbbi kayıt ve arşiv sistemini oluşturup düzenli ve doğru bir şekilde tutulmasını sağlamak.",
+    "C": "Tıbbi atıkların kontrolü ve imhası için gerekli önlemleri almak.",
+    "D": "Kurumun tüm yönetim ve personel düzenlemesinden sorumlu olmak.",
+    "Answer": "Kurumun tüm yönetim ve personel düzenlemesinden sorumlu olmak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdakilerden hangisi diş tabibinin görevlerinden biridir?",
+    "A": "Kurum personelinin çalışma saatlerini düzenlemek.",
+    "B": "Hükümlülerle kurum personelinin ağız ve diş sağlığıyla ilgili koruyucu ve tedavi edici hizmetleri yapmak.",
+    "C": "Kurumda meydana gelen tüm sağlık sorunlarını Cumhuriyet başsavcılığına bildirmek.",
+    "D": "Gıda maddelerinin dağıtımıyla ilgili kararlar almak.",
+    "Answer": "Hükümlülerle kurum personelinin ağız ve diş sağlığıyla ilgili koruyucu ve tedavi edici hizmetleri yapmak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık servisiyle ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Cezaevi tabibi ve diş tabibi, kurumun genel sağlık durumunu ayda bir veya iki kez denetlemekle yükümlüdür.",
+    "B": "Tabipler, kurumda acele önlem alınmasını gerektiren bir durum tespit ettiklerinde durumu derhal kurumun en üst amirine bildirmekle yükümlüdür.",
+    "C": "Sağlık servisinde çalışan tabipler, diğer unvanlardaki personel gibi vardiya sistemine göre çalıştırılabilir.",
+    "D": "Tabipler, vardiya sisteminin uygulanmadığı hâllerde, önemli bir rahatsızlığın bildirildiği veya kurum amiri tarafından ihtiyaç duyulan diğer durumlarda, mesai saatleri içerisinde kuruma gelerek gerekli önlemleri alır.",
+    "Answer": "Tabipler, vardiya sisteminin uygulanmadığı hâllerde, önemli bir rahatsızlığın bildirildiği veya kurum amiri tarafından ihtiyaç duyulan diğer durumlarda, mesai saatleri içerisinde kuruma gelerek gerekli önlemleri alır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Eczacı, cezaevi tabibinin vereceği reçetelere göre ilaçları hazırlar ve yeşil ile kırmızı reçeteyle satılan uyuşturucu ve uyarıcı nitelikteki ilaçların tane olarak verilmesini sağlar.",
+    "B": "Yeşil ve kırmızı reçeteli ilaçların hastalara verilmesi, cezaevi tabibinin belirlediği dozajda eczacı tarafından gerçekleştirilir.",
+    "C": "Eczacı, yeşil ve kırmızı reçeteli ilaçların hastalara verilmesini tabibin yazılı izni olmadan da verebilir.",
+    "D": "Eczacı, ilaçları zamanında almak ve kurumda bulunan ilaçların muhafazasını sağlamakla yükümlüdür.",
+    "Answer": "Eczacı, yeşil ve kırmızı reçeteli ilaçların hastalara verilmesini tabibin yazılı izni olmadan da verebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Veteriner, hayvancılık faaliyetinde bulunulan iş yurtlarında, üretimin sağlıklı biçimde yapılabilmesi için koruyucu ve tedavi edici önlemleri alır, üretimi planlar, ırkların seçimi ve geliştirilmesini sağlar, alanıyla ilgili olarak her ay kurum en üst amirine rapor sunar ve istatistikleri düzenler.",
+    "B": "Hemşire ve sağlık memuru, cezaevi tabibinin gözetimi altında olup, onun göstereceği işleri yapar. Mesleki bilgisi ve yetkisi çerçevesinde koruyucu ve tedavi edici hizmetleri yerine getirir.",
+    "C": "Hayvan sağlık memuru, hayvancılık faaliyetinde bulunulan iş yurtlarında mesleki bilgisi ve yetkisi çerçevesinde koruyucu ve tedavi edici hayvan sağlık hizmetlerini yerine getirir.",
+    "D": "Cezaevi tabibinin olmadığı hâllerde bu hizmetin aile hekimleri tarafından verilmesi Sağlık Bakanlığı protokol düzenler.",
+    "Answer": "Cezaevi tabibinin olmadığı hâllerde bu hizmetin aile hekimleri tarafından verilmesi Sağlık Bakanlığı protokol düzenler.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık servisinin başkanı kimdir?",
+    "A": "Diş tabibi",
+    "B": "Eczacı",
+    "C": "Cezaevi tabibi",
+    "D": "Veteriner",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık servisinde görev yapan personel arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "Sağlık memuru",
+    "B": "Rehber öğretmen",
+    "C": "Diyetisyen",
+    "D": "Hemşire",
+    "Answer": "Rehber öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi kurumun hangi koşullarını düzenler?",
+    "A": "Güvenlik ve asayiş koşullarını",
+    "B": "Sağlık koşullarını",
+    "C": "Sosyal destek hizmetlerini",
+    "D": "Eğitim koşullarını",
+    "Answer": "Sağlık koşullarını",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumun sağlık koşullarını bozan hareketler kim tarafından kurum en üst amirine bildirilir?",
+    "A": "Hemşire",
+    "B": "Diş tabibi",
+    "C": "Cezaevi tabibi",
+    "D": "Veteriner",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi sağlık istatistiklerini ne sıklıkla düzenler?",
+    "A": "Ayda en az bir kez",
+    "B": "Yılda bir kez",
+    "C": "Haftada bir kez",
+    "D": "Altı ayda bir",
+    "Answer": "Ayda en az bir kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eczacının kurumda bulunmadığı durumlarda ilaçların dağıtımını kim sağlar?",
+    "A": "Sağlık memuru",
+    "B": "Cezaevi tabibi",
+    "C": "Diş tabibi",
+    "D": "Hayvan sağlık memuru",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi kurumun sağlık koşullarını denetlerken hangi alanları da göz önünde bulundurur?",
+    "A": "Sadece spor alanları",
+    "B": "Sadece diyet düzenlemeleri",
+    "C": "Kurum güvenliği",
+    "D": "Sıhhi tesisat, ısıtma, aydınlatma ve havalandırma koşulları",
+    "Answer": "Sıhhi tesisat, ısıtma, aydınlatma ve havalandırma koşulları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık servisinde görev yapan diş tabibinin sorumluluklarından biri aşağıdakilerden hangisidir?",
+    "A": "Tıbbi atıkların kontrolü",
+    "B": "Psikolojik destek sağlamak",
+    "C": "Ağız ve diş sağlığı hizmetlerini yürütmek",
+    "D": "Gıda muayenesini yapmak",
+    "Answer": "Ağız ve diş sağlığı hizmetlerini yürütmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi hangi durumda tıbbi atıkların imhası için gerekli önlemleri alır?",
+    "A": "Haftalık olarak",
+    "B": "Gerektiğinde",
+    "C": "Ay sonunda",
+    "D": "Sağlık memurunun talebi üzerine",
+    "Answer": "Gerektiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eczacı hangi tür ilaçların tane olarak verilmesini ve kontrolünü yapar?",
+    "A": "Yeşil ve kırmızı reçeteyle satılan uyuşturucu ilaçlar",
+    "B": "Sadece antibiyotikler",
+    "C": "Ağrı kesiciler",
+    "D": "Reçetesiz satılan ilaçlar",
+    "Answer": "Yeşil ve kırmızı reçeteyle satılan uyuşturucu ilaçlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, veteriner hangi alanlarda aylık rapor sunar?",
+    "A": "Ağız ve diş sağlığı",
+    "B": "Hayvancılık faaliyetleri ve hayvan sağlığı",
+    "C": "Spor alanlarının düzeni",
+    "D": "Sağlık servisi düzeni",
+    "Answer": "Hayvancılık faaliyetleri ve hayvan sağlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, diyetisyen, kurumda bulunan hükümlülerin sağlıklı beslenmesini sağlamak için hangi faaliyetleri yürütür?",
+    "A": "Hükümlülere bireysel beslenme danışmanlığı verir",
+    "B": "Spor programlarını düzenler",
+    "C": "Sosyal etkinlikler düzenler",
+    "D": "Menü planlaması ve gıda güvenliğini sağlar",
+    "Answer": "Menü planlaması ve gıda güvenliğini sağlar",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

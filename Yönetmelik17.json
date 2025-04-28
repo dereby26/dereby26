@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu yönetim kurulu hangi durumlarda işçilere ödenecek ücretleri belirleme yetkisine sahiptir?",
+    "A": "Geçici veya sürekli işlerde çalıştırılacak işçiler için",
+    "B": "Sadece sürekli işlerde çalışanlar için",
+    "C": "Ziyaretçilere yönelik hizmetlerde çalışan işçiler için",
+    "D": "İş akdi olmayan hükümlüler için",
+    "Answer": "Geçici veya sürekli işlerde çalıştırılacak işçiler için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu hangi disiplin cezalarını verebilir?",
+    "A": "Uyarma ve kınama cezaları",
+    "B": "İyi hâl tespitine yönelik görüş",
+    "C": "Tüm etkinliklerden alıkoyma cezaları",
+    "D": "Bazı etkinliklere katılmaktan alıkoyma dışında kalan disiplin cezaları",
+    "Answer": "Tüm etkinliklerden alıkoyma cezaları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu iyi hâl tespitine esas teşkil edecek neyi belirler?",
+    "A": "İnfaz süresini",
+    "B": "İyi hâl görüşünü",
+    "C": "Ödüllendirme kararını",
+    "D": "Çalışma süresini",
+    "Answer": "İyi hâl görüşünü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu hangi durumda cezaları kaldırabilir?",
+    "A": "Hükümlülerin talebi üzerine",
+    "B": "5275 sayılı Kanunda öngörülen hâllerde",
+    "C": "İşyurtları Kurumu Daire Başkanlığı onayıyla",
+    "D": "Cumhuriyet savcısının emriyle",
+    "Answer": "5275 sayılı Kanunda öngörülen hâllerde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu hangi tür iletilerin iletilip iletilmeyeceğine karar verir?",
+    "A": "Mektup, telgraf ve faks iletileri",
+    "B": "Sadece telefon görüşmeleri",
+    "C": "Ziyaret izin belgeleri",
+    "D": "Eğitim sertifikaları",
+    "Answer": "Mektup, telgraf ve faks iletileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulunun görüşeceği mektup ve faks gibi iletilerde sakıncalı olup olmadığına kim karar verir?",
+    "A": "İşyurdu yönetim kurulu",
+    "B": "Mektup okuma komisyonu",
+    "C": "İdare memuru",
+    "D": "İnfaz ve koruma memurları",
+    "Answer": "İnfaz ve koruma memurları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu hangi durumda hükümlünün mektubunun iletilmemesine karar verebilir?",
+    "A": "Sakıncalı içerik taşıdığında",
+    "B": "Zamanında gönderilmediğinde",
+    "C": "Göndericisi tanınmadığında",
+    "D": "Mektup kaybolduğunda",
+    "Answer": "Sakıncalı içerik taşıdığında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu iyi hâl tespitine esas görüş bildirirken hangi kritere göre karar verir?",
+    "A": "Hükümlünün fiziksel sağlığı",
+    "B": "Hükümlünün davranış ve tutumları",
+    "C": "Ailesinin talebi",
+    "D": "Çalışma performansı",
+    "Answer": "Hükümlünün davranış ve tutumları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu aşağıdaki hangi konuda karar verme yetkisine sahiptir?",
+    "A": "Ziyaretçi kabul kurallarını düzenlemek",
+    "B": "İş akitlerinin düzenlenmesi",
+    "C": "Kurum temizliği",
+    "D": "Hükümlülerin iyi hâl tespiti",
+    "Answer": "Hükümlülerin iyi hâl tespiti",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu tarafından alınacak iyi hâl kararı hangi duruma yönelik olabilir?",
+    "A": "Çalışma sürelerinin artırılması",
+    "B": "Hükümlülerin tahliye süreçleri",
+    "C": "Ücret artışı",
+    "D": "Fiziksel antrenmanlara katılım",
+    "Answer": "Hükümlülerin tahliye süreçleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu iyi hâl tespitine esas teşkil edecek görüşü kime sunar?",
+    "A": "İşyurdu yönetim kuruluna",
+    "B": "Psiko-sosyal yardım servisine",
+    "C": "İdare ve gözlem kuruluna",
+    "D": "Cumhuriyet başsavcısına",
+    "Answer": "İdare ve gözlem kuruluna",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulunun sakıncalı içerikli iletilerin iletilmemesine karar verebilmesi için kimlerin önerisi dikkate alınır?",
+    "A": "İnfaz ve koruma başmemurları",
+    "B": "Cezaevi tabibi",
+    "C": "Psikolog",
+    "D": "Mektup okuma komisyonu",
+    "Answer": "Mektup okuma komisyonu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu tarafından sakıncalı görülen mektupların iletilmesi kararı kim tarafından alınır?",
+    "A": "Mektup okuma komisyonu",
+    "B": "Disiplin kurulu",
+    "C": "İşyurdu yönetim kurulu",
+    "D": "Cumhuriyet başsavcısı",
+    "Answer": "Disiplin kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu hükümlülerin hangi etkinliklere katılmasını engelleyebilir?",
+    "A": "Dış ziyaretler",
+    "B": "Sportif etkinlikler",
+    "C": "Sağlık kontrolleri",
+    "D": "Hukuki görüşmeler",
+    "Answer": "Sağlık kontrolleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulunun iyi hâl tespitine esas teşkil eden görüşüne dayanarak hükümlüye hangi hak sağlanabilir?",
+    "A": "Fazla çalışma hakkı",
+    "B": "Erken tahliye",
+    "C": "Ödüllendirme",
+    "D": "Özel yemek izni",
+    "Answer": "Erken tahliye",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulunun hükümlülerin iyi hâl durumuna göre yaptığı değerlendirmeler hangi kurulla paylaşılır?",
+    "A": "İdare ve gözlem kurulu",
+    "B": "İşyurdu yönetim kurulu",
+    "C": "Psiko-sosyal yardım servisi",
+    "D": "Cumhuriyet savcılığı",
+    "Answer": "İdare ve gözlem kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu hangi tür mektup içeriklerine müdahale edebilir?",
+    "A": "Kişisel içerikler",
+    "B": "Sakıncalı içerik olarak değerlendirilen iletiler",
+    "C": "Resmi kurumlara gönderilen belgeler",
+    "D": "Ailevi içerikler",
+    "Answer": "Sakıncalı içerik olarak değerlendirilen iletiler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu hangi durumda hükümlüye iyi hâl tespiti yapar?",
+    "A": "Çalışma süresinin artırılması talep edildiğinde",
+    "B": "Hükümlünün olumlu davranışları gözlemlendiğinde",
+    "C": "Ziyaret sırasında yakınlarından istek aldığında",
+    "D": "Sağlık durumu kötüleştiğinde",
+    "Answer": "Hükümlünün olumlu davranışları gözlemlendiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, iyi hâl tespiti hangi kurulun görevidir?",
+    "A": "İşyurdu yönetim kurulu",
+    "B": "Psiko-sosyal yardım servisi",
+    "C": "Disiplin kurulu",
+    "D": "Güvenlik birimi",
+    "Answer": "Disiplin kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre disiplin kurulunun göreviyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlülere verilen disiplin cezalarını karara bağlamak",
+    "B": "Hükümlülerin iyi hal durumlarını değerlendirmek",
+    "C": "Hükümlülerin kurum içindeki davranışlarını izlemek",
+    "D": "Hükümlülerin eğitim programlarını hazırlamak",
+    "Answer": "Hükümlülerin eğitim programlarını hazırlamak",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

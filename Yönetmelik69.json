@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklu hangi durumda başka bir kuruma nakledilebilir?",
+    "A": "Tehlikeli davranışlar sergilemesi hâlinde",
+    "B": "Salıverilme talebi olduğunda",
+    "C": "Sağlık sorunları oluştuğunda",
+    "D": "Kurumda yeterli yer olmadığında",
+    "Answer": "Tehlikeli davranışlar sergilemesi hâlinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun dışarıyla ilişkisi ne zaman kısıtlanabilir?",
+    "A": "Yılda bir defa",
+    "B": "Tutukevinin güvenliği tehdit edildiğinde",
+    "C": "Tutuklu ziyaretçi talep ettiğinde",
+    "D": "Hâkim kararı olmadan hiçbir zaman",
+    "Answer": "Tutukevinin güvenliği tehdit edildiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir tutuklunun belirli bir süre boyunca dışarıyla ilişkisinin kısıtlanması hangi durumda uygulanır?",
+    "A": "Belirli bir hastalık tespitinde",
+    "B": "Tutukluluğun ilk üç ayında",
+    "C": "Kısıtlayıcı önlem gerektiğinde",
+    "D": "İdari kararla",
+    "Answer": "Kısıtlayıcı önlem gerektiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tehlikeli davranış sergileyen tutukluya hangi uygulama yapılabilir?",
+    "A": "Sıkı güvenlik rejimi uygulanır",
+    "B": "Diğer hükümlülerle aynı ortamda bulunur",
+    "C": "İzin hakkı tanınır",
+    "D": "Sadece gözetim yapılır",
+    "Answer": "Sıkı güvenlik rejimi uygulanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklu hangi durumda avukatıyla görüşme sınırlamasına tabi olur?",
+    "A": "Disiplin cezası aldığında",
+    "B": "Yüksek güvenlikli kuruma nakledildiğinde",
+    "C": "Hiçbir durumda sınırlanamaz",
+    "D": "Tehlikeli hâllerde ve savcı kararıyla",
+    "Answer": "Tehlikeli hâllerde ve savcı kararıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklu hakkında hangi yasaklama kararı verildiğinde avukatıyla görüşme kısıtlanabilir?",
+    "A": "Hükümlü yakınlarının talebiyle",
+    "B": "Mahkemece verilen müdafilik veya vekillik yasaklama kararıyla",
+    "C": "Kurum yetkilisinin talebiyle",
+    "D": "İdare ve gözlem kurulu kararıyla",
+    "Answer": "Mahkemece verilen müdafilik veya vekillik yasaklama kararıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir avukatın müdafilik görevinden yasaklanması hangi deftere kaydedilir?",
+    "A": "Hükümlü Ziyaret Defteri",
+    "B": "Hükümlü Salıverilme Defteri",
+    "C": "Yasaklama Defteri",
+    "D": "Kısıtlama Defteri",
+    "Answer": "Yasaklama Defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir tutuklu savunma amacıyla kaç avukatla aynı anda görüşebilir?",
+    "A": "Bir",
+    "B": "İki",
+    "C": "Üç",
+    "D": "Dört",
+    "Answer": "Bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklular için kelepçeleme ne zaman uygulanabilir?",
+    "A": "Tutukluluğun ilk ayında",
+    "B": "Sadece kaçma riski varsa",
+    "C": "Kişisel veya başkasına zarar riski varsa",
+    "D": "Her durumda uygulanabilir",
+    "Answer": "Kişisel veya başkasına zarar riski varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklular hangi durumda sağlık kuruluşuna sevk edilebilir?",
+    "A": "Yalnızca savcı onayıyla",
+    "B": "Sadece yakınlarının talebiyle",
+    "C": "Savunma amacıyla",
+    "D": "Acil veya yaşamsal bir sağlık sorunu olduğunda",
+    "Answer": "Acil veya yaşamsal bir sağlık sorunu olduğunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun hangi haberleşmesi her durumda serbesttir?",
+    "A": "Ailesiyle",
+    "B": "Savcılık",
+    "C": "Avukatla savunma amacıyla",
+    "D": "Diğer tutuklularla",
+    "Answer": "Avukatla savunma amacıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun tek başına tutulmasını gerektiren durum hangisidir?",
+    "A": "Suçsuz bulunması",
+    "B": "Güvenlik riskinin bulunması",
+    "C": "Disiplin cezası almaması",
+    "D": "Yakınları tarafından ziyaret edilmesi",
+    "Answer": "Güvenlik riskinin bulunması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun savunma hakkına müdahale edilmesi hangi durumda kabul edilemez?",
+    "A": "Savcı tarafından izin verildiğinde",
+    "B": "Güvenlik tedbiri amacıyla",
+    "C": "Kurum düzenine aykırı olduğunda",
+    "D": "Her durumda müdahale edilemez",
+    "Answer": "Her durumda müdahale edilemez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklular hangi durumda başka bir kuruma nakledilebilir?",
+    "A": "Disiplin cezası aldığında",
+    "B": "Soruşturma gerektirdiğinde",
+    "C": "Sağlık kurulu raporu ile sağlık nedenleri bulunduğunda",
+    "D": "Kendi isteği üzerine",
+    "Answer": "Sağlık kurulu raporu ile sağlık nedenleri bulunduğunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun salıverilmesi sırasında alınacak güvenlik tedbirlerini kim belirler?",
+    "A": "Kurum iç güvenlik görevlisi",
+    "B": "Kurum en üst amiri",
+    "C": "Hükümlü yakınları",
+    "D": "İdare ve gözlem kurulu",
+    "Answer": "Kurum en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun dışarıyla bağlantısının kısıtlanabileceği durum hangisidir?",
+    "A": "Ziyaretçi kabul etmek istediğinde",
+    "B": "Ceza süresi dolduğunda",
+    "C": "Mahkemede savunma yapmak istediğinde",
+    "D": "Tehlikeli davranışlarda bulunduğunda",
+    "Answer": "Tehlikeli davranışlarda bulunduğunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun tek başına tutulmasını gerektiren sebeplerden biri hangisidir?",
+    "A": "Saldırganlık göstermesi",
+    "B": "Sağlık sorunu olması",
+    "C": "Eğitim almak istemesi",
+    "D": "Avukatıyla görüşme talebi",
+    "Answer": "Saldırganlık göstermesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklu hakkında müdafi veya vekillikten yasaklanmış avukatlarla ilgili kısıtlama kararı kim tarafından denetlenir?",
+    "A": "Kurum iç güvenlik görevlisi",
+    "B": "Savcılık",
+    "C": "Cumhuriyet başsavcılığı",
+    "D": "Hükümlü yakınları",
+    "Answer": "Cumhuriyet başsavcılığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tutuklunun mahkemeye gitmesi gereken durumlarda hangi önlem alınır?",
+    "A": "Gece boyunca tutulur",
+    "B": "Sıkı bir güvenlik önlemiyle nakledilir",
+    "C": "Cezaevi yetkilisinin kararı beklenir",
+    "D": "Sadece kendi isteği ile gider",
+    "Answer": "Sıkı bir güvenlik önlemiyle nakledilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, savcılık tarafından kısıtlanan tutukluya hangi hakkı sınırlandırabilir?",
+    "A": "Dış dünyayla telefon görüşmesi",
+    "B": "Sağlık kontrolü",
+    "C": "Eğitim hakkı",
+    "D": "Aile ziyareti",
+    "Answer": "Dış dünyayla telefon görüşmesi",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

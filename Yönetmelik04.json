@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve düzenin sağlanmasından sorumlu olan memur kimdir?",
+    "A": "Eğitim Memuru",
+    "B": "Güvenlik Görevlisi",
+    "C": "İnfaz ve Koruma Memuru",
+    "D": "Sosyal Hizmet Uzmanı",
+    "Answer": "İnfaz ve Koruma Memuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, infaz ve koruma memurlarının görevleri arasında aşağıdakilerden hangisi yer alır?",
+    "A": "Mali Denetim",
+    "B": "Hükümlülerin kurum içindeki hareketlerinin kontrolü",
+    "C": "Eğitim Faaliyetleri",
+    "D": "Psikolojik Destek",
+    "Answer": "Hükümlülerin kurum içindeki hareketlerinin kontrolü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sayım defterine kimlerin isimleri yazılarak imza atılır?",
+    "A": "Müdür ve İkinci Müdür",
+    "B": "Yalnızca Başsavcı",
+    "C": "Sayıma katılan infaz ve koruma personeli",
+    "D": "İdare ve Eğitim Personeli",
+    "Answer": "Sayıma katılan infaz ve koruma personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, gece sayımlarında sayımı kim başkanlık eder?",
+    "A": "Müdür",
+    "B": "Nöbetçi İkinci Müdür veya görevlendirilen başmemur",
+    "C": "Güvenlik Servisi Şefi",
+    "D": "Sosyal Hizmet Uzmanı",
+    "Answer": "Nöbetçi İkinci Müdür veya görevlendirilen başmemur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisinde çalışanların nöbet yerleri nerede gösterilir?",
+    "A": "İdari Defter",
+    "B": "Güvenlik Formları",
+    "C": "Eğitim Programları",
+    "D": "Vardiya Çizelgesi ve Nöbet Cetvelleri",
+    "Answer": "Vardiya Çizelgesi ve Nöbet Cetvelleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi çalışanları hangi konularda topluma kazandırma çalışmalarına katkı sağlar?",
+    "A": "İyileştirme çalışmaları ve kurslar",
+    "B": "Sadece güvenlik",
+    "C": "Psikolojik destek",
+    "D": "Tıbbi destek",
+    "Answer": "İyileştirme çalışmaları ve kurslar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumda zor kullanma yetkisini infaz ve koruma memurları hangi durumda kullanabilir?",
+    "A": "Güvenlik kontrolü yaparken",
+    "B": "Firara teşebbüs, isyan gibi durumlarda",
+    "C": "Günlük devriye esnasında",
+    "D": "İdare amirinin yokluğunda",
+    "Answer": "Firara teşebbüs, isyan gibi durumlarda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, zor kullanma durumunda hangi amirden izin alınır?",
+    "A": "Eğitim Koordinatörü",
+    "B": "Güvenlik Şefi",
+    "C": "En üst amir",
+    "D": "Sosyal Hizmet Yetkilisi",
+    "Answer": "En üst amir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, acil durumlarda zor kullanılması halinde ne yapılmalıdır?",
+    "A": "Yalnızca rapor tutulur",
+    "B": "En üst amire derhal bildirilir",
+    "C": "Ek güvenlik talep edilir",
+    "D": "Olayın üzerine gidilmez",
+    "Answer": "En üst amire derhal bildirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi çalışanlarının çalışma saatleri nasıl düzenlenir?",
+    "A": "6 saat çalışma, 1 gün tatil",
+    "B": "8 saat çalışma, haftada iki gün tatil",
+    "C": "10 saat çalışma, 3 gün tatil",
+    "D": "12 saat çalışma, bir gün tatil",
+    "Answer": "12 saat çalışma, bir gün tatil",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çalışma saatleri ve tatil günleri nerede belirtilir?",
+    "A": "İdari İşler Dosyasında",
+    "B": "Vardiya Çizelgesinde",
+    "C": "Sağlık Raporlarında",
+    "D": "Mali Tutanaklarda",
+    "Answer": "Vardiya Çizelgesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, personel yetersizliği nedeniyle dörtlü vardiya uygulanamayan kurumlarda hangi makam uygun çalışma saatlerini belirler?",
+    "A": "Müdür",
+    "B": "Cumhuriyet Başsavcılığı",
+    "C": "Güvenlik Şefi",
+    "D": "Eğitim Koordinatörü",
+    "Answer": "Cumhuriyet Başsavcılığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi çalışanlarının görevlerinden biri nedir?",
+    "A": "Hükümlülerin iç yönergelere uygun davranmasını sağlamak",
+    "B": "Mali raporları hazırlamak",
+    "C": "Sosyal destek sağlamak",
+    "D": "Eğitim materyalleri hazırlamak",
+    "Answer": "Hükümlülerin iç yönergelere uygun davranmasını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, nöbet esnasında görev yerinden ayrılacak infaz ve koruma memurları kime bilgi verir?",
+    "A": "Müdür",
+    "B": "Nöbetçi İkinci Müdür",
+    "C": "Sorumlu İnfaz ve Koruma Başmemuru",
+    "D": "Eğitim Sorumlusu",
+    "Answer": "Nöbetçi İkinci Müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi personelinin sayımları hangi ortamda yapılabilir?",
+    "A": "İdari ortam",
+    "B": "Eğitim ortamı",
+    "C": "Fiziki ve elektronik ortam",
+    "D": "Sosyal medya",
+    "Answer": "Fiziki ve elektronik ortam",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, iyileştirme çalışmaları kapsamında kimler öğreticilik yapabilir?",
+    "A": "Sadece eğitim uzmanları",
+    "B": "Güvenlik ve gözetim servisi görevlileri",
+    "C": "Sağlık personeli",
+    "D": "Müdür yardımcıları",
+    "Answer": "Güvenlik ve gözetim servisi görevlileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, teknik servisin görev ve sorumluluklarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Teknik servis; kurumun araç ve gereçleri ile binanın bakım, onarım ve tamirat işlerinin yapımı, kullanımı, sürekli çalışır durumda olmalarının takibi ve sağlanması gibi teknik işleri yapar. Teknik serviste; mühendis, mimar, tekniker, teknisyen, teknisyen yardımcısı ve benzeri personel çalışır.",
+    "B": "Teknik serviste görev yapan personel, yalnızca binanın tamirat işleriyle ilgilenir ve genel idare faaliyetlerine katkıda bulunmaz.",
+    "C": "Teknik servis çalışanlarının, çalışmalarını en az altı ayda bir raporla kurum idaresine bildirir.",
+    "D": "Teknik servis personelinin görevleri sadece işyurdu faaliyetleriyle sınırlıdır.",
+    "Answer": "Teknik servis; kurumun araç ve gereçleri ile binanın bakım, onarım ve tamirat işlerinin yapımı, kullanımı, sürekli çalışır durumda olmalarının takibi ve sağlanması gibi teknik işleri yapar. Teknik serviste; mühendis, mimar, tekniker, teknisyen, teknisyen yardımcısı ve benzeri personel çalışır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, psiko-sosyal yardım servisinin görevleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Psiko-sosyal yardım servisi, personel ve hükümlülerin ruh ve beden sağlığı ve bütünlüğüne ilişkin koruyucu, geliştirici programları araştırır, uygular ve gerektiğinde tedavi sürecine katılarak psikolojik destek ve müdahalede bulunur.",
+    "B": "Hükümlülerin bireysel özelliklerini, yaşam koşullarını ve suç işleme nedenlerini belirleyerek bireysel gelişimlerine yardımcı olur, kurum yaşamına uyumlarını ve toplumsal yaşamla uyumlaşmalarını sağlar.",
+    "C": "Psiko-sosyal yardım servisi, bireyin yeniden suç işlemesini engelleyecek önlemleri alır ve bu amaçla gerektiğinde kurum en üst amirinin bilgisi dahilinde, aileler ve sosyal çevreyle görüşme yapar.",
+    "D": "Psiko-sosyal yardım servisi, psikolog, öğretmen, sosyal çalışmacı, sosyolog ve çocuk gelişimi uzmanından oluşur.",
+    "Answer": "Psiko-sosyal yardım servisi, psikolog, öğretmen, sosyal çalışmacı, sosyolog ve çocuk gelişimi uzmanından oluşur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, psiko-sosyal yardım servisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Psiko-sosyal yardım servisi, hükümlülerin gözlem değerlendirme raporu veya gelişim değerlendirme raporunu düzenler ve servisin çalışmalarıyla ilgili olarak üç ayda bir raporla kurum en üst amirine bildirir.",
+    "B": "Psiko-sosyal yardım servisi görevlileri, hükümlüler ile yapılan görüşmeler sonucunda dışarıda bulunan bakmakla yükümlü oldukları kişilerin sosyal yardım veya desteğe ihtiyaç duyduklarını öğrenmeleri hâlinde, bu durumu ceza infaz kurumu idaresince sosyal hizmet sunan ilgili kamu kurumu veya yerel yönetimlere yazı ile bildirir.",
+    "C": "Psiko-sosyal yardım servisi, hükümlülerin spor alanları, çok amaçlı salon, kütüphane ve iş atölyelerinden yararlanma gibi faaliyetlere katılımını belirleyerek idare ve gözlem kuruluna sunar.",
+    "D": "Psiko-sosyal yardım servisi görevlileri, ceza infaz kurumunda anaları ile birlikte kalan sıfır-üç yaş grubundaki çocukların psiko-sosyal gelişimlerini takip eder.",
+    "Answer": "Psiko-sosyal yardım servisi görevlileri, ceza infaz kurumunda anaları ile birlikte kalan sıfır-üç yaş grubundaki çocukların psiko-sosyal gelişimlerini takip eder.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, psiko-sosyal yardım servisine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Psiko-sosyal yardım servisi çalışmalarına ilişkin usul ve esaslar, Bakanlıkça çıkarılacak yönetmeliklerle belirlenir.",
+    "B": "Psiko-sosyal yardım servisi çalışmalarına ilişkin usul ve esaslar yalnızca ceza infaz kurumu idaresi tarafından düzenlenir.",
+    "C": "Psiko-sosyal yardım çalışmaları için herhangi bir yönetmelik çıkarılmasına gerek yoktur.",
+    "D": "Psiko-sosyal yardım servisi çalışmaları tamamen personelin inisiyatifine bırakılmıştır.",
+    "Answer": "Psiko-sosyal yardım servisi çalışmalarına ilişkin usul ve esaslar, Bakanlıkça çıkarılacak yönetmeliklerle belirlenir.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

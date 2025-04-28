@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, toplum için ciddi tehlike arz eden hükümlülere hangi statü verilir?",
+    "A": "Tehlikeli hükümlü",
+    "B": "Cinsel yönelim farklı hükümlü",
+    "C": "Çocuk hükümlü",
+    "D": "Suç mağduru",
+    "Answer": "Tehlikeli hükümlü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün eşyası kimin gözetiminde teslim alınır?",
+    "A": "Kurum amiri",
+    "B": "Cumhuriyet savcısı",
+    "C": "Görevli memur",
+    "D": "İnfaz ve koruma başmemuru",
+    "Answer": "Görevli memur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüden alınan paranın işlemleri kim tarafından yapılır?",
+    "A": "Cumhuriyet başsavcılığı",
+    "B": "Kurum amiri",
+    "C": "Dış güvenlik görevlisi",
+    "D": "Görevlendirilen memur",
+    "Answer": "Görevlendirilen memur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kadın ve erkek hükümlüler hangi durumda aynı kurumda tutulabilir?",
+    "A": "Çocuk hükümlülerle birlikte",
+    "B": "Mümkünse ayrı kurumlardayken",
+    "C": "Zorunlu hallerde, tamamen ayrı bölümlerde",
+    "D": "Aynı odada",
+    "Answer": "Zorunlu hallerde, tamamen ayrı bölümlerde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün dış görünüş bilgileri kimin tarafından belirlenir?",
+    "A": "Psiko-sosyal yardım birimi",
+    "B": "Kurum amiri",
+    "C": "Cumhuriyet savcısı",
+    "D": "Teknik ve tıbbi görevliler",
+    "Answer": "Teknik ve tıbbi görevliler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sıfır-altı yaş çocuklar anneleriyle ne zamana kadar kalabilir?",
+    "A": "2 yaşına kadar",
+    "B": "3 yaşına kadar",
+    "C": "5 yaşına kadar",
+    "D": "6 yaşına kadar",
+    "Answer": "3 yaşına kadar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün üç yaşını doldurmuş çocuğu için ne yapılır?",
+    "A": "Koruma altına alınır",
+    "B": "Kurum içinde tutulur",
+    "C": "Ziyaret sağlanmaz",
+    "D": "Psiko-sosyal danışman atanır",
+    "Answer": "Psiko-sosyal danışman atanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tehlikeli hükümlüler hangi özel şartlarda tutulur?",
+    "A": "Diğer hükümlülerle aynı ortamda",
+    "B": "Ayrı odalarda ve gözlem altında",
+    "C": "Psiko-sosyal servisin yanında",
+    "D": "Koruma altında",
+    "Answer": "Ayrı odalarda ve gözlem altında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün beslenmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin beslenmesine ilişkin düzenlemeler yalnızca mahkeme kararıyla belirlenir.",
+    "B": "Hükümlülerin beslenmesine ilişkin usul ve esaslar herhangi bir yönetmelik olmaksızın ceza infaz kurumu personelinin inisiyatifine bırakılmıştır.",
+    "C": "Beslenmeye ilişkin usul ve esaslar yalnızca mahkûmların talepleri doğrultusunda belirlenir.",
+    "D": "Hükümlülerin beslenmesinde, 5275 sayılı Kanunun 72 nci maddesinde belirtilen hükümler uygulanır.",
+    "Answer": "Hükümlülerin beslenmesinde, 5275 sayılı Kanunun 72 nci maddesinde belirtilen hükümler uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin giydirilmesi, barındırılması ve yatırılmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin giydirilmesi, barındırılması ve yatırılmasına ilişkin düzenlemelerde yalnızca ceza infaz kurumu personelinin inisiyatifi dikkate alınır.",
+    "B": "Hükümlülerin giydirilmesi, barındırılması ve yatırılmasında 5275 sayılı Kanunun 63 ve 64 üncü maddeleri uygulanır.,",
+    "C": "Hükümlüler, herhangi bir plan olmaksızın kendi belirledikleri şekilde odalara yerleştirilir.",
+    "D": "Hükümlülerin yatma planı, yalnızca hükümlülerin talepleri doğrultusunda hazırlanır ve odalara asılmaz.",
+    "Answer": "Hükümlülerin giydirilmesi, barındırılması ve yatırılmasında 5275 sayılı Kanunun 63 ve 64 üncü maddeleri uygulanır.,",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezayı çekme, güvenlik ve iyileştirme programına uyma yükümlülüğüne ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlü, hapis cezasının yerine getirilmesine katlanmak ve bu amaçla düzenlenen infaz rejimine uygun davranışlar içinde bulunmakla yükümlüdür.",
+    "B": "Hükümlü, kurumun güvenlik ve iyileştirme programlarına tam bir uyum göstermek zorundadır.",
+    "C": "Hükümlülerin kendi yaşamlarını ve bedensel bütünlüklerini tehlikeye düşürecek eylemlere girişmeleri, cezaevi iç düzenine uyma yükümlülüğünün ihlali sayılabilir.",
+    "D": "Hükümlü, cezanın infazı sırasında belirlenen kurallara uymak zorundadır ve bu yükümlülüğün ihlâli disiplin yaptırımlarını gerektirebilir.",
+    "Answer": "Hükümlülerin kendi yaşamlarını ve bedensel bütünlüklerini tehlikeye düşürecek eylemlere girişmeleri, cezaevi iç düzenine uyma yükümlülüğünün ihlali sayılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlığın korunması kurallarına uyma yükümlülüğüne ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlü hem kendi hem de diğer hükümlülerin sağlığını tehlikeye düşürebilecek eylemlerden kaçınmakla yükümlüdür.",
+    "B": "Hükümlü, sağlığının korunması ve salgın hastalıkların önlenmesi için gerekli tedbirlere uymak zorundadır.",
+    "C": "Hükümlü, kişi sağlığı için tehlike doğuran durumları hükümlü arkadaşlarına bildirmekle yükümlüdür.",
+    "D": "Hükümlü, içinde yaşadığı ortamın temizliğine uygun davranışlar göstermekle yükümlüdür.",
+    "Answer": "Hükümlü hem kendi hem de diğer hükümlülerin sağlığını tehlikeye düşürebilecek eylemlerden kaçınmakla yükümlüdür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bina ve eşyanın korunmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlü, yalnızca kendi kullanımında olan şeyleri korumakla yükümlüdür, diğer kişilere ait eşyalar bu kapsamda değildir.",
+    "B": "Hükümlü, barındırıldığı odayı ve kurum binasını düzenli bir biçimde kullanmakla yükümlüdür.",
+    "C": "Hükümlü, yönetimce kendisine bırakılan şeyleri koruma konusunda bir yükümlülük taşımaz.",
+    "D": "Hükümlü, bina ve eşya kullanımında düzenli olma yükümlülüğüne ilişkin herhangi bir sorumluluk taşımaz.",
+    "Answer": "Hükümlü, barındırıldığı odayı ve kurum binasını düzenli bir biçimde kullanmakla yükümlüdür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin yaşam tarzlarına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Her kurum, hükümlülerin yaşam tarzını düzenleyen bir iç yönerge hazırlamak zorunda değildir.",
+    "B": "Hükümlülerin kurum içindeki yaşam tarzını ayrıntılarıyla düzenleyen bir iç yönerge, yalnızca genel ihtiyaçlara göre hazırlanır ve kurumun özel nitelikleri dikkate alınmaz.",
+    "C": "Her kurumun, hükümlülerin kurum içindeki yaşam tarzını ayrıntılarıyla gösteren bir iç yönergesi bulunur ve bu iç yönerge, kurumun ihtiyaçları ile özel nitelikleri dikkate alınarak hazırlanır.",
+    "D": "İç yönergeler, kurumun ihtiyaçlarına göre hazırlanır ancak hükümlülerin yaşam tarzını düzenlemek için bir zorunluluk içermez.",
+    "Answer": "Her kurumun, hükümlülerin kurum içindeki yaşam tarzını ayrıntılarıyla gösteren bir iç yönergesi bulunur ve bu iç yönerge, kurumun ihtiyaçları ile özel nitelikleri dikkate alınarak hazırlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin dikkat etmeleri gereken kurallara ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlüler, iş atölyelerinde, eğitim yerlerinde ve kalmakta oldukları mekanlarda yatma saatinden sonra başkalarını rahatsız edecek şekilde konuşamaz.",
+    "B": "Hükümlüler yazı, resim ve işaretlerle yapılan gizli münasebetler ve ahlâka aykırı söz ve hareketlerde bulunamaz. Parola mahiyetinde anlaşılmaz sözler kullanamaz.",
+    "C": "Hükümlüler, birbirlerine karşı dürüst davranmak zorundadır ve diğerleri üzerinde hiçbir surette nüfuz icra edemez.",
+    "D": "Hükümlüler, gündüzleri havalandırma bölümlerinde sigara içebilir. Geceleri ise kalınan mekanlarda sigara içemez.",
+    "Answer": "Hükümlüler, gündüzleri havalandırma bölümlerinde sigara içebilir. Geceleri ise kalınan mekanlarda sigara içemez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin dikkat etmeleri gereken diğer yükümlülüklere ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlülerin kumar niteliğinde olan oyunları oynaması yasaktır, ancak kumar niteliğine haiz olmayan oyunlara izin verilebileceği kanunda belirtilir.",
+    "B": "Hükümlüler alkollü içkiler içemez, uyuşturucu, uçucu ve uyarıcı maddeler kullanamaz.",
+    "C": "Hükümlüler, kuruma veya diğer hükümlülere ait eşyayı izinsiz olarak alamaz ve bunları tahrip edemez.",
+    "D": "Hükümlüler, kurumun eşyasını veya aletlerini, kullanıma sunuldukları işlerden başka işlerde kullanamaz.",
+    "Answer": "Hükümlüler alkollü içkiler içemez, uyuşturucu, uçucu ve uyarıcı maddeler kullanamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin dikkat etmeleri gereken diğer yükümlülüklere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlüler, yaşadıkları, çalıştıkları ve ortak etkinliklerde bulundukları mekanların temizliğini yapmak zorunda değildir.",
+    "B": "Hükümlüler, yalnızca kendi yaşam alanlarının temizliğinden sorumludur, diğer mekanlar için herhangi bir yükümlülüğü yoktur.",
+    "C": "Hükümlüler, yaşadıkları, çalıştıkları ve ortak etkinliklerde bulundukları mekanların temizliğini yapmak zorundadır.",
+    "D": "Hükümlüler, mekanların temizliği için bir talep olması durumunda bu sorumluluğu üstlenirler.",
+    "Answer": "Hükümlüler, yaşadıkları, çalıştıkları ve ortak etkinliklerde bulundukları mekanların temizliğini yapmak zorundadır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin beslenmesine ilişkin usul ve esaslar hangi kurum tarafından belirlenir?",
+    "A": "Kurum yönetimi",
+    "B": "Cezaevi doktoru",
+    "C": "Psiko-sosyal yardım birimi",
+    "D": "Bakanlık",
+    "Answer": "Bakanlık",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi plana göre odalarına yerleştirilir?",
+    "A": "Koridorda asılan resimli yatma planına göre",
+    "B": "Hükümlülerin taleplerine göre",
+    "C": "Psikologların belirlediği plana göre",
+    "D": "Cumhuriyet savcısının kararına göre",
+    "Answer": "Koridorda asılan resimli yatma planına göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü hangi konularda uyum göstermekle yükümlüdür?",
+    "A": "Psikolojik tedavi programlarına",
+    "B": "Sadece eğitim programlarına",
+    "C": "Hükümlünün tercihine bağlı programlara",
+    "D": "Güvenlik ve iyileştirme programlarına",
+    "Answer": "Güvenlik ve iyileştirme programlarına",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

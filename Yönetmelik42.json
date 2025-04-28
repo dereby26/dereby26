@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler odalarında bilgisayar bulundurabilir mi?",
+    "A": "Eğitim veya kültürel amaçla Bakanlık izni varsa",
+    "B": "Sadece izin verilen saatlerde",
+    "C": "Herhangi bir koşul olmaksızın",
+    "D": "Eğitim faaliyetlerine katılıyorsa",
+    "Answer": "Eğitim veya kültürel amaçla Bakanlık izni varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin elektronik ortamda mektup gönderme hakkı hangi durumda uygulanır?",
+    "A": "Eğitim amacıyla her durumda",
+    "B": "Bakanlıkça onaylanan teknik altyapının bulunduğu kurumlarda",
+    "C": "Savunma amaçlı yazışmalarda",
+    "D": "İdarenin belirlediği durumlarda",
+    "Answer": "Bakanlıkça onaylanan teknik altyapının bulunduğu kurumlarda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, merkezi yayın sisteminin bulunmadığı kurumlarda radyo ve televizyon kullanımı nasıl sağlanır?",
+    "A": "Kendi antenlerini getirmeleri ile",
+    "B": "Hafta içi günlerinde",
+    "C": "Kurumdan temin edilerek",
+    "D": "Bağımsız anten kullanarak, masraf hükümlüye ait olmak kaydıyla",
+    "Answer": "Bağımsız anten kullanarak, masraf hükümlüye ait olmak kaydıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumda hükümlünün internetten yararlanmasına izin verilebilir?",
+    "A": "Dış güvenlik görevlilerinin onayı ile",
+    "B": "Eğitim ve iyileştirme programları çerçevesinde",
+    "C": "Herhangi bir hükümlüye serbest",
+    "D": "Sadece yurt dışı kaynakları için",
+    "Answer": "Eğitim ve iyileştirme programları çerçevesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kapalı ceza infaz kurumlarındaki hükümlülerin hediyeleri kabul etme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kapalı ceza infaz kurumlarındaki hükümlüler, yalnızca yılbaşı günlerinde dışarıdan gönderilen hediyeleri kabul edebilir.",
+    "B": "Hükümlüler, yalnızca kurum içinde kendilerine verilen hediyeleri kabul edebilir, dışarıdan gönderilen hediyeler kabul edilmez.",
+    "C": "Hükümlüler, Ocak, Mart, Mayıs, Temmuz, Eylül, Kasım aylarının ilk haftasında, dinî bayramlarda, yılbaşında veya doğum günlerinde dışarıdan gönderilen, kurum güvenliği ve kişilerin sağlığı için tehlike oluşturmayan bir hediyeyi kabul etme hakkına sahiptir.",
+    "D": "Hükümlülerin dışarıdan gönderilen hediyeleri kabul etmeleri, kurum yönetiminin inisiyatifine bağlıdır ve herhangi bir hakka dayanmaz.",
+    "Answer": "Hükümlüler, Ocak, Mart, Mayıs, Temmuz, Eylül, Kasım aylarının ilk haftasında, dinî bayramlarda, yılbaşında veya doğum günlerinde dışarıdan gönderilen, kurum güvenliği ve kişilerin sağlığı için tehlike oluşturmayan bir hediyeyi kabul etme hakkına sahiptir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hediye kabul etmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlü, hediye olarak yalnızca kitap veya giyim eşyası kabul edebilir. Hediye olarak kitabın ücreti gönderildiğinde, kitap kurum kantini aracılığıyla temin edilir.",
+    "B": "Hediye, ziyaretçi tarafından verilebileceği gibi posta veya kargo yolu ile de gönderilebilir.",
+    "C": "Bir hükümlü, aynı tarih için yalnızca iki kez hediye kabul edebilir.",
+    "D": "Gönderilen eşya, güvenlik ve hijyen kontrolünden geçirilir.",
+    "Answer": "Hediye, ziyaretçi tarafından verilebileceği gibi posta veya kargo yolu ile de gönderilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hediyelerinin kaydedilmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hediye olarak gönderilen eşyanın nitelikleri ve miktarı, Hediye Kayıt Defterine kaydedilir.",
+    "B": "Hediyeyi gönderenin, alıcının veya getirenin kimlik bilgileri ile posta veya kargo yoluyla gelmediyse getirenin imzası deftere işlenir.",
+    "C": "Hediye olarak gönderilen eşyaların tesliminde hükümlü ve görevli memurun imzası alınmaksızın işlem yapılır.",
+    "D": "Hediyenin kuruma gönderiliş, geliş ve hükümlüye teslim tarihleri Hediye Kayıt Defterine kaydedilir.",
+    "Answer": "Hediye olarak gönderilen eşyaların tesliminde hükümlü ve görevli memurun imzası alınmaksızın işlem yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumlarda hediye kabulüne ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Çocuk ve altmış beş yaşını tamamlamış hükümlüler, yalnızca belirli zaman dilimlerinde hediye kabul edebilir; zaman kısıtlaması kaldırılamaz.",
+    "B": "Beraberinde çocuğu bulunan kadın hükümlülere, kurumlara girmesi yasak olmayan ve güvenlik veya sağlık açısından tehlike oluşturmayan eşyaların verilmesi için idare ve gözlem kurulunun kararı gereklidir.",
+    "C": "İdare ve gözlem kurulu, tüm hükümlüler için zaman kısıtlamasını kaldırabilir.",
+    "D": "Hediye kabulüne ilişkin kurallar, yalnızca genel düzenlemelerle sınırlandırılmış olup özel gruplar için esneklik sağlanamaz.",
+    "Answer": "Beraberinde çocuğu bulunan kadın hükümlülere, kurumlara girmesi yasak olmayan ve güvenlik veya sağlık açısından tehlike oluşturmayan eşyaların verilmesi için idare ve gözlem kurulunun kararı gereklidir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülere hediye kabulüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Kişi, kurum veya kuruluşlar tarafından hükümlülere dağıtılmak üzere toplu olarak gönderilen eşyalar hakkında 143 üncü madde hükümleri uygulanır.",
+    "B": "Kurumda anasıyla birlikte kalan çocuklara, kurum güvenliğini tehlikeye sokmayan ve çocuk gelişimine uygun oyuncaklar, diğer eşyalar ve sağlıklı gıda maddeleri her zaman gönderilebilir.",
+    "C": "Hediye edilecek eşyanın tahmini değeri, hükümlülerin haftalık olarak yapabilecekleri harcama limitini aşamaz.",
+    "D": "Açık kurumlar ile çocuk eğitimevlerinde barındırılan hükümlülere verilebilecek ya da gönderilecek hediyelerin cins ve miktarı ile hediye zamanları, bahsedilen kurumların disiplin kurulu tarafından belirlenir.",
+    "Answer": "Açık kurumlar ile çocuk eğitimevlerinde barındırılan hükümlülere verilebilecek ya da gönderilecek hediyelerin cins ve miktarı ile hediye zamanları, bahsedilen kurumların disiplin kurulu tarafından belirlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülere hediye kabulüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hediyenin hükümlüye tesliminde Ceza İnfaz Kurumlarında Bulundurulabilecek Eşya ve Maddeler Hakkında Yönetmelik ve Kurum İç Yönergesinde belirtilen usul ve esaslar dikkate alınır.",
+    "B": "Kurumlar, internet sayfalarında hediye göndermeye ilişkin kuralları ve kısıtlamaları duyurur ve hükümlüler de bu konuda bilgilendirilir.",
+    "C": "Hediyelerin tesliminde hiçbir yönetmelik veya yönerge dikkate alınmaz ve teslim işlemleri tamamen idarenin inisiyatifine bağlıdır.",
+    "D": "Hükümlülere gönderilecek hediyelerin kurallara uygunluğu, ilgili mevzuat ve yönergelere göre değerlendirilir.",
+    "Answer": "Hediyelerin tesliminde hiçbir yönetmelik veya yönerge dikkate alınmaz ve teslim işlemleri tamamen idarenin inisiyatifine bağlıdır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin din ve vicdan özgürlüğüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlü, mensup bulunduğu dinin ibadetlerini, kurum düzenini bozmayacak ve çalışmayı engellemeyecek şekilde serbestçe yerine getirebilir.",
+    "B": "Hükümlü, ibadette kullanılan eşyaları ve dini yaşamı için zorunlu olan kitap ve eserleri temin edip bulunduğu yerlerde muhafaza edebilir.",
+    "C": "Hükümlünün, mensup bulunduğu dinin görevlilerince ziyaret edilmesine ve onlarla iletişim kurmasına, kurum güvenliğini tehlikeye düşürmemesi koşuluyla izin verilir.",
+    "D": "Hükümlünün mensup olduğu dinin görevlilerince ziyaret edilmesi, kurum güvenliğini tehlikeye düşürse dahi engellenemez.",
+    "Answer": "Hükümlünün mensup olduğu dinin görevlilerince ziyaret edilmesi, kurum güvenliğini tehlikeye düşürse dahi engellenemez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin muayene ve tedavi isteklerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin tedavi istekleri, yalnızca acil durumlarda değerlendirilir ve rutin muayeneler yapılmaz.",
+    "B": "Hükümlü, beden ve ruh sağlığının korunması, hastalıklarının tanısı için muayene ve tedavi olanaklarından yararlanma hakkına sahiptir. Tedavi öncelikle kurum revirinde sağlanır.",
+    "C": "Hükümlülerin tedavileri, yalnızca Devlet veya üniversite hastanelerinde yapılır, kurum revirinden yararlanmaları mümkün değildir.",
+    "D": "Hükümlüler, sadece fiziksel rahatsızlıkları için tıbbi araçlardan yararlanma hakkına sahiptir.",
+    "Answer": "Hükümlü, beden ve ruh sağlığının korunması, hastalıklarının tanısı için muayene ve tedavi olanaklarından yararlanma hakkına sahiptir. Tedavi öncelikle kurum revirinde sağlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin oda ve eklentilerinde bulundurulabilecek kişisel eşyalara ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kapalı kurumlarda bulunan hükümlüler, istedikleri tüm kişisel eşya, gıda, tıbbi malzeme ve diğer ihtiyaç maddelerini sınırsızca bulundurabilirler.",
+    "B": "Kapalı kurumlarda bulunan hükümlülerin oda ve eklentilerinde bulundurabilecekleri veya bulunduramayacakları kişisel eşya, gıda, tıbbi malzeme ve diğer ihtiyaç maddeleri Bakanlıkça çıkarılacak yönetmelikle düzenlenir.",
+    "C": "Kapalı kurumlarda bulunan hükümlüler, yalnızca kurum tarafından temin edilen eşyaları kullanabilir ve dışarıdan hiçbir eşya getirilmesine izin verilmez.",
+    "D": "Hükümlülerin oda ve eklentilerinde bulundurabilecekleri kişisel eşyalar, yalnızca kurum idaresinin inisiyatifine bağlı olarak belirlenir.",
+    "Answer": "Kapalı kurumlarda bulunan hükümlülerin oda ve eklentilerinde bulundurabilecekleri veya bulunduramayacakları kişisel eşya, gıda, tıbbi malzeme ve diğer ihtiyaç maddeleri Bakanlıkça çıkarılacak yönetmelikle düzenlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi aylarda dışarıdan hediye kabul edebilir?",
+    "A": "Ocak, Mart, Mayıs, Temmuz, Eylül, Kasım",
+    "B": "Her ay",
+    "C": "Sadece Aralık ayında",
+    "D": "İlkbahar ve sonbaharda",
+    "Answer": "Ocak, Mart, Mayıs, Temmuz, Eylül, Kasım",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin dinî bayramlarda kabul edebileceği hediye türleri nelerdir?",
+    "A": "Yalnızca elektronik eşyalar",
+    "B": "Sadece kitap ve giyim eşyaları",
+    "C": "Her türlü yiyecek",
+    "D": "Sınırsız türde hediye",
+    "Answer": "Her türlü yiyecek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hükümlü, aynı tarih için kaç kez hediye kabul edebilir?",
+    "A": "İki kez",
+    "B": "Bir kez",
+    "C": "Sınırsız",
+    "D": "Yalnızca dinî bayramlarda sınırsız",
+    "Answer": "Bir kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hediye kabul edilecek kitapların nasıl temin edilmesi esastır?",
+    "A": "Hükümlüye dışarıdan hediye edilebilir veya kantinden satın alınabilir",
+    "B": "Yalnızca kantinden temin edilebilir",
+    "C": "Hükümlü ailesinden doğrudan alabilir",
+    "D": "Başka bir hükümlüden temin edebilir",
+    "Answer": "Hükümlüye dışarıdan hediye edilebilir veya kantinden satın alınabilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hediye olarak gönderilen eşyalar hangi işlemden geçer?",
+    "A": "Güvenlik ve hijyen kontrolü",
+    "B": "Sadece güvenlik kontrolü",
+    "C": "Sadece hijyen kontrolü",
+    "D": "Bir işlem yapılmaz",
+    "Answer": "Güvenlik ve hijyen kontrolü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Hediye Kayıt Defteri'nde yer alması gereken bilgilerden biri değildir:",
+    "A": "Hediyeyi gönderenin kimlik bilgileri",
+    "B": "Eşyanın tahmini değeri",
+    "C": "Hediye teslim tarihleri",
+    "D": "Hediye tesliminde alınan imzalar",
+    "Answer": "Hediye tesliminde alınan imzalar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çocuklarıyla birlikte kurumda kalan kadın hükümlülere, hangi durumda zaman kısıtlaması olmadan hediye gönderilebilir?",
+    "A": "İdare ve gözlem kurulu kararı doğrultusunda",
+    "B": "Her ayın ilk haftasında",
+    "C": "Yalnızca doğum günlerinde",
+    "D": "Bayramlarda",
+    "Answer": "İdare ve gözlem kurulu kararı doğrultusunda",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün üst araması sırasında hangi unsura dikkat edilir?",
+    "A": "Aynı cinsiyetten güvenlik görevlisi tarafından yapılması",
+    "B": "Arama alanının boş olması",
+    "C": "Aramanın gece yapılması",
+    "D": "Hükümlülerin ikili gruplar halinde bulunması",
+    "Answer": "Aynı cinsiyetten güvenlik görevlisi tarafından yapılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, detaylı arama yapılırken utanma duygusunun ihlal edilmemesi için hangi önlem alınır?",
+    "A": "Aramayı psikolog yapar",
+    "B": "Hükümlüye tek kullanımlık giyim önlüğü verilir",
+    "C": "Arama sırasında hükümlü dış güvenlik alanına alınır",
+    "D": "Arama kayıt altına alınmaz",
+    "Answer": "Hükümlüye tek kullanımlık giyim önlüğü verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, arama sırasında bedene dokunulması gereken durumlarda hangi tedbir alınmalıdır?",
+    "A": "Güvenlik görevlisinin eldiven giymesi",
+    "B": "Hükümlüden uzak durulması",
+    "C": "Hükümlüye arama aleti verilmesi",
+    "D": "Aramanın başkaları tarafından izlenmesi",
+    "Answer": "Güvenlik görevlisinin eldiven giymesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sayımlar hangi personel tarafından yapılır?",
+    "A": "İnfaz ve koruma başmemurları",
+    "B": "Güvenlik tatbikatı görevlileri",
+    "C": "Dış güvenlik görevlileri",
+    "D": "İdare memurları",
+    "Answer": "İdare memurları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sayımlar hangi sıklıkla yapılmalıdır?",
+    "A": "Günlük olarak sabah ve akşam",
+    "B": "Günde üç kez veya vardiya değişiminde",
+    "C": "Yılda dört kez",
+    "D": "Haftada bir kez",
+    "Answer": "Günde üç kez veya vardiya değişiminde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, arama ve sayımlar sırasında insan onuruna saygı gösterilmesi için hangi ilkeye dikkat edilmelidir?",
+    "A": "Hükümlülerin tamamen soyunması",
+    "B": "Doktor bulundurma zorunluluğu",
+    "C": "Utanma duygusunun ihlal edilmemesi",
+    "D": "Dış güvenlik görevlilerinin sayımı yönetmesi",
+    "Answer": "Utanma duygusunun ihlal edilmemesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, arama sırasında bedene dokunulmaması hangi önlemle sağlanır?",
+    "A": "Eldiven giyerek arama yapılır",
+    "B": "Hükümlüden uzakta durulur",
+    "C": "Başka kişiler eşlik eder",
+    "D": "Aramadan vazgeçilir",
+    "Answer": "Eldiven giyerek arama yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sayımlar hangi odalarda yapılır?",
+    "A": "Mutfak",
+    "B": "Eğitim salonu",
+    "C": "Hükümlülerin kaldığı odalar",
+    "D": "Spor alanları",
+    "Answer": "Hükümlülerin kaldığı odalar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, olağanüstü hâllerde yapılan tatbikatlarda hangi kişiler destek olabilir?",
+    "A": "Diğer kamu görevlileri",
+    "B": "Sivil savunma ekipleri",
+    "C": "Hükümlüler",
+    "D": "Cezaevi kâtibi",
+    "Answer": "Sivil savunma ekipleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü aramalarında makul ve ciddi emare bulunması durumunda ne yapılır?",
+    "A": "Hükümlünün kurum dışına çıkması sağlanır",
+    "B": "Sözlü olarak uyarılır",
+    "C": "Detaylı arama yapılır",
+    "D": "Tıbbi destek sağlanır",
+    "Answer": "Detaylı arama yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aramalarda hangi unsura tutanakta yer verilmesi zorunludur?",
+    "A": "Sayım zamanı",
+    "B": "Telefon görüş süresi",
+    "C": "Görevlilerin ve hükümlülerin imzası",
+    "D": "Kapıların açık kalma süresi",
+    "Answer": "Görevlilerin ve hükümlülerin imzası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tatbikat sırasında hangi olaylara karşı hazırlık yapılır?",
+    "A": "Sel baskınlarına karşı",
+    "B": "Firar, yangın, isyan gibi olaylara karşı",
+    "C": "Eğitim programlarına karşı",
+    "D": "Ziyaretçi girişlerine karşı",
+    "Answer": "Firar, yangın, isyan gibi olaylara karşı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi aramalarda detaylı beden araması yapılabilir?",
+    "A": "Kurum müdürünün izniyle yapılan tüm aramalarda",
+    "B": "Günlük kontrollerde",
+    "C": "Her ayın başında",
+    "D": "Yasak madde bulunduğuna dair emare varsa",
+    "Answer": "Yasak madde bulunduğuna dair emare varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sayımlar hangi plan doğrultusunda yapılır?",
+    "A": "Hükümlülerin günlük programına göre",
+    "B": "Kurumun yatma planı doğrultusunda",
+    "C": "Dış güvenlik amirinin belirlemesiyle",
+    "D": "Hükümlülerin isteğine göre",
+    "Answer": "Kurumun yatma planı doğrultusunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aramalar sırasında hangi durumlar tutanak altına alınmalıdır?",
+    "A": "Hükümlülerin kaçış yönleri",
+    "B": "Hükümlülerin imzadan kaçınma durumu",
+    "C": "Kurum güvenlik görevlilerinin izni",
+    "D": "Kurum amirinin izni",
+    "Answer": "Kurum amirinin izni",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum en üst amiri tatbikat yaptırırken kime bilgi verir?",
+    "A": "Hükümlülere",
+    "B": "Disiplin kuruluna",
+    "C": "Cumhuriyet başsavcısına",
+    "D": "İdare memurlarına",
+    "Answer": "Cumhuriyet başsavcısına",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, elektronik ortamda yapılan sayımlarda hangi düzenlemelere uyulur?",
+    "A": "Bakanlıkça belirlenen esaslara",
+    "B": "İdari personel kararlarına",
+    "C": "Cezaevi tabibinin önerilerine",
+    "D": "Hükümlü taleplerine",
+    "Answer": "Bakanlıkça belirlenen esaslara",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sayımlar olağanüstü durumlarda kimlerin katılımıyla yapılabilir?",
+    "A": "Cezaevi personeli",
+    "B": "Dış güvenlik görevlileri",
+    "C": "Hükümlülerin aileleri",
+    "D": "Sivil toplum kuruluşları",
+    "Answer": "Sivil toplum kuruluşları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, arama ve güvenlik tatbikatları hangi sıklıkta yapılmalıdır?",
+    "A": "Her ay",
+    "B": "Yılda en az iki kez",
+    "C": "Üç ayda bir",
+    "D": "Haftada bir",
+    "Answer": "Yılda en az iki kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, oda ve eklentilerde yapılacak aramalarda hükümlü hangi önlemle korunur?",
+    "A": "Arama sırasında başkalarının izlemesi engellenir",
+    "B": "Bütün giysiler çıkartılır",
+    "C": "Aramaya başkaları katılır",
+    "D": "Elektronik sayım yapılır",
+    "Answer": "Arama sırasında başkalarının izlemesi engellenir",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

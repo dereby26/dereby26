@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü hangi durumda erteleme isteminde bulunabilir?",
+    "A": "Sürekli hastalık nedeniyle",
+    "B": "Yaş sınırına ulaştığında",
+    "C": "Mahkeme karar verdiğinde",
+    "D": "Ceza infaz kurumuna girmeden önce",
+    "Answer": "Ceza infaz kurumuna girmeden önce",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Cumhuriyet başsavcılığı tarafından hükümlünün cezasının ertelenmesi hangi koşulda kaldırılır?",
+    "A": "Hükümlünün erteleme talebi reddedildiğinde",
+    "B": "Erteleme süresince yeniden suç işlediğinde",
+    "C": "Hükümlü itiraz ettiğinde",
+    "D": "Hükümlü hastalandığında",
+    "Answer": "Erteleme süresince yeniden suç işlediğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, taksirle işlenen suçlarda cezanın ertelenmesi süresi en fazla ne kadar olabilir?",
+    "A": "Üç yıl",
+    "B": "Beş yıl",
+    "C": "İki yıl",
+    "D": "Altı ay",
+    "Answer": "Beş yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Cumhuriyet başsavcılığı, hangi durumda cezanın infazına ara verme yetkisini kullanamaz?",
+    "A": "Hükümlünün eğitimini tamamlaması için",
+    "B": "Ailesinin ticari faaliyetlerinin yürütülmesi zorunluluğu varsa",
+    "C": "Hükümlü uzun süreli seyahat ediyorsa",
+    "D": "Hükümlü sağlığının sürekli tedavi gerektirmesi halinde",
+    "Answer": "Hükümlü sağlığının sürekli tedavi gerektirmesi halinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü hangi durumda cezasının ertelenmesini talep edemez?",
+    "A": "Terör suçlarından mahkûm olması durumunda",
+    "B": "Sağlık durumu kötüleştiğinde",
+    "C": "Ailesiyle yaşamak istediğinde",
+    "D": "Eğitimini tamamlamak istediğinde",
+    "Answer": "Ailesiyle yaşamak istediğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdakilerden hangisi erteleme için gerekli koşullardan biri değildir?",
+    "A": "Ailesel zorunluluk",
+    "B": "Sağlık koşulları",
+    "C": "İş yeri açma isteği",
+    "D": "Sürekli seyahat etme zorunluluğu",
+    "Answer": "Sürekli seyahat etme zorunluluğu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü sağlık durumu nedeniyle hapis cezasının ertelenmesini talep ettiğinde, karar hangi kurum tarafından onaylanır?",
+    "A": "Cumhuriyet başsavcılığı",
+    "B": "İnfaz hâkimi",
+    "C": "Sağlık Bakanlığı",
+    "D": "Ceza infaz kurumu amirliği",
+    "Answer": "İnfaz hâkimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık nedeniyle cezası ertelenen bir hükümlü hangi durumda ceza infaz kurumuna alınır?",
+    "A": "Sağlık durumu iyileştiğinde",
+    "B": "Ceza süresi dolduğunda",
+    "C": "Erteleme süresi aştığında",
+    "D": "İnfaz hâkimi talebiyle",
+    "Answer": "Sağlık durumu iyileştiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, erteleme süresi içinde hangi durumda hükümlünün cezası derhal infaz edilir?",
+    "A": "Hükümlü sağlık raporu sunduğunda",
+    "B": "Hükümlü itiraz ettiğinde",
+    "C": "Erteleme süresi dolduğunda",
+    "D": "Hükümlü hakkında kamu davası açıldığında",
+    "Answer": "Hükümlü hakkında kamu davası açıldığında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kasten işlenen suçlarda hapis cezasının ertelenebilmesi için cezanın süresi en fazla ne kadar olabilir?",
+    "A": "Beş yıl",
+    "B": "Dört yıl",
+    "C": "Üç yıl",
+    "D": "İki yıl",
+    "Answer": "Beş yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, erteleme isteminde bulunan bir hükümlüden güvence göstermesi hangi durumda istenebilir?",
+    "A": "Hükümlünün erteleme talebi reddedildiğinde",
+    "B": "Cumhuriyet başsavcılığı güvence göstermeyi gerekli gördüğünde",
+    "C": "Hükümlü ailesiyle kalmak istediğinde",
+    "D": "Erteleme süresi bittiğinde",
+    "Answer": "Cumhuriyet başsavcılığı güvence göstermeyi gerekli gördüğünde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, taksirle işlenen bir suçtan dolayı cezası ertelenen hükümlünün erteleme talebi en fazla kaç kez kabul edilebilir?",
+    "A": "Süresiz",
+    "B": "Bir kez",
+    "C": "İki kez",
+    "D": "Üç kez",
+    "Answer": "İki kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumda hükümlünün erteleme talebi kabul edilmez?",
+    "A": "Hükümlünün eğitime devam etmesi durumunda",
+    "B": "Hükümlü terör suçlarından mahkûm olmuşsa",
+    "C": "Hükümlü bir yurt dışı iş teklifi aldığında",
+    "D": "Hükümlünün ailesine bakması gerektiğinde",
+    "Answer": "Hükümlü terör suçlarından mahkûm olmuşsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, erteleme için gerekli koşullardan biri değildir?",
+    "A": "Hükümlü ticaretle uğraşıyorsa",
+    "B": "Hükümlü geçici sağlık sorunu yaşıyorsa",
+    "C": "Hükümlü terör suçlarından mahkûm olmuşsa",
+    "D": "Hükümlü ailesinin yanına dönmek istiyorsa",
+    "Answer": "Hükümlü geçici sağlık sorunu yaşıyorsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, infazın ertelenmesi talebi hangi durumda Cumhuriyet başsavcılığı tarafından kabul edilir?",
+    "A": "Hükümlünün yükseköğrenimini tamamlayabilmesi için",
+    "B": "Hükümlünün çalışmaya ihtiyacı varsa",
+    "C": "Hükümlü iş bulduğunda",
+    "D": "Hükümlü seyahat etmek istediğinde",
+    "Answer": "Hükümlü seyahat etmek istediğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, mahkemece infazın ertelenmesi veya durdurulmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "İnfazın ertelenmesine veya durdurulmasına ilişkin karar, duruşma açılarak verilir.",
+    "B": "Cumhuriyet savcısının ve hükümlünün görüşlerinin yazılı olarak alınması zorunlu değildir.",
+    "C": "İnfazın ertelenmesi veya durdurulması talebi, hükmü veren ilk derece mahkemesinden istenebilir.",
+    "D": "Erteleme veya durdurma talebinin kabulü, hiçbir şekilde güvence gösterilmesine bağlanamaz.",
+    "Answer": "İnfazın ertelenmesi veya durdurulması talebi, hükmü veren ilk derece mahkemesinden istenebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hapis cezasının ertelenmesi hâlinde hükmedilen yükümlülüklerin yerine getirilmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hapis cezasının ertelenmesi hâlinde, yükümlülükler sadece mahkeme kararıyla belirlenir ve başka bir yönetmelik uygulanmaz.",
+    "B": "Hapis cezasının ertelenmesine karar verilmesi hâlinde, yükümlülükler 5237 sayılı Kanunun 51 inci maddesine göre denetlenir.",
+    "C": "Hapis cezasının ertelenmesi durumunda yükümlülüklerin yerine getirilmesi mahkemenin takdirine bırakılmış, herhangi bir düzenleme yapılmamıştır.",
+    "D": "Hapis cezasının ertelenmesine karar verilmesi durumunda, denetim süresi içinde yükümlülükler Denetimli Serbestlik Hizmetleri Yönetmeliği hükümlerine göre yerine getirilir.",
+    "Answer": "Hapis cezasının ertelenmesine karar verilmesi durumunda, denetim süresi içinde yükümlülükler Denetimli Serbestlik Hizmetleri Yönetmeliği hükümlerine göre yerine getirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ertelenen hapis cezasının infazına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hapis cezası ertelenen hükümlünün denetim süresi içinde kasıtlı bir suç işlemesi durumunda, ertelenen hapis cezası uyarma cezasının ardından infaz edilmez.",
+    "B": "Hapis cezası ertelenen hükümlünün kendisine yüklenen yükümlülüklere uymamakta ısrar etmesi hâlinde, infaz hâkimi cezanın kısmen veya tamamen kurumda çektirilmesine karar verebilir.",
+    "C": "Ertelenen hapis cezasının infazına karar verilmesi durumunda, ceza hükümlünün yüksek güvenlikli ceza infaz kurumunda çektirilir.",
+    "D": "Denetim süresi içinde kasıtlı bir suç işlenmesi hâlinde, ertelenen ceza hiçbir şekilde kurumda çektirilemez.",
+    "Answer": "Hapis cezası ertelenen hükümlünün kendisine yüklenen yükümlülüklere uymamakta ısrar etmesi hâlinde, infaz hâkimi cezanın kısmen veya tamamen kurumda çektirilmesine karar verebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ertelenen hapis cezasının infazına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Cezanın ertelenmesi, mağdurun veya kamunun uğradığı zararın tamamen giderilmesi koşuluna bağlanabilir.",
+    "B": "Koşulun yerine getirilmesi durumunda, hükümlü ancak belirli bir süre sonra kurumdan salıverilir.",
+    "C": "Hükümlünün durumuna uygun kurumlarda cezanın infazı, koşul gerçekleşse dahi devam eder.",
+    "D": "Suçtan önceki hâle getirme veya tazmin suretiyle zararın giderilmesi, cezanın ertelenmesi için zorunlu değildir.",
+    "Answer": "Cezanın ertelenmesi, mağdurun veya kamunun uğradığı zararın tamamen giderilmesi koşuluna bağlanabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, belli hakları kullanmaktan yoksun bırakılmaya ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Belli hakları kullanmaktan yoksun bırakılma, kasten işlenmiş bir suçtan dolayı hapis cezasına mahkûmiyetin kanuni sonucu olarak uygulanır.",
+    "B": "Mahkemece Cumhuriyet başsavcılığına gönderilen ilâm, hükümlü defterine kaydedilerek infaza başlama ve bitiş tarihleri yazılır. Ancak bu tedbirlerin infazına, mahkûmiyetin kanuni sonucu olarak hapis cezasının infazına başlama tarihi ile birlikte başlanır.",
+    "C": "Cumhuriyet başsavcılığınca, hapis cezasının infazına başlanacağı tarih de dikkate alınarak, bu tedbiri içeren ilâmın içeriği, tedbirin konusu ve niteliğine göre ilgili kurum ve kuruluşlar ile kolluğa bildirilir. Cumhuriyet başsavcılığınca, ayrıca infaza başlama ve bitiş tarihleri de bildirilir.",
+    "D": "5237 sayılı Kanunun 53 üncü maddesinin birinci fıkrasının (A) ilâ (e) bentlerinde belirtilen yoksun bırakılma konusu faaliyet ve görevlerle ilgili olarak, tedbirin infazının tamamlanmasından sonra hükümlünün bu faaliyet ve görevlerde bulunabilmesi, 25/5/2005 tarihli ve 5352 sayılı Adli Sicil Kanunu hükümlerine göre temin edeceği adli sicil kaydının ilgili yere ibrazı ile mümkündür.",
+    "Answer": "Mahkemece Cumhuriyet başsavcılığına gönderilen ilâm, hükümlü defterine kaydedilerek infaza başlama ve bitiş tarihleri yazılır. Ancak bu tedbirlerin infazına, mahkûmiyetin kanuni sonucu olarak hapis cezasının infazına başlama tarihi ile birlikte başlanır.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

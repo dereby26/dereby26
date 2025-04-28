@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler aşağıdaki hangi etkinliğe kurum dışına çıkarak katılabilirler?",
+    "A": "Temizlik faaliyetleri",
+    "B": "Özel eğlence programları",
+    "C": "Yemek etkinlikleri",
+    "D": "Bireysel hobi kursları",
+    "Answer": "Bireysel hobi kursları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, belediye sınırları dışında bir etkinliğe katılacak hükümlüler için kimden izin alınmalıdır?",
+    "A": "Belediye",
+    "B": "Bakanlık",
+    "C": "İdare ve gözlem kurulu",
+    "D": "Kurum müdürü",
+    "Answer": "Bakanlık",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumlarda verilen konferans veya seminerlerin amacı aşağıdakilerden hangisidir?",
+    "A": "Hükümlülerin fiziksel yeterliliklerini artırmak sağlamak",
+    "B": "Hükümlülerin yalnızca aile bağlarını güçlendirmek",
+    "C": "Hükümlülerin sadece hukuki bilgilerini geliştirmek",
+    "D": "Hükümlülerin kültürel, sosyal ve ahlaki gelişimlerini",
+    "Answer": "Hükümlülerin kültürel, sosyal ve ahlaki gelişimlerini",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumlarda düzenlenen seminerlerde kimlerin görev alması zorunludur?",
+    "A": "Kurum müdürü ve psikolog",
+    "B": "Cezaevi tabibi ve teknik personel",
+    "C": "Sosyal çalışmacı ve öğretmen",
+    "D": "Tüm seçenekler doğrudur",
+    "Answer": "Sosyal çalışmacı ve öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülere kurum dışındaki kişilere seminer verdirmek için hangi koşul aranır?",
+    "A": "Eğitim kurulunun uygun görmesi",
+    "B": "Hükümlülerin istekte bulunması",
+    "C": "Hükümlünün yüksek eğitim almış olması",
+    "D": "Bakanlık izni",
+    "Answer": "Bakanlık izni",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler kendi aralarında düzenleyecekleri seminerler için hangi yönden teşvik edilir?",
+    "A": "Ekonomik destek sağlanır",
+    "B": "Kütüphane kullanımı verilir",
+    "C": "Özendirilmeleri sağlanır",
+    "D": "Ödüllendirilirler",
+    "Answer": "Özendirilmeleri sağlanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülere verilen konferans veya seminerlerin metinleri ne yapılır?",
+    "A": "Dışarıya gönderilir",
+    "B": "Kurum kütüphanesinde saklanır",
+    "C": "Bakanlığa teslim edilir",
+    "D": "Yok edilir",
+    "Answer": "Kurum kütüphanesinde saklanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, konferans ve seminerlerin içeriğinde yer alan temel konulardan biri aşağıdakilerden hangisidir?",
+    "A": "Sadece meslek edinme",
+    "B": "Ekonomik faaliyetler",
+    "C": "İnsan haklarına saygı",
+    "D": "Cezaevi güvenliği",
+    "Answer": "İnsan haklarına saygı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kültürel ve sosyal gelişimlerine yönelik seminerlerde hangi konular işlenir?",
+    "A": "Fiziksel güvenlik önlemleri",
+    "B": "Aile bağlarını güçlendirme",
+    "C": "Yalnızca sanatsal faaliyetler",
+    "D": "Sadece sağlık konuları",
+    "Answer": "Aile bağlarını güçlendirme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kültürel gelişimini sağlayacak bir etkinlik olarak aşağıdaki seçeneklerden hangisi doğrudur?",
+    "A": "Temizlik faaliyetleri",
+    "B": "Belediye işleri",
+    "C": "İnşaat faaliyetleri",
+    "D": "Müzik eğitimi",
+    "Answer": "Müzik eğitimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, seminerlerde görev alması gereken personellerin sayısı en az kaç olmalıdır?",
+    "A": "1",
+    "B": "3",
+    "C": "2",
+    "D": "5",
+    "Answer": "3",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kapalı kurumlarda spor yapmayan hükümlülerin açık hava izni günde ne kadar sürelidir?",
+    "A": "15 dakika",
+    "B": "30 dakika",
+    "C": "1 saat",
+    "D": "2 saat",
+    "Answer": "1 saat",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, açık hava gezintisi sırasında hükümlülerin yapabileceği faaliyetler arasında aşağıdakilerden hangisi vardır?",
+    "A": "Eğitim semineri düzenlemek",
+    "B": "Fiziksel spor yapmak",
+    "C": "Bireysel çalışma yapmak",
+    "D": "Fiziksel iş yapmamak",
+    "Answer": "Fiziksel spor yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin tiyatro ve konser gibi sosyal etkinliklere katılma istekleri kim tarafından onaylanır?",
+    "A": "Aileleri",
+    "B": "Bakanlık direktifi",
+    "C": "Eğitim kurulu",
+    "D": "İdare ve gözlem kurulu",
+    "Answer": "İdare ve gözlem kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin dışarıda düzenlenecek doğal afet sonrası yardım faaliyetlerine katılımı için hangi işlem gereklidir?",
+    "A": "İdare ve gözlem kurulu onayı veya Bakanlık izni",
+    "B": "Mahalle muhtarı onayı",
+    "C": "Hükümlünün yazılı isteği",
+    "D": "Cezaevi doktorunun izni",
+    "Answer": "İdare ve gözlem kurulu onayı veya Bakanlık izni",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin sanat ve kültürel faaliyetlerde aktif rol alması aşağıdakilerden hangisiyle sağlanır?",
+    "A": "Kurum idaresi karar alarak",
+    "B": "Hükümlülerin aile desteğiyle",
+    "C": "Kurumda bulunan meslek atölyeleri ile",
+    "D": "Bakanlık destekli projelerle",
+    "Answer": "Bakanlık destekli projelerle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin spor faaliyetlerinde yer almasına karar verilirken hangi koşul dikkate alınır?",
+    "A": "Hükümlünün yaş durumu",
+    "B": "Hükümlünün yakın çevresi",
+    "C": "Mesleki tecrübesi",
+    "D": "Hükümlünün aile durumu",
+    "Answer": "Hükümlünün aile durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, açık hava etkinliklerine katılan hükümlülerin faaliyet süresi aşağıdakilerden hangisidir?",
+    "A": "Günde en az bir saat",
+    "B": "3 saat",
+    "C": "Günde yarım saat",
+    "D": "Günde iki saat",
+    "Answer": "3 saat",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin spor faaliyetlerine katılım sağlama isteği hangi durumda reddedilir?",
+    "A": "Fiziksel durumu yeterli görülmediğinde",
+    "B": "Hükümlünün ailesi izin vermediğinde",
+    "C": "Hükümlünün suçu kabul etmediğinde",
+    "D": "İdare ve gözlem kurulu uygun bulmadığında",
+    "Answer": "Fiziksel durumu yeterli görülmediğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, seminer ve konferansların içeriği aşağıdakilerden hangisini kapsar?",
+    "A": "Hükümlünün meslek edinmesi ve insan hakları eğitimi",
+    "B": "Sadece spor faaliyetleri",
+    "C": "Kişisel gelişim eğitimleri",
+    "D": "Çalışma disiplini",
+    "Answer": "Çalışma disiplini",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

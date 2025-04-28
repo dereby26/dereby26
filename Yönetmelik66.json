@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çocuk hükümlülerin nakil gideri hangi durumda Bakanlık tarafından karşılanır?",
+    "A": "Maddi durumları yetersiz olduğunda",
+    "B": "Hükümlünün ailesi talep ettiğinde",
+    "C": "Nakil zorunluluğu doğduğunda",
+    "D": "Çocuk eğitim evine gönderildiğinde",
+    "Answer": "Maddi durumları yetersiz olduğunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin sağlık raporları ile ilgili detaylar nerede düzenlenir?",
+    "A": "Cezaevi tabibinin kontrolünde",
+    "B": "Sağlık kurulu raporlarında",
+    "C": "Hükümlünün kişisel dosyasında",
+    "D": "Nakil evrakında",
+    "Answer": "Hükümlünün kişisel dosyasında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin nakil işlemleri neye göre yapılır?",
+    "A": "53-58. madde hükümleri",
+    "B": "102. madde hükümleri",
+    "C": "Yönetmeliğe uygun özel izin ile",
+    "D": "Bakanlık talimatıyla",
+    "Answer": "53-58. madde hükümleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, nakil sırasında hükümlüye ait diğer eşyalar nereye kaydedilir?",
+    "A": "Hükümlü emanet hesabına",
+    "B": "Güvenlik birimine",
+    "C": "Ailesine",
+    "D": "Nakil belgelerine",
+    "Answer": "Nakil belgelerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibinin olmadığı hallerde sağlık raporları kim tarafından verilir?",
+    "A": "Kurumun en üst amiri",
+    "B": "Sağlık kurulu",
+    "C": "Kurum aile hekimi",
+    "D": "Cumhuriyet başsavcısı",
+    "Answer": "Kurum aile hekimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin nakil işlemlerinde hangi dosya teslim edilir?",
+    "A": "Gözlem ve sınıflandırma dosyası",
+    "B": "İnfaz raporu",
+    "C": "Eğitim raporu",
+    "D": "Güvenlik dosyası",
+    "Answer": "Gözlem ve sınıflandırma dosyası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin koşullu salıverilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Koşullu salıverilmede, yalnızca 5275 sayılı Kanunun 107. maddesi uygulanır; 108. madde kapsam dışıdır.",
+    "B": "Hükümlüler, koşullu salıverilme hükümlerinden bağımsız olarak serbest bırakılabilir.",
+    "C": "Koşullu salıverilmede, hükümlünün suç türüne bakılmaksızın tüm cezalar için aynı hükümler uygulanır.",
+    "D": "Koşullu salıverilmede, 5275 sayılı Kanunun 107 ve 108. maddeleri hükümleri uygulanır.",
+    "Answer": "Koşullu salıverilmede, 5275 sayılı Kanunun 107 ve 108. maddeleri hükümleri uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin salıverilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlüler, yalnızca ceza infaz kurumunun yetkililerinin sözlü talimatıyla salıverilir.",
+    "B": "Hükümlüler, herhangi bir emir veya onaya ihtiyaç duymaksızın, kendi talebiyle serbest bırakılabilir.",
+    "C": "Salıverilme işlemleri, herhangi bir yazılı düzenlemeye gerek olmadan otomatik olarak gerçekleştirilir.",
+    "D": "Hükümlüler, kanunlarda belirtilen yetkili makamların yazılı emri ile salıverilir.",
+    "Answer": "Hükümlüler, kanunlarda belirtilen yetkili makamların yazılı emri ile salıverilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü salıverilme defteriyle ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Kurumda, hükümlüler için Hükümlü Salıverilme Defteri tutulur.",
+    "B": "Salıverilme defterinde, mahkûmiyet kararı kesinleşmiş olan her hükümlünün adı, soyadı ve hükümlü defter numarasına yer verilir.",
+    "C": "Salıverilme defterinde hükümlünün sadece cezanın türü, süresine yer verilir.",
+    "D": "Salıverilme defteri, hükümlülerin salıverilme işlemlerinin kayıt altına alınması amacıyla düzenlenir.",
+    "Answer": "Salıverilme defterinde hükümlünün sadece cezanın türü, süresine yer verilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü salıverilme defterine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hürriyetin kısıtlanmasına başlandığı tarih salıverilme defterine kaydedilir.",
+    "B": "Hükümlünün başka bir suçtan tutuklama kararı salıverilme defterine kaydedilmez.",
+    "C": "Disiplin cezaları ile bu cezaların veriliş, infaz ve kaldırılış tarihleri salıverilme defterinde belirtilir.",
+    "D": "Salıverilmesinden sonra hükümlünün askerlikle ilişkisinin bulunup bulunmadığı salıverilme defterine işlenir.",
+    "Answer": "Hükümlünün başka bir suçtan tutuklama kararı salıverilme defterine kaydedilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü salıverilme defterine ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlünün hakkında sınır dışı edilme tedbirine hükmedilip edilmediği salıverilme defterine kaydedilir.",
+    "B": "Salıverilme sonrası adresleri ve iletişim bilgileri salıverilme defterine işlenir.",
+    "C": "Salıverilme defteri, yılbaşından önce hazırlanır ve yılın her haftasına göre ayrılmış sayfaları bulunur.",
+    "D": "Salıverilme defterindeki kayıtlar, görevli personelce hatalı salıverilmenin önlenmesi amacıyla düzenli olarak kontrol edilir.",
+    "Answer": "Salıverilme defteri, yılbaşından önce hazırlanır ve yılın her haftasına göre ayrılmış sayfaları bulunur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlü salıverilme defteriyle ilgili aşağıdakilerden hangisi bulunmaz?",
+    "A": "Hükümlünün adı ve soyadı",
+    "B": "Hükümlünün ceza türü ve süresi",
+    "C": "Salıverilme tarihi",
+    "D": "Hükümlünün kişisel harcamaları",
+    "Answer": "Hükümlünün kişisel harcamaları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hükümlünün eşya ve parasının geri verilmesiyle ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Salıverilecek hükümlüye ait, elbise ve diğer eşyası, bu konuda görevlendirilen kurum personelince, üç nüsha hâlinde düzenlenecek bir makbuz karşılığı geri verilir.",
+    "B": "Hükümlünün bankada şahsi parasının bulunması hâlinde bu para, görevli personel tarafından bankadan çekilerek salıverilecek hükümlüye makbuz karşılığı iade edilir.",
+    "C": "Hükümlünün, kurumda bulunduğu sürede almış olduğu belgeler de salıverilmede kendisine verilir.",
+    "D": "Hükümlüye ait eşya ve paralar, düzenli bir şekilde kayıt altına alınarak iade edilir.",
+    "Answer": "Salıverilecek hükümlüye ait, elbise ve diğer eşyası, bu konuda görevlendirilen kurum personelince, üç nüsha hâlinde düzenlenecek bir makbuz karşılığı geri verilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin salıverilmesinin kaydıyla ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Salıverilen hükümlüler, Hükümlü Kayıt Defterinin ilgili bölümüne kaydedilir.",
+    "B": "Salıverilme, bir mahkeme kararına dayanıyorsa, mahkeme kararının tarih, esas ve karar numaraları kayıtta yer alır.",
+    "C": "Salıverilme, kanunda belirtilen herhangi bir karar veya işleme dayanıyorsa, bunların tarih ve numaraları kaydedilir.",
+    "D": "Salıverilen hükümlüler, deftere kaydedilmelerini müteakip mevcuttan düşülmez.",
+    "Answer": "Salıverilen hükümlüler, deftere kaydedilmelerini müteakip mevcuttan düşülmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hasta hükümlülerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Salıverilme tarihinde hasta olan hükümlülerin, hastaneye nakli için hükümlünün rızası aranmaz.",
+    "B": "Hasta hükümlülerin, kurum dışına çıkarılmasına engel olacak durumları olduğunda, sağlık kurumu dışında bir yere nakledilmeleri sağlanır.",
+    "C": "Salıverilme tarihinde, kurum dışına çıkarılmasına engel olacak şekilde hasta olan hükümlü, kendi rızası ve Cumhuriyet başsavcılığının onayı ile bir hastaneye veya sağlık kurumuna nakledilinceye kadar kurumun ayrı bir bölümünde kalabilir.",
+    "D": "Cumhuriyet başsavcılığının onayı olmaksızın hasta hükümlüler, kurum içinde ayrı bir bölüme alınamaz.",
+    "Answer": "Salıverilme tarihinde, kurum dışına çıkarılmasına engel olacak şekilde hasta olan hükümlü, kendi rızası ve Cumhuriyet başsavcılığının onayı ile bir hastaneye veya sağlık kurumuna nakledilinceye kadar kurumun ayrı bir bölümünde kalabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hasta hükümlülerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Salıverilme tarihinde hasta olan hükümlünün durumu, ailesine, avukatına, asker kişi ise kayıtlı bulunduğu askerlik şubesine bildirilir.",
+    "B": "Yabancı uyruklu bir hükümlünün durumunda, uyruğunda olduğu devletin diplomatik temsilciliği veya konsolosluğuna bilgi verilmez.",
+    "C": "Hükümlünün sağlık durumu yalnızca kurum idaresinin iç yazışmalarıyla sınırlı tutulur ve dışarıya bildirilmez.",
+    "D": "Hasta hükümlülerin durumu, gerekli mercilere ve ilgili kişilere kurum idaresince bildirilir.",
+    "Answer": "Salıverilme tarihinde hasta olan hükümlünün durumu, ailesine, avukatına, asker kişi ise kayıtlı bulunduğu askerlik şubesine bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin koşullu salıverilmesi hangi maddelere dayanılarak yapılır?",
+    "A": "102 ve 103",
+    "B": "107 ve 108",
+    "C": "128 ve 129",
+    "D": "126 ve 127",
+    "Answer": "107 ve 108",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi makamın yazılı emri ile salıverilir?",
+    "A": "Kurum müdürünün",
+    "B": "Yetkili makamların",
+    "C": "Cezaevi tabibinin",
+    "D": "Cumhuriyet savcısının",
+    "Answer": "Cumhuriyet savcısının",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hükümlülerin kaydedildiği defterin adı nedir?",
+    "A": "Hükümlü İzin Defteri",
+    "B": "Hükümlü Salıverilme Defteri",
+    "C": "Hükümlü Kayıt Defteri",
+    "D": "Hükümlü İzleme Defteri",
+    "Answer": "Hükümlü Salıverilme Defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilme defterinde hangi bilgiler yer almaz?",
+    "A": "Cezanın türü ve süresi",
+    "B": "Hükümlünün adı ve soyadı",
+    "C": "Hükümlünün eğitim durumu",
+    "D": "Salıverilme sonrası adres ve iletişim bilgileri",
+    "Answer": "Hükümlünün eğitim durumu",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

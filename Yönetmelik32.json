@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü askerlik çağına gelirse hangi kuruma bildirilir?",
+    "A": "Cumhuriyet başsavcılığı",
+    "B": "Dışişleri Bakanlığı",
+    "C": "Göç İdaresi",
+    "D": "Askerlik şubesi",
+    "Answer": "Askerlik şubesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü vefat ettiğinde ailesine bildirim yapılır mı?",
+    "A": "Yapılmaz",
+    "B": "Derhal yapılır",
+    "C": "Cumhuriyet başsavcılığı onayı ile yapılır",
+    "D": "Sadece Dışişleri Bakanlığı'na bildirilir",
+    "Answer": "Derhal yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin yakınlarına yapılacak bildirim hangi yöntemle yapılır?",
+    "A": "Duruşmada sözlü olarak",
+    "B": "Yazılı olarak",
+    "C": "Sadece telefonla",
+    "D": "Talep edilirse yapılmaz",
+    "Answer": "Yazılı olarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kabul odasındaki işlemler sırasında hükümlüye hangi bilgi verilir?",
+    "A": "Mali durum bilgileri",
+    "B": "Sağlık geçmişi",
+    "C": "Kurum yaşamına uyum sağlama bilgileri",
+    "D": "Mahkeme dosyaları",
+    "Answer": "Kurum yaşamına uyum sağlama bilgileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hükümlü kabul odasında kalırken sağlık durumu hangi görevliler tarafından kaydedilir?",
+    "A": "İnfaz memurları",
+    "B": "Cezaevi tabibi",
+    "C": "Psikolog",
+    "D": "Aile hekimi",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kuruma yeni alınan hükümlüye psiko-sosyal yardım servisi tarafından nasıl yardım edilir?",
+    "A": "Hükümlünün ailesine yardım sağlanır",
+    "B": "Mali destek sağlanır",
+    "C": "Eğitim verir",
+    "D": "Psikolojik durumunu belirleme çalışması yapılır",
+    "Answer": "Psikolojik durumunu belirleme çalışması yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, firarların önlenmesi amacıyla hükümlü bilgileri kimlerle paylaşılabilir?",
+    "A": "Mahkeme başkanıyla",
+    "B": "Dış güvenlik görevlileriyle",
+    "C": "Eğitim görevlileriyle",
+    "D": "Mahkeme savcısıyla",
+    "Answer": "Dış güvenlik görevlileriyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kuruma yeni alınan hükümlü hakkında ilk bilgiyi kim toplar?",
+    "A": "Dış güvenlik görevlisi",
+    "B": "Cezaevi tabibi",
+    "C": "İnfaz ve koruma memuru",
+    "D": "Öğretmen",
+    "Answer": "İnfaz ve koruma memuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kabul odasında muayenesi yapılan hükümlüde bulaşıcı hastalık tespit edilirse hangi kurum bilgilendirilir?",
+    "A": "Göç İdaresi",
+    "B": "Adalet Bakanlığı",
+    "C": "Cumhuriyet başsavcılığı",
+    "D": "Sağlık Bakanlığı",
+    "Answer": "Sağlık Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün cezaevi koşullarına uyum sağlaması için hangi bilgi verilmez?",
+    "A": "Disiplin cezaları",
+    "B": "Bilgi edinme yolları",
+    "C": "Sağlık bilgileri",
+    "D": "Hak ve sorumluluklar",
+    "Answer": "Sağlık bilgileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün konsolosluk bildirimini istememesi durumunda ne yapılır?",
+    "A": "Tutanağa bağlanır ve imzalatılır",
+    "B": "Bildirim yapılmaz",
+    "C": "Ailesine bildirilir",
+    "D": "Dışişleri Bakanlığı'na gönderilir",
+    "Answer": "Tutanağa bağlanır ve imzalatılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Türkçe bilmeyen hükümlüye bilgilendirme hangi dillerde yapılabilir?",
+    "A": "Türkçe, İspanyolca",
+    "B": "Türkçe, Fransızca",
+    "C": "Türkçe, İngilizce veya Almanca",
+    "D": "Sadece İngilizce",
+    "Answer": "Türkçe, İngilizce veya Almanca",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, yabancı uyruklu hükümlünün isteği üzerine kime bildirim yapılır?",
+    "A": "İlgili ülke konsolosluğuna",
+    "B": "Adalet Bakanlığı'na",
+    "C": "Cumhuriyet savcılığına",
+    "D": "Dış güvenlik görevlisine",
+    "Answer": "İlgili ülke konsolosluğuna",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüye sağlanan hükümlü kimlik belgesi hangi durumda verilir?",
+    "A": "Kabul odası işlemleri tamamlandıktan sonra",
+    "B": "Ceza infaz kurumuna ilk geldiğinde",
+    "C": "Başka bir kuruma nakil öncesinde",
+    "D": "Ceza süresinin sonunda",
+    "Answer": "Ceza infaz kurumuna ilk geldiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kuruma yerleştirilmesine ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlü kadın ve erkekler, mümkün olduğu kadar ayrı kurumlarda bulundurulur. Aynı kurumda barındırılmaları zorunlu ise kadın ve erkeklere ait bölümler birbirlerinden tamamen ayrılır.",
+    "B": "Hükümlüler, tutuklulardan ayrı kurumlarda veya tamamen ayrı bölümlerde bulundurulur.",
+    "C": "Genel kolluk hizmetlerinde veya diğer kamu görevlerinde çalışmış hükümlüler, kurumların ayrı bir bölümünde barındırılır.",
+    "D": "Hükümlü çocuklar ve gençler öncelikli olarak kendilerine ait kurumlarda barındırılır. Bu mümkün değilse, diğerlerinden tamamen ayrı bölümlerde bulundurulmaları zorunlu değildir.",
+    "Answer": "Hükümlü çocuklar ve gençler öncelikli olarak kendilerine ait kurumlarda barındırılır. Bu mümkün değilse, diğerlerinden tamamen ayrı bölümlerde bulundurulmaları zorunlu değildir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kuruma yerleştirilmesine ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Cinsel yönelimi farklı hükümlülerin diğerlerinden ayrı odalarda kalmaları sağlanır.",
+    "B": "Hükümlüler, idare tarafından hazırlanan ve koridordaki oda kapılarının yanına asılan resimli yatma planına uygun olarak yerleştirilir.",
+    "C": "Cinsel yönelimi farklı hükümlülerin yerleştirilmesinde, diğer hükümlülerle eşit şartlar altında odalarda kalabilirler.",
+    "D": "Hükümlülerin yatma planına uygun olarak yerleştirilmesi, idarenin sorumluluğundadır.",
+    "Answer": "Cinsel yönelimi farklı hükümlülerin yerleştirilmesinde, diğer hükümlülerle eşit şartlar altında odalarda kalabilirler.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün bakıma muhtaç çocuklarının barındırılmasına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Anaları hükümlü olup da dışarıda korumasına bırakılacak kimsesi bulunmayan sıfır-altı yaş grubundaki çocukların barındırılması, 5275 sayılı Kanunun 65 inci maddesi gereğince yerine getirilir. Üç yaşını doldurmuş çocuklar hakkında, 5395 sayılı Kanun kapsamında koruyucu ve destekleyici tedbirlerin alınması için ilgili kurumlara bilgi verilir. Bu çocukların belirlenecek bir program ve usule göre zaman zaman analarıyla temasları sağlanır.",
+    "B": "Altı yaşını doldurmuş çocukların menfaati de göz önünde tutularak kurum dışında barındırılacakları yerler, ilgili mevzuat hükümlerine göre belirlenir.",
+    "C": "Altı yaşını dolduran çocuğun dışarıda bırakılacak kimsesi bulunmadığı takdirde durum ceza infaz kurumu idaresince Aile ve Sosyal Hizmetler İl Müdürlüğüne bildirilir. Bu çocukların görevliler aracılığı ile Aile ve Sosyal Hizmetler İl Müdürlüğünce belirlenen kuruluşa teslimi sağlanır.",
+    "D": "Altı yaşını dolduran çocuklar, korumasına bırakılacak kimsesi bulunmasa yedi yaşına kadar ceza infaz kurumunda barındırılır.",
+    "Answer": "Altı yaşını dolduran çocuklar, korumasına bırakılacak kimsesi bulunmasa yedi yaşına kadar ceza infaz kurumunda barındırılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün kişisel eşyasının korunmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlünün beraberinde getirdiği eşya ve elbiseler, temizlenmeden doğrudan ambar memuruna teslim edilir.",
+    "B": "Ambar memuru, gelen eşyaya ilişkin kayıt işlemlerini yapar ve kaydın bir örneğini yalnızca kurum kayıtlarında muhafaza eder.",
+    "C": "Hükümlünün eşyalarına ilişkin kayıt işlemleri tamamlandıktan sonra, kaydın bir örneği hükümlüye verilir, birisi eşya paketi üzerine iliştirilir, diğeri ise kurum kayıtlarında muhafaza edilir.",
+    "D": "Hükümlünün beraberinde getirdiği eşyalar ambar memuruna teslim edilmez, hükümlüye geri verilir.",
+    "Answer": "Hükümlünün eşyalarına ilişkin kayıt işlemleri tamamlandıktan sonra, kaydın bir örneği hükümlüye verilir, birisi eşya paketi üzerine iliştirilir, diğeri ise kurum kayıtlarında muhafaza edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülere ait kıymetli eşyanın korunmasına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlülerin beraberinde getirdikleri kıymetli eşyalar, özellikleri tam olarak belirlenerek kurum en üst amirinin görevlendirdiği bir memurun gözetiminde emanet para memuruna teslim edilir.",
+    "B": "Teslim alınan kıymetli eşyalar için üçer nüsha tutanak düzenlenir, tutanaklardan biri hükümlüye verilir, diğeri kurum kayıtlarında saklanır.",
+    "C": "Teslim alınan kıymetli eşyalar, doğrudan hükümlünün kişisel eşyalarının bulunduğu ambara konur.",
+    "D": "Birinci fıkra hükmüne göre teslim alınan kıymetli eşyalar, bu amaçla tahsis edilen kasada saklanır.",
+    "Answer": "Teslim alınan kıymetli eşyalar, doğrudan hükümlünün kişisel eşyalarının bulunduğu ambara konur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin emanete alınan kişisel paralarına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlülerin beraberinde getirdikleri ya da adlarına gelen paralar, Bakanlık tarafından belirlenen bir bankada bunlar için açılan ortak cari hesaba yatırılır.",
+    "B": "Bankada hesap açtırılamayan yabancı paralar hakkında 60 ıncı maddenin ikinci fıkrası uygulanır ve bu paralar kasada muhafaza edilir.",
+    "C": "Hükümlülerin paralarının yönetimine ilişkin usul ve esaslar Cumhurbaşkanlığınca çıkarılacak yönetmelikle belirlenir.",
+    "D": "Hükümlülerin paralarıyla ilgili hususlar, kurum en üst amirince görevlendirilecek memur tarafından kayıt altına alınır.",
+    "Answer": "Hükümlülerin paralarıyla ilgili hususlar, kurum en üst amirince görevlendirilecek memur tarafından kayıt altına alınır.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

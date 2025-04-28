@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün sağlığını koruma yükümlülüğüne aykırı hareketi nasıl değerlendirilir?",
+    "A": "Psikolojik bir sorun olarak",
+    "B": "Ceza infaz rejimine katlanma yükümlülüğünün ihlali olarak",
+    "C": "Cezaevi yönetiminin ihmali olarak",
+    "D": "Yasal bir hak ihlali olarak",
+    "Answer": "Ceza infaz rejimine katlanma yükümlülüğünün ihlali olarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerden hangisi sağlığı tehlikeye düşürecek eylemlerden kaçınmak zorundadır?",
+    "A": "Diğer hükümlüler",
+    "B": "Sadece hasta hükümlüler",
+    "C": "Hem kendi hem diğer hükümlüler için",
+    "D": "Sadece cezaevi görevlileri",
+    "Answer": "Hem kendi hem diğer hükümlüler için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi alanların temizliğini yapmakla yükümlüdür?",
+    "A": "Sadece yatakhaneler",
+    "B": "Yalnızca ortak etkinlik alanları",
+    "C": "Kurumun tüm alanları",
+    "D": "Yaşadıkları, çalıştıkları ve ortak etkinlik alanları",
+    "Answer": "Yaşadıkları, çalıştıkları ve ortak etkinlik alanları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hangi eylemi yapması yasaktır?",
+    "A": "Çalışma",
+    "B": "Sigara içme",
+    "C": "Kumar niteliğinde oyun oynama",
+    "D": "Temizlik yapma",
+    "Answer": "Kumar niteliğinde oyun oynama",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler kurum eşyalarını nasıl kullanmalıdır?",
+    "A": "Kendi ihtiyaçlarına göre",
+    "B": "Diğer hükümlülere sunarak",
+    "C": "İstediği şekilde kullanarak",
+    "D": "Kullanıma sunuldukları iş dışında kullanmadan",
+    "Answer": "Kullanıma sunuldukları iş dışında kullanmadan",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü hangi durumları en üst amire bildirmekle yükümlüdür?",
+    "A": "Yalnızca kendi sağlık sorunları",
+    "B": "Kişi sağlığını tehlikeye düşüren durumlar",
+    "C": "Diğer hükümlülerin kişisel sorunları",
+    "D": "Sadece kurallara aykırı davranışlar",
+    "Answer": "Kişi sağlığını tehlikeye düşüren durumlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi alanlarda başkalarını rahatsız edici şekilde konuşamaz?",
+    "A": "Yemekhane ve eğitim alanları",
+    "B": "Hükümlülerin kişisel odaları",
+    "C": "Yalnızca yatma saatinde, bulundukları tüm alanlarda",
+    "D": "Sadece dış mekanlarda",
+    "Answer": "Yalnızca yatma saatinde, bulundukları tüm alanlarda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hangi tür yazılı veya sözlü iletişimleri yasaktır?",
+    "A": "Açık ve anlaşılır sözler",
+    "B": "Parola niteliğindeki sözler",
+    "C": "Görüşme talepleri",
+    "D": "Eğitim içerikli konuşmalar",
+    "Answer": "Parola niteliğindeki sözler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler sigara içebilir mi?",
+    "A": "Hayır, tamamen yasaktır",
+    "B": "Evet, sadece ortak alanlarda",
+    "C": "Evet, gündüzleri havalandırma ve geceleri belirlenen yerlerde",
+    "D": "Evet, yemekhanede izin verilir",
+    "Answer": "Hayır, tamamen yasaktır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hangi maddeleri kullanması kesinlikle yasaktır?",
+    "A": "Sigara",
+    "B": "Alkollü içecekler ve uyuşturucu",
+    "C": "Temizlik malzemeleri",
+    "D": "Hafif ilaçlar",
+    "Answer": "Alkollü içecekler ve uyuşturucu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin başkalarına ait eşyayı nasıl kullanması gereklidir?",
+    "A": "Diğerlerinden izin almadan kullanabilirler",
+    "B": "Sadece diğer hükümlülerin eşyasını kullanabilirler",
+    "C": "İzin alarak ve dikkatle kullanmalıdır",
+    "D": "Hiçbir şekilde kullanamazlar",
+    "Answer": "İzin alarak ve dikkatle kullanmalıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi davranışlarda bulunamaz?",
+    "A": "Ahlaka aykırı söz ve işaretler",
+    "B": "Çalışma",
+    "C": "Sosyal faaliyetlere katılım",
+    "D": "Sigara içme",
+    "Answer": "Ahlaka aykırı söz ve işaretler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hangi eylemleri serbesttir?",
+    "A": "Parola mahiyetinde anlaşılmaz söz kullanmak",
+    "B": "Psiko-sosyal yardım alma",
+    "C": "Başkalarının eşyasını kullanma",
+    "D": "Kumar oynama",
+    "Answer": "Psiko-sosyal yardım alma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumlar cezaevi kurallarına aykırı kabul edilir?",
+    "A": "Gündüzleri sigara içmek",
+    "B": "Günlük temizlik yapmak",
+    "C": "Kumardan uzak durmak",
+    "D": "Diğer hükümlüler üzerinde nüfuz oluşturmak",
+    "Answer": "Diğer hükümlüler üzerinde nüfuz oluşturmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin yazılı iletişimde hangi tür davranışlar yasaktır?",
+    "A": "Açık ve anlaşılır metin yazmak",
+    "B": "Gizli münasebet kurmak",
+    "C": "Başkalarına yardım istemek",
+    "D": "Kişisel konular yazmak",
+    "Answer": "Gizli münasebet kurmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler alkollü içki veya uyuşturucu bulundurabilir mi?",
+    "A": "Sadece kendi ihtiyaçları için",
+    "B": "Diğerlerinin gözetiminde kullanabilir",
+    "C": "Hiçbir şekilde bulunduramaz",
+    "D": "Cezaevi görevlisinin izniyle bulundurabilir",
+    "Answer": "Hiçbir şekilde bulunduramaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin yatma düzenleri nasıl belirlenir?",
+    "A": "Hükümlünün talebi ile",
+    "B": "Resimli yatma planına göre",
+    "C": "Cumhuriyet savcısının emriyle",
+    "D": "Psikologların önerisi ile",
+    "Answer": "Resimli yatma planına göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin sağlık açısından alması gereken tedbirleri kim belirler?",
+    "A": "Bakanlık",
+    "B": "Psiko-sosyal yardım görevlileri",
+    "C": "Dış güvenlik görevlileri",
+    "D": "Kurum en üst amiri",
+    "Answer": "Kurum en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin çalışma ortamında hangi kurala uyması gerekir?",
+    "A": "Kumar oyunları serbesttir",
+    "B": "Temizlik yapmak zorundadır",
+    "C": "Diğer hükümlülerin eşyalarını kullanabilir",
+    "D": "Sigara içmek serbesttir",
+    "Answer": "Temizlik yapmak zorundadır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi konuda hassasiyet göstermelidir?",
+    "A": "Sadece eğitim alanında",
+    "B": "Sigara içme konusunda",
+    "C": "Diğer hükümlülere saygı ve dürüst davranma",
+    "D": "Çalışma düzeni",
+    "Answer": "Diğer hükümlülere saygı ve dürüst davranma",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

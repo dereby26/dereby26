@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hükümlünün avukatla görüşmesi hangi durumda altı ay süreyle yasaklanabilir?",
+    "A": "Belgeler savunmaya ilişkin değilse",
+    "B": "Görüşme kurallarını ihlal ederse",
+    "C": "Avukatla görüşmeyi kendisi istemezse",
+    "D": "Avukat değişikliği talep ederse",
+    "Answer": "Görüşme kurallarını ihlal ederse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, yabancı ülkelerde haklarında soruşturma bulunan hükümlüler hangi şartla yabancı uyruklu avukatları ile görüşebilirler?",
+    "A": "Kurum müdürünün onayıyla",
+    "B": "Sadece tercüman eşliğinde",
+    "C": "Vekaletname sunarak",
+    "D": "Türk avukat ile",
+    "Answer": "Vekaletname sunarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Avrupa İnsan Hakları Mahkemesine başvuracak hükümlüler, hangi şartla avukatları ile görüşebilir?",
+    "A": "Görüşme kaydedilirse",
+    "B": "İnfaz görevlisinin onayı varsa",
+    "C": "Tercümelerin kurum amirine ibraz edilmesi koşuluyla",
+    "D": "Avukatların noter onayı varsa",
+    "Answer": "Avukatların noter onayı varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kültür ve sanat programları kim tarafından belirlenen esaslara göre düzenlenir?",
+    "A": "Cumhuriyet başsavcılığı",
+    "B": "Bakanlık",
+    "C": "Cezaevi yönetimi",
+    "D": "Hükümlüler komitesi",
+    "Answer": "Cezaevi yönetimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler, kültür ve sanat programlarına hangi amaçla katılabilir?",
+    "A": "Eğitim amacıyla",
+    "B": "Psikolojik destek almak için",
+    "C": "Sosyal ilişkiler kurmak amacıyla",
+    "D": "Bilgilerini arttırmak ve ifade yeteneklerini geliştirmek amacıyla",
+    "Answer": "Bilgilerini arttırmak ve ifade yeteneklerini geliştirmek amacıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kütüphane ve kitaplıklardan yararlanma hakkı hangi hükümlülere verilir?",
+    "A": "Tüm hükümlüler",
+    "B": "Yalnızca eğitim gören hükümlüler",
+    "C": "Sadece yabancı uyruklular",
+    "D": "Çalışan hükümlüler",
+    "Answer": "Tüm hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, genel iyileştirme programı uygulanmayan hükümlüler hangi olanaklardan yararlanabilir?",
+    "A": "Yalnızca kültür etkinlikleri",
+    "B": "Her zaman kütüphane ve kurslara katılabilir",
+    "C": "Psiko-sosyal yardım",
+    "D": "Eğitim programları",
+    "Answer": "Psiko-sosyal yardım",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi tür yayınlardan yararlanmak, Bakanlıkça yetkilendirilmiştir?",
+    "A": "Sadece Türkçe gazeteler",
+    "B": "Yabancı dilde yayımlanan gazete ve dergiler",
+    "C": "Çocuk kitapları",
+    "D": "Sadece akademik dergiler",
+    "Answer": "Yabancı dilde yayımlanan gazete ve dergiler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, yabancı dilde yayımlanmış yayınların cezaevine kabulü konusunda hangi kurum yetkilidir?",
+    "A": "Cezaevi müdürü",
+    "B": "İnfaz hâkimi",
+    "C": "Bakanlık",
+    "D": "Hükümlülerin talepleri doğrultusunda",
+    "Answer": "Bakanlık",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi tür etkinlikler hükümlülerin ifade özgürlüğünü geliştirir?",
+    "A": "Sadece spor etkinlikleri",
+    "B": "Kültür ve sanat etkinlikleri",
+    "C": "Günlük sosyal etkinlikler",
+    "D": "Sadece dini faaliyetler",
+    "Answer": "Kültür ve sanat etkinlikleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi koşulda hükümlülerin ifade özgürlüğü kapsamında yayın yapmaları mümkündür?",
+    "A": "İstediği her tür yayını yapabilirler",
+    "B": "Sadece resmi izni varsa",
+    "C": "Psikolojik desteğe ihtiyacı olanlar",
+    "D": "Cezaevi kurallarına uygun olması koşuluyla",
+    "Answer": "Cezaevi kurallarına uygun olması koşuluyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumlarda düzenlenen kurslar kimlerin önerisi ile belirlenir?",
+    "A": "Cumhuriyet başsavcısının",
+    "B": "Psikologların",
+    "C": "Uzmanların önerileri ve hükümlünün istekleri doğrultusunda",
+    "D": "Hükümlülerin ailelerinin önerisiyle",
+    "Answer": "Uzmanların önerileri ve hükümlünün istekleri doğrultusunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kursların süresi, saati ve koşulları hangi belgede belirtilir?",
+    "A": "Hükümlü kimlik kartında",
+    "B": "Kurum iç yönergesinde",
+    "C": "Hükümlü sağlık raporunda",
+    "D": "İnfaz defterinde",
+    "Answer": "Kurum iç yönergesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kurslara katılımı hangi zamanlarda sağlanır?",
+    "A": "Çalışma saatlerinde",
+    "B": "Haftalık tatil günlerinde",
+    "C": "Çalışma saatleri dışında, düzenli bir şekilde",
+    "D": "İstediği zaman",
+    "Answer": "Çalışma saatleri dışında, düzenli bir şekilde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, yabancı uyruklu avukatlar hangi şartla hükümlüyle görüşebilir?",
+    "A": "Hükümlünün isteği doğrultusunda",
+    "B": "Türkiye barolarına kayıtlı bir avukat ile",
+    "C": "Belge göstermeden",
+    "D": "Başsavcılıktan izin alarak",
+    "Answer": "Türkiye barolarına kayıtlı bir avukat ile",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumda görüşmelerin gün ve saatleri sınırlandırılabilir?",
+    "A": "Avukatın talebi varsa",
+    "B": "Savunmaya ilişkin belge olmadığı durumlarda",
+    "C": "Güvenlik riski tespit edilirse",
+    "D": "Yalnızca tatil günlerinde",
+    "Answer": "Güvenlik riski tespit edilirse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü ile avukat arasındaki görüşme hangi şekilde yapılır?",
+    "A": "Konuşmaların duyulabileceği şekilde",
+    "B": "Güvenlik nedeniyle görülebilecek ancak duyulamayacak şekilde",
+    "C": "Cezaevi müdürünün gözetiminde",
+    "D": "Kamuya açık bir alanda",
+    "Answer": "Güvenlik nedeniyle görülebilecek ancak duyulamayacak şekilde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumda hükümlünün avukatıyla yaptığı görüşme teknik cihazla kaydedilebilir?",
+    "A": "Hükümlü kabul ederse",
+    "B": "Cezaevi görevlileri uygun görürse",
+    "C": "Yalnızca noter onayı varsa",
+    "D": "Toplum güvenliği tehlikedeyse ve infaz hâkimi kararı varsa",
+    "Answer": "Toplum güvenliği tehlikedeyse ve infaz hâkimi kararı varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü hangi koşulda noterle görüşebilir?",
+    "A": "Cezaevi müdüründen izin alarak",
+    "B": "Meslek kimliklerinin ibrazı ile",
+    "C": "Sadece avukat aracılığıyla",
+    "D": "Cumhuriyet başsavcısının onayıyla",
+    "Answer": "Sadece avukat aracılığıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi koşullarda avukat ve noterle görüşebilir?",
+    "A": "Tatil günlerinde, mesai saatleri dışında",
+    "B": "Meslek kimliği ibraz edildiğinde ve tatil günleri dışında",
+    "C": "Cezaevi müdürünün izniyle, tatil günlerinde",
+    "D": "Cumhuriyet savcısının kararı ile",
+    "Answer": "Meslek kimliği ibraz edildiğinde ve tatil günleri dışında",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

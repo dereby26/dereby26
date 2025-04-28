@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, haftalık gündüz denetimleri kim tarafından yapılır?",
+    "A": "Müdür",
+    "B": "İlçe Milli Eğitim Müdürü",
+    "C": "Başsavcı",
+    "D": "Eğitim Koordinatörü",
+    "Answer": "Müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum personelinin görevlerini yerine getirip getirmediğini kim izler ve denetler?",
+    "A": "Eğitim koordinatörü",
+    "B": "Müdür",
+    "C": "İşyurdu müdürü",
+    "D": "Başsavcı",
+    "Answer": "Müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kamu kurum ve kuruluşlarına istatistik bilgi ve belgeleri hazırlamak ve sunmakla kim yükümlüdür?",
+    "A": "Müdür",
+    "B": "İşyurdu Müdürü",
+    "C": "HEM Müdürü",
+    "D": "İlçe Milli Eğitim Müdürü",
+    "Answer": "Müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, denetleme defterine kaydedilecek bilgiler arasında hangisi bulunur?",
+    "A": "Gelir-gider tablosu",
+    "B": "Eksiklikler ve denetim sonuçları",
+    "C": "Sağlık durumu raporları",
+    "D": "Çalışan izinleri",
+    "Answer": "Eksiklikler ve denetim sonuçları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik'e göre, kurum müdürünün izin, görev veya rapor dışında herhangi bir nedenle görevinden ayrılması hâlinde, aşağıdakilerden hangisi kurum müdürlüğüne vekâlet edecek kişiyi, Cumhuriyet başsavcısının görüşü alınarak belirler?",
+    "A": "Kurum Müdürü",
+    "B": "İdare ve Gözlem Kurulu",
+    "C": "İnfaz Hâkimi",
+    "D": "Bakanlıkça",
+    "Answer": "Bakanlıkça",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum müdürünün izin, görev ve rapor dışında herhangi bir sebeple görevinden ayrılması hâlinde, aşağıdakilerden hangisinin görüşü alınarak, kimin tarafından kurum müdürlüğüne vekâlet edecek kişi belirlenir?",
+    "A": "Cumhuriyet Başsavcısı",
+    "B": "Cezaevi Müdürü",
+    "C": "İnfaz Hâkimi",
+    "D": "İdare Memuru",
+    "Answer": "Cumhuriyet Başsavcısı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ceza infaz kurumundaki ikinci müdürlerin görevleri ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "İkinci müdür, müdürün yardımcısı olup müdür tarafından kendisine verilen işleri yürütür ve müdürün yokluğunda kendisine vekâlet eder. Birden fazla ikinci müdürün bulunması hâlinde, kimin vekâlet edeceğine kurum müdürü karar verir. Kurum müdürünün izin, görev ve rapor dışında herhangi bir sebeple görevinden ayrılması hâlinde kurum müdürlüğüne kimin vekâlet edeceği, Cumhuriyet başsavcısının görüşü alınarak Bakanlıkça belirlenir.",
+    "B": "İkinci müdürler arasındaki iş bölümü kurum müdürü tarafından yapılır ve kendilerine yazılı olarak tebliğ edilir. İkinci müdürler, iş bölümüne göre kendilerine tevdi edilen iş ve işlemlerden sorumludur.",
+    "C": "Nöbet veya vardiya sırasında görevli ikinci müdür; kurum müdürü veya vekâlet eden diğer ikinci müdürün yokluğunda veya acil ve zorunlu hâllerde, kurum müdürünün yetkilerini kullanır.",
+    "D": "Kurum müdürünün yokluğunda ikinci müdürlerden herhangi biri doğrudan vekâlet görevini üstlenir ve Bakanlık onayı aranmaz.",
+    "Answer": "Kurum müdürünün yokluğunda ikinci müdürlerden herhangi biri doğrudan vekâlet görevini üstlenir ve Bakanlık onayı aranmaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdakilerden hangisi yönetim servisinde görev yapanlar arasında yer alır?",
+    "A": "Psikolog ve Rehberlik Uzmanı",
+    "B": "İnfaz Hâkimi ve Cezaevi Müdürü",
+    "C": "İdare Memuru ve Yazı İşleri Personeli",
+    "D": "Eğitim Görevlisi ve Sağlık Personeli",
+    "Answer": "İdare Memuru ve Yazı İşleri Personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, yönetim servisi ve çalışanlarının görevleri ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Yönetim servisi, kurumun personel işlemleriyle hükümlü ve tutuklular hakkındaki her türlü idari ve mali hizmetlerin yürütüldüğü servistir. Yönetim servisinde; idare memuru, ambar memuru, bilgisayar işletmeni ve cezaevi kâtibi görev yapar.",
+    "B": "İdare memuru, kurum müdürü ve ikinci müdürlerden sonra gelen yönetici personeldir ve amirlerinin talimatı doğrultusunda sayman ve ambar memurunun görevleri dışında kalan bütün idari işleri yapar.",
+    "C": "Ambar memuru, ambara gelen malzemeyi teslim alır, giriş çıkış kayıtlarını tutar, muhafaza ve kontrolünü sağlar.",
+    "D": "Cezaevi kâtibi ve bilgisayar işletmeni, kurumun UYAP ağının güvenliğini sağlamakla yükümlüdür ve müdürün verdiği diğer işleri yaparlar.",
+    "Answer": "Cezaevi kâtibi ve bilgisayar işletmeni, kurumun UYAP ağının güvenliğini sağlamakla yükümlüdür ve müdürün verdiği diğer işleri yaparlar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Güvenlik ve gözetim servisi; kurumun güvenliği, düzeni ve disiplininden sorumludur. Güvenlik ve gözetim servisinde; infaz ve koruma başmemurları ile infaz ve koruma memurları görev yapar.",
+    "B": "Cumhuriyet Başsavcılığı tarafından seçilen bir infaz ve koruma başmemuru 'sorumlu infaz ve koruma başmemuru' olarak görev yapar.",
+    "C": "İnfaz ve koruma başmemuru, kurumdaki güvenlik, düzen ve disiplinin sağlanması için infaz ve koruma memurlarının sevk ve idaresinden sorumlu olup, bu hizmetlerin yerine getirilmesi sırasında kurum müdürü, ikinci müdür veya bu amirlerin bulunmadığı kurumlarda idare memurunun vermiş olduğu emirlerin yerine getirilmesini ve uygulanmasını sağlar. Bu görevlerini yerine getirirken, sorumlu infaz ve koruma başmemurunun talimatına göre hareket ederler.",
+    "D": "Sorumlu infaz ve koruma başmemuru, kurumun güvenlik ve gözetiminden, bu serviste görev yapmakta olan, infaz ve koruma başmemurları ile infaz ve koruma memurlarının sevk ve idaresi ile organizasyonundan sorumludur. Güvenlik ve gözetim servisinin nöbet cetvellerini düzenler ve bunları kurum müdürüne onaylatır. Müdürün bulunmaması durumunda ikinci müdür ya da idare memuru onay makamıdır.",
+    "Answer": "Cumhuriyet Başsavcılığı tarafından seçilen bir infaz ve koruma başmemuru 'sorumlu infaz ve koruma başmemuru' olarak görev yapar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, infaz ve koruma memurlarının görevleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "İnfaz ve koruma memuru, kurumun güvenlik, düzen ve disiplininin sağlanması, hükümlülerin kurum içindeki hareketlerinin takip ve kontrolü ile gözetimi ve kurumun temiz tutulması ile hükümlülerin iç yönergelere uygun surette hareket etmelerini sağlamakla görevlidir. Müdür ve ikinci müdür veya bunların bulunmadığı yerlerde idare memuru ile infaz ve koruma başmemuru tarafından verilen görevleri yapar.",
+    "B": "İnfaz ve koruma memuru, yalnızca kurumun temiz tutulmasından ve hükümlülerin iç yönergelere uygun hareket etmesinden sorumludur.",
+    "C": "İnfaz ve koruma memuru, kurumun güvenlik ve disiplinine dair görevleri yerine getirirken yalnızca kurum müdürüne bağlıdır ve diğer amirlerden talimat almaz.",
+    "D": "Hükümlülerin kurum içindeki hareketlerinin kontrolü ve gözetimi, infaz ve koruma memurlarının görev tanımında yer almaz.",
+    "Answer": "İnfaz ve koruma memuru, kurumun güvenlik, düzen ve disiplininin sağlanması, hükümlülerin kurum içindeki hareketlerinin takip ve kontrolü ile gözetimi ve kurumun temiz tutulması ile hükümlülerin iç yönergelere uygun surette hareket etmelerini sağlamakla görevlidir. Müdür ve ikinci müdür veya bunların bulunmadığı yerlerde idare memuru ile infaz ve koruma başmemuru tarafından verilen görevleri yapar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisinde görev yapan personelin sayımlarla ilgili görev ve sorumlulukları hakkında aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Müdürü bulunan ve vardiya sistemi uygulanan kurumlarda sabah ve akşam sayımları, nöbetçi ikinci müdürün başkanlığında, sorumlu infaz ve koruma başmemuru, vardiya infaz ve koruma başmemurları ile infaz ve koruma memurları tarafından yapılır. Gece sayımları ise nöbetçi ikinci müdürün başkanlığında, bulunmaması hâlinde bu konuda görevlendirilen infaz koruma başmemuru başkanlığında gerçekleştirilir.",
+    "B": "Müdürü bulunmayan kurumlarda sabah, akşam ve gece sayımları, sorumlu infaz ve koruma başmemuru veya görevlendirilen infaz koruma başmemuru başkanlığında, vardiya infaz ve koruma başmemurları ve nöbetçi infaz ve koruma memurları tarafından yapılır.",
+    "C": "Sayım sırasında mevcut sayısının tam olup olmadığı kontrol edilir ve sayım defteri sayıma katılan görevliler tarafından isim yazılarak imzalanır.",
+    "D": "Elektronik ortamda sayım gerçekleştirilen kurumlarda, güvenlik ve gözetim servisi personelinin görev ve sorumlulukları, ceza ve infaz kurumuna bağlı olarak yerine getirilir.",
+    "Answer": "Elektronik ortamda sayım gerçekleştirilen kurumlarda, güvenlik ve gözetim servisi personelinin görev ve sorumlulukları, ceza ve infaz kurumuna bağlı olarak yerine getirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi kapsamında infaz ve koruma başmemurları ile infaz ve koruma memurlarının nöbet görevleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "İnfaz ve koruma başmemurları ile infaz ve koruma memurları, vardiya hizmetleri sırasında ya da vardiya dışında görevlendirilmeleri durumunda, kendilerinin sorumluluğuna verilen nöbet yerlerinde görevlerini yerine getirirler. Belirlenen nöbet yerleri ve burada görev yapacak infaz ve koruma başmemurları ile infaz ve koruma memurlarının isimleri, hazırlanan vardiya çizelgeleri ve nöbet cetvellerinde gösterilir.",
+    "B": "Nöbet yerleri ve burada görev yapacak personelin isimleri belirlenirken herhangi bir çizelge veya cetvel hazırlamak zorunlu değildir.",
+    "C": "Vardiya dışında nöbet yerlerinde görev yapması gereken infaz ve koruma memurları için herhangi bir çizelgeye ihtiyaç duyulmaz.",
+    "D": "Nöbet yerleri yalnızca vardiya hizmetleri sırasında görev yapan kurum ikinci müdürleri için belirlenir.",
+    "Answer": "İnfaz ve koruma başmemurları ile infaz ve koruma memurları, vardiya hizmetleri sırasında ya da vardiya dışında görevlendirilmeleri durumunda, kendilerinin sorumluluğuna verilen nöbet yerlerinde görevlerini yerine getirirler. Belirlenen nöbet yerleri ve burada görev yapacak infaz ve koruma başmemurları ile infaz ve koruma memurlarının isimleri, hazırlanan vardiya çizelgeleri ve nöbet cetvellerinde gösterilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi görevlilerinin çalışma düzeni ve görevleriyle ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Güvenlik ve gözetim servisi görevlileri, topluma kazandırma çalışmalarına katkı sağlar ve buna ilişkin programlarda öğreticilik yapabilecek ya da bilgi, meslek ya da sanat nedeniyle o hizmete katkıda bulunabilecek olanlar, vardiyada ya da vardiya dışında iyileştirme çalışmalarında ve kurslarda görevlendirilebilir.",
+    "B": "İnfaz ve koruma başmemurları ile infaz ve koruma memurlarının, zorunlu hâller dışında, günde sekiz saat çalışmaları ve haftada iki gün tatil yapmaları esastır.",
+    "C": "Çalışma saatleri ve tatil günleri, hazırlanan vardiya çizelgesinde ayrıca gösterilmez.",
+    "D": "Personel yetersizliği nedeniyle dörtlü vardiya sisteminin uygulanmadığı kurumlarda, kurum amirinin önerisiyle, mahallindeki Cumhuriyet başsavcılığı tarafından uygulanacak vardiya sistemine uygun çalışma saatleri belirlenir.",
+    "Answer": "Çalışma saatleri ve tatil günleri, hazırlanan vardiya çizelgesinde ayrıca gösterilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisi görevlilerinin zor kullanma yetkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "İnfaz ve koruma başmemuru ile infaz ve koruma memuru, kurumun güvenliğini bozan firara teşebbüs, isyan, rehin alma, saldırı gibi olaylar ile 5237 sayılı Kanunun 25 inci maddesindeki meşru savunma ve zorunluluk hâli ortaya çıktığında, kurum en üst amirinin izni ile zor kullanabilir. Acil hâllerde tehlikenin ortadan kaldırılması amacıyla izin alınmaksızın da zor kullanılabilir ve durum derhal en üst amire iletilir.",
+    "B": "Zor kullanma yetkisi, yalnızca kurum müdürleri ve üst düzey yöneticilere tanınmıştır.",
+    "C": "Acil hâllerde dahi zor kullanmadan önce kurum en üst amirinden yazılı izin alınması zorunludur.",
+    "D": "Zor kullanan personel, tehlikenin ortadan kaldırılmasında her türlü kuvveti sınırsız şekilde kullanabilir.",
+    "Answer": "İnfaz ve koruma başmemuru ile infaz ve koruma memuru, kurumun güvenliğini bozan firara teşebbüs, isyan, rehin alma, saldırı gibi olaylar ile 5237 sayılı Kanunun 25 inci maddesindeki meşru savunma ve zorunluluk hâli ortaya çıktığında, kurum en üst amirinin izni ile zor kullanabilir. Acil hâllerde tehlikenin ortadan kaldırılması amacıyla izin alınmaksızın da zor kullanılabilir ve durum derhal en üst amire iletilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumun güvenliği, düzeni ve disiplininden sorumlu olan servis hangisidir?",
+    "A": "İdari İşler Servisi",
+    "B": "Eğitim Servisi",
+    "C": "Güvenlik ve Gözetim Servisi",
+    "D": "Sağlık Servisi",
+    "Answer": "Güvenlik ve Gözetim Servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisinde görev alan unvanlardan biri aşağıdakilerden hangisidir?",
+    "A": "Eğitim uzmanı",
+    "B": "İnfaz ve Koruma Başmemuru",
+    "C": "Mali Müşavir",
+    "D": "Psikolojik Danışman",
+    "Answer": "İnfaz ve Koruma Başmemuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, güvenlik ve gözetim servisinin başında görev yapan kişi kimdir?",
+    "A": "Müdür",
+    "B": "İkinci Müdür",
+    "C": "Eğitim Koordinatörü",
+    "D": "Sorumlu İnfaz ve Koruma Başmemuru",
+    "Answer": "Sorumlu İnfaz ve Koruma Başmemuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, nöbet cetvelleri kim tarafından onaylanır?",
+    "A": "İdare Memuru",
+    "B": "Başsavcı",
+    "C": "Müdür",
+    "D": "Güvenlik Servisi Müdürü",
+    "Answer": "Müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, müdürün bulunmadığı durumda nöbet cetvellerini onaylayan kişi kimdir?",
+    "A": "Başsavcı",
+    "B": "İkinci Müdür veya İdare Memuru",
+    "C": "Güvenlik Koordinatörü",
+    "D": "Eğitim Sorumlusu",
+    "Answer": "İkinci Müdür veya İdare Memuru",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin gözlem ve sınıflandırılmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin gözlem ve sınıflandırılması, mahkeme tarafından belirlenen usullere göre yapılır.",
+    "B": "Hükümlülerin gözlem ve sınıflandırılması, 5275 sayılı Kanunun 23 üncü maddesinde belirtilen esaslara göre gerçekleştirilir.",
+    "C": "Gözlem ve sınıflandırma işlemleri, yalnızca hükümlünün talebi üzerine uygulanır.",
+    "D": "Hükümlülerin gözlem ve sınıflandırılması, ceza infaz kurumu personelinin inisiyatifine bırakılmıştır.",
+    "Answer": "Hükümlülerin gözlem ve sınıflandırılması, 5275 sayılı Kanunun 23 üncü maddesinde belirtilen esaslara göre gerçekleştirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin gruplandırılmasına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlüler, 5275 sayılı Kanunun 24 üncü maddesinde belirtilen esaslara göre gruplandırılır.",
+    "B": "Hükümlülerin gruplandırılmasına ilişkin usul ve esaslar, Bakanlıkça çıkarılacak yönetmelikte düzenlenir.",
+    "C": "Hükümlülerin gruplandırılması, herhangi bir kanuni düzenlemeye dayanmaksızın kurum personelinin inisiyatifine bırakılmıştır.",
+    "D": "Gruplandırma işlemleri, belirlenen esaslar çerçevesinde yapılır ve yönetmelik esas alınır.",
+    "Answer": "Hükümlülerin gruplandırılması, herhangi bir kanuni düzenlemeye dayanmaksızın kurum personelinin inisiyatifine bırakılmıştır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tehlikeli hükümlülere ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Tehlikeli hükümlüler, yalnızca işledikleri suçun niteliklerine göre belirlenir; kurum içindeki davranışları dikkate alınmaz.",
+    "B": "Toplum için ciddi bir tehlike oluşturan veya kurumun güvenlik ve düzenini ihlâl edebileceği konusunda delil veya ciddi emareler bulunan hükümlüler tehlikeli hükümlü sayılır.",
+    "C": "Tehlikeli hükümlü kategorisi yalnızca mahkeme kararıyla belirlenir ve kurum personelinin gözlemleri dikkate alınmaz.",
+    "D": "Tehlikeli hükümlüler, kurumun düzenini ihlâl etmiş olsalar bile toplum için tehlike oluşturduklarına dair kanıt gerekmeksizin bu kategoriye alınır.",
+    "Answer": "Toplum için ciddi bir tehlike oluşturan veya kurumun güvenlik ve düzenini ihlâl edebileceği konusunda delil veya ciddi emareler bulunan hükümlüler tehlikeli hükümlü sayılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kuruma yerleştirilmesi hangi kanunda belirtilen gruplandırmalara uygun yapılır?",
+    "A": "5275 sayılı Kanunun 24. maddesi",
+    "B": "5271 sayılı Kanun",
+    "C": "5237 sayılı Kanun",
+    "D": "5395 sayılı Kanun",
+    "Answer": "5275 sayılı Kanunun 24. maddesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kadın ve erkek hükümlüler aynı kurumda bulundurulmak zorunda kalırsa hangi koşul sağlanmalıdır?",
+    "A": "Kadın ve erkekler aynı odada barındırılmalıdır",
+    "B": "Kadın ve erkek bölümleri tamamen ayrılmalıdır",
+    "C": "Kadın ve erkekler birlikte rehabilitasyon görmelidir",
+    "D": "Çocuk hükümlülerle birlikte bulundurulmalıdır",
+    "Answer": "Kadın ve erkek bölümleri tamamen ayrılmalıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çocuk hükümlüler öncelikle hangi tür kurumlardan faydalanır?",
+    "A": "Çocuk ve gençlere ait kurumlar",
+    "B": "Kadın ve erkeklerden ayrılmış bölümler",
+    "C": "Psiko-sosyal yardım birimleri",
+    "D": "Genel infaz kurumları",
+    "Answer": "Çocuk ve gençlere ait kurumlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, genel kolluk hizmetlerinde çalışmış hükümlüler hangi koşulda barındırılır?",
+    "A": "Diğer hükümlülerle aynı alanda",
+    "B": "Ayrı bir bölümde",
+    "C": "Çocuk hükümlülerle birlikte",
+    "D": "Kadın hükümlülerle aynı odada",
+    "Answer": "Ayrı bir bölümde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi hükümlüler diğerlerinden ayrı odalarda barındırılmalıdır?",
+    "A": "Çocuk hükümlüler",
+    "B": "Cinsel yönelimi farklı olan hükümlüler",
+    "C": "Ağırlaştırılmış müebbet alan hükümlüler",
+    "D": "Kadın hükümlüler",
+    "Answer": "Ağırlaştırılmış müebbet alan hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi plana göre odalarına yerleştirilir?",
+    "A": "Cezaevi müdürünün hazırladığı",
+    "B": "Psikologların önerdiği",
+    "C": "Cumhuriyet savcısının kararına göre",
+    "D": "Koridorda asılan resimli yatma planına göre",
+    "Answer": "Koridorda asılan resimli yatma planına göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü annelerin yanında kalan çocuklar için hangi yaş sınırı uygulanır?",
+    "A": "2 yaş",
+    "B": "3 yaş",
+    "C": "5 yaş",
+    "D": "6 yaş",
+    "Answer": "3 yaş",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, üç yaşını doldurmuş bir çocuk için hangi işlem yapılır?",
+    "A": "Cezaevinde kalmaya devam eder",
+    "B": "Çocuk ve aile hizmetlerine bilgi verilir",
+    "C": "Annesiyle aynı odada kalır",
+    "D": "Serbest bırakılır",
+    "Answer": "Annesiyle aynı odada kalır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, altı yaşını doldurmuş bir çocuk için ne yapılmalıdır?",
+    "A": "Annesinin yanında tutulur",
+    "B": "Annesinden tamamen ayrılır",
+    "C": "Aile ve Sosyal Hizmetler İl Müdürlüğüne bildirilir",
+    "D": "Psiko-sosyal yardım alır",
+    "Answer": "Annesinden tamamen ayrılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün kişisel eşyası kime teslim edilir?",
+    "A": "Psiko-sosyal yardım memuruna",
+    "B": "Öğretmene",
+    "C": "Ambar memuruna",
+    "D": "Kurum müdürüne",
+    "Answer": "Ambar memuruna",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kişisel eşyaların kaydı nasıl saklanır?",
+    "A": "Sadece elektronik ortamda",
+    "B": "Eşya paketi üzerine iliştirilerek ve dosyada saklanarak",
+    "C": "İnfaz ve gözetim defterinde",
+    "D": "Hükümlünün kişisel dosyasında",
+    "Answer": "Eşya paketi üzerine iliştirilerek ve dosyada saklanarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün kıymetli eşyaları nasıl saklanır?",
+    "A": "Hükümlüye verilir",
+    "B": "Kasa içinde saklanır",
+    "C": "Kasa yerine kapalı bir torbada",
+    "D": "Ambar memuruna emanet edilir",
+    "Answer": "Kasa yerine kapalı bir torbada",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin paraları nereye yatırılır?",
+    "A": "Kurumda özel kasaya",
+    "B": "Bakanlıkça belirlenen bir banka hesabına",
+    "C": "Hükümlünün banka hesabına",
+    "D": "Cumhuriyet savcılığına teslim edilir",
+    "Answer": "Bakanlıkça belirlenen bir banka hesabına",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün gözlem ve sınıflandırılması hangi kanuna göre yapılır?",
+    "A": "5237 sayılı Kanun",
+    "B": "5271 sayılı Kanun",
+    "C": "5395 sayılı Kanun",
+    "D": "5275 sayılı Kanunun 23. Maddesi",
+    "Answer": "5275 sayılı Kanunun 23. Maddesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin gruplandırılması hangi maddede belirtilen esaslara göre yapılır?",
+    "A": "23. madde",
+    "B": "25. madde",
+    "C": "24. madde",
+    "D": "65. Madde",
+    "Answer": "24. madde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin gruplandırılmasındaki esaslar nerede gösterilir?",
+    "A": "Bakanlıkça çıkarılacak yönetmelikte",
+    "B": "Kurum iç yönergesinde",
+    "C": "Hükümlü kılavuzunda",
+    "D": "Mahkeme ilamında",
+    "Answer": "Hükümlü kılavuzunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tehlikeli hükümlü kimlerdir?",
+    "A": "Çocuk hükümlüler",
+    "B": "Toplum için ciddi tehlike oluşturanlar",
+    "C": "Yabancı uyruklu hükümlüler",
+    "D": "Kadın hükümlüler",
+    "Answer": "Toplum için ciddi tehlike oluşturanlar",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

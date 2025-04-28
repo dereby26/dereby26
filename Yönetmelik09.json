@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu müdürü hangi hizmetlerin yürütülmesinden sorumludur?",
+    "A": "Eğitim faaliyetleri",
+    "B": "Piyasa koşullarına uygun üretim yapılması",
+    "C": "Sağlık hizmetleri",
+    "D": "Güvenlik hizmetleri",
+    "Answer": "Piyasa koşullarına uygun üretim yapılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu servisinde görev yapan işçiler hangi tür işlerde çalıştırılabilir?",
+    "A": "Sadece tam zamanlı",
+    "B": "Sadece süreksiz işlerde",
+    "C": "Sadece ofis işlerinde",
+    "D": "Kısmi, tam süreli veya süreksiz işlerde",
+    "Answer": "Kısmi, tam süreli veya süreksiz işlerde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu faaliyetlerinde çalışan işçi statüsündeki personelin ücretleri hangi bütçeden karşılanır?",
+    "A": "Devlet bütçesi",
+    "B": "İşyurdu bütçesi",
+    "C": "Sosyal güvenlik bütçesi",
+    "D": "Eğitim bütçesi",
+    "Answer": "İşyurdu bütçesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, atölye şefleri, hükümlülerin salıverilmesinden sonra ne yapmalarına yardımcı olmalıdır?",
+    "A": "Meslek ve sanatlarını sürdürebilmelerine",
+    "B": "Eğitimlerine devam etmelerine",
+    "C": "Sağlık hizmetlerinden yararlanmalarına",
+    "D": "Kütüphane hizmetlerinden faydalanmalarına",
+    "Answer": "Meslek ve sanatlarını sürdürebilmelerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu faaliyetlerinin piyasa şartlarına uygun olarak yapılması kimin sorumluluğundadır?",
+    "A": "Satınalma memuru",
+    "B": "İşyurdu müdürü",
+    "C": "Güvenlik görevlisi",
+    "D": "Eğitim uzmanı",
+    "Answer": "İşyurdu müdürü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, vezne işlemlerinin kayıtlarla uyumlu yürütülmesinden sorumlu kişi kimdir?",
+    "A": "Ambar memuru",
+    "B": "Satınalma memuru",
+    "C": "Sayman",
+    "D": "Veznedar",
+    "Answer": "Veznedar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu faaliyetlerinde araştırma ve geliştirme işlerinden sorumlu görevliler kimlerdir?",
+    "A": "Satınalma memurları",
+    "B": "Bütçe ve pazarlama görevlileri",
+    "C": "Eğitim uzmanları",
+    "D": "Güvenlik personeli",
+    "Answer": "Eğitim uzmanları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu faaliyetleri çerçevesinde hükümlülerin hangi yetenekleri geliştirilir?",
+    "A": "Sosyal uyum becerileri",
+    "B": "Meslek ve sanat yetenekleri",
+    "C": "Sağlık ve hijyen bilgileri",
+    "D": "Eğitim materyalleri kullanımı",
+    "Answer": "Meslek ve sanat yetenekleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tahsildarın tahsilat işlemlerini bordroya ekleyerek kime teslim etmesi gerekmektedir?",
+    "A": "Saymana",
+    "B": "Veznedara",
+    "C": "Ambar memuruna",
+    "D": "Satınalma memuruna",
+    "Answer": "Saymana",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Yardımcı hizmetler servisi yalnızca kurumun yemek yapımı ve temizlik işlerini yürütür.",
+    "B": "Yardımcı hizmetler servisi personeli arasında yalnızca hizmetli ve aşçılar yer alır.",
+    "C": "Yardımcı hizmetler servisi, kurumun santral hizmetleri, temizlik, ısınma, ulaşım, yemek yapımı ve evrak taşıma gibi birçok görevi yerine getirir.",
+    "D": "Yardımcı hizmetler servisi personeli, amirlerin verdiği görevler dışında çalıştıkları iş kolunun gereklerini yerine getirmekle yükümlü değildir.",
+    "Answer": "Yardımcı hizmetler servisi, kurumun santral hizmetleri, temizlik, ısınma, ulaşım, yemek yapımı ve evrak taşıma gibi birçok görevi yerine getirir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’a göre ceza infaz kurumlarının yardımcı hizmetler servisinde aşağıdaki personellerden hangileri görev yapar?",
+    "A": "İnfaz ve Koruma Memuru ile Eğitim Görevlisi",
+    "B": "Psikolog ve Sosyal Çalışmacı",
+    "C": "Cezaevi Müdürü ve İdare Memuru",
+    "D": "Temizlik Görevlisi, Aşçı, Bakım Onarım Personeli ve Şoför",
+    "Answer": "Temizlik Görevlisi, Aşçı, Bakım Onarım Personeli ve Şoför",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kurumlarda çalışan personel, hükümlülerle kişisel ilişkiler kurabilir ancak bu ilişkiler sınırlı olmalıdır.",
+    "B": "Hükümlülere karşı tarafsız davranmak personel için yalnızca önerilen bir tutumdur.",
+    "C": "Personel, hükümlülerin yeniden topluma kazandırılmasını amaçlayan ilişkiler dışında, hükümlüler ve yakınları ile kişisel ilişki kuramaz.",
+    "D": "Kamu görevlileri mevzuatına tâbi olmayan personel, hükümlülere karşı dürüst ve ciddi davranmakla yükümlü değildir.",
+    "Answer": "Personel, hükümlülerin yeniden topluma kazandırılmasını amaçlayan ilişkiler dışında, hükümlüler ve yakınları ile kişisel ilişki kuramaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Kurum personeli, görevi nedeniyle edindiği bilgileri yalnızca kanunlarla belirtilen hâller dışında açıklayamaz veya yayınlayamaz.",
+    "B": "Kurum personelinin hükümlü veya yakınlarından para, hediye ya da benzeri şeyleri almaları doğum günleri dışında yasaktır.",
+    "C": "Kurum personeli, bütün hükümlü ve yakınlarına dil, din, mezhep, ırk, renk, cinsiyet ve düşünce ayrımı gözetmeksizin eşit işlem yapmak zorundadır.",
+    "D": "Kurum personeli, kamu görevlileri için yasaklanmış tutum ve davranışlarda bulunamaz.",
+    "Answer": "Kurum personelinin hükümlü veya yakınlarından para, hediye ya da benzeri şeyleri almaları doğum günleri dışında yasaktır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, personel hakkında uygulanacak disiplin işlemleri hükmüne göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kurum personeline uygulanacak disiplin işlemleri yalnızca kurum içindeki düzenlemelere göre belirlenir.",
+    "B": "Kurum personeli hakkında disiplin işlemleri 657 sayılı Devlet Memurları Kanunu'na göre uygulanır.",
+    "C": "Adalet Bakanlığı Disiplin Yönetmeliği, kurum personeli hakkında uygulanacak işlemleri kapsamaz.",
+    "D": "Kurum personeline disiplin işlemleri uygulanırken herhangi bir kanun veya yönetmelik dikkate alınmaz.",
+    "Answer": "Kurum personeli hakkında disiplin işlemleri 657 sayılı Devlet Memurları Kanunu'na göre uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumlarda çalışan personel hangi mevzuata uygun hareket eder?",
+    "A": "Eğitim Bakanlığı Mevzuatına",
+    "B": "Sağlık Bakanlığı Talimatlarına",
+    "C": "Kamu görevlilerinin tâbi olduğu mevzuata",
+    "D": "Özel sektör kurallarına",
+    "Answer": "Kamu görevlilerinin tâbi olduğu mevzuata",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum personelinin hükümlülerle kurabileceği ilişki türü hangi koşullarla sınırlıdır?",
+    "A": "Meslekî gerekliliklerle sınırlı",
+    "B": "Sosyal ihtiyaçlarla sınırlı",
+    "C": "Eğitim dışı alanlarla sınırlı",
+    "D": "Kişisel ilişkilerle sınırsız",
+    "Answer": "Meslekî gerekliliklerle sınırlı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum personelinin hükümlülerin yakınlarıyla kişisel ilişki kurması ne şekilde değerlendirilir?",
+    "A": "Ödüllendirilir",
+    "B": "Teşvik edilir",
+    "C": "Disiplin suçu olarak kabul edilir",
+    "D": "Zorunlu bir davranış olarak görülür",
+    "Answer": "Disiplin suçu olarak kabul edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum personeli hangi ilkeye göre tüm hükümlü ve yakınlarına işlem yapmak zorundadır?",
+    "A": "Ayrıcalık",
+    "B": "Eşit işlem",
+    "C": "Sosyal destek",
+    "D": "Güvenlik önceliği",
+    "Answer": "Eşit işlem",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum personelinin hükümlülere karşı davranışında hangi unsurlar ön plandadır?",
+    "A": "Mesafeli ve güvensiz",
+    "B": "Sıcak ve samimi",
+    "C": "Kişisel ve yakın",
+    "D": "Ciddi, dürüst ve tarafsız",
+    "Answer": "Ciddi, dürüst ve tarafsız",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum personeli aşağıdakilerden hangisini yapmaktan yasaklanmıştır?",
+    "A": "Hükümlülere eşit davranmak",
+    "B": "Hükümlülerle alım satım işlemleri yapmak",
+    "C": "Görevine sadakat göstermek",
+    "D": "Meslek içi eğitim almak",
+    "Answer": "Hükümlülerle alım satım işlemleri yapmak",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

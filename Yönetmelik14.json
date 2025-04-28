@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum müdürü yoksa kurul toplantısına kim başkanlık eder?",
+    "A": "En kıdemli üye",
+    "B": "Hükümet tabibi",
+    "C": "Kurum amiri",
+    "D": "İkinci müdür",
+    "Answer": "Hükümet tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, müdürü bulunmayan bir kurumda kurul toplantısına katılacak personellerden biri aşağıdakilerden hangisidir?",
+    "A": "Diyetisyen",
+    "B": "Güvenlik görevlisi",
+    "C": "İnfaz ve koruma başmemuru",
+    "D": "Psikolog",
+    "Answer": "İnfaz ve koruma başmemuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aynı unvanda birden fazla personel olması durumunda kurula katılacak kişi nasıl belirlenir?",
+    "A": "Kurul başkanı seçer",
+    "B": "Cumhuriyet savcısı atar",
+    "C": "İkinci müdür belirler",
+    "D": "Kurum müdürü belirler",
+    "Answer": "Kurum müdürü belirler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda alınan kararların yazıldığı defter ne şekilde tutulur?",
+    "A": "Aylık olarak kontrol edilerek",
+    "B": "Üyeler tarafından imzalanarak teftişe hazır tutulur",
+    "C": "Yalnızca başkan tarafından imzalanarak",
+    "D": "Müdür onayı alarak",
+    "Answer": "Üyeler tarafından imzalanarak teftişe hazır tutulur",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda alınan kararların yazıldığı defterin kayıt usulleri nerede belirtilir?",
+    "A": "Eğitim Yönetmeliğinde",
+    "B": "Ceza İnfaz Kanununda",
+    "C": "İl Milli Eğitim Müdürlüğü tarafından",
+    "D": "Bakanlıkça çıkarılacak yönetmelikte",
+    "Answer": "Bakanlıkça çıkarılacak yönetmelikte",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, karar defterinin teftişe hazır bulundurulması hangi amaçla yapılır?",
+    "A": "Eğitim raporlarının incelenmesi",
+    "B": "Mali denetim için",
+    "C": "Kararların denetlenmesi amacıyla",
+    "D": "Güvenlik kontrolü için",
+    "Answer": "Mali denetim için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda görüşülecek konuların belirlenmesinde kim yetkilidir?",
+    "A": "İkinci müdür",
+    "B": "Cumhuriyet Başsavcısı",
+    "C": "Kurum müdürü",
+    "D": "Cumhuriyet savcısı",
+    "Answer": "Kurum müdürü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu yönetim kurulu toplantılarında kimler bulunabilir?",
+    "A": "Psikolog ve sosyal çalışmacılar",
+    "B": "Sayman, ambar memuru, cezaevi kâtibi veya bilgisayar işletmeni",
+    "C": "Kütüphaneci ve öğretmen",
+    "D": "İnfaz ve koruma memurları",
+    "Answer": "Sayman, ambar memuru, cezaevi kâtibi veya bilgisayar işletmeni",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda alınan kararların yazıldığı defterde kimlerin imzası bulunur?",
+    "A": "Sadece başkanın",
+    "B": "Tüm kurul üyelerinin",
+    "C": "İkinci müdürün",
+    "D": "Psikoloğun",
+    "Answer": "Tüm kurul üyelerinin",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda görüşülecek konuların belirlenmesi kimin sorumluluğundadır?",
+    "A": "Cumhuriyet savcısı",
+    "B": "İdare memuru",
+    "C": "Kurum müdürü",
+    "D": "Güvenlik amiri",
+    "Answer": "Kurum müdürü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurul toplantısında oy eşitliği durumunda hangi durumda karar alınır?",
+    "A": "Kurul başkanının oyu yönünde karar verilir",
+    "B": "Ertelenerek yeniden oylama yapılır",
+    "C": "Tüm üyelerin onayı alınır",
+    "D": "En kıdemli üyenin oyu yönünde",
+    "Answer": "Kurul başkanının oyu yönünde karar verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu yönetim kurulu hangi sıklıkla düzenli olarak toplanmak zorundadır?",
+    "A": "Haftada bir",
+    "B": "Yılda iki kez",
+    "C": "Ayda bir",
+    "D": "Her gün",
+    "Answer": "Ayda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurul kararlarının tutulduğu defterin kayıt usulleri kim tarafından belirlenir?",
+    "A": "Cumhuriyet başsavcısı",
+    "B": "Bakanlık",
+    "C": "Kurul başkanı",
+    "D": "Cezaevi tabibi",
+    "Answer": "Bakanlık",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, müdürü bulunmayan bir kurumda kurul oluşturulması için kim başkanlık eder?",
+    "A": "İkinci müdür",
+    "B": "Kurum amiri",
+    "C": "Psikolog",
+    "D": "Eğitim uzmanı",
+    "Answer": "İkinci müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurulların karar defterine alınan kararların teftişe hazır bulundurulma sebebi nedir?",
+    "A": "Eğitim süreçlerinin gözlemlenmesi",
+    "B": "Mali durumun kontrol edilmesi",
+    "C": "Güvenlik açıklarının giderilmesi",
+    "D": "Kurul kararlarının denetlenmesi",
+    "Answer": "Kurul kararlarının denetlenmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurul karar defterinin teftişe hazır hâlde tutulması hangi durumda önemlidir?",
+    "A": "Yeni personel alımlarında",
+    "B": "Bakanlık denetimlerinde",
+    "C": "Hükümlülerin sağlık durumlarında",
+    "D": "Eğitim kayıtlarının düzenlenmesinde",
+    "Answer": "Bakanlık denetimlerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurul toplantılarında kararların alınabilmesi için minimum kaç üyenin katılımı gerekir?",
+    "A": "Tüm üyelerin",
+    "B": "İki üyenin",
+    "C": "Yalnızca başkanın",
+    "D": "Mevcut üyelerin çoğunluğunun",
+    "Answer": "Mevcut üyelerin çoğunluğunun",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurul toplantısına katılacak görevli sayısını belirlemede yetki kimdedir?",
+    "A": "Cumhuriyet savcısı",
+    "B": "Kurul başkanı",
+    "C": "Kurum müdürü",
+    "D": "İkinci müdür",
+    "Answer": "Kurul başkanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurulların toplantısında alınan kararların tutulduğu defterde hangi bilgilere yer verilir?",
+    "A": "Sadece sonuçlar",
+    "B": "Katılmayan üyeler",
+    "C": "Üyelerin görüşleri ve imzalar",
+    "D": "Yalnızca müdürün onayı",
+    "Answer": "Üyelerin görüşleri ve imzalar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda karar alınırken oy çokluğuyla alınan kararlarda eşitlik olması hâlinde ne yapılır?",
+    "A": "Kurul başkanının oyu yönünde karar verilir",
+    "B": "Karar ertelenir",
+    "C": "Tüm üyelerin onayı istenir",
+    "D": "Yeniden oylama yapılır",
+    "Answer": "Karar ertelenir",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

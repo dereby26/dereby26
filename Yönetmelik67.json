@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilme defterine kaydedilen hükümlüler ne sıklıkla kontrol edilmelidir?",
+    "A": "Haftada bir",
+    "B": "Ayda bir",
+    "C": "Her gün",
+    "D": "Yılda bir",
+    "Answer": "Her gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hükümlünün şahsi eşyaları ne yapılır?",
+    "A": "Kendisine iade edilir",
+    "B": "Kurumda saklanır",
+    "C": "Yeni kurumuna gönderilir",
+    "D": "Satışa çıkarılır",
+    "Answer": "Kendisine iade edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün bankada parası varsa ne yapılır?",
+    "A": "Bankada bloke edilir",
+    "B": "Kurum hesabına aktarılır",
+    "C": "Hükümlüye iade edilir",
+    "D": "Devlete gelir kaydedilir",
+    "Answer": "Kurum hesabına aktarılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin salıverilme sırasında aldığı belgelerle ilgili ne yapılır?",
+    "A": "Belgeler kurumda saklanır",
+    "B": "Belgeler yırtılır",
+    "C": "Belgeler başka kuruma gönderilir",
+    "D": "Belgeler kendisine verilir",
+    "Answer": "Belgeler kendisine verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilme işlemi hangi deftere kaydedilir?",
+    "A": "Hükümlü Kayıt Defteri",
+    "B": "Ziyaret Defteri",
+    "C": "Hükümlü Salıverilme Defteri",
+    "D": "Cezaevi Kayıt Defteri",
+    "Answer": "Hükümlü Salıverilme Defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilen hükümlünün askerlik ilişiği varsa ne yapılır?",
+    "A": "Kaydı tutulur",
+    "B": "İlişik kesilir",
+    "C": "Askerlik şubesine bildirilir",
+    "D": "Hiçbir işlem yapılmaz",
+    "Answer": "İlişik kesilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin salıverilme işlemi kimin onayı ile gerçekleşir?",
+    "A": "Kurum müdürünün",
+    "B": "Adalet Bakanlığı’nın",
+    "C": "İnfaz hâkiminin",
+    "D": "Cumhuriyet başsavcısının",
+    "Answer": "Cumhuriyet başsavcısının",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin salıverilme tarihine göre kaydedildiği defter nedir?",
+    "A": "Salıverilme Plan Defteri",
+    "B": "Hükümlü Salıverilme Defteri",
+    "C": "Tahliye Defteri",
+    "D": "Ceza Sonu Defteri",
+    "Answer": "Hükümlü Salıverilme Defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hasta hükümlü hangi durumlarda kurum dışına çıkarılamayabilir?",
+    "A": "Mahkeme kararı yoksa",
+    "B": "Yakınlarının refakati mümkün değilse",
+    "C": "Güvenlik gerekçesiyle",
+    "D": "Sağlık raporu yoksa",
+    "Answer": "Güvenlik gerekçesiyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hasta hükümlüler için hangi bildirimler yapılmalıdır?",
+    "A": "Hükümlünün avukatına",
+    "B": "Sadece ailesine",
+    "C": "Adalet Bakanlığı’na",
+    "D": "Ailesine, avukatına, askerlik şubesine",
+    "Answer": "Ailesine, avukatına, askerlik şubesine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hasta hükümlünün salıverilmesinde kimin onayı gereklidir?",
+    "A": "Cumhuriyet başsavcısının",
+    "B": "Kurum müdürünün",
+    "C": "Cezaevi tabibinin",
+    "D": "İnfaz hâkiminin",
+    "Answer": "Kurum müdürünün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilen hükümlünün yakınlarına ulaşılmaması durumunda çocuk hükümlüler nereye teslim edilir?",
+    "A": "Aile ve Sosyal Hizmetler İl Müdürlüğüne",
+    "B": "En yakın karakola",
+    "C": "Mahkemeye",
+    "D": "Cezaevi tabibine",
+    "Answer": "Aile ve Sosyal Hizmetler İl Müdürlüğüne",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çocuk hükümlülerin salıverilmesinde hangi kanun kapsamında tedbir alınır?",
+    "A": "5271 sayılı Kanun",
+    "B": "4751 sayılı Kanun",
+    "C": "5395 sayılı Kanun",
+    "D": "6253 sayılı Kanun",
+    "Answer": "5395 sayılı Kanun",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çocuk hükümlülerin salıverilmesinde hangi kurumla işbirliği yapılır?",
+    "A": "Sağlık Bakanlığı",
+    "B": "Aile ve Sosyal Hizmetler Bakanlığı",
+    "C": "Adalet Bakanlığı",
+    "D": "Milli Eğitim Bakanlığı",
+    "Answer": "Aile ve Sosyal Hizmetler Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün salıverilme işlemi sırasında hangi güvenlik tedbirleri alınır?",
+    "A": "İç güvenlik personeli denetimiyle",
+    "B": "Hükümlünün talebi doğrultusunda",
+    "C": "Yerel kolluk kuvvetleriyle işbirliği yapılarak",
+    "D": "Mahkeme tarafından belirlenir",
+    "Answer": "Mahkeme tarafından belirlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilecek hükümlünün çocuk olması durumunda hangi tedbir uygulanır?",
+    "A": "Yakınları ile irtibata geçilir",
+    "B": "Aile ve Sosyal Hizmetler İl Müdürlüğüne teslim edilir",
+    "C": "Cezaevi tabibine başvurulur",
+    "D": "İnfaz hâkimine başvurulur",
+    "Answer": "Yakınları ile irtibata geçilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilme defterine kayıt yapılırken hangi bilgiler esas alınır?",
+    "A": "Hükümlü numarası ve cezaları",
+    "B": "Cezanın türü, süresi ve tarihleri",
+    "C": "Salıverme nedeni ve hükümlü adı",
+    "D": "Hükümlünün iletişim bilgileri",
+    "Answer": "Salıverme nedeni ve hükümlü adı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilen hükümlüye hangi belgeler verilir?",
+    "A": "Tüm ceza kayıtları",
+    "B": "Eğitim belgeleri",
+    "C": "Kimlik belgeleri",
+    "D": "Mahkeme dosyaları",
+    "Answer": "Eğitim belgeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilme defteri ne zaman hazırlanır?",
+    "A": "Yılın başında",
+    "B": "Ay başında",
+    "C": "Gerektiğinde",
+    "D": "Her hafta",
+    "Answer": "Her hafta",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin salıverilmesinde salıverilme kaydı hangi deftere işlenir?",
+    "A": "Salıverilme Defteri",
+    "B": "Kayıt Defteri",
+    "C": "Mahkûmiyet Defteri",
+    "D": "Tahliye Defteri",
+    "Answer": "Salıverilme Defteri",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

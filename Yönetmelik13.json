@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kuruluna eğitim ve iyileştirme süreçleriyle ilgili hangi dış personel çağrılabilir?",
+    "A": "Yalnızca sağlık personeli",
+    "B": "Yalnızca öğretmenler",
+    "C": "Eğitim ve iyileştirme görevinde bulunanlar",
+    "D": "Güvenlik amirleri",
+    "Answer": "Eğitim ve iyileştirme görevinde bulunanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda cezaevi tabibi bulunmuyorsa kurul nasıl toplanır?",
+    "A": "Mevcut üyelerle toplanır",
+    "B": "Başka bir sağlık personeli atanır",
+    "C": "Toplantı ertelenir",
+    "D": "Yeni bir tabip görevlendirilir",
+    "Answer": "Başka bir sağlık personeli atanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kuruluna hangi durumda kurum dışından görevliler çağrılabilir?",
+    "A": "İlgili personel yeterli değilse",
+    "B": "Kurum müdürünün isteğiyle",
+    "C": "Cumhuriyet başsavcısının talebiyle",
+    "D": "Eğitim kurulu tamamlanamazsa",
+    "Answer": "İlgili personel yeterli değilse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda tüm öğretmenlerin katılımı zorunlu mudur?",
+    "A": "Hayır, sadece bir öğretmen yeterlidir",
+    "B": "Evet, kurumda görev yapan tüm öğretmenler katılır",
+    "C": "Yalnızca başöğretmen katılır",
+    "D": "İdare memuru tarafından seçilenler katılır",
+    "Answer": "Evet, kurumda görev yapan tüm öğretmenler katılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulu toplantısında kütüphaneci hangi rolü üstlenir?",
+    "A": "Güvenlik hizmetlerini yönetir",
+    "B": "Disiplin süreçlerine destek verir",
+    "C": "Psikolojik destek sağlar",
+    "D": "Kütüphane hizmetlerini planlar ve koordine eder",
+    "Answer": "Kütüphane hizmetlerini planlar ve koordine eder",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, psikolog eğitim kurulunda hangi görevde bulunur?",
+    "A": "Sağlık hizmetleri yönetimi",
+    "B": "Hükümlülerin psikolojik destek süreçlerinde rehberlik",
+    "C": "Kütüphane yönetimi",
+    "D": "Eğitim materyallerinin temini",
+    "Answer": "Hükümlülerin psikolojik destek süreçlerinde rehberlik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunun temel amacı nedir?",
+    "A": "Hükümlülerin eğitim ve iyileştirme süreçlerini organize etmek",
+    "B": "Güvenlik önlemlerini artırmak",
+    "C": "Disiplin cezası vermek",
+    "D": "Hükümlülerin salıverilme planını hazırlamak",
+    "Answer": "Hükümlülerin eğitim ve iyileştirme süreçlerini organize etmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kuruluna kimler başvurularına göre katılabilir?",
+    "A": "Güvenlik görevlileri",
+    "B": "Eğitim veya iyileştirme süreçlerinde görev alan dış görevliler",
+    "C": "Cumhuriyet savcıları",
+    "D": "Disiplin amirleri",
+    "Answer": "Eğitim veya iyileştirme süreçlerinde görev alan dış görevliler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunun tamamlanması için hangi pozisyonlardan en az biri bulunmalıdır?",
+    "A": "Psikolog veya psiko-sosyal yardım personeli",
+    "B": "Güvenlik görevlisi veya infaz memuru",
+    "C": "Veteriner veya sağlık memuru",
+    "D": "Veznedar veya sayman",
+    "Answer": "Veteriner veya sağlık memuru",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunun karar alabilmesi için hangi üyelerden en az biri bulunmalıdır?",
+    "A": "Kütüphaneci",
+    "B": "İkinci müdür",
+    "C": "Cumhuriyet başsavcısı",
+    "D": "Atölye şefi",
+    "Answer": "İkinci müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kurulunda bulunacak psiko-sosyal yardım servis personeli hangi alanlarda çalışır?",
+    "A": "Maliye",
+    "B": "Psikoloji ve sosyal hizmetler",
+    "C": "Teknik destek",
+    "D": "Güvenlik",
+    "Answer": "Psikoloji ve sosyal hizmetler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, eğitim kuruluna eğitim ve iyileştirme amaçlı dış görevliler ne zaman katılabilir?",
+    "A": "Talep edildiğinde",
+    "B": "Kurul başkanı onayladığında",
+    "C": "Müdürün izin vermesi durumunda",
+    "D": "Görüşlerine ihtiyaç duyulması halinde",
+    "Answer": "Müdürün izin vermesi durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre eğitim kurulunda yer alması zorunlu personel aşağıdakilerden hangisidir?",
+    "A": "İnfaz ve Koruma Memuru",
+    "B": "Sosyal Çalışmacı",
+    "C": "Güvenlik Amiri",
+    "D": "Psikolog ve Öğretmen",
+    "Answer": "Psikolog ve Öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, kurulların toplanmasına ilişkin hangi ifade yanlıştır?",
+    "A": "Kurullar, mevcut üyelerinin çoğunluğuyla toplanır ve toplantıya katılanların çoğunluğu ile karar verir. Oylarda eşitlik olması hâlinde ilgili kurul başkanının oyunun bulunduğu tarafa üstünlük tanınır.",
+    "B": "Kurum müdürü, kurulları ayda bir kez ve gerektiğinde her zaman toplayabilir. Ancak işyurdu yönetim kurulu, düzenli olarak iki haftada bir defa toplanır.",
+    "C": "Kurullarda görüşülecek konular müdür tarafından belirlenir.",
+    "D": "Müdürü bulunmayan kurumlarda kurulların oluşturulmasına imkân bulunmayan hâllerde kurullar, kurum amirinin başkanlığında, hükümet tabibi, öğretmen, infaz ve koruma başmemuru ile infaz ve koruma memurundan oluşturulur.",
+    "Answer": "Kurum müdürü, kurulları ayda bir kez ve gerektiğinde her zaman toplayabilir. Ancak işyurdu yönetim kurulu, düzenli olarak iki haftada bir defa toplanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kurullar tarafından verilen kararlar, ilgili kurulların karar defterine yazılır, üyeler tarafından imzalanır ve teftişe hazır hâlde tutulur. Bu defterlere kayıt usul ve esasları Bakanlıkça çıkarılacak yönetmelikte gösterilir.",
+    "B": "Karar defterlerine kayıt usul ve esasları, sadece kurum müdürünün onayı ile belirlenir.",
+    "C": "Kurullar tarafından verilen kararlar, yalnızca kurulların başkanları tarafından imzalanır.",
+    "D": "Kurullar tarafından verilen kararlar, karar defterine yazılmadan geçici olarak saklanır.",
+    "Answer": "Kurullar tarafından verilen kararlar, ilgili kurulların karar defterine yazılır, üyeler tarafından imzalanır ve teftişe hazır hâlde tutulur. Bu defterlere kayıt usul ve esasları Bakanlıkça çıkarılacak yönetmelikte gösterilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurulların toplanabilmesi için hangi koşul gereklidir?",
+    "A": "Tüm üyelerin katılması",
+    "B": "Kurum müdürünün izni",
+    "C": "Çoğunluğun sağlanması",
+    "D": "Aylık rapor sunulması",
+    "Answer": "Çoğunluğun sağlanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda eşit oy çıkması durumunda kimin oyu belirleyici olur?",
+    "A": "En kıdemli üyenin",
+    "B": "Kurul başkanının",
+    "C": "En son oy verenin",
+    "D": "Psikoloğun",
+    "Answer": "Kurul başkanının",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum müdürü kurulları ne sıklıkla toplayabilir?",
+    "A": "Yılda bir kez",
+    "B": "Haftada bir kez",
+    "C": "Yalnızca ihtiyaç duyulduğunda",
+    "D": "Ayda bir kez veya gerektiğinde her zaman",
+    "Answer": "Ayda bir kez veya gerektiğinde her zaman",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, işyurdu yönetim kurulu hangi sıklıkla toplanır?",
+    "A": "Her gün",
+    "B": "Haftada bir defa",
+    "C": "İki haftada bir",
+    "D": "Ayda bir kez",
+    "Answer": "Ayda bir kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurullarda görüşülecek konuları kim belirler?",
+    "A": "Cumhuriyet başsavcısı",
+    "B": "Psikolog",
+    "C": "Kurum müdürü",
+    "D": "İkinci müdür",
+    "Answer": "Kurum müdürü",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ağırlaştırılmış müebbet hapis cezası alan hükümlüler kimlerle telefonla görüşebilir?",
+    "A": "Sadece avukatlarıyla",
+    "B": "Eşi, altsoy ve üstsoyu, kardeşleri ve vasisi",
+    "C": "Sınırsız şekilde tüm tanıdıklarıyla",
+    "D": "Sadece birinci derece yakınlarıyla",
+    "Answer": "Eşi, altsoy ve üstsoyu, kardeşleri ve vasisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler tarafından kullanılacak telefon kartları nasıl temin edilir?",
+    "A": "Cezaevi dışından alınır",
+    "B": "Ücretsiz dağıtılır",
+    "C": "Kurum kantininde satılır",
+    "D": "Sadece cezaevi yönetimi tarafından verilir",
+    "Answer": "Kurum kantininde satılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin telefonla görüşme isteğinde bulunması için hangi belge doldurulur?",
+    "A": "Ziyaret talep formu",
+    "B": "Dilekçe",
+    "C": "Telefon Görüşme İstek Formu",
+    "D": "Kişisel bilgi formu",
+    "Answer": "Dilekçe",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tehlikeli hükümlülerin telefonla görüşme sıklığı ne kadardır?",
+    "A": "Haftada iki kez",
+    "B": "On beş günde bir",
+    "C": "Her gün",
+    "D": "Haftada bir kez",
+    "Answer": "Haftada bir kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme talepleri nasıl değerlendirilir?",
+    "A": "Başsavcının onayıyla",
+    "B": "Kurum müdürünün takdiri ile",
+    "C": "İkinci müdürün kontrolü ile",
+    "D": "Hükümlünün isteği doğrultusunda",
+    "Answer": "Kurum müdürünün takdiri ile",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin telefonla yaptığı görüşmeler hangi şartla devam eder?",
+    "A": "Sınırsızca yapılır",
+    "B": "Sadece izinli olduğu kişilerle yapılır",
+    "C": "Telefon görüşme hakkı sınırsızdır",
+    "D": "Hükümlü kendi numarasından farklı numaralarla da görüşebilir",
+    "Answer": "Telefon görüşme hakkı sınırsızdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefon görüşme defteri kim tarafından kontrol edilir?",
+    "A": "İdare memuru",
+    "B": "İkinci müdür",
+    "C": "Cezaevi müdürü",
+    "D": "Güvenlik görevlisi",
+    "Answer": "İkinci müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çocuk hükümlülerin telefonla görüşme hakları nasıl düzenlenir?",
+    "A": "Haftada bir kez görüşebilir",
+    "B": "Sadece özel izinle görüşebilir",
+    "C": "Haftada bir kez sınırlı olarak görüşebilir",
+    "D": "Telefonla görüşme hakları hiçbir şekilde kısıtlanamaz",
+    "Answer": "Telefonla görüşme hakları hiçbir şekilde kısıtlanamaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün tehlikeli olduğu belirlenirse telefon görüşmesi nasıl yapılır?",
+    "A": "Her gün sınırsız şekilde",
+    "B": "Sadece özel izinle",
+    "C": "On beş günde bir, on dakika süreyle",
+    "D": "İstediği yakınlarıyla sınırsız şekilde",
+    "Answer": "On beş günde bir, on dakika süreyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin telefon görüşmesi sırasında konuştuğu dil hakkında hangi hüküm geçerlidir?",
+    "A": "Sadece Türkçe",
+    "B": "Her dilde yapılabilir",
+    "C": "Türkçeden başka dilde yapılması idare tarafından onaylanmalıdır",
+    "D": "Dil tercihi serbesttir",
+    "Answer": "Türkçeden başka dilde yapılması idare tarafından onaylanmalıdır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefon görüşmesi sırasında karşıdaki kişiden ne istenir?",
+    "A": "Konuşmaya başlaması",
+    "B": "Ad, soyad ve numarasını tekrar etmesi",
+    "C": "Kimliğini ibraz etmesi",
+    "D": "Hükümlüye hitap etmesi",
+    "Answer": "Ad, soyad ve numarasını tekrar etmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşmeler hangi durumda durdurulamaz?",
+    "A": "Yemek saatlerinde",
+    "B": "Disiplin cezası varsa",
+    "C": "Asayiş bozucu olaylar sırasında",
+    "D": "Hükümlünün aile yakınlarının ağır hastalık hallerinde",
+    "Answer": "Hükümlünün aile yakınlarının ağır hastalık hallerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin radyo, televizyon yayınları ve internet olanaklarından yararlanma hakkına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlü, kurumlarda merkezi yayın sistemi bulunduğu takdirde bu sisteme bağlı olarak radyo ve televizyon yayınlarını izleme hakkına sahiptir.",
+    "B": "Merkezi yayın sistemi bulunmayan kurumlarda, yararlı olmayan yayınların izlenmesini ve dinlenmesini engelleyecek önlemler alınmak suretiyle bağımsız anten kullanılarak televizyon ve radyo izlenmesine ve dinlenmesine izin verilir. Bu cihazlar, bedeli kendisi tarafından ödenmek koşuluyla hükümlü adına kurumca satın alınır. Her ne biçimde olursa olsun dışardan gelenler tarafından getirilen radyo, televizyon ve bilgisayarlar kuruma alınmaz.",
+    "C": "Kapalı ve açık kurumlar ile çocuk eğitimevlerinde ancak eğitim ve iyileştirme programları çerçevesinde kurum yönetimince belirlenen yerlerde görsel ve işitsel eğitim araç ve gereçlerinin kullanımına izin verilebilir. Eğitim ve iyileştirme programları gerekli kıldığı takdirde denetim altında internetten yararlanılabilir. Hükümlü, odasında bilgisayar bulunduramaz. Ancak Bakanlığın uygun görmesi hâlinde eğitim ve kültürel amaçlı olarak bilgisayarın kuruma alınmasına izin verilebilir.",
+    "D": "Bu haklar, idare ve gözlem kurulu kararı ile tehlikeli hükümlü oldukları saptananlar veya örgüt mensubu hükümlüler bakımından kısıtlanamaz.",
+    "Answer": "Bu haklar, idare ve gözlem kurulu kararı ile tehlikeli hükümlü oldukları saptananlar veya örgüt mensubu hükümlüler bakımından kısıtlanamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "İşlediği suçun nitelik ve işleniş biçimi göz önüne alındığında, toplum için ciddi bir tehlike oluşturan hükümlüler, kurumdaki tutum ve davranışlarına göre televizyon yayınlarını izleme ve bilgisayar ile internetten yararlanma kısmen de olsa bu hakka sahiptir.",
+    "B": "Suç işlemek amacıyla kurulan silahlı örgüt yöneticiliğini yapmaya devam eden hükümlüler, idare ve gözlem kurulu kararıyla televizyon yayınlarını izleyebilir ve internetten yararlanabilir.",
+    "C": "Toplum için ciddi tehlike oluşturan, suç işlemek amacıyla kurulan silahlı örgütün yöneticiliğini yapmaya devam eden hükümlüler, idare ve gözlem kurulu kararıyla televizyon yayınlarını izleyemez ve internetten yararlanamaz.",
+    "D": "Televizyon ve internet kullanım hakları, sadece terör örgütlerine yönelik suç işleyen hükümlülere kısıtlanır, diğer hükümlülere bu haklar verilir.",
+    "Answer": "Toplum için ciddi tehlike oluşturan, suç işlemek amacıyla kurulan silahlı örgütün yöneticiliğini yapmaya devam eden hükümlüler, idare ve gözlem kurulu kararıyla televizyon yayınlarını izleyemez ve internetten yararlanamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin mektup, faks ve telgraflarla haberleşme hakkına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Hükümlü, kendisine gönderilen mektup, faks ve telgrafları alma ve ücretleri kurum tarafından karşılanmak koşuluyla, gönderme hakkına sahiptir.",
+    "B": "Hükümlü tarafından gönderilen ve kendisine gelen mektup, faks ve telgraflar; mektup okuma komisyonu bulunan kurumlarda bu komisyon, olmayanlarda kurumun en üst amirince denetlenir.",
+    "C": "Kurumun asayiş ve güvenliğini tehlikeye düşüren, görevlileri hedef gösteren, terör ve çıkar amaçlı suç örgütü veya diğer suç örgütleri mensuplarının örgütsel amaçlı olarak haberleşmelerine neden olan, kişi veya kuruluşları paniğe yöneltecek yalan ve yanlış bilgileri, tehdit ve hakareti içeren mektup, faks ve telgraflar hükümlüye verilmez. Hükümlü tarafından yazılmış ise gönderilmez.",
+    "D": "Hükümlülere gelen veya hükümlüler tarafından gönderilen mektup, faks ve telgrafların kayıt ve silinmesine ilişkin olarak 5275 sayılı Kanunun 68 inci maddesinin beşinci fıkrası hükmü uygulanır.",
+    "Answer": "Hükümlü, kendisine gönderilen mektup, faks ve telgrafları alma ve ücretleri kurum tarafından karşılanmak koşuluyla, gönderme hakkına sahiptir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün mektup, faks ve telgrafları alma ve gönderme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlü tarafından resmi makamlara gönderilen mektuplar yalnızca elden teslim edilir, posta veya elektronik ortamda gönderim yapılmaz.",
+    "B": "Hükümlü tarafından avukatına gönderilen iletiler her durumda denetime tâbi tutulur.",
+    "C": "Hükümlü tarafından resmi makamlara veya savunması için avukatına gönderilen mektup, faks ve telgraflar, 72. maddenin üçüncü fıkrasında belirtilen hâller dışında denetime tâbi değildir.",
+    "D": "Hükümlünün resmi makamlara gönderdiği mektuplar, 72. maddenin üç ilâ dokuzuncu fıkralarında belirtilen esaslara göre denetlenir.",
+    "Answer": "Hükümlü tarafından resmi makamlara veya savunması için avukatına gönderilen mektup, faks ve telgraflar, 72. maddenin üçüncü fıkrasında belirtilen hâller dışında denetime tâbi değildir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün mektup, faks ve telgrafları alma ve gönderme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülere gelen veya hükümlüler tarafından gönderilen mektup, faks ve telgrafların kayıt ve silinmesine ilişkin işlemler, yalnızca kurum müdürünün inisiyatifine bırakılmıştır.",
+    "B": "Hükümlünün mektup, faks ve telgraflarıyla ilgili kayıt ve silme işlemleri, 5275 sayılı Kanunun 68 inci maddesinin beşinci fıkrası uyarınca gerçekleştirilir.",
+    "C": "Hükümlüler, mektup, faks ve telgraflarının kayıt altına alınmasını veya silinmesini talep edemez.",
+    "D": "Mektup, faks ve telgrafların kayıt ve silinmesine ilişkin düzenlemeler, hükümlülerin güvenliği açısından uygulanmaz.",
+    "Answer": "Hükümlünün mektup, faks ve telgraflarıyla ilgili kayıt ve silme işlemleri, 5275 sayılı Kanunun 68 inci maddesinin beşinci fıkrası uyarınca gerçekleştirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, merkezi yayın sistemi bulunan kurumlarda hükümlü hangi yayınları izleme hakkına sahiptir?",
+    "A": "Radyo ve televizyon",
+    "B": "Yalnızca televizyon",
+    "C": "Yalnızca internet",
+    "D": "Tüm elektronik yayınlar",
+    "Answer": "Radyo ve televizyon",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, merkezi yayın sistemi olmayan kurumlarda, hükümlülerin radyo ve televizyon izlemelerine hangi şartla izin verilir?",
+    "A": "Bağımsız anten kullanarak ve kendi masraflarını karşılayarak",
+    "B": "İdarenin kararıyla ücretsiz olarak",
+    "C": "Haftada bir kez",
+    "D": "Hükümlünün talebi üzerine",
+    "Answer": "Hükümlünün talebi üzerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin odalarında bilgisayar bulundurmalarına hangi durumda izin verilir?",
+    "A": "İdarenin uygun gördüğü durumlarda",
+    "B": "Bakanlıkça eğitim veya kültürel amaçlı olarak onaylanmışsa",
+    "C": "Kendi bilgisayarlarını getirerek",
+    "D": "Her hükümlü için geçerli",
+    "Answer": "Bakanlıkça eğitim veya kültürel amaçlı olarak onaylanmışsa",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin başka odalardaki hükümlülerle temasta bulunmasına ne zaman izin verilir?",
+    "A": "Haftalık izinlerde",
+    "B": "Olağanüstü hâllerde",
+    "C": "Yalnızca birinci fıkrada belirtilen hâllerde",
+    "D": "Mahkeme talebi ile",
+    "Answer": "Olağanüstü hâllerde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumlarda kapalı kurumların odalarının kapıları açılabilir?",
+    "A": "Cezaevi tabibi ile görüşme için",
+    "B": "Spor etkinlikleri sırasında",
+    "C": "Aylık kontrollerde",
+    "D": "Özel talep ile",
+    "Answer": "Cezaevi tabibi ile görüşme için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kapalı kurumlarda bulunan hükümlülerin oda kapıları hangi durumda açık kalabilir?",
+    "A": "Herhangi bir zaman sınırlaması yoktur",
+    "B": "Oda kapıları sürekli kapalı tutulmalıdır",
+    "C": "Ziyaret saatlerinde",
+    "D": "İdare memuru izni ile",
+    "Answer": "Ziyaret saatlerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, odaların havalandırma bahçesine açılan kapılarının açılış ve kapanış saatleri hangi koşullar göz önünde bulundurularak düzenlenir?",
+    "A": "Yemek dağıtım saatlerine göre",
+    "B": "Kurumun fiziki yapısı ve bölgenin coğrafi koşulları",
+    "C": "Haftalık hava durumu raporuna göre",
+    "D": "Eğitim ve öğretim programlarına göre",
+    "Answer": "Kurumun fiziki yapısı ve bölgenin coğrafi koşulları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kapalı kurumlarda oda ve koridor kapıları hangi durumlar dışında kapalı tutulur?",
+    "A": "Eğitim ve iyileştirme çalışmaları sırasında",
+    "B": "Hükümlülerin aralarındaki sosyal etkinliklerde",
+    "C": "Hükümlülerin kendi talebiyle",
+    "D": "Disiplin cezalarında",
+    "Answer": "Eğitim ve iyileştirme çalışmaları sırasında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, havalandırma bahçesine açılan kapıların açılış saatleri hangi belge ile düzenlenir?",
+    "A": "Dilekçe",
+    "B": "Sağlık kontrol planı",
+    "C": "Mahkeme kararı",
+    "D": "Kurum iç yönergesi",
+    "Answer": "Kurum iç yönergesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, oda kapıları olağanüstü bir durumda hangi yetkilinin kararıyla açılabilir?",
+    "A": "İdare memurunun kararıyla",
+    "B": "Kurum müdürünün emriyle",
+    "C": "Psikoloğun izniyle",
+    "D": "Ziyaret saati başında",
+    "Answer": "Kurum müdürünün emriyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, oda kapılarının açılma durumları arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "Sağlık kontrolü",
+    "B": "Kütüphane kullanımı",
+    "C": "Firar durumları",
+    "D": "Eğitim programlarına katılım",
+    "Answer": "Firar durumları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275. Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler hangi koşullarda diğer odalardaki kişilerle temasta bulunabilir?",
+    "A": "Temasta bulunmaları yasaktır",
+    "B": "Oda kapısı açık olduğu sürece",
+    "C": "Yalnızca özel durumlarda",
+    "D": "Eğitim kurulu kararı ile",
+    "Answer": "Temasta bulunmaları yasaktır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülerin oda ve eklentilerinde yapılacak aramalarda hiçbir hükümlünün bulunması gerekmez.",
+    "B": "Kurumlarda oda ve eklentilerinde yapılan aramalar, sadece belirli günlerde ve saatlerde yapılabilir.",
+    "C": "Kurumun tamamında aramalar yalnızca altı ayda bir kez yapılır.",
+    "D": "Kurumlarda, oda ve eklentilerinde hükümlülerin üst ve eşyasında habersiz olarak her zaman arama yapılabilir.",
+    "Answer": "Kurumlarda, oda ve eklentilerinde hükümlülerin üst ve eşyasında habersiz olarak her zaman arama yapılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlünün üzerinde, kuruma sokulması veya bulundurulması yasak madde veya eşya bulunduğuna dair şüphe yeterlidir ve detaylı arama için ayrıca başka koşul aranmamaktadır.",
+    "B": "Kurum en üst amirinin gerekli görmesi durumunda, hükümlünün üzerinde detaylı arama yapılabilir; ancak bu arama yalnızca göz ile yapılır.",
+    "C": "Detaylı arama sırasında beden çukurlarındaki aramalar yalnızca kurumda görevli infaz ve koruma memurları tarafından yapılabilir.",
+    "D": "Hükümlünün üzerinde, kuruma sokulması veya bulundurulması yasak madde veya eşya bulunduğuna dair makul ve ciddi emarelerin varlığı ve bunun başka suretle tespitinin olanaksız olması durumunda, kurum en üst amirinin gerekli görmesi hâlinde, detaylı olarak veya beden çukurlarında usullere göre arama yapılabilir.",
+    "Answer": "Hükümlünün üzerinde, kuruma sokulması veya bulundurulması yasak madde veya eşya bulunduğuna dair makul ve ciddi emarelerin varlığı ve bunun başka suretle tespitinin olanaksız olması durumunda, kurum en üst amirinin gerekli görmesi hâlinde, detaylı olarak veya beden çukurlarında usullere göre arama yapılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Detaylı arama, hükümlünün utanma duygusunu ihlal etmeyecek şekilde ve görevli dışında kimsenin görmemesini sağlayacak tedbirler alınarak gerçekleştirilir. Arama sırasında hükümlüye tek kullanımlık giyim önlüğü verilir.",
+    "B": "Arama sırasında önce bedenin üst kısmındaki giysiler çıkarttırılır, bedenin alt kısmındaki giysiler üst kısmındaki giysiler giyildikten sonra çıkarttırılır. Bu giysiler de mutlaka aranır.",
+    "C": "Detaylı arama sırasında bedene dokunulmaması için gerekli özen gösterilir ve görevli tarafından eldiven kullanılır. Aranan kişinin beden çukurlarında bir şeyin bulunduğuna dair makul ve ciddi emarelerin bulunması hâlinde öncelikle, hükümlüden madde veya eşyanın kendisi tarafından çıkartılması istenir, aksi hâlde bunun zor kullanılarak gerçekleştirileceği bildirilir. Beden çukurlarındaki arama, infaz ve koruma memuru tarafından yerine getirilir.",
+    "D": "Detaylı arama, mümkün olan en kısa süre içinde bitirilir ve işlem tutanağa bağlanır, tutanakta arama yapan görevliler ile hükümlünün imzası bulunur. Hükümlünün imzadan kaçınması hâlinde bu durum tutanağa geçirilir.",
+    "Answer": "Detaylı arama sırasında bedene dokunulmaması için gerekli özen gösterilir ve görevli tarafından eldiven kullanılır. Aranan kişinin beden çukurlarında bir şeyin bulunduğuna dair makul ve ciddi emarelerin bulunması hâlinde öncelikle, hükümlüden madde veya eşyanın kendisi tarafından çıkartılması istenir, aksi hâlde bunun zor kullanılarak gerçekleştirileceği bildirilir. Beden çukurlarındaki arama, infaz ve koruma memuru tarafından yerine getirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Beden ve üst aramaları aynı cinsiyetten güvenlik ve gözetim görevlileri tarafından yapılır.",
+    "B": "Aramalar, gerektiğinde dış güvenlik görevlileri veya kolluk kuvvetleriyle ya da diğer kamu görevlilerince ortaklaşa gerçekleştirilebilir.",
+    "C": "Kurum en üst amiri, Cumhuriyet başsavcısına bilgi vermek suretiyle önceden hazırlanan olağanüstü hâl planlarına göre kurumun fiziksel özelliği ve mevcudunu değerlendirerek, yılda en az iki kez olmak üzere uygun gördüğü zamanlarda diğer kamu görevlilerinin katılımıyla; isyan, firar, yangın ve benzeri olaylara karşı tatbikat yaptırır.",
+    "D": "Sayımlar, 10 uncu maddede belirtilen görevliler tarafından, dörtlü vardiya hizmetinin uygulandığı kurumlarda sabah, akşam olmak üzere günde iki kez, diğer vardiya hizmetlerinin uygulandığı kurumlarda ise her vardiya değişiminde yapılır.",
+    "Answer": "Sayımlar, 10 uncu maddede belirtilen görevliler tarafından, dörtlü vardiya hizmetinin uygulandığı kurumlarda sabah, akşam olmak üzere günde iki kez, diğer vardiya hizmetlerinin uygulandığı kurumlarda ise her vardiya değişiminde yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "İdare tarafından uygun görülmesi durumunda, her zaman sayım yapılabilir. Olağanüstü durumlarda, kurum en üst amirinin talebi ve Cumhuriyet başsavcısının oluru ile dış güvenlik görevlileri sayımlara katılabilir.",
+    "B": "Sayımlar, yatma planları da göz önünde bulundurularak odalarda yapılır. Sayımın yapılış şekli, kurum güvenliğini tehlikeye düşürmeyecek biçimde odada bulunan hükümlülerin sayısı dikkate alınarak idare tarafından belirlenir.",
+    "C": "Arama ve sayımlar sırasında insan onuru ve haysiyetine saygı ile utanma duygusunun ihlal edilmemesi esastır ve bu kapsamda gerekli her türlü tedbir alınır.",
+    "D": "Elektronik ortamda sayım gerçekleştirilen kurumlarda sayım esasları kurum tarafından belirlenir.",
+    "Answer": "Elektronik ortamda sayım gerçekleştirilen kurumlarda sayım esasları kurum tarafından belirlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumlarda oda ve eklentilerde yapılacak aramalarda hangi sıklıkta arama yapılması zorunludur?",
+    "A": "Her hafta bir kez",
+    "B": "Ayda bir kez",
+    "C": "Yılda iki kez",
+    "D": "İki haftada bir kez",
+    "Answer": "Yılda iki kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, oda ve eklentilerde yapılacak aramalarda hükümlülerin hangi durumu zorunludur?",
+    "A": "Arama alanını terk etmesi",
+    "B": "Arama yapılmadan önce bilgilendirilmesi",
+    "C": "Arama esnasında gözetim sağlaması",
+    "D": "Bir hükümlünün aramada hazır bulunması",
+    "Answer": "Bir hükümlünün aramada hazır bulunması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin beden çukurlarında yapılacak aramalar kim tarafından gerçekleştirilir?",
+    "A": "Kurum en üst amiri",
+    "B": "Cezaevi tabibi",
+    "C": "Güvenlik görevlisi",
+    "D": "Psikolog",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi müdürünün salıverilme öncesinde hazırladığı dosya hangi amaçla kullanılır?",
+    "A": "Salıverilme işleminin kontrolü",
+    "B": "Hükümlülerin psikolojik durumlarını analiz etmek",
+    "C": "Çıkış sonrası sosyal yardımlar için değerlendirme",
+    "D": "İnfaz sürecinin raporlanması",
+    "Answer": "Çıkış sonrası sosyal yardımlar için değerlendirme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ceza infaz kurumunda kalan hükümlülerin psiko-sosyal yardım ihtiyaçları nasıl belirlenir?",
+    "A": "Kurumdan gelen raporlar incelenerek",
+    "B": "Psiko-sosyal yardım servisi tarafından rapor düzenlenerek",
+    "C": "Hükümlülerin taleplerine göre belirlenerek",
+    "D": "Sadece savcılık onayıyla",
+    "Answer": "Psiko-sosyal yardım servisi tarafından rapor düzenlenerek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, açık kurumlardaki hükümlülerin doğal afet sonrası yardım faaliyetlerine katılabilmeleri için ne gereklidir?",
+    "A": "Kurum içindeki görevlinin izni",
+    "B": "İdare ve gözlem kurulu kararı veya Bakanlık izni",
+    "C": "Belediye başkanının izni",
+    "D": "Ailelerinin yazılı onayı",
+    "Answer": "İdare ve gözlem kurulu kararı veya Bakanlık izni",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

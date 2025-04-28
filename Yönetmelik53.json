@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün yanında refakatçi bulundurulması hangi durumda mümkündür?",
+    "A": "Hükümlü hastaneye sevk edildiğinde",
+    "B": "Hükümlü açık havaya çıkarıldığında",
+    "C": "Cezaevinde yatarak tedavi gördüğünde",
+    "D": "Çocuk eğitimevinde bulunduğunda",
+    "Answer": "Hükümlü hastaneye sevk edildiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün sağlık durumuna uygun olmayan tıbbi deney yapılabilir mi?",
+    "A": "Yapılabilir, rızası varsa",
+    "B": "Hiçbir şekilde yapılamaz",
+    "C": "Yalnızca ağır hastalarda yapılabilir",
+    "D": "Hükümlünün sağlık izniyle yapılabilir",
+    "Answer": "Hiçbir şekilde yapılamaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hastaneye sevki gereken hükümlü hakkında kim rapor hazırlar?",
+    "A": "Sosyal hizmet uzmanı",
+    "B": "Cezaevi tabibi",
+    "C": "Güvenlik görevlisi",
+    "D": "Cezaevi müdürü",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hastaneye sevk edilen hükümlülerin muayene ve tedavi işlemleri nerede yapılır?",
+    "A": "Hükümlü koğuşlarında",
+    "B": "Cezaevinde",
+    "C": "Güvenlik biriminde",
+    "D": "Revirde",
+    "Answer": "Revirde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, açık kurumlardaki hükümlülerin yatarak tedavileri nerede yapılır?",
+    "A": "Cezaevinin özel odasında",
+    "B": "Çocuk eğitimevinde",
+    "C": "Tedavi eden kurumun yakınındaki bir cezaevi koğuşunda",
+    "D": "Tedavi eden hastanede güvenlik gözetiminde",
+    "Answer": "Tedavi eden kurumun yakınındaki bir cezaevi koğuşunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün yiyecek ve içecekleri reddetmesi durumunda hangi birim devreye girer?",
+    "A": "Psiko-sosyal hizmet birimi",
+    "B": "Güvenlik görevlileri",
+    "C": "Adli tıp kurumu",
+    "D": "Cezaevi yönetimi",
+    "Answer": "Cezaevi yönetimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, yiyecek ve içecek reddetme durumunda hükümlünün beslenmesi için hangi işlem yapılır?",
+    "A": "Cezaevi personeli tarafından zorla beslenir",
+    "B": "Cezaevi tabibi tarafından belirlenen bir beslenme rejimi uygulanır",
+    "C": "Hükümlünün beslenmesi tamamen bırakılır",
+    "D": "Aile üyeleri tarafından beslenir",
+    "Answer": "Cezaevi tabibi tarafından belirlenen bir beslenme rejimi uygulanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, açlık grevinde olan hükümlülerle ilgili hangi tedbir uygulanır?",
+    "A": "Yalnızca psikolojik destek sağlanır",
+    "B": "Psiko-sosyal destek verilir ve hayatı tehlikeye girerse tedavi altına alınır",
+    "C": "Cezaevi tabibi tarafından zorla beslenir",
+    "D": "Kurum personeli tarafından gözlemlenir",
+    "Answer": "Cezaevi tabibi tarafından zorla beslenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün muayene ve tedaviyi reddetme durumunda sağlık açısından hangi önlem alınır?",
+    "A": "Güvenlik personeli zorla müdahale eder",
+    "B": "Psikiyatri uzmanı devreye girer",
+    "C": "Sağlık durumu tehlikeye girdiğinde zorunlu tedavi uygulanır",
+    "D": "Muayene işlemi askıya alınır",
+    "Answer": "Psikiyatri uzmanı devreye girer",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün sağlık açısından korunması amacıyla hangi koşul sağlanır?",
+    "A": "Sosyal izolasyon",
+    "B": "Zorla karantina altına alınır",
+    "C": "Yakınları tarafından bakım yapılır",
+    "D": "Onur kırıcı olmayan zorlayıcı tedbirler uygulanır",
+    "Answer": "Onur kırıcı olmayan zorlayıcı tedbirler uygulanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hastaneye sevk edilen hükümlülerin yanında hangi koşulda refakatçi bulundurulabilir?",
+    "A": "Hükümlünün talebi doğrultusunda",
+    "B": "Hekimin raporuyla zorunluluk durumunda",
+    "C": "Güvenlik personelinin izniyle",
+    "D": "Aile üyelerinin talebiyle",
+    "Answer": "Hekimin raporuyla zorunluluk durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hükümlünün intihar riskini önlemek amacıyla alınması gereken tedbirler kim tarafından belirlenir?",
+    "A": "Cezaevi tabibi ve kurum idaresi",
+    "B": "Güvenlik personeli",
+    "C": "Hükümlünün ailesi",
+    "D": "Savcılık",
+    "Answer": "Cezaevi tabibi ve kurum idaresi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, açlık grevi yapan bir hükümlünün bilinci bozulduğunda uygulanacak tedavi nasıl yapılır?",
+    "A": "Hükümlünün rızası aranır",
+    "B": "Derhal hastaneye sevk edilir",
+    "C": "İnfaz hâkimi tarafından onaylanır",
+    "D": "Güvenlik personeli kontrolünde yapılır",
+    "Answer": "Derhal hastaneye sevk edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin cezaevi koşullarında tedavi edilemediği durumlarda hangi hastanelere sevk yapılır?",
+    "A": "Özel hastaneler",
+    "B": "Yalnızca üniversite hastaneleri",
+    "C": "Devlet veya üniversite hastaneleri",
+    "D": "Yalnızca askeri hastaneler",
+    "Answer": "Devlet veya üniversite hastaneleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezaevi tabibi hükümlünün muayenesi sırasında hangi durumlarda güvenlik önlemleri alabilir?",
+    "A": "Sadece hükümlü talep ederse",
+    "B": "Tabip tarafından talep edilmesi hâlinde",
+    "C": "Psikiyatri uzmanı bulunması gerektiğinde",
+    "D": "Her muayene sırasında",
+    "Answer": "Her muayene sırasında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sağlık kuruluşları hükümlülerin tedavileri bakımından kimlere karşı sorumludur?",
+    "A": "Sadece cezaevi yönetimine",
+    "B": "Sağlık Bakanlığı’na",
+    "C": "İlgili ceza infaz kurumuna",
+    "D": "Psiko-sosyal birime",
+    "Answer": "Sağlık Bakanlığı’na",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin acil tedavi gerektiren durumları kim tarafından bildirilir?",
+    "A": "Güvenlik birimi",
+    "B": "Cezaevi idaresi",
+    "C": "Hükümlünün ailesi",
+    "D": "Cezaevi tabibi",
+    "Answer": "Cezaevi tabibi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin sağlık giderleri ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "İşyurdunda çalıştırılan sigortalı hükümlülerin iş kazası veya meslek hastalığı nedeniyle raporlu oldukları gün sayısı kadar geçici iş göremezlik ödenekleri Sosyal Güvenlik Kurumu tarafından karşılanır.",
+    "B": "Hükümlünün, estetik amaçlı veya Sağlık Uygulama Tebliği kapsamında olmayan tedavi giderleri kendisi tarafından karşılanır.",
+    "C": "Hükümlünün üniversite hastaneleri dâhil sağlık kurumlarındaki muayene, tetkik, kontrol ve tedavi bedelleri ile ilaç ve tıbbi malzeme giderleri Sosyal Güvenlik Kurumu tarafından karşılanır.",
+    "D": "Sağlık hizmet sunucularına yapılacak tedavi giderlerine ait ödemelerin ne şekilde yapılacağı Sağlık Bakanlığınca belirlenir.",
+    "Answer": "Hükümlünün üniversite hastaneleri dâhil sağlık kurumlarındaki muayene, tetkik, kontrol ve tedavi bedelleri ile ilaç ve tıbbi malzeme giderleri Sosyal Güvenlik Kurumu tarafından karşılanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün ölümü hâlinde aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kurumda barındırılan hükümlünün ölümü hâlinde, durum bir tutanakla belgelendirilir ve tutanak ile cezaevi tabibinin raporu, kurum en üst amiri tarafından derhal Cumhuriyet başsavcılığına ve hükümlünün kuruma kabul sırasında beyan ettiği yakınlarına bildirilir.",
+    "B": "Hükümlünün ölümü durumunda, yalnızca cezaevi tabibinin raporu alınır ve tutanak düzenlenmesine gerek duyulmaz.",
+    "C": "Yabancı uyruklu hükümlülerin ölümü hâlinde, sadece Cumhuriyet başsavcılığına bilgi verilir, diğer herhangi bir prosedür uygulanmaz.",
+    "D": "Hükümlünün ölümü hâlinde, kuruma kabul sırasında beyan ettiği yakınlara bilgilendirme yapılmaz, yalnızca yazılı olarak kayıt altına alınır.",
+    "Answer": "Kurumda barındırılan hükümlünün ölümü hâlinde, durum bir tutanakla belgelendirilir ve tutanak ile cezaevi tabibinin raporu, kurum en üst amiri tarafından derhal Cumhuriyet başsavcılığına ve hükümlünün kuruma kabul sırasında beyan ettiği yakınlarına bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun’un 103. Maddesi’ne göre, hükümlünün ölümü hâlinde aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlünün ölümü hâlinde yakınları bulunamazsa durum yalnızca kurum içinde kaydedilir, başka bir makama bildirim yapılmaz.",
+    "B": "Yabancı uyruklu bir hükümlünün mensubu olduğu ülkenin Türkiye’de yerleşik diplomatik temsilciliği bulunmasa bile, Dışişleri Bakanlığı’na bildirim yapılmasına gerek yoktur.",
+    "C": "Hükümlünün yakınları bulunamadığında, durum yalnızca Cumhuriyet başsavcılığına bildirilir.",
+    "D": "Hükümlü hakkında kurumda mevcut kayıtlara göre ölümü bildirilebilecek yakınlarının tespit edilememesi durumunda, bu bilgi hükümlünün nüfusa kayıtlı olduğu yerdeki mahalli mülki idare amirine bildirilir.",
+    "Answer": "Hükümlü hakkında kurumda mevcut kayıtlara göre ölümü bildirilebilecek yakınlarının tespit edilememesi durumunda, bu bilgi hükümlünün nüfusa kayıtlı olduğu yerdeki mahalli mülki idare amirine bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin avukatlarıyla görüşmeleri hangi şartla dinlenemez?",
+    "A": "Savunmaya ilişkin belge yoksa",
+    "B": "Hükümlü kabul ederse",
+    "C": "İnfaz hâkimi izniyle",
+    "D": "Herhangi bir durumda dinlenemez",
+    "Answer": "Herhangi bir durumda dinlenemez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hangi durumda kültür ve sanat etkinliklerine katılması teşvik edilir?",
+    "A": "Eğitim seviyesi düşükse",
+    "B": "İfade yeteneklerini geliştirmeleri için",
+    "C": "Cezaevi personel eksikse",
+    "D": "Ailelerinin talepleri varsa",
+    "Answer": "İfade yeteneklerini geliştirmeleri için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin katıldığı kültür ve sanat etkinlikleri neye göre düzenlenir?",
+    "A": "Hükümlülerin taleplerine göre",
+    "B": "Herhangi bir ön koşul olmadan",
+    "C": "Ulusal ve yerel kültürel değerler dikkate alınarak",
+    "D": "Hükümlülerin eğitim seviyelerine gör",
+    "Answer": "Ulusal ve yerel kültürel değerler dikkate alınarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kapalı kurumlarda bulunan hükümlüler, telefonla görüşme hakkını yalnızca mahkeme kararı ile kullanabilir.",
+    "B": "Kapalı kurumlarda bulunan hükümlüler, belgelendirmeleri koşuluyla eşi, dördüncü dereceye kadar kan ve kayın hısımları ve vasisi ile telefon görüşmesi yapabilir.",
+    "C": "Kapalı kurumlarda bulunan hükümlüler, herhangi bir belge sunmadan istedikleri kişilerle telefon görüşmesi yapabilir.",
+    "D": "Telefonla görüşme hakkı, yalnızca açık kurumlarda bulunan hükümlüler için geçerlidir.",
+    "Answer": "Kapalı kurumlarda bulunan hükümlüler, belgelendirmeleri koşuluyla eşi, dördüncü dereceye kadar kan ve kayın hısımları ve vasisi ile telefon görüşmesi yapabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Disiplin cezaları olsa bile, anne, baba, eş, çocuk ve kardeşlerin ölüm veya ağır hastalıkları ya da doğal afet hâllerinde hükümlülerin telefon görüşme hakları engellenebilir.",
+    "B": "Hükümlüler, haberleşme veya iletişim araçlarından yoksun bırakılma veya kısıtlama cezası ile hücreye koyma cezasının infazı sırasında olmamak koşuluyla, idarenin kontrolünde bulunan ve kurumun uygun yerlerine yerleştirilen telefonlardan yararlandırılır.",
+    "C": "Açık ve kapalı kurumlardaki hükümlüler; altsoy, üstsoy, eş ve kardeşlerinin ölüm, ağır hastalık, salgın hastalık veya doğal afet hâllerinde, kuruma ait telefon ve faks cihazından derhal yararlandırılır. Bu hâlde, yapılan telefon konuşmaları o haftaya ait konuşma hakkından sayılmaz. Görüşmeler, tutanak ile belgelenir ve tutanaklar özel bir dosyada saklanır",
+    "D": "Kurum personeli hükümlülere tahsis edilen telefonları kullanamaz.",
+    "Answer": "Disiplin cezaları olsa bile, anne, baba, eş, çocuk ve kardeşlerin ölüm veya ağır hastalıkları ya da doğal afet hâllerinde hükümlülerin telefon görüşme hakları engellenebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlüler, telefon görüşmesi hakkına sahip oldukları konusunda bilgilendirilir.",
+    "B": "Hükümlülerin telefonla görüşme gün ve saatleri, kurumda bulunan telefon adedi, başvuru sırası, kurumun asayiş ve güvenliği dikkate alınarak idare tarafından belirlenir.",
+    "C": "Hükümlüler görüşebilecekleri yakınlarından bir veya birden fazla kişi ile haftada bir kez ve bir telefon numarasıyla bağlantı kurarak kesintisiz görüşme yapabilir. Herhangi bir nedenle görüşme gerçekleşememişse daha önceden bildirilen numaralardan bir diğeriyle görüşebilir. Konuşma süresi görüşme başladığı andan itibaren on dakikayı geçemez. Deprem, salgın hastalık, doğal afet gibi zaruri hâllerde Genel Müdürlük kararı ile telefon ile görüşme süresi ve sayısı artırılabilir.",
+    "D": "Terör ve çıkar amaçlı suç örgütü üyeleri, görüntülü görüşme ve görüşme süresinin uzatılmasına ilişkin haktan, kurumdaki tutum, davranış, eğitim ve iyileştirme faaliyetlerine katılma gibi durumlar dikkate alınarak yararlandırılabilir.",
+    "Answer": "Hükümlüler görüşebilecekleri yakınlarından bir veya birden fazla kişi ile haftada bir kez ve bir telefon numarasıyla bağlantı kurarak kesintisiz görüşme yapabilir. Herhangi bir nedenle görüşme gerçekleşememişse daha önceden bildirilen numaralardan bir diğeriyle görüşebilir. Konuşma süresi görüşme başladığı andan itibaren on dakikayı geçemez. Deprem, salgın hastalık, doğal afet gibi zaruri hâllerde Genel Müdürlük kararı ile telefon ile görüşme süresi ve sayısı artırılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, görüntülü telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Görüntülü telefon görüşmesi yapılmasına imkân sağlayan teknik altyapının bulunduğu kurumlarda, haftalık görüşme süresi otuz dakika olarak uygulanır ve ilave edilen süre devredilemez.",
+    "B": "Haftalık ziyaret hakkını kullanmayan hükümlülerin bir sonraki haftalık telefon görüşme süresine ilave edilen otuz dakika devredilebilir.",
+    "C": "Çocuk hükümlüler ve sıfır-altı yaş grubunda çocuğu bulunan kadın hükümlüler hakkında telefonla görüşme süresi iki kat olarak uygulanmaz.",
+    "D": "Hükümlülere, mensubu bulundukları dinin bayramlarında kullanılmak üzere ilave telefon görüşme hakkı verilmez.",
+    "Answer": "Görüntülü telefon görüşmesi yapılmasına imkân sağlayan teknik altyapının bulunduğu kurumlarda, haftalık görüşme süresi otuz dakika olarak uygulanır ve ilave edilen süre devredilemez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Haftalık görüşme süresi, görüntülü telefon görüşme altyapısı bulunan kurumlarda otuz dakika olarak uygulanır.",
+    "B": "Görüşmeler aynı hafta içerisinde toplam üç görüşmeyi aşmamak kaydıyla bölünebilir.",
+    "C": "Çocuk hükümlüler ile sıfır-altı yaş grubunda çocuğu bulunan kadın hükümlüler için telefonla görüşme süresi iki kat olarak uygulanır.",
+    "D": "Haftalık ziyaret hakkını kullanmayan hükümlülerin telefon görüşme süresine ek otuz dakika ilave edilir ve bu süre devredilebilir",
+    "Answer": "Haftalık ziyaret hakkını kullanmayan hükümlülerin telefon görüşme süresine ek otuz dakika ilave edilir ve bu süre devredilebilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Tehlikeli hükümlüler, idare ve gözlem kurulu tarafından belirlenerek on beş günde bir kez olmak ve on dakikayı geçmemek üzere sadece eşi, çocukları, annesi ve babası ile görüntülü görüşme yapabilir.",
+    "B": "Tehlikeli hükümlü oldukları idare ve gözlem kurulu tarafından belirlenen hükümlüler, on beş günde bir kez olmak ve on dakikayı geçmemek üzere sadece eşi, çocukları, annesi ve babası ile sadece sesli olarak görüşebilir.",
+    "C": "Tehlikeli hükümlülerin telefonla görüşme hakkı, aile üyeleriyle sınırlı değildir ve görüşme süresi sınırlandırılmamıştır.",
+    "D": "Tehlikeli hükümlüler sadece eşiyle görüşebilir ve görüşme süresi yirmi dakika ile sınırlandırılır.",
+    "Answer": "Tehlikeli hükümlü oldukları idare ve gözlem kurulu tarafından belirlenen hükümlüler, on beş günde bir kez olmak ve on dakikayı geçmemek üzere sadece eşi, çocukları, annesi ve babası ile sadece sesli olarak görüşebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlü, kurumun güvenliğini tehlikeye düşüren veya suç oluşturan konuşmalar yaptığı tespit edilirse, görüşme süresi uzatılabilir.",
+    "B": "Hükümlülerin görüşme yapması sırasında kurum idaresinin hiçbir müdahalesi olamaz.",
+    "C": "Görüşme esnasında, yalnızca kurum güvenliğini tehdit eden konuşmalar sonucunda görüşme kesilir, diğer durumlar göz ardı edilir.",
+    "D": "Hükümlü, başka bir hatta yönlendirme yapmak suretiyle görüşme hakkı olmayan kişilerle görüşme yaparsa, görüşme derhal kesilir ve bu durumda adli veya idari soruşturma başlatılır.",
+    "Answer": "Hükümlü, başka bir hatta yönlendirme yapmak suretiyle görüşme hakkı olmayan kişilerle görüşme yaparsa, görüşme derhal kesilir ve bu durumda adli veya idari soruşturma başlatılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Terör örgütü yöneticiliği ve suç işlemek amacıyla kurulan silahlı örgüt yöneticiliği suçundan mahkûm olanlar, haftada on dakikayı geçmemek üzere sadece sesli görüşme yapabilir.",
+    "B": "Terör örgütü yöneticiliği ve suç işlemek amacıyla kurulan silahlı örgüt yöneticiliği suçundan mahkûm olanlar, haftada on beş dakikayı geçmemek üzere yalnızca görüntülü görüşme yapabilir.",
+    "C": "Suç işlemek amacıyla kurulan silahlı örgütün yöneticiliğini yapmaya devam eden hükümlülere, her türlü telefon görüşmesi yaptırılabilir.",
+    "D": "Terör örgütü yöneticiliği suçundan mahkûm olanlar, hiçbir şart altında telefonla görüşme yapamaz.",
+    "Answer": "Terör örgütü yöneticiliği ve suç işlemek amacıyla kurulan silahlı örgüt yöneticiliği suçundan mahkûm olanlar, haftada on dakikayı geçmemek üzere sadece sesli görüşme yapabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Ağırlaştırılmış müebbet hapis cezası alan hükümlüler, idare ve gözlem kurulunun uygun gördüğü hâllerde ve on beş günde bir olmak üzere eşi, altsoy ve üstsoyu, kardeşleri ve vasisi ile on dakikayı geçmemek üzere sadece sesli görüşebilir.",
+    "B": "Ağırlaştırılmış müebbet hapis cezası alan hükümlüler, her hafta on dakikayı geçmemek üzere süreyle telefonla görüşebilir.",
+    "C": "Ağırlaştırılmış müebbet hapis cezası alan hükümlüler, yalnızca eşi ile görüşebilir ve görüşme süresi sınırlandırılmamıştır.",
+    "D": "Ağırlaştırılmış müebbet hapis cezası alan hükümlüler, yalnızca yazılı iletişim kurabilir, telefonla görüşme hakkı verilmez.",
+    "Answer": "Ağırlaştırılmış müebbet hapis cezası alan hükümlüler, idare ve gözlem kurulunun uygun gördüğü hâllerde ve on beş günde bir olmak üzere eşi, altsoy ve üstsoyu, kardeşleri ve vasisi ile on dakikayı geçmemek üzere sadece sesli görüşebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Telefonla görüşme ücreti, kurum tarafından karşılanır ve hükümlüler herhangi bir ücret ödemezler.",
+    "B": "Telefon kartları, yalnızca müdürü bulunan kurumlarda satılır ve diğer kurumlar için herhangi bir düzenleme yapılmaz.",
+    "C": "Telefon kartları sadece elektronik ortamda sağlanır, kurumlarda fiziksel kart satışı yapılmaz.",
+    "D": "Telefonla görüşme ücreti, görüşmeyi yapan hükümlü tarafından karşılanır ve görüşme için kullanılan telefon kartları kurum kantininde satılır.",
+    "Answer": "Telefonla görüşme ücreti, görüşmeyi yapan hükümlü tarafından karşılanır ve görüşme için kullanılan telefon kartları kurum kantininde satılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlü telefonla görüşme hakkını kullanmak için form doldurmaz ve görüşme yapmak istediği kişileri idareye bildirme yükümlülüğü yoktur.",
+    "B": "Hükümlü, telefonla görüşme hakkını kullanabilmek için Telefon Görüşme Formu doldurur ve bu formda telefon görüşmesi yapmak istediği kişileri, yakınlık derecelerini ve telefon numaralarını belirtir.",
+    "C": "Telefon görüşme formunda yer alan bilgilerde değişiklik olsa bile hükümlüye yeni form düzenleme zorunluluğu getirilmez.",
+    "D": "Telefon görüşmesi yapmak isteyen hükümlüler yalnızca sabit telefon numaralarını belirtir, cep telefonları ve yurtdışı numaraları formda yer almaz.",
+    "Answer": "Hükümlü, telefonla görüşme hakkını kullanabilmek için Telefon Görüşme Formu doldurur ve bu formda telefon görüşmesi yapmak istediği kişileri, yakınlık derecelerini ve telefon numaralarını belirtir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlünün telefon görüşmesi için formda belirttiği bilgiler kaydedilmez, sadece görüşme yapılacağı kişiler hakkında bilgi toplanır.",
+    "B": "Hükümlünün formda belirttiği bilgiler ve varsa değişiklikler deftere veya sisteme kaydedilir. Ayrıca, telefon görüşmesi yapmak isteyen hükümlünün haberleşme veya iletişim araçlarından yoksun bırakılma cezası olup olmadığı ve varsa hücreye koyma cezasının infazına başlanıp başlanmadığı kaydedilir.",
+    "C": "Hükümlünün formda belirttiği bilgiler deftere kaydedilmez, sadece sistemde saklanır ve denetime tabi tutulmaz.",
+    "D": "Defterler, sadece kurum müdürü tarafından kontrol edilir ve güvenlik servisi tarafından tutulmaz.",
+    "Answer": "Hükümlünün formda belirttiği bilgiler ve varsa değişiklikler deftere veya sisteme kaydedilir. Ayrıca, telefon görüşmesi yapmak isteyen hükümlünün haberleşme veya iletişim araçlarından yoksun bırakılma cezası olup olmadığı ve varsa hücreye koyma cezasının infazına başlanıp başlanmadığı kaydedilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Telefonla görüşme yapmak isteyen hükümlüler, Telefon Görüşme İstek Formu doldurarak idareye verir. Bu formlar, hükümlü telefon görüşme defteri ile karşılaştırılır ve engel bir hâli bulunmayan hükümlülerin isim listesi idare tarafından onaylanır.",
+    "B": "Hükümlüler telefonla görüşme yapmak için form doldurmaz, görüşme istekleri doğrudan idareye bildirilir.",
+    "C": "Hükümlülerin telefonla görüşme yapmak için engel bir hâli olup olmadığı kontrol edilmez ve bu konuda herhangi bir işlem yapılmaz.",
+    "D": "Telefonla görüşme yapmak isteyen hükümlülerin istekleri sadece infaz ve koruma başmemuru tarafından kontrol edilip sonuçlar kaydedilmeden doğrudan yapılır.",
+    "Answer": "Telefonla görüşme yapmak isteyen hükümlüler, Telefon Görüşme İstek Formu doldurarak idareye verir. Bu formlar, hükümlü telefon görüşme defteri ile karşılaştırılır ve engel bir hâli bulunmayan hükümlülerin isim listesi idare tarafından onaylanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Konuşma sırası gelen hükümlü, güvenlik önlemleri alınarak telefon görüşmesi yapılacak yere getirilir ve görüşme öncesinde adını ve soyadını söyleyerek konuşmasına başlar.",
+    "B": "Hükümlü, görüşme sırasında adını ve soyadını söylemeden doğrudan görüşmeye başlayabilir.",
+    "C": "Telefon görüşmesinde, sadece hükümlünün adını ve soyadını söylemesi yeterlidir, diğer bilgilere ihtiyaç duyulmaz.",
+    "D": "Görüşme tamamlandığında, konuşmayı yapan hükümlü ve görevli memur tarafından imzalanan formda herhangi bir kaydetme işlemi yapılmaz.",
+    "Answer": "Hükümlü, görüşme sırasında adını ve soyadını söylemeden doğrudan görüşmeye başlayabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülere dışarıdan telefon açılmak suretiyle görüşme yaptırılır.",
+    "B": "Hükümlülere, dışarıdan telefon açılmak suretiyle görüşme yaptırılır, ancak bunun için özel izin gereklidir.",
+    "C": "Hükümlülere, yalnızca kurum içindeki telefonlardan görüşme yapma hakkı tanınır, dışarıdan telefonla görüşme yapılmaz.",
+    "D": "Hükümlülerin dışarıdan telefonla görüşme yapması serbesttir ve kurumun onayı gerekmemektedir.",
+    "Answer": "Hükümlülere, yalnızca kurum içindeki telefonlardan görüşme yapma hakkı tanınır, dışarıdan telefonla görüşme yapılmaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Telefon görüşmeleri Türkçe yapılır, ancak hükümlü Türkçe bilmeyen biriyle görüşmek isterse, görüşme kayda alınarak yapılabilir.",
+    "B": "Hükümlüler, kendilerinin veya görüşeceği kişinin Türkçe bilmediğini beyan ederse, konuşmanın kayda alınmasına gerek yoktur.",
+    "C": "Konuşmalar, suç teşkil etme ihtimali olduğunda kayda alınabilir, ancak görüşme yaparken yalnızca Türkçe kullanılmasına izin verilir.",
+    "D": "Hükümlü, bir kez kayda alınan görüşme sonrasında, Türkçe bilmeyen kişiyle tekrar görüşme yaparsa, konuşma kayda alınmaz.",
+    "Answer": "Hükümlüler, kendilerinin veya görüşeceği kişinin Türkçe bilmediğini beyan ederse, konuşmanın kayda alınmasına gerek yoktur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, telefonla görüşme hakkına ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Yabancı uyruklu hükümlülerin görüşmeleri için bildirdiği telefon numaralarının, bildirilen kişilere ait olup olmadığı şüpheye düşerse, ilgili konsolosluk makamlarından bilgi istenir.",
+    "B": "Yabancı uyruklu hükümlülerin telefon görüşmeleri, sadece hükümlülerin kendisi tarafından bildirilen numaralarla yapılabilir ve bu numaralar için hiçbir ek belge gerekmez.",
+    "C": "Görüşme yapılması talep edilen telefon numaralarının kime ait olduğunu gösteren, yetkili makamlarca düzenlenmiş resmi evrakın Türkçe tercümesi, hükümlünün yasal temsilcisi veya yakınları tarafından da ibraz edilebilir.",
+    "D": "",
+    "Answer": "Yabancı uyruklu hükümlülerin telefon görüşmeleri, sadece hükümlülerin kendisi tarafından bildirilen numaralarla yapılabilir ve bu numaralar için hiçbir ek belge gerekmez.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

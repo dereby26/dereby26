@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre mazeret izni için Cumhuriyet başsavcılığının onayına ek olarak hangi şart aranır?",
+    "A": "Cezaevi müdürünün onayı",
+    "B": "Kurum en üst amirinin önerisi",
+    "C": "Disiplin kurulunun izni",
+    "D": "İdare kurulunun kararı",
+    "Answer": "Kurum en üst amirinin önerisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hangi durumlarda hükümlüye mazeret izni verilebilir?",
+    "A": "Yakın bir akrabasının vefatı",
+    "B": "Maddi sorunlar yaşaması",
+    "C": "Eğitim ihtiyacı",
+    "D": "İzin talebinde bulunması",
+    "Answer": "Yakın bir akrabasının vefatı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlünün yaşamsal tehlike arz eden bir felaketten etkilenmesi durumunda hangi koşul yerine getirilmeli?",
+    "A": "Felaketin belgelendirilmesi ve araştırılması",
+    "B": "Hükümlünün izin talebinde bulunması",
+    "C": "İlgili belgenin kurum tarafından düzenlenmesi",
+    "D": "Hükümlünün cezasının yarısını doldurmuş olması",
+    "Answer": "İlgili belgenin kurum tarafından düzenlenmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlünün izin süresi dışında kaç güne kadar yol izni verilebilir?",
+    "A": "3 gün",
+    "B": "5 gün",
+    "C": "2 gün",
+    "D": "4 gün",
+    "Answer": "5 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlülerin hangi durumda kendi evi veya güvenli görülen bir yerde gece konaklamasına izin verilir?",
+    "A": "İzin süresi içinde başka yerde kalmak istemediğinde",
+    "B": "Gideceği yerde cezaevi yoksa",
+    "C": "Valilik tarafından güvenlik tedbirleri değerlendirilirse",
+    "D": "Hükümlü, özel izin talebinde bulunursa",
+    "Answer": "Valilik tarafından güvenlik tedbirleri değerlendirilirse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hasta ziyareti amacıyla hükümlüye mazeret izni kaç defa verilebilir?",
+    "A": "Bir kez",
+    "B": "İki kez",
+    "C": "Üç kez",
+    "D": "Her yıl",
+    "Answer": "İki kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlülerin mazeret izni ile yurt dışına çıkmasına izin verilmesi için ne gereklidir?",
+    "A": "İdare ve gözlem kurulunun onayı",
+    "B": "Bakanlık izni",
+    "C": "Yurt dışına çıkmasına izin verilmez",
+    "D": "Cumhuriyet başsavcısının kararı",
+    "Answer": "Yurt dışına çıkmasına izin verilmez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlüye izin verilmesi sırasında göz önünde bulundurulması gereken şartlar nelerdir?",
+    "A": "Hava koşulları ve yol durumu",
+    "B": "Ailesinin izin talep etmesi",
+    "C": "Hükümlünün psikolojik durumu",
+    "D": "Diğer hükümlülerle ilişkisi",
+    "Answer": "Hükümlünün psikolojik durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlünün mazeret izin talebi reddedilirse bu durum kime bildirilir?",
+    "A": "Ailesine",
+    "B": "Disiplin kuruluna",
+    "C": "Bakanlığa",
+    "D": "Hükümlüye gerekçesiyle birlikte",
+    "Answer": "Hükümlüye gerekçesiyle birlikte",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre kapalı kurumda bulunan hükümlüler mazeret izni sırasında nasıl bir düzenleme ile yolculuk yapar?",
+    "A": "Refakatsiz yolculuk yapar",
+    "B": "Dış güvenlik görevlisi refakatinde gider",
+    "C": "Ailesi refakat eder",
+    "D": "Başka bir hükümlüyle birlikte gönderilir",
+    "Answer": "Dış güvenlik görevlisi refakatinde gider",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlünün hasta ziyareti için izin alması için hangi belgeler gereklidir?",
+    "A": "Akrabalık belgesi ve resmi rapor",
+    "B": "Cezaevi müdürünün izni",
+    "C": "Psikolojik rapor",
+    "D": "İdari izin belgesi",
+    "Answer": "Akrabalık belgesi ve resmi rapor",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlüye hasta ziyareti için izin verildiğinde, konaklama yeri nerede olabilir?",
+    "A": "Kendi evi veya yakınlarının evi",
+    "B": "Otel",
+    "C": "Açık kurum dışındaki bir tesis",
+    "D": "Başka bir ülke",
+    "Answer": "Otel",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre deprem veya yangın gibi doğal afetler nedeniyle verilecek mazeret izni öncesinde hangi makam inceleme yapar?",
+    "A": "Cumhuriyet başsavcılığı",
+    "B": "Cezaevi müdürü",
+    "C": "Disiplin kurulu",
+    "D": "Valilik",
+    "Answer": "Valilik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hangi durumda hükümlüye mazeret izni verilmeyeceği başsavcılıkça bildirilir?",
+    "A": "Hükümlü iznini suiistimal ederse",
+    "B": "Uygun görülmemesi hâlinde",
+    "C": "Hükümlü ısrarla izne gitmek isterse",
+    "D": "Aile bireyleri izni onaylamazsa",
+    "Answer": "Uygun görülmemesi hâlinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlünün mazeret izni talebine hangi belge eklenir?",
+    "A": "Gözlem raporu",
+    "B": "Kimlik belgesi",
+    "C": "Sağlık raporu",
+    "D": "İdare kararı",
+    "Answer": "Sağlık raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlünün ana, baba veya eşinin önemli bir sağlık sorunu varsa izin kaç gün verilir?",
+    "A": "Bir gün",
+    "B": "İki gün",
+    "C": "Üç gün",
+    "D": "Beş gün",
+    "Answer": "Beş gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre hükümlünün mazeret izni alabilmesi için hangi yakınlık derecesi nüfus kayıt belgesi ile kanıtlanır?",
+    "A": "İkinci derece dâhil",
+    "B": "Dördüncü derece dâhil",
+    "C": "Sadece anne ve babası",
+    "D": "Kuzen ve yeğen",
+    "Answer": "İkinci derece dâhil",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre tutukluların mazeret izinleri hangi kanunun hükümlerine göre düzenlenir?",
+    "A": "4675 Sayılı Kanun’un 10. Maddesi",
+    "B": "5275 Sayılı Kanun’un 116. Maddesi",
+    "C": "Ceza Kanunu",
+    "D": "Adalet Bakanlığı Yönetmeliği",
+    "Answer": "5275 Sayılı Kanun’un 116. Maddesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, 5275 sayılı Kanunun 9 uncu maddesi gereğince yüksek güvenlikli kurumlarda bulunanlar dışındaki hükümlülere, hükümlülük süresinin kaçta kaçını iyi hâlle geçirmiş olanlara mazeret izni verilir?",
+    "A": "Yarısına",
+    "B": "Üçte birine",
+    "C": "Dörtte birine",
+    "D": "Onda birine",
+    "Answer": "Onda birine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre ana, baba, eş, kardeş veya çocuğunun yaşamsal tehlike oluşturacak önemli ve ağır hastalık hâllerinin veya deprem, su baskını, yangın gibi felaketler nedeniyle zarara uğradıklarının belgelendirilmesi koşuluyla kurum en üst amirinin görüşü, Cumhuriyet başsavcılığının önerisi ve Bakanlığın onayı ile yol dışında kaç güne kadar izin verilir?",
+    "A": "3 gün",
+    "B": "5 gün",
+    "C": "7 gün",
+    "D": "10 gün",
+    "Answer": "10 gün",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

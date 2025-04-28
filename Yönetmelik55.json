@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kısmen veya tamamen sakıncalı görülen mektuplarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kısmen veya tamamen sakıncalı görülen mektuplar, disiplin kurulu kararı kesinleşmeden önce idarece imha edilir.",
+    "B": "Sakıncalı görülen mektuplar, iç hukuk veya uluslararası hukuk yollarına başvuru yapılmadan da idare tarafından başvuru süresine bakılmaksızın imha edilir.",
+    "C": "Kısmen veya tamamen sakıncalı görülen mektuplar, iç hukuk veya uluslararası hukuk yollarına başvuru yapılması durumunda kullanılmak üzere idarece saklanır.",
+    "D": "Kısmen veya tamamen sakıncalı görülen mektuplar, disiplin kurulunun kararı sonrası hiçbir durumda saklanmaz.",
+    "Answer": "Kısmen veya tamamen sakıncalı görülen mektuplar, iç hukuk veya uluslararası hukuk yollarına başvuru yapılması durumunda kullanılmak üzere idarece saklanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, nakledilen hükümlülere gönderilen mektuplarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Nakledilmiş hükümlülerin mektupları, gönderildikleri kurumda incelenmeden doğrudan hükümlüye teslim edilir.",
+    "B": "Başka kurumlara nakledilmiş hükümlülerin mektupları, açılmaksızın en kısa sürede nakledildikleri kuruma gönderilir.",
+    "C": "Hükümlü başka bir kuruma nakledilmişse mektuplar eski kurumunda açılıp incelendikten sonra yeni kuruma iletilir.",
+    "D": "Nakledilen hükümlülerin mektupları, herhangi bir prosedür olmaksızın posta ile hükümlüye doğrudan ulaştırılır.",
+    "Answer": "Başka kurumlara nakledilmiş hükümlülerin mektupları, açılmaksızın en kısa sürede nakledildikleri kuruma gönderilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, nakledilen ve salıverilen hükümlülere gönderilen mektuplarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Salıverilen hükümlülere gönderilen mektuplar, posta idaresine geri verilir.",
+    "B": "Salıverilen hükümlülere gönderilen mektuplar, eski kurum tarafından saklanır ve hükümlü talep ederse kendisine teslim edilir.",
+    "C": "Salıverilen hükümlülere gönderilen mektuplar, eski kurum tarafından açılarak içeriği kontrol edilir ve sonrasında posta idaresine geri gönderilir.",
+    "D": "Salıverilen hükümlülere gönderilen mektuplar, başka bir hükümlüye teslim edilir.",
+    "Answer": "Salıverilen hükümlülere gönderilen mektuplar, posta idaresine geri verilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin adlarına gelen posta ve kargo işlemleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlülere gönderilen tüm eşya ve havaleler, içeriği kontrol edilmeksizin doğrudan teslim edilir.",
+    "B": "Hükümlülere gönderilen eşyalar, sakıncalı olup olmadığına bakılmaksızın kuruma sokulur ve hükümlüye verilir.",
+    "C": "Hükümlülerin adlarına posta veya kargo ile gönderilen havale ve eşya, kurum mutemedi tarafından en geç yedi gün içinde postadan alınır.",
+    "D": "Gönderinin mevzuat hükümlerine göre kuruma sokulması sakıncalı olması durumunda, eşya yine de hükümlüye teslim edilir.",
+    "Answer": "Hükümlülerin adlarına posta veya kargo ile gönderilen havale ve eşya, kurum mutemedi tarafından en geç yedi gün içinde postadan alınır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sakıncalı görülen gönderilerle ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Sakıncalı olduğu belirlenen gönderiler hakkında, posta veya kargodan alındığı tarihten itibaren on beş gün içerisinde hükümlüye yazılı bilgi verilir.",
+    "B": "Hükümlü, bildirimin yapıldığı tarihten itibaren on beş gün içinde infaz hâkimliğine itiraz hakkını kullanmadığı takdirde, gönderi göndericiye veya hükümlünün göstereceği kişiye iade edilir.",
+    "C": "Eşyanın bozulabilir olması veya maddi değerinde azalma olasılığı bulunması hâlinde gönderi, gönderene iade edilir.",
+    "D": "Hükümlü talep ettiğinde, sakıncalı gönderi bozulabilir nitelikte olsa bile ilk ziyaret günü yakınlarına verilmek üzere kurum emanet deposunda saklanır.",
+    "Answer": "Hükümlü talep ettiğinde, sakıncalı gönderi bozulabilir nitelikte olsa bile ilk ziyaret günü yakınlarına verilmek üzere kurum emanet deposunda saklanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ziyaret ve ziyaret yeri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlüleri ve yabancı hükümlüleri ziyaret etmek ile ilgili işlemlerde, 5275 sayılı Kanunun 83, 84, 85 ve 86. maddeleri ile Hükümlü ve Tutukluların Ziyaret Edilmeleri Hakkında Yönetmelik hükümleri uygulanır.",
+    "B": "Hükümlülerin ve yabancı hükümlülerin ziyaret edilmesiyle ilgili yalnızca 5275 sayılı Kanun’un genel hükümleri esas alınır, özel yönetmelik hükümleri uygulanmaz.",
+    "C": "Hükümlüleri ziyaret etmek, 5275 sayılı Kanun’un 83 ve 84. maddelerine dayanılarak düzenlenir, ancak 85 ve 86. maddeleri bu süreçte dikkate alınmaz.",
+    "D": "Yabancı hükümlülerin ziyaret edilmesiyle ilgili hükümler, yalnızca uluslararası sözleşmelere dayanılarak düzenlenir ve ulusal kanunlar bu süreci kapsamaz.",
+    "Answer": "Hükümlüleri ve yabancı hükümlüleri ziyaret etmek ile ilgili işlemlerde, 5275 sayılı Kanunun 83, 84, 85 ve 86. maddeleri ile Hükümlü ve Tutukluların Ziyaret Edilmeleri Hakkında Yönetmelik hükümleri uygulanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sakıncalı görülen mektuplar kimin tarafından incelenerek sakıncalı olup olmadığına karar verilir?",
+    "A": "Güvenlik birimi",
+    "B": "Mektup okuma komisyonu",
+    "C": "Disiplin kurulu",
+    "D": "Kurum müdürü",
+    "Answer": "Mektup okuma komisyonu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, sakıncalı görülen mektup kısmen sakıncalı ise hükümlüye hangi işlemle verilir?",
+    "A": "Mektubun sakıncalı bölümleri çizilerek verilir",
+    "B": "Tamamıyla geri çevrilir",
+    "C": "Mektup yok edilir",
+    "D": "Hükümlüye hiçbir bilgilendirme yapılmaz",
+    "Answer": "Mektubun sakıncalı bölümleri çizilerek verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, tamamen sakıncalı olan mektuplar için hükümlünün hangi kuruma başvurma hakkı vardır?",
+    "A": "Anayasa Mahkemesi",
+    "B": "İdare mahkemesi",
+    "C": "İnfaz hâkimliği",
+    "D": "Disiplin kurulu",
+    "Answer": "İnfaz hâkimliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu tarafından tamamen sakıncalı bulunan bir mektup için infaz hâkimliği kararının kesinleşmesi hâlinde mektup hakkında ne yapılır?",
+    "A": "Hükümlüye teslim edilir",
+    "B": "Yok edilir",
+    "C": "Disiplin kuruluna geri gönderilir",
+    "D": "Hükümlüye iade edilir",
+    "Answer": "Yok edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüye sakıncalı görülen bir mektup hakkında başvuru süresi dolmuşsa hangi işlem yapılır?",
+    "A": "Disiplin kurulu kararı yerine getirilir",
+    "B": "Mektup hükümlüye teslim edilir",
+    "C": "Mektup tamamen reddedilir",
+    "D": "Mektup süresiz olarak saklanır",
+    "Answer": "Disiplin kurulu kararı yerine getirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, disiplin kurulu tarafından sakıncalı olarak değerlendirilen mektubun saklanma süresi hangi hallerde uzatılabilir?",
+    "A": "Mektubun sahibinin istemesi hâlinde",
+    "B": "Her durumda süresiz saklanır",
+    "C": "Saklama süresi hiçbir şekilde uzatılamaz",
+    "D": "İnfaz hâkimliği veya diğer iç hukuk yollarına başvurulması hâlinde",
+    "Answer": "İnfaz hâkimliği veya diğer iç hukuk yollarına başvurulması hâlinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, başka kuruma nakledilmiş hükümlülerin mektupları ne yapılır?",
+    "A": "Hükümlüye teslim edilir",
+    "B": "Yırtılır ve imha edilir",
+    "C": "Nakledildikleri kuruma gönderilir",
+    "D": "Gönderen kişiye geri gönderilir",
+    "Answer": "Nakledildikleri kuruma gönderilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, salıverilen hükümlülere gönderilen mektuplar ne yapılır?",
+    "A": "Kurumda saklanır",
+    "B": "Nakil kurumuna gönderilir",
+    "C": "Hükümlüye bizzat iletilir",
+    "D": "Posta idaresine geri verilir",
+    "Answer": "Hükümlüye bizzat iletilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülere posta yoluyla gönderilen sakıncalı eşyalar hakkında yapılacak işlem nedir?",
+    "A": "Hükümlüye teslim edilir",
+    "B": "Kurum tarafından yok edilir",
+    "C": "Gönderen kişiye geri iade edilir",
+    "D": "Disiplin kuruluna sevk edilir",
+    "Answer": "Kurum tarafından yok edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüye gönderilen sakıncalı eşyalar hakkındaki bilgilendirme en geç kaç gün içinde yapılır?",
+    "A": "7 gün",
+    "B": "10 gün",
+    "C": "15 gün",
+    "D": "20 gün",
+    "Answer": "7 gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün kargo ile gönderilen sakıncalı eşyasına itiraz etmemesi durumunda gönderi ne yapılır?",
+    "A": "Hükümlüye teslim edilir",
+    "B": "Eşya emanete alınır",
+    "C": "Yok edilir",
+    "D": "Göndericiye iade edilir",
+    "Answer": "Yok edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün ilk ziyaret gününe kadar saklanması istenen bir eşya hangi koşullarda göndericiye iade edilir?",
+    "A": "Hükümlünün talep etmesi hâlinde",
+    "B": "Eşyanın saklama süresi dolduğunda",
+    "C": "Hükümlünün ziyaretine yakın zamanda izin verildiğinde",
+    "D": "Bozulabilir olması veya değer kaybı yaşaması durumunda",
+    "Answer": "Bozulabilir olması veya değer kaybı yaşaması durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüleri ziyaret ile ilgili hangi yönetmelik hükümleri uygulanır?",
+    "A": "Hükümlülerin ve Tutukluların Cezaevi İşleri Yönetmeliği",
+    "B": "Hükümlü ve Tutukluların Ziyaret Edilmeleri Hakkında Yönetmelik",
+    "C": "Adli Kontrol Yönetmeliği",
+    "D": "Hükümlü ve Tutuklulara Ziyaretçi Kabul Esasları",
+    "Answer": "Hükümlü ve Tutukluların Ziyaret Edilmeleri Hakkında Yönetmelik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, nakledilen hükümlülerin mektupları hangi kurum tarafından açılır ve incelenir?",
+    "A": "Nakledildiği kurum",
+    "B": "Gönderen kurum",
+    "C": "Disiplin kurulu",
+    "D": "Güvenlik birimi",
+    "Answer": "Nakledildiği kurum",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

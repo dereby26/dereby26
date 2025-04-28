@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, terör suçlarından hükümlü olanlar özel infaz usullerinden hangisinden yararlanabilir?",
+    "A": "Yalnızca konutta infaz",
+    "B": "Yalnızca hafta sonları infaz",
+    "C": "Yalnızca geceleri infaz",
+    "D": "Yararlanamaz",
+    "Answer": "Yararlanamaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ağır hastalık nedeniyle özel infaz usulüne göre konutta cezasını çeken hükümlü hangi koşulda infaz kurumuna alınır?",
+    "A": "Mahkeme talebiyle",
+    "B": "Hükümlü talebiyle",
+    "C": "Sağlık durumunda iyileşme olması durumunda",
+    "D": "Cumhuriyet savcısının talebiyle",
+    "Answer": "Sağlık durumunda iyileşme olması durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, Hapis cezasının infazının hastalık nedeni ile ertelenmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Akıl hastalığına tutulan hükümlünün cezasının infazı geriye bırakılır ve hükümlü, iyileşinceye kadar 5237 sayılı Kanunun 57'nci maddesinde belirtilen sağlık kurumunda koruma ve tedavi altına alınır. Sağlık kurumunda geçen süreler ceza infaz kurumunda geçmiş sayılır.",
+    "B": "Diğer hastalıklarda cezanın infazına, resmî sağlık kuruluşlarının hükümlülere ayrılan bölümlerinde devam olunur. Ancak bu durumda bile hapis cezasının infazı, hükümlünün hayatı için kesin bir tehlike teşkil ediyorsa cezanın infazı, hükümlü iyileşinceye kadar geri bırakılır.",
+    "C": "Hapis cezasının infazı, gebe olan veya doğurduğu tarihten itibaren bir yıl altı ay geçmemiş bulunan kadınlar hakkında geri bırakılır. Çocuk ölmüş veya anasından başka birine verilmiş olursa, doğumdan itibaren altı ay sonra ceza infaz olunur.",
+    "D": "Kapalı ceza infaz kurumuna girdikten sonra gebe kalanlardan koşullu salıverilmesine altı yıldan fazla süre kalanlar ile eylem ve tutumları nedeniyle tehlikeli sayılanlar hakkında üçüncü fıkra hükümleri uygulanır. Bu kişilerin cezasının üçüncü fıkrada öngörülen kısmı, ceza infaz kurumlarında kendileri için düzenlenen uygun yerlerde infaz olunur.",
+    "Answer": "Hapis cezasının infazı, gebe olan veya doğurduğu tarihten itibaren bir yıl altı ay geçmemiş bulunan kadınlar hakkında geri bırakılır. Çocuk ölmüş veya anasından başka birine verilmiş olursa, doğumdan itibaren altı ay sonra ceza infaz olunur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, hapis cezasının infazının hastalık nedeni ile ertelenmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Akıl hastalığına tutulan hükümlünün cezasının infazı geriye bırakma kararı ile diğer hastalıklarda belirtilen geri bırakma kararı, Adli Tıp Kurumunca düzenlenen rapor üzerine, infazın yapıldığı yer Cumhuriyet savcısı tarafından verilir.",
+    "B": "Geri bırakma kararı, hükümlünün tâbi olacağı yükümlülükler belirtilmek suretiyle kendisine ve yasal temsilcisine tebliğ edilir. Hükümlünün geri bırakma süresi içinde bulunacağı yer, kendisi veya yasal temsilcisi tarafından ilgili Cumhuriyet başsavcılığına bildirilir.",
+    "C": "Hükümlünün sağlık durumu, geri bırakma kararını veren mahkeme tarafından incelenir ve geri bırakmanın devam edip etmeyeceğine karar verilir.",
+    "D": "Hapis cezasının infazının hastalık nedeni ile ertelenmesi fıkrasında yazılı yükümlülüklere aykırı hareket edilmesi hâlinde geri bırakma kararı, kararı veren infaz hâkimliğince kaldırılır. Bu karara karşı Cumhuriyet başsavcılığına başvurulabilir.",
+    "Answer": "Geri bırakma kararı, hükümlünün tâbi olacağı yükümlülükler belirtilmek suretiyle kendisine ve yasal temsilcisine tebliğ edilir. Hükümlünün geri bırakma süresi içinde bulunacağı yer, kendisi veya yasal temsilcisi tarafından ilgili Cumhuriyet başsavcılığına bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, hapis cezasının infazının hastalık nedeni ile ertelenmesine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hapis cezasının infazı, gebe olan veya doğurduğu tarihten itibaren bir yıl altı ay geçmemiş bulunan kadınlar hakkında geri bırakılır. Çocuk ölmüş veya anasından başka birine verilmiş olursa, doğumdan itibaren iki ay sonra ceza infaz olunur.",
+    "B": "Kapalı ceza infaz kurumuna girdikten sonra gebe kalanlardan koşullu salıverilmesine altı yıldan fazla süre kalanlar ile eylem ve tutumları nedeniyle tehlikeli sayılanlar hakkında dördüncü fıkra hükümleri uygulanmaz. Bu kişilerin cezasının dördüncü fıkrada öngörülen kısmı, ceza infaz kurumlarında kendileri için düzenlenen uygun yerlerde infaz olunur.",
+    "C": "Maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında hayatını yalnız idame ettiremeyen ve toplum güvenliği bakımından ağır ve somut tehlike oluşturmayacağı değerlendirilen mahkûmun cezasının infazı üçüncü fıkrada belirlenen usule göre iyileşinceye kadar geri bırakılabilir.",
+    "D": "Hapis cezasının infazı, hastalık veya gebelik durumlarında hiçbir şekilde geri bırakılmaz ve infaza devam edilir.",
+    "Answer": "Maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında hayatını yalnız idame ettiremeyen ve toplum güvenliği bakımından ağır ve somut tehlike oluşturmayacağı değerlendirilen mahkûmun cezasının infazı üçüncü fıkrada belirlenen usule göre iyileşinceye kadar geri bırakılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, hükümlünün istemiyle infazın ertelenmesine ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Kasten işlenen suçlarda üç yıl, taksirle işlenen suçlarda ise beş yıl veya daha az süreli hapis cezalarının infazı, çağrı üzerine gelen hükümlünün istemi üzerine, Cumhuriyet Başsavcılığınca ertelenebilir.",
+    "B": "Erteleme, her defasında bir yılı geçmemek üzere en fazla üç kez uygulanabilir.",
+    "C": "Erteleme süresi içinde, hükümlü hakkında kasten işlenen bir suçtan dolayı kamu davası açılması hâlinde, erteleme kararı kaldırılarak ceza derhal infaz olunur.",
+    "D": "Erteleme isteminin kabulü, güvence gösterilmesine veya diğer bir şarta bağlanabilir.",
+    "Answer": "Erteleme, her defasında bir yılı geçmemek üzere en fazla üç kez uygulanabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, hükümlünün istemiyle infazın ertelenmesi hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Hükümlünün yükseköğrenimini bitirebilmesi veya ailenin ticari faaliyetlerinin yürütülebilmesinin imkânsız hale gelmesi durumunda, hapis cezasının infazına bir yılı geçmeyen sürelerle ara verilebilir.",
+    "B": "Hükümlünün hastalığının sürekli bir tedaviyi gerektirmesi durumunda, Cumhuriyet Başsavcılığı tarafından hapis cezasına süresiz ara verilebilir.",
+    "C": "Hükümlünün eş veya çocuklarının sürekli hastalık veya malullük nedeniyle bakıma muhtaç olması durumunda, ceza infazına üç defadan fazla ara verilebilir.",
+    "D": "Ana, baba, eş veya çocukların ölümü gibi zorunlu hallerde, hapis cezasının infazına ara verilmesi, infaza hiç başlanmamışsa uygulanabilir.",
+    "Answer": "Hükümlünün yükseköğrenimini bitirebilmesi veya ailenin ticari faaliyetlerinin yürütülebilmesinin imkânsız hale gelmesi durumunda, hapis cezasının infazına bir yılı geçmeyen sürelerle ara verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, aşağıdakilerden hangisi hükümlünün hapis cezasının infazına ara verilmesi için zorunlu ve ivedi hâllerden biri değildir?",
+    "A": "Hükümlünün yükseköğrenimini bitirebilmesi.",
+    "B": "Ana, baba, eş veya çocuklarının ölümü nedeniyle ailenin ticari faaliyetlerinin yürütülebilmesinin veya tarım topraklarının işlenebilmesinin imkansız hâle gelmesi.",
+    "C": "Hükümlünün eş veya çocuklarının sürekli hastalık veya malullükleri nedeniyle bakıma muhtaç olmaları.",
+    "D": "Hükümlünün işlediği suçtan dolayı pişmanlık duyması.",
+    "Answer": "Hükümlünün işlediği suçtan dolayı pişmanlık duyması.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün istemiyle infazın ertelenmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Terör suçlarından mahkûm olanlar için hükümlünün istemiyle infazın ertelenmesi uygulanmaz.",
+    "B": "Örgüt faaliyetleri çerçevesinde işlenen suçlardan mahkûm olanlar için hükümlünün istemiyle infazın ertelenmesi uygulanmaz.",
+    "C": "Disiplin veya tazyik hapsine mahkûm olanlar için hükümlünün istemiyle infazın ertelenmesi uygulanabilir.",
+    "D": "Mükerrirlere özgü infaz rejimi uygulanmasına karar verilenler için hükümlünün istemiyle infazın ertelenmesi uygulanmaz.",
+    "Answer": "Disiplin veya tazyik hapsine mahkûm olanlar için hükümlünün istemiyle infazın ertelenmesi uygulanabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, akıl hastalığına tutulan bir hükümlünün cezasının infazı hangi şartta ertelenir?",
+    "A": "Hükümlünün isteği üzerine",
+    "B": "Hükümlü iyileşinceye kadar sağlık kurumunda tedavi edilerek",
+    "C": "Hükümlünün iyileşmesi için bir yıl süre verilerek",
+    "D": "Cezanın tamamlanmasına kadar",
+    "Answer": "Hükümlü iyileşinceye kadar sağlık kurumunda tedavi edilerek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, akıl hastası olan hükümlünün cezasının infazı hangi sağlık kurumunda gerçekleştirilir?",
+    "A": "Devlet hastanesinde",
+    "B": "Ceza infaz kurumuna bağlı sağlık biriminde",
+    "C": "Sağlık Bakanlığı tarafından belirlenen kurumda,",
+    "D": "Kanunda belirtilen sağlık kurumunda",
+    "Answer": "Kanunda belirtilen sağlık kurumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumlarda hükümlünün cezası infaz edilirken sağlığı için ciddi tehlike oluşması hâlinde infaz ertelenir?",
+    "A": "Sağlık durumunda geçici iyileşme olduğunda",
+    "B": "Hükümlünün iyileşmesi mümkün olmadığında",
+    "C": "Hayatı için kesin tehlike teşkil ediyorsa",
+    "D": "Hükümlünün talebi olduğunda",
+    "Answer": "Hayatı için kesin tehlike teşkil ediyorsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, gebe olan hükümlülerin hapis cezaları hangi süre boyunca geri bırakılır?",
+    "A": "Gebelik süresince",
+    "B": "Çocuk iki yaşına gelene kadar",
+    "C": "Çocuk ölmüşse altı ay boyunca",
+    "D": "Doğumdan itibaren bir yıl altı ay süreyle",
+    "Answer": "Çocuk iki yaşına gelene kadar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezası ertelenen bir hükümlü, geri bırakma süresi içinde nerede bulunacağını hangi kuruma bildirmelidir?",
+    "A": "Ceza infaz kurumuna",
+    "B": "Sağlık Bakanlığına",
+    "C": "İlgili Cumhuriyet başsavcılığına",
+    "D": "Kolluk kuvvetlerine",
+    "Answer": "Ceza infaz kurumuna",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir yıl veya daha az süreli hapis cezası ertelenen bir hükümlü hakkında hangi durumda erteleme kararı iptal edilir?",
+    "A": "Sağlık durumu kötüleştiğinde",
+    "B": "Cezanın süresi dolduğunda",
+    "C": "İnfaz hâkimi onay verdiğinde",
+    "D": "Hükümlü yeni bir suç işlediğinde",
+    "Answer": "Hükümlü yeni bir suç işlediğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hapis cezasının ertelenmesi istemi hangi sürelerde tekrarlanabilir?",
+    "A": "Bir defaya mahsus",
+    "B": "İki yıl boyunca süresiz olarak",
+    "C": "Her defasında bir yılı geçmeyecek şekilde en fazla iki kez",
+    "D": "Süresiz olarak",
+    "Answer": "Her defasında bir yılı geçmeyecek şekilde en fazla iki kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, Cumhuriyet Başsavcılığı tarafından cezanın infazına ara verilmesi en fazla kaç defa uygulanabilir?",
+    "A": "Sadece bir defa",
+    "B": "İki defa",
+    "C": "Üç defa",
+    "D": "Beş defa",
+    "Answer": "İki defa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, cezasının ertelenmesini talep eden hükümlüye hangi koşulda güvence gösterme şartı uygulanabilir?",
+    "A": "Hükümlü yeniden suç işlerse",
+    "B": "Hükümlünün erteleme süresi dolduğunda",
+    "C": "Güvence gösterilmesi Cumhuriyet başsavcılığınca gerekli görülürse",
+    "D": "Hükümlü itirazda bulunursa",
+    "Answer": "Güvence gösterilmesi Cumhuriyet başsavcılığınca gerekli görülürse",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, aşağıdakilerden hangisi hapis cezasının ertelenmesi kararının kaldırılmasını gerektiren bir durum değildir?",
+    "A": "Hükümlü hakkında kasten işlenen bir suçtan dava açılması",
+    "B": "Hükümlünün sağlık durumunun iyileşmesi",
+    "C": "Hükümlünün adresini bildirmemesi",
+    "D": "Hükümlünün erteleme yükümlülüğüne aykırı hareket etmesi",
+    "Answer": "Hükümlünün erteleme yükümlülüğüne aykırı hareket etmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, doğum yapan bir hükümlü hakkında cezanın infazı hangi süre geçtikten sonra devam eder?",
+    "A": "Çocuk bir yaşına geldikten sonra",
+    "B": "Doğumdan itibaren altı ay sonra",
+    "C": "Çocuk öldüğünde veya anasından başka birine verildikten iki ay sonra",
+    "D": "Çocuk üç yaşına geldikten sonra",
+    "Answer": "Çocuk bir yaşına geldikten sonra",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler tarafından verilen seminerlerin konusu ne olmalıdır?",
+    "A": "Aile yaşantısı",
+    "B": "Fiziksel gelişim",
+    "C": "Hukuki eğitim",
+    "D": "Kültürel gelişim",
+    "Answer": "Hukuki eğitim",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum dışındaki kimler konferanslarda görev alabilir?",
+    "A": "Eğitim kurulu üyeleri",
+    "B": "Dış güvenlik personeli",
+    "C": "Sivil toplum örgütleri",
+    "D": "Aile üyeleri",
+    "Answer": "Aile üyeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kapalı kurumlarda konferans vermesi zorunlu olan personeller arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "Psikolog",
+    "B": "İkinci müdür",
+    "C": "Kantin çalışanı",
+    "D": "Kurum müdürü",
+    "Answer": "Kantin çalışanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülere yönelik konferans ve seminerlerin içeriği aşağıdakilerden hangisi olabilir?",
+    "A": "Teknik cihaz kullanımı",
+    "B": "İnsan hakları ve ahlak eğitimi",
+    "C": "Sadece fiziksel güvenlik eğitimi",
+    "D": "Hükümlülerin iş disiplini",
+    "Answer": "İnsan hakları ve ahlak eğitimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumların bakımı, temizliği ve ısıtılması ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Kurumlarda; oda, yatakhane, atölye ve diğer ortak kullanım alanlarının temiz tutulmasına ve uygun zamanlarda havalandırılmasına özen gösterilir. Bu amaçla, gerekli araç ve gereçler kurum idaresince sağlanır.",
+    "B": "Kurumun bulunduğu yer ve iklim koşulları dikkate alınarak, kurum binası uygun sıcaklıkta tutulur.",
+    "C": "Kurum binasının bakımı, temizliği, ısıtılması ve tesisatında meydana gelecek hasar veya bozuklukların onarımından kurum idaresi dışında farklı bir devlet kurumu sorumludur.",
+    "D": "Kurum binasının bakımı, temizliği ve ısıtılması gibi işlemlerden kurumun en üst amiri sorumludur.",
+    "Answer": "Kurum binasının bakımı, temizliği, ısıtılması ve tesisatında meydana gelecek hasar veya bozuklukların onarımından kurum idaresi dışında farklı bir devlet kurumu sorumludur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bulaşıcı hastalıklardan korunma ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Kurumda bulaşıcı bir hastalık çıkması veya çıkma şüphesinin olması durumunda, cezaevi tabibi durumu kurumun en üst amirine bildirir.",
+    "B": "Kurumun en üst amiri, bulaşıcı hastalık şüphesini gecikmeksizin ilgili mercilere bildirir.",
+    "C": "Bulaşıcı hastalık sebebiyle ölümün meydana geldiği hâllerde durum cezaevi tabibince ilgili mercilere doğrudan bildirilir.",
+    "D": "24/4/1930 tarihli ve 1593 sayılı Umumî Hıfzıssıhha Kanunu ile Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği bu konuda esas alınır.",
+    "Answer": "Bulaşıcı hastalık sebebiyle ölümün meydana geldiği hâllerde durum cezaevi tabibince ilgili mercilere doğrudan bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün zührevi hastalıklar ve HIV virüsü taşıması ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Hükümlünün, 1593 sayılı Kanunun 103. maddesinde sayılan zührevi hastalıklar ya da HIV virüsü taşıdığının tespit edilmesi hâlinde, durum ceza infaz kurumu müdürüne yazıyla gizli olarak bildirilir.",
+    "B": "Ceza infaz kurumunda, kişisel verilerin korunmasına ilişkin hassasiyet bu işlemler sırasında öncelik verilerek gözetilmez.",
+    "C": "Cezaevi tabibi, hükümlünün ilk tedavilerini yapar ve hastalığın yayılmasını önleyici tedbirler alır.",
+    "D": "Gerekli görülmesi hâlinde, diğer bulaşıcı hastalıklarla ilgili olarak da benzer tedbirler alınır.",
+    "Answer": "Ceza infaz kurumunda, kişisel verilerin korunmasına ilişkin hassasiyet bu işlemler sırasında öncelik verilerek gözetilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bulaşıcı hastalıklardan korunma ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Tedaviyi sağlayacak nitelikte özel bölümü bulunmayan ceza infaz kurumlarında bulunan hükümlüler, derhal tedavisinin yapılabileceği bir sağlık kuruluşuna sevk edilir.",
+    "B": "Tedaviyi sağlayacak nitelikte özel bölümü bulunmayan ceza infaz kurumlarında bulunan hükümlüler, tedavi için başka bir kuruma sevk edilmeden kurum içinde gözetim altında tutulur.",
+    "C": "Hastalığın yayılmasını önlemek amacıyla alınan önlemler yalnızca hükümlülerin odalarıyla sınırlıdır.",
+    "D": "Hükümlüler, tedavi gereksinimlerinin karşılanması için yalnızca kurum tabibinin düzenlemesiyle müdahale edilir ve dış kurumlara sevk edilmez.",
+    "Answer": "Tedaviyi sağlayacak nitelikte özel bölümü bulunmayan ceza infaz kurumlarında bulunan hükümlüler, derhal tedavisinin yapılabileceği bir sağlık kuruluşuna sevk edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, revir ve ilgili düzenlemeler ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+    "A": "Her kurumda bir revir bulunur. Revir, cezaevi tabibinin sorumluluğunda faaliyet gösterir.",
+    "B": "Kurum revirinde bulundurulması gerekli tıbbi araç ve gereçler ile kurum revirinin çalışma esas ve usulleri kurum iç yönergesinde gösterilir.",
+    "C": "Koğuş ve odalarda bulunmaması gereken ilaçlar ile tıbbi araç ve gereçler kurumda kilitli bir şekilde muhafaza edilir.",
+    "D": "Gebe olan kadın hükümlülerin bulunduğu kurumlarda, doğum öncesi ve doğum sonrası her türlü bakım ve tedavi için özel bir yer ayrılır. Doğumun kurum dışında bir sağlık kuruluşunda gerçekleşmesi için gerekli tedbirler alınır. Ancak doğum, kurumda gerçekleşmişse çocuğun kurumda doğduğu, doğum belgesine işlenir.",
+    "Answer": "Gebe olan kadın hükümlülerin bulunduğu kurumlarda, doğum öncesi ve doğum sonrası her türlü bakım ve tedavi için özel bir yer ayrılır. Doğumun kurum dışında bir sağlık kuruluşunda gerçekleşmesi için gerekli tedbirler alınır. Ancak doğum, kurumda gerçekleşmişse çocuğun kurumda doğduğu, doğum belgesine işlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin barındırıldıkları odalarda sağlık ve hijyen kurallarına uymaları için ne yapılır?",
+    "A": "Zorunlu hale getirilir",
+    "B": "Özendirici uygulamalar yapılır",
+    "C": "Hiçbir işlem yapılmaz",
+    "D": "Sadece uyarı verilir",
+    "Answer": "Özendirici uygulamalar yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin saç, bıyık ve sakal uzatma durumu nasıl düzenlenir?",
+    "A": "Serbest bırakılır",
+    "B": "Sadece bıyık bırakmalarına izin verilir",
+    "C": "Tamamen yasaklanır",
+    "D": "Toplum içinde alışılmış sınırların dışına çıkılmasına izin verilmez",
+    "Answer": "Toplum içinde alışılmış sınırların dışına çıkılmasına izin verilmez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kişisel bakım ve temizlik kuralları hangi belgede düzenlenir?",
+    "A": "Yönetmelik genelgesi",
+    "B": "Kurum iç yönergesi",
+    "C": "Sağlık ve hijyen rehberi",
+    "D": "Hükümlü rehberi",
+    "Answer": "Sağlık ve hijyen rehberi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum binasının uygun sıcaklıkta tutulmasından kim sorumludur?",
+    "A": "Cezaevi tabibi",
+    "B": "Kurumun en üst amiri",
+    "C": "Sağlık birimi",
+    "D": "Güvenlik personeli",
+    "Answer": "Kurumun en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bulaşıcı hastalık durumunda ilk olarak kim bilgilendirilir?",
+    "A": "Kurumun en üst amiri",
+    "B": "Hükümlülerin yakınları",
+    "C": "Sağlık Bakanlığı",
+    "D": "İlgili birim",
+    "Answer": "Kurumun en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bulaşıcı hastalıklardan korunma kapsamında HIV virüsü taşıyan hükümlülerle ilgili bilgi nasıl iletilir?",
+    "A": "Açık bir raporla",
+    "B": "Gizli bir yazıyla kurum müdürüne iletilir",
+    "C": "Sağlık personeline bildirilir",
+    "D": "Hiçbir işlem yapılmaz",
+    "Answer": "Gizli bir yazıyla kurum müdürüne iletilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bulaşıcı hastalık taşıyan hükümlülerin nakil işlemlerinde hangi bilgi iletilir?",
+    "A": "Hükümlünün tedavi durumu",
+    "B": "Hükümlünün adli geçmişi",
+    "C": "İlgili kurum müdürlüğüne bilgi verilir",
+    "D": "Aileye bilgi verilir",
+    "Answer": "Hükümlünün tedavi durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumlarda her hükümlüye sağlık hizmetlerinin sağlanmasından sorumlu birimler neresidir?",
+    "A": "Cezaevi yönetimi",
+    "B": "Revir",
+    "C": "Hastane birimleri",
+    "D": "Güvenlik birimi",
+    "Answer": "Revir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum revirinde bulunması gereken tıbbi araç ve gereçler nerede belirtilir?",
+    "A": "İlgili kanunda",
+    "B": "Ceza ve güvenlik yönergesinde",
+    "C": "Kurum iç yönergesinde",
+    "D": "Sağlık yönetmeliğinde",
+    "Answer": "Kurum iç yönergesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, gebe kadın hükümlülerin doğum öncesi ve sonrası bakım hizmetleri nasıl düzenlenir?",
+    "A": "Kadınlar ayrı bir yere alınır",
+    "B": "İlgili sağlık kuruluşunda yapılır",
+    "C": "Kendi imkânlarıyla yapılır",
+    "D": "Aile tarafından sağlanır",
+    "Answer": "İlgili sağlık kuruluşunda yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, doğum yapan hükümlülerin doğum belgelerinde hangi bilgi yer almaz?",
+    "A": "Çocuğun adı",
+    "B": "Doğum yeri olarak kurum adı",
+    "C": "Annenin adı",
+    "D": "Çocuğun doğum tarihi",
+    "Answer": "Çocuğun doğum tarihi",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

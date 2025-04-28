@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum dışı çalıştırma protokolünde belirtilen asgari ücret miktarı, kimler için geçerlidir?",
+    "A": "Çocuk hükümlüler için",
+    "B": "Yetişkin hükümlüler için",
+    "C": "Kadın hükümlüler için",
+    "D": "Belirli meslek sahibi hükümlüler için",
+    "Answer": "Yetişkin hükümlüler için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum dışında çalışan hükümlülerin geceleri hangi yerlerde barınması sağlanır?",
+    "A": "İşverenin sağlayacağı yerlerde",
+    "B": "Akrabalarının evinde",
+    "C": "Herhangi bir kurumda",
+    "D": "Açık kuruma yakın yerlerde",
+    "Answer": "Açık kuruma yakın yerlerde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin çalışma süresinin, hangi durumda denetimli serbestlikten sayılacağı belirtilir?",
+    "A": "Gece çalıştıklarında",
+    "B": "Kamu kurumunda çalışmaları halinde",
+    "C": "İşverene bağlı çalışmaları halinde",
+    "D": "Sadece kurum içinde çalışmaları halinde",
+    "Answer": "İşverene bağlı çalışmaları halinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kamu kurumlarında çalıştırılmak üzere hükümlülerle yapılan protokolün onay süreci nereye bildirilir?",
+    "A": "Denetimli Serbestlik Müdürü",
+    "B": "İşyurtları Kurumu",
+    "C": "İlgili kurum müdürü",
+    "D": "Cumhuriyet Başsavcısı",
+    "Answer": "Cumhuriyet Başsavcısı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin kurum dışında çalıştıkları işyerlerinde güvenlik önlemleri kim tarafından sağlanır?",
+    "A": "Güvenlik görevlileri",
+    "B": "İşveren",
+    "C": "Hükümlünün ailesi",
+    "D": "Cumhuriyet Başsavcısı",
+    "Answer": "İşveren",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin çalıştırılması sırasında hangi kuruma bağlı görevli personel denetim yapar?",
+    "A": "Cumhuriyet Başsavcılığı",
+    "B": "İşveren",
+    "C": "Genel Müdürlük",
+    "D": "Adalet Bakanlığı",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çalışan hükümlülerin uygun davranmaması durumunda hangi kuruma geri gönderilmesi öngörülür?",
+    "A": "Çocuk eğitimevi",
+    "B": "Açık ceza infaz kurumu",
+    "C": "Kendi işyerleri",
+    "D": "İşyurdu",
+    "Answer": "Açık ceza infaz kurumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hükümlü, kurum dışında çalıştığı iş yerinde iki gün üst üste işe gitmezse ne olur?",
+    "A": "İşverenden uyarı alır",
+    "B": "Ücretinden kesinti yapılır",
+    "C": "Çalışma hakkı devam eder",
+    "D": "Kapalı kuruma gönderilir",
+    "Answer": "Kapalı kuruma gönderilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin iş güvenliği ve sağlığı ile ilgili yükümlülükleri kim üstlenir?",
+    "A": "İşveren",
+    "B": "Hükümlünün ailesi",
+    "C": "Cumhuriyet başsavcılığı",
+    "D": "Güvenlik görevlileri",
+    "Answer": "İşveren",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin açık ceza infaz kurumunda çalışmak üzere kimler tarafından belirlenmesi sağlanır?",
+    "A": "Aile bireyleri",
+    "B": "Denetimli serbestlik uzmanı",
+    "C": "Genel Müdürlük ve idare ve gözlem kurulu",
+    "D": "Hükümlünün kendisi",
+    "Answer": "Genel Müdürlük ve idare ve gözlem kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum dışında çalışan hükümlülerin çalışma süresi, hangi infaz tedbiriyle sonuçlanabilir?",
+    "A": "Koşullu salıverilme",
+    "B": "Erken tahliye",
+    "C": "Disiplin cezası",
+    "D": "Denetimli serbestlik",
+    "Answer": "Koşullu salıverilme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum dışındaki işlerde çalışacak hükümlülerin belirlenmesinde hangi kriter dikkate alınmaz?",
+    "A": "Sağlık durumu",
+    "B": "İşin niteliği",
+    "C": "Ailesinin geliri",
+    "D": "İşe uygunluk durumu",
+    "Answer": "Ailesinin geliri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, çalışmak isteyen hükümlülerin talep ettiği kurum dışında çalışma yerleriyle ilgili değerlendirme kim tarafından yapılır?",
+    "A": "Denetimli Serbestlik Dairesi",
+    "B": "Genel Müdürlük",
+    "C": "Cumhuriyet Savcısı",
+    "D": "İşyurtları Yüksek Kurulu",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin bir kamu kurum veya kuruluşunda çalıştırılması durumunda hangi protokol zorunludur?",
+    "A": "Ücret protokolü",
+    "B": "Denetimli serbestlik protokolü",
+    "C": "Gözetim protokolü",
+    "D": "Çalışma protokolü",
+    "Answer": "Çalışma protokolü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir kamu kurumu nezaretinde çalışan hükümlülerin denetimleri kim tarafından yapılır?",
+    "A": "Genel Müdürlük",
+    "B": "Cumhuriyet Başsavcılığı",
+    "C": "Hükümlünün avukatı",
+    "D": "İlgili kamu kurumu",
+    "Answer": "Hükümlünün avukatı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin çalışma alanında sosyal hakları belirlemek için yapılacak anlaşma hangi kurumda onaylanır?",
+    "A": "Çalışma Bakanlığı",
+    "B": "Cumhuriyet Başsavcılığı",
+    "C": "Genel Müdürlük",
+    "D": "İşyurtları Kurumu",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum dışında çalışan hükümlüler hangi durumlarda protokole aykırı olarak işten çıkarılabilir?",
+    "A": "İşe sürekli geç kalmaları",
+    "B": "Kurallara uymamaları",
+    "C": "İşyurtları Kurumu tarafından belirlenmesi",
+    "D": "Genel Müdürlük kararı",
+    "Answer": "Kurallara uymamaları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, bir hükümlünün işyerinde çalışması için asgari ücret hangi yaş grubu için geçerlidir?",
+    "A": "Onaltı yaş üzeri",
+    "B": "Yirmi yaş altı",
+    "C": "Yetişkinler için sınırlı",
+    "D": "Kadın hükümlüler için",
+    "Answer": "Onaltı yaş üzeri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler, kurum dışında çalışırken hangi protokol ile çalıştırılır?",
+    "A": "Sosyal haklar protokolü",
+    "B": "İş ve çalışma protokolü",
+    "C": "Kurum içi çalışma protokolü",
+    "D": "Denetimli serbestlik protokolü",
+    "Answer": "İş ve çalışma protokolü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurum dışında çalışan hükümlülerin gece çalıştırılmasına kim karar verir?",
+    "A": "Çalıştıkları kurum",
+    "B": "Genel Müdürlük",
+    "C": "İşveren",
+    "D": "İşyurtları Yüksek Kurulu",
+    "Answer": "Çalıştıkları kurum",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

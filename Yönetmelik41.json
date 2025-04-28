@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, radyo, televizyon ve internet kullanımı kimler için kısıtlanabilir?",
+    "A": "Tüm hükümlüler",
+    "B": "Yalnızca kadın hükümlüler",
+    "C": "Tehlikeli hükümlüler veya örgüt mensubu hükümlüler",
+    "D": "Çocuk hükümlüler",
+    "Answer": "Tehlikeli hükümlüler veya örgüt mensubu hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin internetten yararlanmalarına hangi durumda izin verilir?",
+    "A": "Her zaman serbest",
+    "B": "Denetim altında ve eğitim programı çerçevesinde",
+    "C": "Haftada bir kez",
+    "D": "Sadece bilgisayar odasında",
+    "Answer": "Denetim altında ve eğitim programı çerçevesinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin televizyon izlemeleri veya internet kullanımları hangi durumda tamamen yasaklanabilir?",
+    "A": "İdarenin uygun gördüğü durumda",
+    "B": "Herhangi bir örgüt mensubu olan hükümlüler için",
+    "C": "Suç örgütü yöneticiliği yapan ve talimat veren hükümlüler için",
+    "D": "Eğitim programına katılmayanlar için",
+    "Answer": "Eğitim programına katılmayanlar için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin odalarında hangi cihazları bulundurmasına izin verilmez?",
+    "A": "Radyolar",
+    "B": "Televizyonlar",
+    "C": "Bilgisayarlar",
+    "D": "Hiçbir elektronik cihaz",
+    "Answer": "Bilgisayarlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlüler tarafından satın alınan radyo veya televizyon hangi durumda kuruma alınmaz?",
+    "A": "Dışarıdan getirilmişse",
+    "B": "İdarenin izin vermesi koşuluyla alınabilir",
+    "C": "Merkezi yayın sistemine bağlanamıyorsa",
+    "D": "Herhangi bir kurumdan gönderilmişse",
+    "Answer": "Merkezi yayın sistemine bağlanamıyorsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin radyo, televizyon veya internet kullanımı hangi amaçla sınırlıdır?",
+    "A": "Sadece eğitim ve iyileştirme programları için",
+    "B": "Serbestçe kullanmaları için",
+    "C": "Sadece hafta sonları",
+    "D": "Tüm gün",
+    "Answer": "Sadece eğitim ve iyileştirme programları için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin mektup alıp göndermesi hangi koşula bağlıdır?",
+    "A": "İdarenin uygun görmesine",
+    "B": "Ücretlerini karşılamaları şartıyla",
+    "C": "Aile üyeleri ile sınırlı olması",
+    "D": "Belirli bir izin süresi ile",
+    "Answer": "Belirli bir izin süresi ile",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü tarafından gönderilen veya gelen mektuplar kim tarafından denetlenir?",
+    "A": "İnfaz hâkimi",
+    "B": "Mektup okuma komisyonu veya kurumun en üst amiri",
+    "C": "Güvenlik ve gözetim görevlileri",
+    "D": "Eğitim servisi",
+    "Answer": "Mektup okuma komisyonu veya kurumun en üst amiri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlü tarafından gönderilen resmi yazışmalar hangi durumda denetime tâbi tutulmaz?",
+    "A": "İdare tarafından uygun görüldüğünde",
+    "B": "Avukatına veya resmi makamlara gönderildiğinde",
+    "C": "Haftada bir kez",
+    "D": "İnfaz hâkimi izniyle",
+    "Answer": "Avukatına veya resmi makamlara gönderildiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi türden içeriklere sahip mektuplar hükümlüye verilmeyip gönderilmez?",
+    "A": "Güvenliğe zarar veren veya tehdit içeren",
+    "B": "Sadece resmi yazışmalar",
+    "C": "İdare tarafından uygun görülmeyenler",
+    "D": "Avukatına yazılanlar",
+    "Answer": "Güvenliğe zarar veren veya tehdit içeren",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlünün savunması için avukatına gönderdiği iletiler hangi durumda denetimden geçer?",
+    "A": "Denetimden geçmez",
+    "B": "72. maddenin özel durumları gerçekleştiğinde",
+    "C": "Sadece güvenlik görevlileri kontrol ettiğinde",
+    "D": "Haftalık izinle",
+    "Answer": "72. maddenin özel durumları gerçekleştiğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi tür suçlardan hükümlü olanların avukatlarına yazdıkları iletiler denetlenebilir?",
+    "A": "Cinsel suçlar",
+    "B": "Ekonomik suçlar",
+    "C": "Terör ve örgüt suçları",
+    "D": "Trafik suçları",
+    "Answer": "Terör ve örgüt suçları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin elektronik ortamda mektup göndermesi hangi durumda mümkündür?",
+    "A": "Sadece kapalı kurumlarda",
+    "B": "Teknik altyapının bulunduğu ve Bakanlıkça belirlenen kurumlarda",
+    "C": "İdarenin uygun gördüğü durumlarda",
+    "D": "Haftada bir kez",
+    "Answer": "Teknik altyapının bulunduğu ve Bakanlıkça belirlenen kurumlarda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, görevlileri hedef gösteren veya tehdit içeren mektuplar hükümlüye ne yapılır?",
+    "A": "Teslim edilmez, gönderilmez",
+    "B": "İdarenin uygun gördüğü durumlarda verilir",
+    "C": "Dosyaya eklenir",
+    "D": "Güvenlik görevlileri tarafından kontrol edilir",
+    "Answer": "Teslim edilmez, gönderilmez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin hangi tür haberleşme araçları ile iletişim kurmaları yasaktır?",
+    "A": "Televizyonlar",
+    "B": "Cep telefonları ve telsiz telefonlar",
+    "C": "Sadece internet",
+    "D": "Radyolar",
+    "Answer": "Cep telefonları ve telsiz telefonlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin gönderdiği veya kendilerine gelen mektupların kayıt ve silinmesine hangi kanun hükmü uygulanır?",
+    "A": "5237 sayılı Kanun",
+    "B": "5275 sayılı Kanunun 72. maddesi",
+    "C": "5237 sayılı Kanunun 60. Maddesi",
+    "D": "5275 sayılı Kanunun 68. Maddesi",
+    "Answer": "5275 sayılı Kanunun 68. Maddesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumda hükümlülerin avukatlarına gönderdikleri mektupların elektronik ortamda iletilmesine izin verilebilir?",
+    "A": "Sadece kapalı kurumlarda",
+    "B": "Teknik altyapının bulunduğu ve Bakanlıkça belirlenen kurumlarda",
+    "C": "Avukatları izin verdiğinde",
+    "D": "Savunma için ise her durumda",
+    "Answer": "Teknik altyapının bulunduğu ve Bakanlıkça belirlenen kurumlarda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kapalı kurumlarda hükümlülerin radyo bulundurma hakkı hangi koşula bağlıdır?",
+    "A": "İdarenin belirlediği bir ücretle satın alınması",
+    "B": "Dışarıdan getirilmişse",
+    "C": "Merkezi sistemle bağlantılı olması",
+    "D": "Örgüt mensubu olup olmaması",
+    "Answer": "Merkezi sistemle bağlantılı olması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hangi durumda hükümlülerin televizyon izlemeleri yasaklanabilir?",
+    "A": "Eğitim programına katılmadıklarında",
+    "B": "Tehlikeli hükümlü veya örgüt yöneticisi olduklarında",
+    "C": "Hafta sonlarında",
+    "D": "Sadece kapalı kurumlarda",
+    "Answer": "Tehlikeli hükümlü veya örgüt yöneticisi olduklarında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, hükümlülerin savunma amaçlı avukatlarına gönderdiği belgeler hangi durumda denetimden geçmez?",
+    "A": "İdarenin izni olduğunda",
+    "B": "Sadece güvenlik görevlileri kontrol ettiğinde",
+    "C": "Avukatın izin vermesiyle",
+    "D": "Yalnızca savunmaya ilişkinse",
+    "Answer": "Yalnızca savunmaya ilişkinse",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

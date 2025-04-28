@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kurumda yapılan tatbikatlara kimlerin katılması esastır?",
+    "A": "Hükümlü yakınları",
+    "B": "Dış güvenlik personeli",
+    "C": "Hükümlüler",
+    "D": "Kurum amirleri",
+    "Answer": "Hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre kurumun tamamında ayda en az kaç kere arama yapılır?",
+    "A": "Haftada bir",
+    "B": "İki haftada bir",
+    "C": "Her gün",
+    "D": "Bir ay",
+    "Answer": "Bir ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, ağırlaştırılmış müebbet hapis cezasının infazıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Ağırlaştırılmış müebbet hapis cezası, hükümlünün ömür boyu sıkı güvenlik rejimine uygun bir şekilde devam eder.",
+    "B": "Ağırlaştırılmış müebbet hapis cezası, hükümlünün cezasının belirli bir kısmını tamamladıktan sonra koşullu salıverilme imkânı sağlar.",
+    "C": "Ağırlaştırılmış müebbet hapis cezası, 5275 sayılı Kanunda belirtilen herhangi bir ceza infaz kurumunda infaz edilebilir.",
+    "D": "Ağırlaştırılmış müebbet hapis cezası, hükümlünün eğitim ve sosyal etkinliklere katılımını tamamen yasaklar.",
+    "Answer": "Ağırlaştırılmış müebbet hapis cezası, hükümlünün ömür boyu sıkı güvenlik rejimine uygun bir şekilde devam eder.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, müebbet hapis cezasının infazıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Müebbet hapis cezası, hükümlünün hükümlünün ömür boyu sıkı güvenlik rejimine uygun bir şekilde devam eder",
+    "B": "Müebbet hapis cezası, süreli hapis cezası uygulanan infaz rejimine göre infaz edilir.",
+    "C": "Müebbet hapis cezası, hükümlünün yalnızca yüksek güvenlikli ceza infaz kurumlarında infaz edilmesini zorunlu kılar.",
+    "D": "Müebbet hapis cezası, hükümlünün sosyal ve eğitim faaliyetlerinden yararlanmasını tamamen engeller.",
+    "Answer": "Müebbet hapis cezası, süreli hapis cezası uygulanan infaz rejimine göre infaz edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, süreli hapis cezasının infazıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Süreli hapis cezası, yalnızca kapalı ceza infaz kurumlarında uygulanır.",
+    "B": "Süreli hapis cezası, sadece hükümlünün talebine bağlı olarak infaz edilir.",
+    "C": "Süreli hapis cezası, belirli suçlar için koşullu salıverilme hükümlerinden muaftır.",
+    "D": "Süreli hapis cezası, kanunda aksi belirtilmeyen hâllerde bir aydan az, yirmi yıldan fazla olamaz.",
+    "Answer": "Süreli hapis cezası, kanunda aksi belirtilmeyen hâllerde bir aydan az, yirmi yıldan fazla olamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, kısa süreli hapis cezasının infazıyla ilgili aşağıdaki ifadelerden hangisi kesinlikle doğrudur?",
+    "A": "Hükmedilen bir yıl veya daha az süreli hapis cezası, kısa süreli hapis cezası olarak kabul edilir.",
+    "B": "Kısa süreli hapis cezalarına seçenek yaptırımlar yalnızca hükümlünün talebine bağlı olarak uygulanır.",
+    "C": "Seçenek yaptırımlar, sadece ekonomik suçlar için uygulanır.",
+    "D": "Mahkeme, kısa süreli hapis cezasına seçenek yaptırımları belirlerken yalnızca suçun işlendiği özellikleri dikkate alır.",
+    "Answer": "Hükmedilen bir yıl veya daha az süreli hapis cezası, kısa süreli hapis cezası olarak kabul edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre kısa süreli hapis cezası için aşağıdakilerden hangisi söylenebilir?",
+    "A": "Hükmedilen altı ay veya daha az süreli hapis cezasıdır.",
+    "B": "Hükmedilen iki yıl veya daha az süreli hapis cezasıdır.",
+    "C": "Hükmedilen üç ay veya daha az süreli hapis cezasıdır.",
+    "D": "Hükmedilen bir yıl veya daha az süreli hapis cezasıdır.",
+    "Answer": "Hükmedilen bir yıl veya daha az süreli hapis cezasıdır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, kısa süreli hapis cezasının çevrildiği seçenek yaptırımların infazı hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Kısa süreli hapis cezası yerine hükmedilen adlî para cezası, yalnızca 5237 sayılı Kanunun 52 nci maddesi uyarınca infaz edilir.",
+    "B": "Adlî para cezası, 5237 sayılı Kanunun 50 ve 52 nci maddeleri ile 5275 sayılı Kanunun 105 ve 106 ncı maddelerine göre infaz edilir.",
+    "C": "Seçenek yaptırımların infazı, sadece hükümlünün talebi doğrultusunda gerçekleşir.",
+    "D": "Kısa süreli hapis cezalarına seçenek yaptırımlar uygulanmaz.",
+    "Answer": "Adlî para cezası, 5237 sayılı Kanunun 50 ve 52 nci maddeleri ile 5275 sayılı Kanunun 105 ve 106 ncı maddelerine göre infaz edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, kısa süreli hapis cezasının çevrildiği seçenek yaptırımlardan mağdurun veya kamunun uğradığı zararın giderilmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Mağdurun zararı aynen iade edilmesi, hükümlünün suç nedeniyle haksız olarak ele geçirdiği şeyi aynen ya da satın almak suretiyle iade etmesiyle sağlanır.",
+    "B": "Suçtan önceki hâle getirme, suç nedeniyle verilen zararın hükümlü tarafından tamir edilmesi veya benzer faaliyetlerle giderilmesidir.",
+    "C": "Zararın tazmini, suç nedeniyle verilen zararın yalnızca kamunun zararlarını kapsayacak şekilde ödenmesiyle gerçekleşir.",
+    "D": "Mağdurun veya kamunun uğradığı zararın giderilmesi, suçtan önceki hâle getirilmesi, aynen iade veya tazmin edilmesi suretiyle tamamen yerine getirilir",
+    "Answer": "Zararın tazmini, suç nedeniyle verilen zararın yalnızca kamunun zararlarını kapsayacak şekilde ödenmesiyle gerçekleşir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "I. Zararın aynen iade edilmesi. II. Suçtan önceki hâle getirme III. Zararın tazmin edilmesi IV. Kamuya yararlı bir işte çalışma 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre yukarıdakilerden hangileri kısa süreli hapis cezasının çevrildiği seçenek yaptırımlarındandır?",
+    "A": "I-II-IV",
+    "B": "I-III-IV",
+    "C": "Hepsi",
+    "D": "I-II-III",
+    "Answer": "I-III-IV",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, Kısa süreli hapis cezasının çevrildiği seçenek yaptırımların infazı hakkında aşağıdakilerden hangisi yanlıştır?",
+    "A": "Mağdurun veya kamunun uğradığı zararın miktarı, mahkemece kararda belirtilmemiş ise 5275 sayılı Kanunun 98 inci maddesine göre Cumhuriyet savcısının talebi ile uğranılan zararın tespiti mahkemeden istenir.",
+    "B": "Mağdurun ya da kamunun uğradığı zararın tamamen giderilmesini içeren kesinleşmiş ilâm, Cumhuriyet başsavcılığına verilir.",
+    "C": "Cumhuriyet savcısı, zararın otuz gün içinde tamamen giderilmesini hükümlüye tebliğ eder.",
+    "D": "Hükümlü adresine yapılan bu tebligatta gösterilen zararı, doksan günlük süre içinde tamamen gidermezse Cumhuriyet başsavcılığınca, durum infaz hâkimliğine bildirilir.",
+    "Answer": "Hükümlü adresine yapılan bu tebligatta gösterilen zararı, doksan günlük süre içinde tamamen gidermezse Cumhuriyet başsavcılığınca, durum infaz hâkimliğine bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, 5237 sayılı Kanunun 50. maddesinin birinci fıkrasının (C), (D) ve (f) bentlerindeki seçenek yaptırımların infazı hangi yönetmelik hükümlerine göre yerine getirilir?",
+    "A": "Hükümlülerin Sosyal Hizmetlerden Yararlanması Hakkında Yönetmelik",
+    "B": "Ceza İnfaz Kurumları Yönetim Rehberi",
+    "C": "Kamu Görevlerinde Çalışma Yönetmeliği",
+    "D": "Denetimli Serbestlik Hizmetleri Yönetmeliği",
+    "Answer": "Denetimli Serbestlik Hizmetleri Yönetmeliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 Sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğe göre, hükmedilen seçenek yaptırımın, hükümlünün elinde olmayan nedenlerle yerine getirilememesi durumunda aşağıdaki işlemlerden hangisi uygulanır?",
+    "A": "Hükümlüye ek süre tanınır.",
+    "B": "Yaptırım, infaz hâkimliğince değiştirilir.",
+    "C": "Hükümlüye farklı bir ceza verilir.",
+    "D": "Yaptırımın infazı durdurulur.",
+    "Answer": "Yaptırım, infaz hâkimliğince değiştirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, ağırlaştırılmış müebbet hapis cezası hangi infaz rejimine göre uygulanır?",
+    "A": "Sıkı güvenlik rejimi",
+    "B": "Süreli hapis infaz rejimi",
+    "C": "Denetimli serbestlik rejimi",
+    "D": "Açık ceza infaz kurumu rejimi",
+    "Answer": "Sıkı güvenlik rejimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, müebbet hapis cezası hangi infaz rejimine göre yerine getirilir?",
+    "A": "Kısa süreli hapis infaz rejimi",
+    "B": "Ağırlaştırılmış müebbet hapis infaz rejimi",
+    "C": "Süreli hapis cezası infaz rejimi",
+    "D": "Kamu hizmeti infaz rejimi",
+    "Answer": "Ağırlaştırılmış müebbet hapis infaz rejimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, süreli hapis cezası kanunda aksi belirtilmediği takdirde en fazla kaç yıl olabilir?",
+    "A": "10 yıl",
+    "B": "15 yıl",
+    "C": "20 yıl",
+    "D": "30 yıl",
+    "Answer": "30 yıl",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, kısa süreli hapis cezası olarak kabul edilen süre nedir?",
+    "A": "6 ay veya daha az",
+    "B": "1 yıl veya daha az",
+    "C": "2 yıl veya daha az",
+    "D": "3 yıl veya daha az",
+    "Answer": "3 yıl veya daha az",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, adlî para cezası hangi kanuna göre infaz edilir?",
+    "A": "5237 sayılı Kanun",
+    "B": "5275 sayılı Kanun",
+    "C": "Denetimli Serbestlik Yönetmeliği",
+    "D": "Kabahatler Kanunu",
+    "Answer": "Denetimli Serbestlik Yönetmeliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, seçenek yaptırımların infazı sırasında mağdurun uğradığı zararın giderilmesi hangi şekillerde yapılabilir?",
+    "A": "Aynen iade, suçtan önceki hâle getirme, tazmin etme",
+    "B": "Mahkeme kararına göre yeni ceza belirleme",
+    "C": "Denetimli serbestlik süresini uzatma",
+    "D": "Hükümlüyü serbest bırakma",
+    "Answer": "Aynen iade, suçtan önceki hâle getirme, tazmin etme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliği’ne göre, suç nedeniyle mağdurun uğradığı zararın aynen iadesi ne anlama gelir?",
+    "A": "Zararın tazmin edilmesi",
+    "B": "Zarar görenin parasının iade edilmesi",
+    "C": "Haksız olarak ele geçirilen malın geri verilmesi",
+    "D": "Ceza indirimi yapılması",
+    "Answer": "Haksız olarak ele geçirilen malın geri verilmesi",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
