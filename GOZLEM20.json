@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdaki hangi durumda iyi hâl kararı verilmez?",
+    "A": "Hükümlünün gelişim puanı eşik puanın altında ise",
+    "B": "Hükümlü eğitim programlarına katılmamışsa",
+    "C": "Hükümlü sağlık raporu sunmamışsa",
+    "D": "Hükümlü herhangi bir disiplin cezası almamışsa",
+    "Answer": "Hükümlünün gelişim puanı eşik puanın altında ise",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, Genel Müdürlükçe belirlenen eşik puanın altında kalan hükümlüler için yanlıştır?",
+    "A": "Açık ceza infaz kurumuna ayrılamaz.",
+    "B": "Denetimli serbestlik tedbiri uygulanamaz.",
+    "C": "Doğrudan koşullu salıverilemez.",
+    "D": "Kurum iç hizmetlerinde çalıştırılamaz.",
+    "Answer": "Kurum iç hizmetlerinde çalıştırılamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanlama esaslarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "İyi hâl kararı için gerekli olan ve Genel Müdürlükçe belirlenen eşik puanı aşamayan hükümlü hakkında idare ve gözlem kurulunca bir araştırma yapılarak; bu durumun mücbir sebeplerden kaynaklanıp kaynaklanmadığı ya da hastalık, yaşlılık, personel yetersizliği gibi makul bir nedeni olup olmadığı belirlenir. Makul bir nedenin bulunması durumunda, hükümlüye verilen gelişim puanının Genel Müdürlükçe belirlenen eşik puanı aşması şartı aranmaz ve iyi hâl değerlendirmesi yapılır.",
+    "B": "Verilen ceza puanları, disiplin cezası kaldırılmış olsa bile silinir ve ceza puanı infaz süresinde tekrar hesaplamaya dâhil edilmez.",
+    "C": "Olumlu bir davranışı nedeniyle puan verilen hükümlüye, bu davranışı karşılığında aldığı ödül için ayrıca bir puan verilmez.",
+    "D": "Tutuklular iyileştirme programlarına katılmaya zorlanamaz; ancak iyileştirme programlarına katılmaları yönünde teşvik edilir ve katılanların bilgileri UYAP’ın ilgili bölümlerine kaydedilir. Tutukluluğun altı aydan fazla sürmesi durumunda, kaydedilen bu bilgiler ile tutum ve davranışlarına göre servis ve dönem puanları belirlenerek gelişim değerlendirme raporları tanzim edilir.",
+    "Answer": "Verilen ceza puanları, disiplin cezası kaldırılmış olsa bile silinir ve ceza puanı infaz süresinde tekrar hesaplamaya dâhil edilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanlama esaslarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlünün daha önce kaldığı ceza infaz kurumlarınca verilen dönem puanları, en son bulunduğu ceza infaz kurumu tarafından birleştirilir ve açık ceza infaz kurumuna ayrılma, kalan cezasını denetimli serbestlik tedbiri altında infaz etme veya ceza infaz kurumlarından doğrudan koşullu salıverilme öncesindeki değerlendirmeye esas gelişim puanı bulunur.",
+    "B": "Hükümlünün kaldığı her ceza infaz kurumunda verilen dönem puanları ayrı ayrı değerlendirilir ve en son ceza infaz kurumunda bu puanların birleştirilmesi yapılmaz.",
+    "C": "Hükümlünün daha önce kaldığı ceza infaz kurumlarınca verilen dönem puanları, yalnızca son ceza infaz kurumunda gösterdiği gelişim dikkate alınarak değerlendirilir.",
+    "D": "Açık ceza infaz kurumuna ayrılma öncesindeki değerlendirme için hükümlünün önceki ceza infaz kurumlarından aldığı puanlar dikkate alınmaz; yalnızca mevcut kurumdaki puanı esas alınır.",
+    "Answer": "Hükümlünün daha önce kaldığı ceza infaz kurumlarınca verilen dönem puanları, en son bulunduğu ceza infaz kurumu tarafından birleştirilir ve açık ceza infaz kurumuna ayrılma, kalan cezasını denetimli serbestlik tedbiri altında infaz etme veya ceza infaz kurumlarından doğrudan koşullu salıverilme öncesindeki değerlendirmeye esas gelişim puanı bulunur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl kararı için gerekli eşik puanı aşamayan hükümlü için idare ve gözlem kurulu tarafından yapılan araştırmada aşağıdaki hangi durum, eşik puanı aşma şartını ortadan kaldırır?",
+    "A": "Hükümlünün ailesi tarafından desteklenmesi",
+    "B": "Hükümlünün eğitim programlarına katılma isteği",
+    "C": "Ceza infaz kurumunda geçici olarak bulunması",
+    "D": "Mücbir sebeplerden kaynaklanan veya hastalık, yaşlılık, personel yetersizliği gibi makul bir nedenin bulunması",
+    "Answer": "Mücbir sebeplerden kaynaklanan veya hastalık, yaşlılık, personel yetersizliği gibi makul bir nedenin bulunması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, disiplin cezası kaldırılan bir hükümlü için verilen ceza puanı hakkında ne yapılır?",
+    "A": "Ceza puanı silinir ve gelişim değerlendirmesine yeniden eklenir",
+    "B": "Ceza puanı silinmez ve tüm infaz süresi boyunca sadece bir kez hesaplamaya dahil edilir",
+    "C": "Ceza puanı iptal edilir, ancak hükümlü yeniden değerlendirilir",
+    "D": "Ceza puanı artırılır ve ek hesaplama yapılır",
+    "Answer": "Ceza puanı silinmez ve tüm infaz süresi boyunca sadece bir kez hesaplamaya dahil edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, olumlu bir davranış nedeniyle ödül alan bir hükümlüye puanlama nasıl yapılır?",
+    "A": "Olumlu davranış için ve ödül için ayrı ayrı puan verilir",
+    "B": "Olumlu davranışı için artı puan verilir, ancak ödülü için ayrıca bir puan verilmez",
+    "C": "Sadece ödül için artı puan verilir",
+    "D": "Hem ödül hem de olumlu davranış için ceza puanı düşürülür",
+    "Answer": "Sadece ödül için artı puan verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, tutuklular iyileştirme programlarına katılma konusunda nasıl bir uygulamaya tabidir?",
+    "A": "İyileştirme programlarına katılmak zorundadırlar",
+    "B": "Katılmaları için teşvik edilir, ancak zorlanmazlar",
+    "C": "Katılım durumuna göre ceza puanı verilir",
+    "D": "Zorunlu olarak katılır ve dönem puanı hesaplanır",
+    "Answer": "Katılmaları için teşvik edilir, ancak zorlanmazlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, tutuklu olarak düzenlenen gelişim değerlendirme raporları hangi amaçla saklanır?",
+    "A": "Hükümlülük döneminde değerlendirilmek üzere gözlem ve değerlendirme dosyasına eklenir",
+    "B": "Hükümlünün sağlık durumu hakkında bilgi sağlamak için",
+    "C": "Hükümlünün mali durumu ile ilgili bilgi sağlamak için",
+    "D": "Aile ilişkileri hakkında veri toplamak için",
+    "Answer": "Hükümlülük döneminde değerlendirilmek üzere gözlem ve değerlendirme dosyasına eklenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün önceki ceza infaz kurumlarında aldığı dönem puanları nasıl değerlendirilir?",
+    "A": "Hükümlünün cezasının kalan süresine eklenir",
+    "B": "Yalnızca disiplin puanı olarak hesaplanır",
+    "C": "Hükümlü yeni bir ceza infaz kurumuna nakledildiğinde iptal edilir",
+    "D": "En son bulunduğu ceza infaz kurumu tarafından birleştirilerek iyi hâl değerlendirmesinde kullanılır",
+    "Answer": "En son bulunduğu ceza infaz kurumu tarafından birleştirilerek iyi hâl değerlendirmesinde kullanılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, Genel Müdürlükçe belirlenen eşik puanı aşmayan bir hükümlü için hangi durumda eşik puanı aşma şartı aranmaz?",
+    "A": "Hükümlü eğitim programlarına aktif olarak katıldığında",
+    "B": "Hükümlünün sağlık sorunları veya yaşlılık gibi makul nedenleri varsa",
+    "C": "Hükümlünün ailesi tarafından destekleniyorsa",
+    "D": "Hükümlü ceza infaz kurumu müdürüne iyi davranış raporu sunduğunda",
+    "Answer": "Hükümlünün sağlık sorunları veya yaşlılık gibi makul nedenleri varsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, tutukluluğun altı aydan fazla sürmesi durumunda tutuklu hakkında hangi işlem yapılır?",
+    "A": "Gelişim puanı yükseltilir ve ödüllendirme yapılır",
+    "B": "Gözlem değerlendirme raporları tanzim edilir ve UYAP'a kaydedilir",
+    "C": "Tutuklunun infaz süresi azaltılır",
+    "D": "Disiplin cezası verilmesi zorunlu hale gelir",
+    "Answer": "Gelişim puanı yükseltilir ve ödüllendirme yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre gelişim puanlama esaslarına göre aşağıdakilerden hangisi söylenemez?",
+    "A": "Ceza infaz kurumlarında kalacağı toplam süre altı aydan daha az olanlar ile artık dönem içinde olanlar hakkında gelişim puanlaması yapılmaz.",
+    "B": "Olumlu bir davranışı nedeniyle puan verilen hükümlüye, bu davranışı karşılığında aldığı ödül için ayrıca bir puan verilmez.",
+    "C": "Verilen ceza puanları, disiplin cezası kaldırılmış olsa bile silinmez. Bir disiplin cezası için verilen ceza puanı, tüm infaz süresinde yalnızca bir kez hesaplamaya dâhil edilir.",
+    "D": "Çocuk ve 65 yaş üzeri hükümlülere ceza puanı verilmez.",
+    "Answer": "Çocuk ve 65 yaş üzeri hükümlülere ceza puanı verilmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gözlem değerlendirme ve gelişim değerlendirme raporlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlülerin, gözlem sonucu gönderildikleri çocuk eğitimevleri ile açık ceza infaz kurumları dâhil tüm ceza infaz kurumlarında ilgili servislerce gözlem değerlendirme raporları ile en geç altı ayda bir gelişim değerlendirme raporlarının düzenlenmesine devam edilir. Bu değerlendirme raporları, gözlem ve değerlendirme dosyasında muhafaza edilir.",
+    "B": "Hükümlülerin gelişim değerlendirme raporları yalnızca kapalı ceza infaz kurumlarında düzenlenir; açık ceza infaz kurumlarında bu raporlar hazırlanmaz.",
+    "C": "Gözlem değerlendirme raporları yalnızca hükümlünün ilk gözlem sürecinde hazırlanır; sonraki süreçlerde rapor düzenlenmez.",
+    "D": "Gözlem ve değerlendirme dosyasında muhafaza edilen raporlar yalnızca gözlem değerlendirme raporlarını içerir; gelişim değerlendirme raporları bu dosyaya eklenmez.",
+    "Answer": "Hükümlülerin, gözlem sonucu gönderildikleri çocuk eğitimevleri ile açık ceza infaz kurumları dâhil tüm ceza infaz kurumlarında ilgili servislerce gözlem değerlendirme raporları ile en geç altı ayda bir gelişim değerlendirme raporlarının düzenlenmesine devam edilir. Bu değerlendirme raporları, gözlem ve değerlendirme dosyasında muhafaza edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gözlem değerlendirme ve gelişim değerlendirme raporlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Yönetim servisi gözlem değerlendirme raporu ile gelişim değerlendirme raporu, iyileştirmeden sorumlu ikinci müdür tarafından, Genel Müdürlükçe belirlenen formata uygun olarak düzenlenir.",
+    "B": "Eğitim ve öğretim servisi gözlem değerlendirme raporu ile gelişim değerlendirme raporu, öğretmen tarafından hazırlanır ve Genel Müdürlükçe belirlenen formata uygun şekilde düzenlenir.",
+    "C": "Güvenlik ve gözetim servisi gözlem değerlendirme raporu ile gelişim değerlendirme raporu, sorumlu infaz ve koruma başmemuru tarafından düzenlenir ve Genel Müdürlükçe belirlenen formata uygun olarak hazırlanır.",
+    "D": "Sağlık servisi gözlem değerlendirme raporu ile gelişim değerlendirme raporu, doktor, sağlık memuru, hemşire tarafından düzenlenir ve Genel Müdürlükçe belirlenen formata uygun şekilde düzenlenir.",
+    "Answer": "Sağlık servisi gözlem değerlendirme raporu ile gelişim değerlendirme raporu, doktor, sağlık memuru, hemşire tarafından düzenlenir ve Genel Müdürlükçe belirlenen formata uygun şekilde düzenlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin kaldıkları ceza infaz kurumlarında gözlem değerlendirme raporları ile gelişim değerlendirme raporlarının düzenlenme sıklığı nedir?",
+    "A": "Yılda bir kez",
+    "B": "Üç ayda bir",
+    "C": "En geç altı ayda bir",
+    "D": "Her ay",
+    "Answer": "En geç altı ayda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, yönetim servisinin gözlem ve gelişim değerlendirme raporları hangi görevli tarafından düzenlenir?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "İyileştirmeden sorumlu ikinci müdür",
+    "C": "Psiko-sosyal yardım servisi çalışanları",
+    "D": "Güvenlik ve gözetim servisi sorumlusu",
+    "Answer": "İyileştirmeden sorumlu ikinci müdür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, eğitim ve öğretim servisine ait gözlem ve gelişim değerlendirme raporlarını kim düzenler?",
+    "A": "Öğretmen",
+    "B": "Psikolog",
+    "C": "İnfaz ve koruma başmemuru",
+    "D": "Çocuk gelişimi uzmanı",
+    "Answer": "Öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, psiko-sosyal yardım servisi tarafından düzenlenen gözlem ve gelişim değerlendirme raporları hangi görevli tarafından hazırlanır?",
+    "A": "Sorumlu infaz ve koruma başmemuru",
+    "B": "İyileştirmeden sorumlu ikinci müdür",
+    "C": "Ceza infaz kurumu müdürü",
+    "D": "Psikolog, sosyal çalışmacı, sosyolog veya çocuk gelişimi uzmanı",
+    "Answer": "Psikolog, sosyal çalışmacı, sosyolog veya çocuk gelişimi uzmanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, güvenlik ve gözetim servisine ait gözlem ve gelişim değerlendirme raporlarını kim hazırlar?",
+    "A": "Psikolog",
+    "B": "Sosyal çalışmacı",
+    "C": "Sorumlu infaz ve koruma başmemuru",
+    "D": "İyileştirmeden sorumlu ikinci müdür",
+    "Answer": "Sorumlu infaz ve koruma başmemuru",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

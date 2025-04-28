@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve sınıflandırma merkezleri, hükümlülerin hangi özelliklerini değerlendirerek infaz kurumlarına gönderir?",
+    "A": "Hükümlülerin fiziksel görünüşleri",
+    "B": "Hükümlülerin kişisel özellikleri, sağlık durumları, sosyal ilişkileri ve suç tipleri",
+    "C": "Hükümlülerin aile yapıları",
+    "D": "Hükümlülerin maddi durumları",
+    "Answer": "Hükümlülerin kişisel özellikleri, sağlık durumları, sosyal ilişkileri ve suç tipleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve sınıflandırma merkezleri hükümlülerin gönderileceği ceza infaz kurumlarını neye göre belirler?",
+    "A": "Hükümlünün suç işlemeden önceki sosyal çevresine göre",
+    "B": "Hükümlünün eğitim düzeyine göre",
+    "C": "Hükümlünün ceza infaz kurumu dışındaki yaşam koşullarına göre",
+    "D": "Hükümlünün tutum ve davranışları ile işledikleri suç tipine göre",
+    "Answer": "Hükümlünün tutum ve davranışları ile işledikleri suç tipine göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdaki durumlardan hangisi gözlem ve sınıflandırma merkezlerinin görevlerinden biri değildir?",
+    "A": "Hükümlülerin suç tiplerini belirlemek",
+    "B": "Hükümlülerin sağlık durumlarını analiz etmek",
+    "C": "Hükümlülerin tahliye tarihlerine karar vermek",
+    "D": "Hükümlülerin yüksek güvenlikli, kapalı veya açık ceza infaz kurumlarına gönderilmesine karar vermek",
+    "Answer": "Hükümlülerin tahliye tarihlerine karar vermek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve sınıflandırma merkezleri, hükümlülerin hangi durumlarını dikkate alarak sıkı gözetim ve denetim gerekliliğine karar verir?",
+    "A": "Hükümlünün aile üyeleriyle görüşme sıklığı",
+    "B": "Hükümlünün suç tipleri, eğilimleri ve gösterdiği tutum ve davranışları",
+    "C": "Hükümlünün eğitim durumu",
+    "D": "Hükümlünün yaşadığı şehir",
+    "Answer": "Hükümlünün suç tipleri, eğilimleri ve gösterdiği tutum ve davranışları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve sınıflandırma merkezlerinin hükümlüler üzerinde yaptığı değerlendirmeler sonucunda, aşağıdaki infaz kurumu türlerinden hangisine gönderilmelerine karar verilebilir?",
+    "A": "Yalnızca açık ceza infaz kurumları",
+    "B": "Yalnızca yüksek güvenlikli ceza infaz kurumları",
+    "C": "Yüksek güvenlikli ceza infaz kurumları, kapalı ceza infaz kurumları veya açık ceza infaz kurumları",
+    "D": "Sadece çocuk eğitimevleri",
+    "Answer": "Yüksek güvenlikli ceza infaz kurumları, kapalı ceza infaz kurumları veya açık ceza infaz kurumları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre aşağıdakilerden hangisi gözlem ve sınıflandırma merkezinin ağırlaştırılmış müebbet hapis, müebbet hapis veya iki yıldan fazla süreli hapis cezasına mahkûm olan hükümlülerin sınıflandırıldığı alanlardan değildir?",
+    "A": "Bedensel ve zihinsel sağlık durumu",
+    "B": "Suça bakış açıları",
+    "C": "Sanatsal ve meslek faaliyetleri",
+    "D": "Ekonomik durumu",
+    "Answer": "Ekonomik durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre aşağıdakilerden hangisi gözlem ve sınıflandırma merkezinin inceleme yaptığı alanlardan değildir?",
+    "A": "Sosyal",
+    "B": "Kriminolojik",
+    "C": "Psikiyatri",
+    "D": "Siyasi",
+    "Answer": "Siyasi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz kurumuna kabulü hangi kanun ve yönetmelik hükümlerine göre yapılır?",
+    "A": "5275 sayılı Kanunun 21 ve 22. maddeleri ile Ceza İnfaz Kurumlarının Yönetimi ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin 55 ve 56. maddeleri",
+    "B": "5237 sayılı Türk Ceza Kanunu ve 5271 sayılı Ceza Muhakemesi Kanunu",
+    "C": "Ceza İnfaz Kurumları Genelgesi ve Adalet Bakanlığı Yönetmeliği",
+    "D": "Sadece Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "Answer": "5275 sayılı Kanunun 21 ve 22. maddeleri ile Ceza İnfaz Kurumlarının Yönetimi ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin 55 ve 56. maddeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz kurumuna yerleştirilmesi hangi maddeye göre yapılır?",
+    "A": "5275 sayılı Kanunun 55. Maddesi",
+    "B": "5275 sayılı Kanunun 21. maddesi ve Ceza İnfaz Kurumlarının Yönetimi Yönetmeliğinin 57. maddesi",
+    "C": "5275 sayılı Kanunun 22. maddesi",
+    "D": "5271 sayılı Ceza Muhakemesi Kanununun 56. Maddesi",
+    "Answer": "5275 sayılı Kanunun 21. maddesi ve Ceza İnfaz Kurumlarının Yönetimi Yönetmeliğinin 57. maddesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz kurumuna kabulüyle ilgili işlemler hangi yönetmeliğin hükümlerine göre yapılır?",
+    "A": "Sadece Ceza İnfaz Kurumlarının Yönetimi Yönetmeliği",
+    "B": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "C": "Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "D": "İdari İşler Yönetmeliği",
+    "Answer": "Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün ceza infaz kurumuna kabulü aşağıdaki hangi kanun maddelerine dayanmaktadır?",
+    "A": "5275 sayılı Kanunun 23 ve 24. Maddeleri",
+    "B": "5275 sayılı Kanunun 21 ve 22. maddeleri",
+    "C": "5271 sayılı Ceza Muhakemesi Kanununun 20 ve 21. maddeleri",
+    "D": "5275 sayılı Kanunun 55. Maddesi",
+    "Answer": "5275 sayılı Kanunun 21 ve 22. maddeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz kurumuna yerleştirilmesi işlemleri hangi yönetmeliğin 57. maddesine göre yapılır?",
+    "A": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "B": "Adalet Bakanlığı Genel Yönetmeliği",
+    "C": "Ceza Muhakemesi Yönetmeliği",
+    "D": "Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "Answer": "Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün ceza infaz kurumunda kaldığı süre boyunca gösterdiği gelişim en geç ne kadar sürede bir değerlendirilir?",
+    "A": "Üç ayda bir",
+    "B": "Altı ayda bir",
+    "C": "Her yıl",
+    "D": "İki ayda bir",
+    "Answer": "Altı ayda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda kalma süresi ne kadar olan hükümlüler için ilk gözlem kararı alınmaz?",
+    "A": "Otuz günden az kalanlar",
+    "B": "Kırk beş günden az kalanlar",
+    "C": "Altmış günden az kalanlar",
+    "D": "Doksan günden az kalanlar",
+    "Answer": "Altmış günden az kalanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz kurumuna ilk kabulü esnasında sınıflandırma ve infaz rejiminin belirlenmesine esas olacak gözlem nerede yapılır?",
+    "A": "İki kişilik odalarda",
+    "B": "Kapalı görüş odalarında",
+    "C": "Çok kişilik koğuşlarda",
+    "D": "Gözlem ve sınıflandırma merkezlerinde ve tek kişilik odalarda",
+    "Answer": "Gözlem ve sınıflandırma merkezlerinde ve tek kişilik odalarda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve sınıflandırmaya tabi tutulan hükümlülerin diğer hükümlü ve tutuklularla ilişki kurmamaları için ne yapılır?",
+    "A": "Gözlem süreci boyunca yalnız bırakılırlar",
+    "B": "Gerekli tedbirler alınır",
+    "C": "Günlük görüşme izinleri verilir",
+    "D": "Sosyal faaliyetlere katılmaları sağlanır",
+    "Answer": "Gerekli tedbirler alınır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ilk gözlem süresi en fazla ne kadar olabilir?",
+    "A": "Otuz gün",
+    "B": "Kırk beş gün",
+    "C": "Altmış gün",
+    "D": "Doksan gün",
+    "Answer": "Altmış gün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda tek kişilik odaların yetersiz olması durumunda gözlem işlemi nerede yapılabilir?",
+    "A": "Kurumun tahsis edilmiş özel bölümlerinde",
+    "B": "Çok kişilik koğuşlarda",
+    "C": "Kantin alanında",
+    "D": "Bahçe alanında",
+    "Answer": "Kurumun tahsis edilmiş özel bölümlerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz kurumuna ilk kabulü esnasında sınıflandırmaya ve uygulanacak infaz rejiminin belirlenmesine esas olacak gözlem nerede yapılır?",
+    "A": "Cezaevi Hastanesi",
+    "B": "İdare ve Gözlem Merkezi",
+    "C": "Sağlık Merkezi",
+    "D": "Gözlem ve Sınıflama Merkezi",
+    "Answer": "Gözlem ve Sınıflama Merkezi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ilk gözlem süresi kaç gündür?",
+    "A": "Otuz",
+    "B": "Kırk Beş",
+    "C": "Elli",
+    "D": "Altmış",
+    "Answer": "Altmış",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

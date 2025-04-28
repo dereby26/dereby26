@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi gözlem ve sınıflandırma merkezlerinin amacı ile ilgilidir?",
+    "A": "Hükümlülerin sağlık hizmetlerinden yararlanmalarını sağlamak",
+    "B": "Hükümlülerin aileleriyle iletişimini kolaylaştırmak",
+    "C": "Hükümlülerin ziyaretçi kabul işlemlerini yürütmek",
+    "D": "Hükümlülerin infaz sürecinin her aşamasında gözlem ve sınıflandırmalarını yapmak",
+    "Answer": "Hükümlülerin infaz sürecinin her aşamasında gözlem ve sınıflandırmalarını yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bu yönetmeliğe göre hükümlüler hakkında iyi hâl değerlendirmesi hangi kriterlere göre yapılmaktadır?",
+    "A": "Hükümlülerin sağlık durumu ve genel davranışlarına göre",
+    "B": "Hükümlülerin infaz sürecindeki gözlem ve iyileştirme programlarına uyumuna göre",
+    "C": "Hükümlülerin ceza süresine göre",
+    "D": "Hükümlülerin aile ve sosyal çevresine göre",
+    "Answer": "Hükümlülerin infaz sürecindeki gözlem ve iyileştirme programlarına uyumuna göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve sınıflandırma merkezlerinin görev alanı kapsamında aşağıdakilerden hangisi yer almaz?",
+    "A": "Hükümlülerin durumlarına uygun kurumlara dağıtılması",
+    "B": "Hükümlülerin iyi hâl değerlendirmesi yapılması",
+    "C": "Hükümlülerin cezalarının ertelenmesi",
+    "D": "Hükümlüler üzerinde iyileştirme faaliyetleri uygulanması",
+    "Answer": "Hükümlülerin cezalarının ertelenmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bu yönetmelik kapsamında gözlem ve sınıflandırma merkezlerinin en önemli görevlerinden biri aşağıdakilerden hangisidir?",
+    "A": "Hükümlülerin aileleriyle düzenli görüşmelerini sağlamak",
+    "B": "Hükümlülerin tahliye işlemlerini yürütmek",
+    "C": "Hükümlülerin tutum ve davranışlarını izleyerek iyi hâl değerlendirmesi yapmak",
+    "D": "Hükümlülere maddi destek sağlamak",
+    "Answer": "Hükümlülerin tutum ve davranışlarını izleyerek iyi hâl değerlendirmesi yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bu yönetmeliğin dayandığı yasa ve maddeler aşağıdakilerden hangisidir?",
+    "A": "13/12/2004 tarihli ve 5275 sayılı Kanunun 13 ve 89. maddeleri",
+    "B": "05/06/2005 tarihli ve 5237 sayılı Kanunun 7 ve 75. maddeleri",
+    "C": "13/12/2006 tarihli ve 5275 sayılı Kanunun 20 ve 90. maddeleri",
+    "D": "01/01/2005 tarihli ve 5326 sayılı Kanunun 50 ve 100. Maddeleri",
+    "Answer": "13/12/2004 tarihli ve 5275 sayılı Kanunun 13 ve 89. maddeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi \"artık dönem\" olarak tanımlanır?",
+    "A": "Hükümlünün cezasını tamamladığı dönem",
+    "B": "Hükümlünün gözlem ve sınıflandırma işlemlerinin başlatıldığı dönem",
+    "C": "Hükümlünün denetimli serbestlikten yararlandığı ilk altı aylık dönem",
+    "D": "Hükümlünün açık ceza infaz kurumuna ayrılma veya koşullu salıverilme tarihine kadar olan altı aylık son değerlendirme döneminin tamamlanmadığı dönem",
+    "Answer": "Hükümlünün açık ceza infaz kurumuna ayrılma veya koşullu salıverilme tarihine kadar olan altı aylık son değerlendirme döneminin tamamlanmadığı dönem",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi artık dönemin başlangıcı için gereklidir?",
+    "A": "Hükümlünün denetimli serbestlik tedbiri altında infaz edilecek bir döneme girmesi",
+    "B": "Hükümlünün kapalı ceza infaz kurumunda ceza süresini tamamlaması",
+    "C": "Hükümlünün iyi hâl değerlendirmesinin bitmesi",
+    "D": "Hükümlünün koşullu salıverilme tarihinden önceki bir yıllık süreyi tamamlaması",
+    "Answer": "Hükümlünün denetimli serbestlik tedbiri altında infaz edilecek bir döneme girmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi artık dönemle ilgili yanlış bir ifadedir?",
+    "A": "Artık dönem, hükümlünün açık ceza infaz kurumuna ayrılma tarihinden itibaren başlar.",
+    "B": "Artık dönem, denetimli serbestlik tedbiri altında infaz edilen süreyi kapsamaz.",
+    "C": "Artık dönem, koşullu salıverilme tarihinden önceki altı aylık dönemi ifade eder.",
+    "D": "Artık dönem, hükümlünün son değerlendirme döneminin tamamlanmadığı süreleri ifade eder.",
+    "Answer": "Artık dönem, denetimli serbestlik tedbiri altında infaz edilen süreyi kapsamaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün açık ceza infaz kurumuna ayrılma, kalan cezasını denetimli serbestlik tedbiri altında infaz etme veya ceza infaz kurumundan doğrudan koşullu salıverilme tarihi itibarıyla altı aylık son değerlendirme döneminin tamamlanmadığı döneme ne denir?",
+    "A": "Eksik Dönem",
+    "B": "Gözlem Dönem",
+    "C": "Artık Dönem",
+    "D": "Gelişim Dönem",
+    "Answer": "Artık Dönem",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün kendisini tanıması, anlaması, bireysel özelliklerinin, ilgi ve yeteneklerinin farkına varması, kendine ilişkin kararlar ve sorumluluklar alması, beklentiler oluşturması sürecini kapsayan çalışmaların bütününe ne denir?",
+    "A": "Rehabilitasyon",
+    "B": "Danışmanlık",
+    "C": "Eğitim Programı",
+    "D": "Bireyselleştirme",
+    "Answer": "Bireyselleştirme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi \"ceza infaz kurumu\" kavramına dahildir?",
+    "A": "Yalnızca kapalı ve açık ceza infaz kurumları",
+    "B": "Yalnızca kapalı ceza infaz kurumları ve çocuk eğitimevleri",
+    "C": "Yalnızca kapalı ve yüksek güvenlikli kapalı ceza infaz kurumları",
+    "D": "Kapalı, yüksek güvenlikli kapalı, kadın kapalı, çocuk kapalı, gençlik kapalı, açık ceza infaz kurumları, gözlem ve sınıflandırma merkezleri ve çocuk eğitimevleri",
+    "Answer": "Kapalı, yüksek güvenlikli kapalı, kadın kapalı, çocuk kapalı, gençlik kapalı, açık ceza infaz kurumları, gözlem ve sınıflandırma merkezleri ve çocuk eğitimevleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, \"değerlendirme dönemi\" ne zaman başlar?",
+    "A": "Hükümlünün ceza infaz kurumuna kabulü sonrasında, idare ve gözlem kurulunca ilk gözlem kararının alındığı tarihte",
+    "B": "Hükümlünün ceza infaz kurumuna kabulüyle birlikte",
+    "C": "Hükümlünün gözlem ve sınıflandırma merkezine gönderilmesiyle",
+    "D": "Hükümlünün altı aylık infaz süresi dolduğunda",
+    "Answer": "Hükümlünün ceza infaz kurumuna kabulü sonrasında, idare ve gözlem kurulunca ilk gözlem kararının alındığı tarihte",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, \"Genel Müdürlük\" aşağıdaki kurumlardan hangisini ifade eder?",
+    "A": "Ceza İnfaz Kurumları Genel Müdürlüğü",
+    "B": "",
+    "C": "Adalet Bakanlığı Denetim Müdürlüğü",
+    "D": "İdari İşler Genel Müdürlüğü",
+    "Answer": "",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, \"gelişim değerlendirme raporu\" hangi amaçla düzenlenir?",
+    "A": "Hükümlünün aile bağlarını güçlendirmek için",
+    "B": "Ceza ve Tevkifevleri Genel Müdürlüğü",
+    "C": "Hükümlünün sağlık durumu hakkında bilgi toplamak için",
+    "D": "Hükümlünün yalnızca iyi hâl değerlendirmesi için",
+    "Answer": "Hükümlünün sağlık durumu hakkında bilgi toplamak için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim değerlendirme raporu ne kadar süre ceza infaz kurumunda kalan hükümlüler için düzenlenir?",
+    "A": "Üç aydan fazla kalanlar için",
+    "B": "Altı aydan fazla kalanlar için",
+    "C": "Bir yıldan fazla kalanlar için",
+    "D": "İki yıldan fazla kalanlar için",
+    "Answer": "Altı aydan fazla kalanlar için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün tanınması, davranışlarının değerlendirilerek hakkında uygulanacak rejimin belirlenmesi, kişinin durumuna uygun ceza infaz kurumuna ayrılması, infazın bireyselleştirilmesi, iyileştirme programlarına katılması, hükümlülük süresi içerisinde davranışlarının izlenmesi ve hükümlü hakkındaki iyi hâl değerlendirmesine dayanak oluşturması amacıyla, ceza infaz kurumunda kalma süresi altı aydan fazla olan hükümlüler hakkında düzenlenen ve gelişim puanlamasını içeren belge aşağıdakilerden hangisidir?",
+    "A": "İyi Hâl Belgesi",
+    "B": "Rehabilitasyon Raporu",
+    "C": "Davranış Değerlendirme Raporu",
+    "D": "Gelişim Değerlendirme Raporu",
+    "Answer": "Gelişim Değerlendirme Raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, \"gözlem\" kavramı neyi ifade eder?",
+    "A": "Hükümlünün aile ilişkilerini güçlendirmek amacıyla yapılan değerlendirme",
+    "B": "Hükümlünün infaz rejiminin ve iyi hâl durumunun belirlenmesi için yapılan inceleme, araştırma ve değerlendirme süreci",
+    "C": "Hükümlünün sosyal çevresiyle iletişim kurmasını sağlamak amacıyla yapılan gözlem",
+    "D": "Hükümlünün sağlık durumunun düzenli olarak izlenmesi",
+    "Answer": "Hükümlünün infaz rejiminin ve iyi hâl durumunun belirlenmesi için yapılan inceleme, araştırma ve değerlendirme süreci",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, \"gözlem ve sınıflandırma merkezi\" ne amaçla kullanılır?",
+    "A": "Hükümlülerin sağlık kontrollerinin yapılması",
+    "B": "Hükümlülerin aileleriyle görüşmelerini sağlamak",
+    "C": "Hükümlülerin gözlem, sınıflandırma ve değerlendirmelerinin yapılması",
+    "D": "Hükümlülerin tahliye süreçlerini yönetmek",
+    "Answer": "Hükümlülerin gözlem, sınıflandırma ve değerlendirmelerinin yapılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, \"gözlem değerlendirme raporu\" hangi hükümlüler için düzenlenir?",
+    "A": "Altı aydan fazla ceza infaz kurumunda kalan hükümlüler için",
+    "B": "Altı aydan az ceza infaz kurumunda kalan hükümlüler için",
+    "C": "Sadece iyi hâlli hükümlüler için",
+    "D": "Ceza infaz kurumuna yeni gelen hükümlüler için",
+    "Answer": "Altı aydan az ceza infaz kurumunda kalan hükümlüler için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, \"gözlem değerlendirme raporu\" aşağıdakilerden hangisini içermez?",
+    "A": "Hükümlü hakkındaki puanlama",
+    "B": "Hükümlünün davranışlarının izlenmesi",
+    "C": "Hükümlü hakkında uygulanacak rejimin belirlenmesi",
+    "D": "Hükümlünün iyileştirme programlarına katılımı",
+    "Answer": "Hükümlü hakkındaki puanlama",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

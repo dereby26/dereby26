@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlüye yenilenmiş iyileştirme planının tebliğ edilmesinin amacı aşağıdakilerden hangisidir?",
+    "A": "Hükümlünün topluma kazandırılma sürecini hızlandırmak",
+    "B": "Hükümlüyü cezalandırmak",
+    "C": "Hükümlünün iyi hâl değerlendirmesini geçersiz kılmak",
+    "D": "Hükümlünün infaz süresini uzatmak",
+    "Answer": "Hükümlünün topluma kazandırılma sürecini hızlandırmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulunun hangi tür kararı, 5275 sayılı Kanunun 107. maddesinde belirtilen gerekçeli rapor ve iyi hâl kararı yerine geçer?",
+    "A": "Olumsuz iyi hâl değerlendirmesi",
+    "B": "Olumlu iyi hâl değerlendirmesi içeren gerekçeli karar",
+    "C": "Psiko-sosyal destek kararı",
+    "D": "Disiplin kararı",
+    "Answer": "Olumlu iyi hâl değerlendirmesi içeren gerekçeli karar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu tarafından hükümlüye tebliğ edilen karar nüshasında aşağıdakilerden hangisi bulunmaz?",
+    "A": "Karar tarihi ve numarası",
+    "B": "Kurul başkanı ve üyelerinin adı ve soyadı",
+    "C": "Sekretarya personelinin ıslak imzası",
+    "D": "“ASLI GİBİDİR” kaşesi ve kurum mührü",
+    "Answer": "“ASLI GİBİDİR” kaşesi ve kurum mührü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kurul kararının hükümlüye tebliğ edilen nüshasında yer alan \"ASLI GİBİDİR\" kaşesi neyi ifade eder?",
+    "A": "Kararın geçici olduğunu",
+    "B": "Kararın kesinleştiğini",
+    "C": "Kararın orijinal ile aynı olduğunu",
+    "D": "Kararın yalnızca elektronik ortamda geçerli olduğunu",
+    "Answer": "Kararın orijinal ile aynı olduğunu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, tebliğ işleminin elektronik ortamda yapılabilmesi için hangi koşulun sağlanmış olması gereklidir?",
+    "A": "Hükümlünün elektronik imzası olması",
+    "B": "Teknik altyapının kurulu olduğu kurumlarda bulunması",
+    "C": "İdare ve gözlem kurulu üyelerinin onayı",
+    "D": "Hükümlünün talep etmesi",
+    "Answer": "Teknik altyapının kurulu olduğu kurumlarda bulunması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu kararında hangi bilgiler yer almaz?",
+    "A": "Karar tarihi ve numarası",
+    "B": "“ASLI GİBİDİR” kaşesi",
+    "C": "Kurul başkanı ve üyelerinin sicil bilgileri",
+    "D": "Sekretaryada görevli bir personelin ıslak imzası",
+    "Answer": "Kurul başkanı ve üyelerinin sicil bilgileri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlüye tebliğ edilen kurul kararında sekretarya personelinin hangi özelliği yer alır?",
+    "A": "Islak imzası",
+    "B": "Sicil ve unvan bilgileri",
+    "C": "Adı ve soyadı",
+    "D": "Karar için verdiği oy",
+    "Answer": "Islak imzası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre aşağıdakilerden hangisi söylenemez?",
+    "A": "İdare ve gözlem kurulu kararının hükümlüye tebliğ edilen nüshasında karar tarihi, numarası, “ASLI GİBİDİR” kaşesi ve kurum mührü ile ismi yazılmaksızın sekretaryada görevli bir personelin ıslak imzası yer alır",
+    "B": "Kurul başkanı, kurul üyeleri, sekretarya personeli ile raporları hazırlayan görevlilerin adı, soyadı, sicil ve unvan bilgileri yer alması gerekir.",
+    "C": "Yeniden değerlendirme süresi altı aydan az, bir yıldan fazla olamaz.",
+    "D": "Hakkında olumsuz karar verilen hükümlü hakkında psiko-sosyal yardım servisi ile eğitim ve öğretim servisince hazırlanan iyileştirme planı revize edilerek hükümlüye tebliğ edilir.",
+    "Answer": "Kurul başkanı, kurul üyeleri, sekretarya personeli ile raporları hazırlayan görevlilerin adı, soyadı, sicil ve unvan bilgileri yer alması gerekir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, idare ve gözlem kurulu sekretaryasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "İdare ve gözlem kurulunun sekretarya işlemlerini yürütmek üzere, iyileştirmeden sorumlu ikinci müdürün sorumluluğunda müstakil bir sekretarya birimi oluşturularak bu birimde yeterince personel görevlendirilir.",
+    "B": "Sekretarya; ilgili servislerden gelen servis puanlarını birleştirerek dönem puanı ve gelişim puanı hesaplamasını yapar. Hakkında değerlendirme yapılacak hükümlü ile ilgili gözlem değerlendirme raporları veya gelişim değerlendirme raporları ile risk değerlendirme raporu, puanlama icmal tablosu, infaz dosyası ve diğer belgeleri toplantıda hazır eder. Bu amaçla gerektiğinde hükümlü hakkındaki yazışmalar ile araştırmaları yapar.",
+    "C": "Dosyası idare ve gözlem kurulunda görüşülecek hükümlü hakkında son bir ay içerisinde hazırlanmış yeni tarihli gözlem değerlendirme raporları veya gelişim değerlendirme raporları yoksa kurul toplantısından en az 2 gün önce ilgili servislerin bu değerlendirmeyi yapmaları sağlanarak dosya ikmal edilir.",
+    "D": "5275 sayılı Kanunun 89 uncu maddesinin üçüncü fıkrası uyarınca yapılacak olan idare ve gözlem kurulu toplantısının gün ve saati ile gündemi, kurul sekretaryası tarafından acil durumlar hariç en az 24 saat önce kurul üyelerine bildirilir. Bu bildirim, ilgili üyenin onay vermesi durumunda elektronik ileti yoluyla da yapılabilir.",
+    "Answer": "5275 sayılı Kanunun 89 uncu maddesinin üçüncü fıkrası uyarınca yapılacak olan idare ve gözlem kurulu toplantısının gün ve saati ile gündemi, kurul sekretaryası tarafından acil durumlar hariç en az 24 saat önce kurul üyelerine bildirilir. Bu bildirim, ilgili üyenin onay vermesi durumunda elektronik ileti yoluyla da yapılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulunun sekretarya işlemlerini yürütmek üzere kimin sorumluluğunda müstakil bir sekretarya birimi oluşturulur?",
+    "A": "Kurul başkanının",
+    "B": "İyileştirmeden sorumlu ikinci müdürün",
+    "C": "Ceza infaz kurumu müdürünün",
+    "D": "Psiko-sosyal yardım servisi sorumlusunun",
+    "Answer": "İyileştirmeden sorumlu ikinci müdürün",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, sekretaryanın temel görevlerinden biri aşağıdakilerden hangisidir?",
+    "A": "Hükümlülerin aile görüşmelerini organize etmek",
+    "B": "Hükümlülerin iyi hâl durumunu belirlemek",
+    "C": "Servis puanlarını birleştirerek dönem puanı ve gelişim puanı hesaplaması yapmak",
+    "D": "Hükümlülerin tahliye tarihini planlamak",
+    "Answer": "Servis puanlarını birleştirerek dönem puanı ve gelişim puanı hesaplaması yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, sekretarya, hükümlü ile ilgili değerlendirme yapılacak toplantıda hangi belgeleri hazır eder?",
+    "A": "Sadece infaz dosyası ve aile raporları",
+    "B": "Sağlık raporları ve mali belgeler",
+    "C": "Sadece hükümlünün başvuru dilekçesi",
+    "D": "Gözlem ve gelişim değerlendirme raporları, risk değerlendirme raporu, puanlama icmal tablosu, infaz dosyası ve diğer belgeler",
+    "Answer": "Gözlem ve gelişim değerlendirme raporları, risk değerlendirme raporu, puanlama icmal tablosu, infaz dosyası ve diğer belgeler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, sekretaryanın toplantıda hazır bulundurduğu puanlama icmal tablosu hangi amaçla kullanılır?",
+    "A": "Hükümlünün davranışları hakkında aile üyelerine bilgi vermek için",
+    "B": "Dönem puanı ve gelişim puanı hesaplamalarını göstermek için",
+    "C": "Hükümlünün ceza süresini azaltmak için",
+    "D": "Hükümlünün ziyaret sürelerini belirlemek için",
+    "Answer": "Dönem puanı ve gelişim puanı hesaplamalarını göstermek için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, sekretarya gerektiğinde hükümlü hakkında hangi işlemleri yapar?",
+    "A": "Yazışmalar ve araştırmalar",
+    "B": "Ceza indirimi talep işlemleri",
+    "C": "Disiplin cezalarının düzenlenmesi",
+    "D": "Hükümlünün avukat seçimi",
+    "Answer": "Yazışmalar ve araştırmalar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, sekretarya biriminde hangi işlemler yapılmaz?",
+    "A": "Servis puanlarının birleştirilmesi",
+    "B": "Tahliye belgelerinin imzalanması",
+    "C": "Gözlem ve gelişim değerlendirme raporlarının hazırlanması",
+    "D": "Hükümlü hakkındaki yazışmalar",
+    "Answer": "Tahliye belgelerinin imzalanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, dosyası idare ve gözlem kurulunda görüşülecek hükümlü hakkında son bir ay içinde hazırlanmış yeni tarihli değerlendirme raporu yoksa hangi işlem yapılır?",
+    "A": "Hükümlü serbest bırakılır",
+    "B": "Değerlendirme yapılmadan toplantıya geçilir",
+    "C": "Kurul toplantısı iptal edilir",
+    "D": "İlgili servislerce en az 2 gün önce yeni değerlendirme yapılır",
+    "Answer": "İlgili servislerce en az 2 gün önce yeni değerlendirme yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu toplantısının gün ve saati ile gündemi en az kaç saat önce kurul üyelerine bildirilir?",
+    "A": "24 saat",
+    "B": "72 saat",
+    "C": "48 saat",
+    "D": "Bir hafta",
+    "Answer": "48 saat",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kurul üyelerine yapılacak bildirim hangi durumda elektronik ortamda yapılabilir?",
+    "A": "Üyelerin isteği olmaksızın",
+    "B": "İlgili üyenin onay vermesi durumunda",
+    "C": "Sadece acil durumlarda",
+    "D": "Elektronik ortamın zorunlu olduğu kurumlarda",
+    "Answer": "İlgili üyenin onay vermesi durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, toplantı tutanaklarının yazılması ve kurul üyelerine imzalatılması hangi birimin sorumluluğundadır?",
+    "A": "Psiko-sosyal yardım servisi",
+    "B": "Ceza infaz kurumu müdürlüğü",
+    "C": "Kurul sekretaryası",
+    "D": "İdare ve gözlem kurulu başkanı",
+    "Answer": "Kurul sekretaryası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu toplantısından önce kurul üyelerine yapılacak bildirim için hangi süre geçerli değildir?",
+    "A": "Acil durumlarda 48 saatten az bir süre",
+    "B": "Normal şartlarda en az 48 saat önce",
+    "C": "Toplantı günü sabahı bildirim yapılması",
+    "D": "İlgili üyenin onayıyla elektronik bildirim yapılması",
+    "Answer": "Acil durumlarda 48 saatten az bir süre",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

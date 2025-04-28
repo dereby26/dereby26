@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, hükümlünün durumunun değerlendirilmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlülere ait gözlem değerlendirme ve gelişim değerlendirme raporları, icmal tabloları, risk değerlendirme raporları, idare ve gözlem kurulu kararları, ilâm örneği, süre belgesi ve sair belgeler tarih sırasına göre dosyalanır.",
+    "B": "Gözlem ve değerlendirme dosyası ile infaz dosyası, kurul sekretaryası tarafından disiplin kuruluna sunulur.",
+    "C": "Hükümlünün açık ceza infaz kurumuna ayrılma, denetimli serbestlik tedbiri ile infaz veya doğrudan koşullu salıverilme talebi üzerine, idare tarafından mevzuatta belirtilen süre ve kaldırılmamış disiplin cezasının bulunmaması gibi şartlar incelenir, şartları sağlamayan talepler reddedilerek hükümlüye tebliğ edilir.",
+    "D": "Talebin bulunması, süre şartını sağlaması ve kaldırılmamış disiplin cezası bulunmaması gibi mevzuatta belirtilen şartları taşıyan dosyalar, idare ve gözlem kurulu sekretaryası tarafından işleme alınarak gözlem ve değerlendirme dosyası hazırlanır.",
+    "Answer": "Gözlem ve değerlendirme dosyası ile infaz dosyası, kurul sekretaryası tarafından disiplin kuruluna sunulur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, karar sonrası işlemler ve karar sonrasında iyi hâlin ortadan kalkmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Kurulun, hükümlünün iyi hâlli olduğuna karar verdiği tarih ile işlem tarihi arasında geçen sürede iyi hâli etkileyen başka bir olumsuzluk yaşanmaması halinde, günü geldiğinde diğer işlemlerin ikmaline idarece devam edilir.",
+    "B": "Karar tarihi ile işlem tarihi arasında hükümlünün iyi hâlini etkileyen bir durum ortaya çıksa bile, idare ve gözlem kurulu iyi hâl kararını değiştirmez ve diğer işlemler devam eder.",
+    "C": "İyi hâl kararı verildikten sonra, hükümlünün iyi hâlini ortadan kaldıran bir disiplin eylemi gerçekleşirse, idare ve gözlem kurulu bu durumu göz ardı eder ve infaz süreci normal olarak devam eder.",
+    "D": "Hükümlü hakkında iyi hâl kararı verildiği tarihten sonra herhangi bir disiplin cezası verilmişse, bu ceza infaz edilmeden hükümlü hakkında yeniden değerlendirme yapılamaz.",
+    "Answer": "Kurulun, hükümlünün iyi hâlli olduğuna karar verdiği tarih ile işlem tarihi arasında geçen sürede iyi hâli etkileyen başka bir olumsuzluk yaşanmaması halinde, günü geldiğinde diğer işlemlerin ikmaline idarece devam edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi yanlıştır?",
+    "A": "Açık ceza infaz kurumuna ayrılma, kalan cezayı denetimli serbestlik tedbiri kapsamında infaz etme veya ceza infaz kurumundan doğrudan koşullu salıverme gibi işlemler için yapılan değerlendirme sonucunda verilen olumsuz iyi hâl kararı, aksi yönde açık bir karar alınmadığı sürece, idare ve gözlem kurulunun eğitim, çalıştırma, nakil, özel izin ve benzeri işlemler için geçmişte vermiş olduğu iyi hâlliliğe dair değerlendirmelere tesir etmez.",
+    "B": "Hükümlünün kapalı ceza infaz kurumuna iade edilmesi için, kapalı ceza infaz kurumuna iade nedenlerinden birinin gerçekleşmesi ve idare tarafından bu yönde açık bir karar alınması gerekir; aksi takdirde olumsuz iyi hâl kararı kapalı ceza infaz kurumuna iade nedeni sayılamaz.",
+    "C": "İlgililer, ceza infaz kurumu idaresi ile idare ve gözlem kurulunun kararlarına karşı, 4675 sayılı İnfaz Hâkimliği Kanununun 5 ve 6 ncı maddelerinde yazılı usul ve esaslar çerçevesinde şikâyet ve itirazda bulunabilir.",
+    "D": "Kapalı ceza infaz kurumuna iade nedenlerinden biri gerçekleşmeden ve idare tarafından açık bir karar alınmadan, olumsuz iyi hâl kararı hükümlünün kapalı ceza infaz kurumuna iadesini gerektirir.",
+    "Answer": "Kapalı ceza infaz kurumuna iade nedenlerinden biri gerçekleşmeden ve idare tarafından açık bir karar alınmadan, olumsuz iyi hâl kararı hükümlünün kapalı ceza infaz kurumuna iadesini gerektirir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl kararı verilen bir hükümlü hakkında karar tarihi ile işlem tarihi arasında iyi hâli ortadan kaldıran bir disiplin eylemi gerçekleşirse ne yapılır?",
+    "A": "Hükümlünün iyi hâl kararı geçerliliğini korur ve işlemler devam eder",
+    "B": "Hükümlü sadece uyarılır ancak iyi hâl kararı devam eder",
+    "C": "Disiplin cezası infaz edilmeden iyi hâl kararı verilir",
+    "D": "İdare ve gözlem kurulu derhal toplanarak iyi hâl kararı kaldırılır ve disiplin soruşturmasının sonucu beklenir",
+    "Answer": "İdare ve gözlem kurulu derhal toplanarak iyi hâl kararı kaldırılır ve disiplin soruşturmasının sonucu beklenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, açık ceza infaz kurumuna ayrılma gibi bir durumda verilen olumsuz iyi hâl kararı, hangi koşulda diğer olumlu değerlendirmelere tesir etmez?",
+    "A": "Hükümlü tekrar disiplin cezası almazsa",
+    "B": "Aksi yönde açık bir karar alınmadığı sürece",
+    "C": "Hükümlü yeniden eğitim programlarına katılırsa",
+    "D": "Hükümlü geçmişte başka iyi hâl kararı almışsa",
+    "Answer": "Aksi yönde açık bir karar alınmadığı sürece",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kapalı ceza infaz kurumuna iade nedenlerinden biri gerçekleşmeden ne yapılamaz?",
+    "A": "Hükümlüye disiplin cezası verilemez",
+    "B": "İyi hâl kararı alınamaz",
+    "C": "Hükümlünün dosyası kapatılamaz",
+    "D": "Hükümlü kapalı ceza infaz kurumuna iade edilmez",
+    "Answer": "Hükümlü kapalı ceza infaz kurumuna iade edilmez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulunun almış olduğu kararlara karşı hükümlüler hangi kanun çerçevesinde itirazda bulunabilir?",
+    "A": "Ceza Kanunu",
+    "B": "5275 sayılı İnfaz Kanunu",
+    "C": "4675 sayılı İnfaz Hâkimliği Kanununun 5 ve 6. maddelerine göre",
+    "D": "İdare ve Gözlem Yönetmeliği",
+    "Answer": "4675 sayılı İnfaz Hâkimliği Kanununun 5 ve 6. maddelerine göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün iyi hâl kararının kaldırılmasından sonra ne beklenir?",
+    "A": "Hükümlünün aile görüşü yapması",
+    "B": "Hükümlünün diğer ceza infaz kurumlarına nakledilmesi",
+    "C": "İyi hâl kararının tekrar verilmesi",
+    "D": "Disiplin soruşturmasının neticelenmesi ve disiplin cezasının infazı",
+    "Answer": "Disiplin soruşturmasının neticelenmesi ve disiplin cezasının infazı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlü hangi durumlarda şikâyet ve itiraz hakkına sahiptir?",
+    "A": "İdare ve gözlem kurulunun kararlarına karşı",
+    "B": "Hükümlülerin yalnızca disiplin cezalarına karşı",
+    "C": "Eğitim programlarına katılma kararlarına karşı",
+    "D": "Sadece tahliye taleplerine karşı",
+    "Answer": "İdare ve gözlem kurulunun kararlarına karşı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl kararı verilmiş bir hükümlü, iyi hâlini etkileyen bir olumsuzluk yaşamazsa ne olur?",
+    "A": "Hükümlü tekrar gözlem sürecine alınır",
+    "B": "Diğer işlemlerin ikmaline idarece devam edilir",
+    "C": "İyi hâl kararı otomatik olarak iptal edilir",
+    "D": "Hükümlü, kapalı ceza infaz kurumuna iade edilir",
+    "Answer": "Diğer işlemlerin ikmaline idarece devam edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz kurumu idaresi ile idare ve gözlem kurulunun verdiği kararlara karşı hangi usuller çerçevesinde şikâyet ve itiraz hakları vardır?",
+    "A": "Disiplin Kanunu çerçevesinde",
+    "B": "Ceza İnfaz Mevzuatı’na göre",
+    "C": "4675 sayılı İnfaz Hâkimliği Kanununun 5 ve 6. maddelerine göre",
+    "D": "Ceza İnfaz Yargılaması Yönetmeliği’ne göre",
+    "Answer": "4675 sayılı İnfaz Hâkimliği Kanununun 5 ve 6. maddelerine göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün doğrudan koşullu salıverilmesi gibi durumlar için yapılan iyi hâl değerlendirmesinde verilen olumsuz karar, hangi koşulda diğer işlemleri etkilemez?",
+    "A": "Hükümlü geçmişte başka iyi hâl kararı almışsa",
+    "B": "Hükümlü hakkında aksi yönde açık bir karar alınmadıysa",
+    "C": "Hükümlü disiplin cezasını tamamladıysa",
+    "D": "Hükümlü denetimli serbestliğe ayrılmaya hak kazandıysa",
+    "Answer": "Hükümlü hakkında aksi yönde açık bir karar alınmadıysa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi durumda hükümlü kapalı ceza infaz kurumuna geri iade edilir?",
+    "A": "İyi hâl kararının verilmesinden sonra disiplin cezası alması halinde",
+    "B": "Eğitim programlarına katılmayı reddettiğinde",
+    "C": "Hükümlünün ailesinin talebi üzerine",
+    "D": "Psikolojik değerlendirme yapılmadan önce",
+    "Answer": "İyi hâl kararının verilmesinden sonra disiplin cezası alması halinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl kararına karşı itirazda bulunmak isteyen hükümlü hangi merciye başvurabilir?",
+    "A": "İnfaz Savcılığı",
+    "B": "İdare ve Gözlem Kurulu",
+    "C": "İnfaz Hâkimliği",
+    "D": "Ceza İnfaz Müdürlüğü",
+    "Answer": "İnfaz Hâkimliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlüler ceza infaz kurumu idaresi ile idare ve gözlem kurulunun kararlarına karşı aşağıdakilerden hangisine itirazda edilir?",
+    "A": "Kurum Müdürlüğü",
+    "B": "Cumhuriyet Başsavcılığı",
+    "C": "Ağır Ceza Hakimliği",
+    "D": "İnfaz Hakimliği",
+    "Answer": "İnfaz Hakimliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi yanlıştır?",
+    "A": "17/6/2005 tarihli ve 25848 sayılı Resmî Gazete’de yayımlanan Gözlem ve Sınıflandırma Merkezleri Yönetmeliği yürürlükten kaldırılmıştır.",
+    "B": "Bu Yönetmelik, 1/1/2021 tarihinde yürürlüğe girer.",
+    "C": "Bu Yönetmelik hükümlerini Adalet Bakanı yürütür; ayrıca ceza infaz kurumları kendi inisiyatifleriyle uygular.",
+    "D": "Yürürlüğe giren bu Yönetmelik, eski yönetmeliğin yerini alır ve hükümlerini Adalet Bakanı yürütür.",
+    "Answer": "Bu Yönetmelik hükümlerini Adalet Bakanı yürütür; ayrıca ceza infaz kurumları kendi inisiyatifleriyle uygular.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi tarihte yayımlanan yönetmelik yürürlükten kaldırılmıştır?",
+    "A": "17/6/2005 tarihli ve 25848 sayılı Resmî Gazete’de yayımlanan yönetmelik",
+    "B": "1/1/2021 tarihli ve 25848 sayılı Resmî Gazete’de yayımlanan yönetmelik",
+    "C": "17/6/2005 tarihli ve 27848 sayılı Resmî Gazete’de yayımlanan yönetmelik",
+    "D": "1/1/2021 tarihli ve 27848 sayılı Resmî Gazete’de yayımlanan yönetmelik",
+    "Answer": "17/6/2005 tarihli ve 25848 sayılı Resmî Gazete’de yayımlanan yönetmelik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, yeni yönetmelik hangi tarihte yürürlüğe girmiştir?",
+    "A": "17/6/2005",
+    "B": "1/1/2021",
+    "C": "1/1/2020",
+    "D": "17/6/2021",
+    "Answer": "1/1/2021",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bu yönetmeliğin hükümlerini kim yürütür?",
+    "A": "Ceza İnfaz Kurumu Müdürü",
+    "B": "İdare ve Gözlem Kurulu",
+    "C": "Adalet Bakanı",
+    "D": "Cumhuriyet Başsavcısı",
+    "Answer": "Adalet Bakanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, eski yönetmeliğin yürürlükten kaldırılma amacı nedir?",
+    "A": "Yalnızca tarih değişikliği yapmak için",
+    "B": "İnfaz kanunlarını yeniden yazmak için",
+    "C": "Denetimli serbestlik uygulamasını kaldırmak için",
+    "D": "Gözlem ve sınıflandırma faaliyetlerini yeni düzenlemelerle güncellemek için",
+    "Answer": "Gözlem ve sınıflandırma faaliyetlerini yeni düzenlemelerle güncellemek için",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

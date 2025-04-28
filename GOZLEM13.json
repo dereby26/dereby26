@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, örgütten ayrılan suçlular hangi gruba ayrılır?",
+    "A": "Örgütten ayrılanlar",
+    "B": "Tarafsız olanlar",
+    "C": "Örgüt lideri olanlar",
+    "D": "Aktif örgüt üyesi olanlar",
+    "Answer": "Örgütten ayrılanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, örgütsel durumu nedeniyle gruplandırmaya tabi tutulan suçlulardan tarafsız olanlar hangi gruba dâhildir?",
+    "A": "Örgüt lideri olanlar",
+    "B": "Tarafsız olanlar",
+    "C": "Aktif örgüt üyesi olanlar",
+    "D": "Örgütten ayrılanlar",
+    "Answer": "Tarafsız olanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi örgütsel durumları nedeniyle yapılan gruplandırmaya dâhil değildir?",
+    "A": "Örgüt lideri olanlar",
+    "B": "Aktif örgüt üyesi olanlar",
+    "C": "Psikolojik rahatsızlığı olanlar",
+    "D": "Örgütten ayrılanlar",
+    "Answer": "Psikolojik rahatsızlığı olanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, örgüt mensubu olup tarafsız kalan hükümlüler hangi grupta değerlendirilir?",
+    "A": "Örgüt lideri olanlar",
+    "B": "Tarafsız olanlar",
+    "C": "Aktif örgüt üyesi olanlar",
+    "D": "Örgütten ayrılanlar",
+    "Answer": "Tarafsız olanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, iyileştirme programlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "İyileştirme ve bireyselleştirme çalışmaları yalnızca psiko-sosyal yardım servisi tarafından yürütülür; diğer servisler bu çalışmalara katılmaz.",
+    "B": "Eğitim ve öğretim servisi ile psiko-sosyal yardım servisleri, iyileştirme çalışmalarında sadece rehberlik yapar; bireyselleştirme çalışmaları ise tamamen güvenlik ve gözetim servisi tarafından yürütülür.",
+    "C": "İyileştirme ve bireyselleştirme çalışmaları, yalnızca ilgili mevzuat çerçevesinde yönetim servisi tarafından yürütülür.",
+    "D": "İyileştirme ve bireyselleştirme çalışmaları, Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin onikinci bölümü ile ilgili diğer mevzuat ve protokollerde belirlenen amaç, usul ve esaslara göre eğitim ve öğretim servisi ile psiko-sosyal yardım servisleri tarafından yürütülür.",
+    "Answer": "İyileştirme ve bireyselleştirme çalışmaları, Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin onikinci bölümü ile ilgili diğer mevzuat ve protokollerde belirlenen amaç, usul ve esaslara göre eğitim ve öğretim servisi ile psiko-sosyal yardım servisleri tarafından yürütülür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, iyileştirme programlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlünün ilk gözlem süresi sonunda gönderildiği ceza infaz kurumunda, psiko-sosyal değerlendirme ölçekleri uygulanarak risk düzeyi ve bireysel ihtiyaçları belirlenir. 5275 sayılı Kanunun 73 üncü maddesi gereğince, eğitim ve öğretim ile psiko-sosyal yardım servisleri tarafından hükümlünün risk düzeyi ve bireysel ihtiyaçlarına göre bir iyileştirme planı hazırlanarak hükümlüye tebliğ edilir.",
+    "B": "Hükümlünün risk düzeyi ve bireysel ihtiyaçları yalnızca psiko-sosyal değerlendirme ölçekleri kullanılarak belirlenmez, diğer kurum birimleri tarafından da değerlendirme yapılır.",
+    "C": "Hükümlünün iyileştirme planı yalnızca eğitim ve öğretim servisi tarafından hazırlanır ve psiko-sosyal yardım servisi sürece dahil edilmez.",
+    "D": "İlk gözlem süresi sonunda hükümlüye herhangi bir iyileştirme planı tebliğ edilmez, bu plan yalnızca risk düzeyi yüksek olan hükümlüler için hazırlanır.",
+    "Answer": "Hükümlünün ilk gözlem süresi sonunda gönderildiği ceza infaz kurumunda, psiko-sosyal değerlendirme ölçekleri uygulanarak risk düzeyi ve bireysel ihtiyaçları belirlenir. 5275 sayılı Kanunun 73 üncü maddesi gereğince, eğitim ve öğretim ile psiko-sosyal yardım servisleri tarafından hükümlünün risk düzeyi ve bireysel ihtiyaçlarına göre bir iyileştirme planı hazırlanarak hükümlüye tebliğ edilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, iyileştirme programlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Yapılan gözlem, görüşme ve uygulanan risk değerlendirme ölçeği sonuçlarına göre, idare ve gözlem kurulunca; görme, konuşma ve işitme engelliler ile özbakımını yapamayacak şekilde yatağa bağımlı hasta ya da ağır kocama hali bulunanlardan durumu hekim raporu ile tespit edilenler hakkında gelişim değerlendirmesine tabi tutulmaması kararı verilebilir.",
+    "B": "Yapılan gözlem, görüşme ve uygulanan risk değerlendirme ölçeği sonuçlarına göre, idare ve gözlem kurulunca; iyileşme ihtimali olmadığı tıbbi olarak tespit edilen ağır psikiyatrik hastalar hakkında gelişim değerlendirmesine tabi tutulmaması kararı verilebilir.",
+    "C": "Yapılan gözlem, görüşme ve uygulanan risk değerlendirme ölçeği sonuçlarına göre, idare ve gözlem kurulunca; şahsi ve sosyal durumu ya da suç geçmişi nedeniyle özel gözetim ve denetim altında bulundurulmasının gerekli olduğu saptananlar ve benzeri durumda olanlar hakkında da gelişim değerlendirmesine tabi tutulmaması kararı verilebilir.",
+    "D": "İdare ve gözlem kurulu tarafından gelişim değerlendirmesine tabi tutulmaması kararı verilen hükümlüler için iyileştirme planı hazırlanır ve değerlendirmeler yönetim ve psiko-sosyal yardım servisi dışında kalan diğer servisler tarafından düzenlenen gözlem değerlendirme raporuna göre yapılır.",
+    "Answer": "İdare ve gözlem kurulu tarafından gelişim değerlendirmesine tabi tutulmaması kararı verilen hükümlüler için iyileştirme planı hazırlanır ve değerlendirmeler yönetim ve psiko-sosyal yardım servisi dışında kalan diğer servisler tarafından düzenlenen gözlem değerlendirme raporuna göre yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, iyileştirme programlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Risk değerlendirme ölçekleri yalnızca hükümlünün ilk değerlendirme döneminde uygulanır ve daha sonra iyileştirme planları güncellenmez.",
+    "B": "İlgili servisler tarafından uygulanan risk değerlendirme ölçekleri yalnızca yılda bir kez uygulanır ve iyileştirme planları her değerlendirme döneminde güncellenmez.",
+    "C": "İlgili servisler tarafından uygulanan risk değerlendirme ölçekleri her iki değerlendirme döneminde bir tekrarlanarak, eğitim ve öğretim ile psiko-sosyal yardım servisleri tarafından hazırlanan iyileştirme planları bu risk değerlendirmesi sonucuna göre güncellenir.",
+    "D": "Eğitim ve öğretim servisi tarafından hazırlanan iyileştirme planları yalnızca psiko-sosyal yardım servisi değerlendirmesine göre güncellenir; risk değerlendirme ölçekleri dikkate alınmaz.",
+    "Answer": "İlgili servisler tarafından uygulanan risk değerlendirme ölçekleri her iki değerlendirme döneminde bir tekrarlanarak, eğitim ve öğretim ile psiko-sosyal yardım servisleri tarafından hazırlanan iyileştirme planları bu risk değerlendirmesi sonucuna göre güncellenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlü, iyileştirme programlarına katılım göstermekte serbesttir; programlara uyum sağlaması zorunlu değildir.",
+    "B": "Hükümlünün gelişimi yalnızca yıllık olarak değerlendirilir ve gözlem değerlendirme raporları idare ve gözlem kuruluna sunulmaz.",
+    "C": "Hükümlü hakkında hazırlanan gözlem değerlendirme raporları idare ve gözlem kurulunun değerlendirmesine esas teşkil etmez; yalnızca psiko-sosyal yardım servisine iletilir.",
+    "D": "Hükümlü, Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin 67 nci maddesi uyarınca iyileştirme programlarına tam bir uyum göstermekle yükümlüdür. Hükümlünün belirlenen programlara katılımı ve gelişimi takip edilerek altı ayda bir değerlendirilir. İlgili servislerce hazırlanan gözlem değerlendirme veya gelişim değerlendirme raporları, idare ve gözlem kurulu tarafından yapılan değerlendirmelere esas teşkil eder.",
+    "Answer": "Hükümlü, Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin 67 nci maddesi uyarınca iyileştirme programlarına tam bir uyum göstermekle yükümlüdür. Hükümlünün belirlenen programlara katılımı ve gelişimi takip edilerek altı ayda bir değerlendirilir. İlgili servislerce hazırlanan gözlem değerlendirme veya gelişim değerlendirme raporları, idare ve gözlem kurulu tarafından yapılan değerlendirmelere esas teşkil eder.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyileştirme ve bireyselleştirme çalışmaları hangi servisler tarafından yürütülür?",
+    "A": "Eğitim ve öğretim servisi ile psiko-sosyal yardım servisi",
+    "B": "Yönetim servisi ve güvenlik servisi",
+    "C": "Güvenlik ve gözetim servisi ile sağlık servisi",
+    "D": "Ceza infaz kurumu müdürlüğü ve disiplin servisi",
+    "Answer": "Eğitim ve öğretim servisi ile psiko-sosyal yardım servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün ceza infaz kurumunda psiko-sosyal değerlendirme ölçekleri ile belirlenen unsurlar nelerdir?",
+    "A": "Suç geçmişi ve aile yapısı",
+    "B": "Risk düzeyi ve bireysel ihtiyaçları",
+    "C": "Mali durumu ve eğitim düzeyi",
+    "D": "Hükümlünün tahliye süresi",
+    "Answer": "Risk düzeyi ve bireysel ihtiyaçları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdaki hangi hükümlü grubu için gelişim değerlendirmesi yapılmaz?",
+    "A": "Hafif psikiyatrik rahatsızlığı olanlar",
+    "B": "Eğitim programına katılanlar",
+    "C": "İyileşme sürecinde olan hükümlüler",
+    "D": "Sosyal iletişime tamamen kapalı olduğu psikiyatri raporu ile tespit edilenler",
+    "Answer": "Sosyal iletişime tamamen kapalı olduğu psikiyatri raporu ile tespit edilenler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim değerlendirmesine tabi tutulmayan hükümlüler için hangi tür plan hazırlanmaz?",
+    "A": "İyileştirme planı",
+    "B": "Sosyal faaliyet planı",
+    "C": "Gözlem planı",
+    "D": "Disiplin planı",
+    "Answer": "İyileştirme planı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, risk değerlendirme ölçekleri hangi sıklıkla tekrarlanır?",
+    "A": "Her üç ayda bir",
+    "B": "Her iki değerlendirme döneminde bir",
+    "C": "Yılda bir",
+    "D": "Hükümlünün talebi üzerine",
+    "Answer": "Her iki değerlendirme döneminde bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün iyileştirme programlarına uyumu hangi sıklıkla değerlendirilir?",
+    "A": "Yılda bir",
+    "B": "İki yılda bir",
+    "C": "Altı ayda bir",
+    "D": "Her ay",
+    "Answer": "Altı ayda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, görme, konuşma ve işitme engelli veya ağır kocama hali bulunan hükümlüler için hangi işlem yapılmaz?",
+    "A": "Gelişim değerlendirmesi yapılmaz",
+    "B": "İyileştirme planı hazırlanmaz",
+    "C": "Gözlem değerlendirme raporuna göre değerlendirme yapılır",
+    "D": "Yönetim servisi tarafından bireysel eğitim verilir",
+    "Answer": "Gözlem değerlendirme raporuna göre değerlendirme yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi hükümlüler için psiko-sosyal değerlendirme ölçekleri uygulanarak risk düzeyi ve bireysel ihtiyaçları belirlenir?",
+    "A": "İlk defa suç işleyenler",
+    "B": "Sadece ağır suçlardan hüküm giyenler",
+    "C": "İyi hâl gösteren tüm hükümlüler",
+    "D": "Ceza infaz kurumunda ilk gözlem süresi sonunda gönderildikleri kurumda bulunan hükümlüler",
+    "Answer": "Ceza infaz kurumunda ilk gözlem süresi sonunda gönderildikleri kurumda bulunan hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, risk değerlendirme ölçekleri sonucunda güncellenen iyileştirme planları hangi servisler tarafından hazırlanır?",
+    "A": "Yönetim ve güvenlik servisleri",
+    "B": "Eğitim ve öğretim ile psiko-sosyal yardım servisleri",
+    "C": "Sağlık ve rehberlik servisleri",
+    "D": "Güvenlik ve gözetim servisi",
+    "Answer": "Eğitim ve öğretim ile psiko-sosyal yardım servisleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, psiko-sosyal değerlendirme ölçekleri hangi aralıklarla yenilenir?",
+    "A": "Yılda bir kez",
+    "B": "Her üç ayda bir",
+    "C": "Her hafta",
+    "D": "Her iki değerlendirme döneminde bir",
+    "Answer": "Her iki değerlendirme döneminde bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün iyileştirme programlarına katılımı ve gelişimi nasıl takip edilir?",
+    "A": "Hükümlünün talepleri doğrultusunda",
+    "B": "Yılda bir kez değerlendirme yapılarak",
+    "C": "Altı ayda bir gözlem ve gelişim değerlendirme raporlarıyla",
+    "D": "Psikolojik testlerle her ay",
+    "Answer": "Altı ayda bir gözlem ve gelişim değerlendirme raporlarıyla",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

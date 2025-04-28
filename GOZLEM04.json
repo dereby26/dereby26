@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlü, ilk gözlem sonunda yapılan yerleştirme işlemlerine müteakiben kurumda kaldığı süre boyunca gözlemlenir ve gösterdiği gelişim en geç kaç ayda bir idare ve gözlem kurulu tarafından değerlendirilir?",
+    "A": "Üç Ay",
+    "B": "Dört Ay",
+    "C": "Beş Ay",
+    "D": "Altı Ay",
+    "Answer": "Altı Ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlü, ilk gözlem sonunda yapılan yerleştirme işlemlerine müteakiben kurumda kaldığı süre boyunca gözlemlenir ve gösterdiği gelişim en geç altı ayda bir hangi kurul tarafından değerlendirilir?",
+    "A": "Sağlık Kurulu",
+    "B": "İdare ve Sınıflama Kurulu",
+    "C": "Rehabilitasyon Kurulu",
+    "D": "İdare ve Gözlem Kurulu",
+    "Answer": "İdare ve Gözlem Kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bulunduğu ceza infaz kurumunda kalacağı süre kaç günden az olan hükümlüler hakkında ilk gözlem kararı alınmaz?",
+    "A": "Otuz",
+    "B": "Altmış",
+    "C": "Kırk Beş",
+    "D": "Elli",
+    "Answer": "Altmış",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlü; kişiliğine, sair hallerine, suçun işlenmesindeki özelliklere göre, hangi kurul kararıyla gerektiğinde gözleme tabi tutulmayabilir?",
+    "A": "Disiplin Kurulu",
+    "B": "Yönetim Kurulu",
+    "C": "İdare ve Gözlem Kurulu",
+    "D": "Rehabilitasyon Kurulu",
+    "Answer": "İdare ve Gözlem Kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi doğrudur?",
+    "A": "Kısa süreli hapis cezaları için özel infaz usulleri uygulanmaz ve diğer cezalarla aynı şekilde infaz edilir.",
+    "B": "Kısa süreli hapis cezaları, 5275 sayılı Kanunda gösterilen esaslara göre infaz olunur.",
+    "C": "Kısa süreli hapis cezalarının infazı, yalnızca idare ve gözlem kurulunun kararlarına göre gerçekleştirilir.",
+    "D": "Kısa süreli hapis cezaları, infaz kurallarına bağlı olmaksızın doğrudan serbest bırakılma esasına dayanır.",
+    "Answer": "Kısa süreli hapis cezaları, 5275 sayılı Kanunda gösterilen esaslara göre infaz olunur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, toplu faaliyetlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Gözlem ve sınıflandırma merkezlerinde bulunan veya ceza infaz kurumlarında ilk gözleme tabi tutulmakta olan ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar dışında kalan hükümlüler, güvenlik bakımından tehlike yaratmadığı takdirde özel yemekhanesi olan ceza infaz kurumlarında toplu olarak yemek yiyebilir.",
+    "B": "Gözlem ve sınıflandırma merkezlerinde bulunan veya ceza infaz kurumlarında ilk gözleme tabi tutulmakta olan ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar dışında kalan hükümlüler, güvenlik bakımından tehlike yaratmadığı takdirde sosyal ve kültürel etkinliklerde toplu olarak bulunabilir.",
+    "C": "Gözlem ve sınıflandırma merkezlerinde bulunan tüm hükümlüler, güvenlik durumu gözetilmeksizin sosyal ve kültürel etkinliklerde toplu olarak yer alabilir.",
+    "D": "Gözlem ve sınıflandırma merkezlerinde bulunan veya ceza infaz kurumlarında ilk gözleme tabi tutulmakta olan ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar dışında kalan hükümlülerin spor yapmaları teşvik edilir.",
+    "Answer": "Gözlem ve sınıflandırma merkezlerinde bulunan tüm hükümlüler, güvenlik durumu gözetilmeksizin sosyal ve kültürel etkinliklerde toplu olarak yer alabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kısa süreli hapis cezaları nasıl infaz olunur?",
+    "A": "5275 sayılı Kanunda gösterilen esaslara göre",
+    "B": "Gözlem ve sınıflandırma merkezinin belirlediği kurallara göre",
+    "C": "Ceza infaz kurumunun yönetimine göre",
+    "D": "Hükümlünün isteğine göre",
+    "Answer": "5275 sayılı Kanunda gösterilen esaslara göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi hükümlüler toplu faaliyetlere katılamaz?",
+    "A": "Hafif suçlardan hüküm giymiş olanlar",
+    "B": "İyi hâl gösteren tüm hükümlüler",
+    "C": "Ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar",
+    "D": "Denetimli serbestlikten yararlananlar",
+    "Answer": "Ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi hükümlülerin toplu olarak yapabileceği faaliyetlerden biridir?",
+    "A": "Kütüphanede bireysel çalışma",
+    "B": "Özel yemekhanesi olan ceza infaz kurumlarında toplu olarak yemek yeme",
+    "C": "Çamaşırhane hizmetlerinde çalışma",
+    "D": "Bireysel spor aktiviteleri",
+    "Answer": "Özel yemekhanesi olan ceza infaz kurumlarında toplu olarak yemek yeme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi koşullarda hükümlüler sosyal ve kültürel etkinliklerde toplu olarak bulunabilir?",
+    "A": "Güvenlik açısından tehlike yaratmadıkları takdirde",
+    "B": "İyi hâl gösterdikleri takdirde",
+    "C": "Yalnızca cezalarının son altı ayında",
+    "D": "Aile üyeleriyle birlikte etkinliklere katıldıkları takdirde",
+    "Answer": "Güvenlik açısından tehlike yaratmadıkları takdirde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdaki hangi etkinlik hükümlülerin toplu faaliyetleri arasında teşvik edilmektedir?",
+    "A": "Spor yapmak",
+    "B": "Tiyatro izlemek",
+    "C": "İbadet faaliyetleri",
+    "D": "Eğitim faaliyetleri",
+    "Answer": "Spor yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi durumda hükümlülerin toplu olarak yemek yemelerine izin verilir?",
+    "A": "Ceza infaz kurumunun güvenlik açığı bulunmadığında",
+    "B": "Özel yemekhanesi olan ceza infaz kurumlarında",
+    "C": "Haftada bir gün izin verildiğinde",
+    "D": "Ceza infaz kurumunda az sayıda hükümlü bulunduğunda",
+    "Answer": "Özel yemekhanesi olan ceza infaz kurumlarında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik'e göre, ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar dışında kalan hükümlüler, güvenlik bakımından tehlike yaratmadığı takdirde toplu olarak bulunabilirler. Yukarıdaki duruma göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Özel yemekhanesi olan ceza infaz kurumlarında toplu olarak yemek yiyebilirler.",
+    "B": "Sosyal ve kültürel etkinliklerde toplu olarak bulunabilirler.",
+    "C": "Spor yapmaları teşvik edilir.",
+    "D": "Diğer hükümlülerle ve ziyaretçileriyle görüşebilirler.",
+    "Answer": "Diğer hükümlülerle ve ziyaretçileriyle görüşebilirler.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, toplu faaliyetlerle ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Tüm hükümlüler, ceza infaz kurumlarıyla ilgili düzenlemelere bağlı olarak mektup alıp gönderebilir, telefon görüşmesi yapabilir ve diğer hükümlülerle iletişim kurmayacak şekilde ziyaretçileriyle görüşebilir.",
+    "B": "Hükümlüler yalnızca belirli koşullarda mektup alıp gönderebilir, telefon görüşmesi yapamaz ve ziyaretçileriyle görüşemez.",
+    "C": "Ceza infaz kurumlarındaki hükümlüler, yalnızca kurum izniyle mektup alıp gönderebilir ve bu iznin verilmesi sıkı güvenlik kontrollerine bağlıdır.",
+    "D": "Tüm hükümlülerin telefon görüşmeleri yalnızca belirli sosyal etkinlik günlerinde yapılabilir ve mektup gönderme hakları kısıtlanmıştır.",
+    "Answer": "Tüm hükümlüler, ceza infaz kurumlarıyla ilgili düzenlemelere bağlı olarak mektup alıp gönderebilir, telefon görüşmesi yapabilir ve diğer hükümlülerle iletişim kurmayacak şekilde ziyaretçileriyle görüşebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, cezanın infaz edileceği ceza infaz kurumunun belirlenmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Gözlem sonunda, gözlem ve sınıflandırma merkezi hükümlüye ait dosyayı görüşü ile birlikte Bakanlığa gönderir ve hükümlünün gönderileceği ceza infaz kurumu Bakanlıkça belirlenir.",
+    "B": "Yapılan gözlem ve sınıflandırma sonucunda idare ve gözlem kurulunca aynı ceza infaz kurumunda kalması uygun bulunan hükümlülerin dosyaları Bakanlığa gönderilmez.",
+    "C": "İdare ve gözlem kurulu, hükümlünün cezayı infaz edeceği ceza infaz kurumunu yalnızca Bakanlık görüşü alarak belirler.",
+    "D": "Aynı ceza infaz kurumunda veya o yer Cumhuriyet başsavcılığına bağlı diğer ceza infaz kurumlarında kalması uygun bulunan hükümlülerin cezalarının infazına, bulundukları veya Cumhuriyet başsavcılığınca gönderilecekleri bağlı ceza infaz kurumlarında devam olunur.",
+    "Answer": "İdare ve gözlem kurulu, hükümlünün cezayı infaz edeceği ceza infaz kurumunu yalnızca Bakanlık görüşü alarak belirler.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, cezanın infaz edileceği ceza infaz kurumunun belirlenmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlü, cezanın infaz edileceği ceza infaz kurumuna gidene kadar, mevcut ceza infaz kurumunun ayrı bir bölümünde bulundurulur.",
+    "B": "Hükümlü, belirlenen ceza infaz kurumuna nakledilmeden önce diğer hükümlülerle birlikte ortak alanlarda tutulabilir.",
+    "C": "Hükümlünün, cezanın infaz edileceği ceza infaz kurumuna gidinceye kadar geçici olarak ayrı bir bölümde bulundurulması esastır.",
+    "D": "Hükümlü, nakledileceği ceza infaz kurumuna ulaşana kadar, mevcut kurumda ayrı bir bölümde muhafaza edilir.",
+    "Answer": "Hükümlü, belirlenen ceza infaz kurumuna nakledilmeden önce diğer hükümlülerle birlikte ortak alanlarda tutulabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, tüm hükümlülerin ceza infaz kurumlarıyla ilgili olarak sahip olduğu haklardan biri aşağıdakilerden hangisidir?",
+    "A": "Diğer hükümlülerle serbestçe iletişim kurmak",
+    "B": "Ceza infaz kurumunu seçme hakkı",
+    "C": "Kurum dışı sosyal etkinliklere katılmak",
+    "D": "Mektup alıp göndermek",
+    "Answer": "Mektup alıp göndermek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ziyaretçileriyle görüşmesi hangi şart altında gerçekleştirilir?",
+    "A": "Diğer hükümlülerle iletişim kuracak şekilde",
+    "B": "Diğer hükümlülerle iletişim kurmayacak şekilde",
+    "C": "Serbest görüşme saatlerinde",
+    "D": "Ziyaretçilerin belirli izin almasıyla",
+    "Answer": "Diğer hükümlülerle iletişim kurmayacak şekilde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve sınıflandırma merkezi, hükümlüye ait dosyayı kime gönderir?",
+    "A": "Ceza infaz kurumu müdürüne",
+    "B": "Hükümlünün ailesine",
+    "C": "Bakanlığa",
+    "D": "İdare ve gözlem kuruluna",
+    "Answer": "Bakanlığa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem sonucuna göre hükümlünün gönderileceği ceza infaz kurumu kim tarafından belirlenir?",
+    "A": "Gözlem ve sınıflandırma merkezi",
+    "B": "İdare ve gözlem kurulu",
+    "C": "Cumhuriyet başsavcılığı",
+    "D": "Bakanlık",
+    "Answer": "Bakanlık",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

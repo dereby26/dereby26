@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, dönem puanı icmal tablosu nerede saklanır?",
+    "A": "Psiko-sosyal yardım servisi dosyasında",
+    "B": "İlgilinin gözlem ve değerlendirme dosyasında",
+    "C": "Hükümlünün kişisel dosyasında",
+    "D": "Eğitim ve öğretim servisi dosyasında",
+    "Answer": "İlgilinin gözlem ve değerlendirme dosyasında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre aşağıdakilerden hangisi gelişim puanı belirlenirken kullanılanın formüldür?",
+    "A": "Dönem Puanlarının Toplamı X Toplam Değerlendirme Dönem Sayısı = Gelişim Puanı",
+    "B": "Servis Puanlarının Toplamı    / Değerlendirme Rapor Sayısı                  = Gelişim Puanı",
+    "C": "Servis Puanlarının Toplamı    + Değerlendirme Rapor Sayısı                  = Gelişim Puanı",
+    "D": "Dönem Puanlarının Toplamı / Toplam Değerlendirme Dönem Sayısı = Gelişim Puanı",
+    "Answer": "Dönem Puanlarının Toplamı / Toplam Değerlendirme Dönem Sayısı = Gelişim Puanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Gelişim puanı, kapalı ceza infaz kurumunda bulunan hükümlünün açık ceza infaz kurumuna ayrılma aşamasında yapılan iyi hâl değerlendirmesinde iyi hâl kriteri olarak esas alınır.",
+    "B": "Gelişim puanı, açık ceza infaz kurumunda bulunan hükümlünün denetimli serbestliğe ayrılma aşamasında yapılan iyi hâl değerlendirmesinde dikkate alınır.",
+    "C": "Gelişim puanı, kapalı veya açık ceza infaz kurumunda bulunan hükümlünün denetimli serbestliğe ayrılmaksızın koşullu salıverilmesi amacıyla yapılan iyi hâl değerlendirmesinde bir kriter olarak kullanılmaz.",
+    "D": "İdare ve gözlem kurulu, ara değerlendirme dönemleri sonunda gözlem ve değerlendirme dosyasındaki bilgi ve belgeler ile dönem puanını esas alarak değerlendirme yapar; kurulların iyi hâl değerlendirmesi yapmasından sonra, işlemlerin sonuçlanmasına kadar geçen süre içindeki olumlu ya da olumsuz davranışlar bir sonraki dönem değerlendirilir.",
+    "Answer": "Gelişim puanı, kapalı veya açık ceza infaz kurumunda bulunan hükümlünün denetimli serbestliğe ayrılmaksızın koşullu salıverilmesi amacıyla yapılan iyi hâl değerlendirmesinde bir kriter olarak kullanılmaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Kapalı ceza infaz kurumunda bulunan ve gelişim puanı Genel Müdürlükçe belirlenen eşik puanı aşan, erken iyileşme gösterdiği kanaatine varılan iyi halli hükümlü hakkında idare ve gözlem kurulu tarafından, kapalı ceza infaz kurumunda kalması gereken toplam sürenin onda birine kadar daha erken açık ceza infaz kurumuna ayrılma kararı verilebilir.",
+    "B": "Gelişim puanı belirlenen eşik puanı aşsa dahi, hükümlülerin kapalı ceza infaz kurumunda kalmaları gereken sürede değişiklik yapılamaz ve açık ceza infaz kurumuna erken ayrılma kararı verilemez.",
+    "C": "İyi halli hükümlüler yalnızca ceza süresinin tamamlanmasına kısa bir süre kala açık ceza infaz kurumuna ayrılma talebinde bulunabilirler; erken iyileşme kriteri dikkate alınmaz.",
+    "D": "Kapalı ceza infaz kurumunda bulunan hükümlülerin erken açık ceza infaz kurumuna ayrılma işlemleri tamamen idare ve gözlem kurulunun inisiyatifindedir.",
+    "Answer": "Kapalı ceza infaz kurumunda bulunan ve gelişim puanı Genel Müdürlükçe belirlenen eşik puanı aşan, erken iyileşme gösterdiği kanaatine varılan iyi halli hükümlü hakkında idare ve gözlem kurulu tarafından, kapalı ceza infaz kurumunda kalması gereken toplam sürenin onda birine kadar daha erken açık ceza infaz kurumuna ayrılma kararı verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdaki hangi durumda hükümlüye iyi hâl değerlendirmesi yapılır?",
+    "A": "Hükümlünün psiko-sosyal yardım programlarına katılım sağlaması",
+    "B": "Hükümlünün açık ceza infaz kurumunda aile görüşmesi talep etmesi",
+    "C": "Hükümlünün psiko-sosyal yardım programlarına katılım sağlaması",
+    "D": "Hükümlünün açık ceza infaz kurumuna veya denetimli serbestliğe ayrılma aşamasında iyi hâl değerlendirmesi yapılırken",
+    "Answer": "Hükümlünün açık ceza infaz kurumuna veya denetimli serbestliğe ayrılma aşamasında iyi hâl değerlendirmesi yapılırken",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kapalı ceza infaz kurumunda bulunan hükümlülerin açık ceza infaz kurumuna ayrılma kararı hangi puana göre verilebilir?",
+    "A": "Disiplin puanı",
+    "B": "Gelişim puanı",
+    "C": "Eğitim puanı",
+    "D": "Aile görüş puanı",
+    "Answer": "Gelişim puanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, açık ceza infaz kurumundaki bir hükümlünün denetimli serbestliğe ayrılma aşamasında hangi kriter esas alınır?",
+    "A": "Gelişim puanı",
+    "B": "Ceza infaz kurumu müdürünün kararı",
+    "C": "Aile üyelerinin görüşü",
+    "D": "Sağlık raporu",
+    "Answer": "Gelişim puanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim puanı eşik puanı aşan ve erken iyileşme gösterdiği düşünülen hükümlüye ne tür bir karar verilebilir?",
+    "A": "Disiplin cezası verilebilir",
+    "B": "Ceza süresi uzatılabilir",
+    "C": "Erken açık ceza infaz kurumuna ayrılma kararı verilebilir",
+    "D": "Psiko-sosyal yardım servisine sevk edilir",
+    "Answer": "Erken açık ceza infaz kurumuna ayrılma kararı verilebilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kapalı ceza infaz kurumunda bulunan bir hükümlü için erken açık ceza infaz kurumuna ayrılma kararı hangi durumda verilebilir?",
+    "A": "Gelişim puanı Genel Müdürlükçe belirlenen eşik puanı aşarsa",
+    "B": "Hükümlü disiplin cezası aldığında",
+    "C": "Hükümlü ailesi ile görüşme talep ettiğinde",
+    "D": "Ceza infaz kurumu müdürünün uygun görmesi halinde",
+    "Answer": "Gelişim puanı Genel Müdürlükçe belirlenen eşik puanı aşarsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ara değerlendirme dönemlerinde idare ve gözlem kurulu değerlendirme yaparken hangi belgeleri esas alır?",
+    "A": "Aile raporları",
+    "B": "Gözlem ve değerlendirme dosyasındaki bilgi ve belgeler ile dönem puanı",
+    "C": "Hükümlünün mali durumu",
+    "D": "Disiplin raporları",
+    "Answer": "Gözlem ve değerlendirme dosyasındaki bilgi ve belgeler ile dönem puanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl değerlendirmesi sonrasında, işlemlerin sonuçlanmasına kadar geçen süre içindeki olumlu veya olumsuz davranışlar ne zaman değerlendirilir?",
+    "A": "Bir sonraki değerlendirme döneminde değerlendirilir",
+    "B": "Hemen değerlendirilir",
+    "C": "Sadece olumsuz davranışlar değerlendirilir",
+    "D": "Ceza infaz kurumu müdürü tarafından belirlenir",
+    "Answer": "Bir sonraki değerlendirme döneminde değerlendirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, erken iyileşmeye bağlı olarak erken açık ceza infaz kurumuna ayrılma ile ilgili esas ve usuller kim tarafından belirlenir?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Genel Müdürlük",
+    "C": "Psiko-sosyal yardım servisi",
+    "D": "Eğitim ve öğretim servisi",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre kapalı ceza infaz kurumunda bulunan ve gelişim puanı Genel Müdürlükçe belirlenen eşik puanı aşan ve erken iyileşme gösterdiği kanaatine varılan iyi halli hükümlü hakkında idare ve gözlem kurulu tarafından, kapalı ceza infaz kurumunda kalması gereken toplam sürenin en fazla ………. kadar daha erken açık ceza infaz kurumuna ayrılma kararı verilebilir? Yukarıdaki boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "A": "Beşte iki",
+    "B": "Dörtte üç",
+    "C": "İkide bir",
+    "D": "Onda bir",
+    "Answer": "Onda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre erken iyileşmeye bağlı olarak, erken açık ceza infaz kurumuna ayrılma ile ilgili esas ve usuller hangi makam tarafından gösterilir?",
+    "A": "Cumhurbaşkanlık",
+    "B": "TBMM",
+    "C": "Adalet Bakanlığı",
+    "D": "Genel Müdürlük",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanlama esaslarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Ceza infaz kurumlarında kalacağı toplam süre altı aydan daha az olanlar ile artık dönem içinde olanlar hakkında gelişim puanlaması yapılmaz.",
+    "B": "Çocuk ve 70 yaş üzeri hükümlülere ceza puanı verilmez.",
+    "C": "Gelişim puanı Genel Müdürlükçe belirlenen eşik puanın altında olan hükümlü hakkında, açık ceza infaz kurumuna ayrılma, kalan cezasını denetimli serbestlik tedbiri uygulanarak infaz etme veya ceza infaz kurumlarından doğrudan koşullu salıverilme işlemlerine yönelik iyi hâl kararı verilebilir.",
+    "D": "31 ve 32 nci maddelere göre yapılan hesaplama sonucunda gelişim puanı eşik puanın altında kalan hükümlüye iyi hâl kararı verilmez.",
+    "Answer": "Gelişim puanı Genel Müdürlükçe belirlenen eşik puanın altında olan hükümlü hakkında, açık ceza infaz kurumuna ayrılma, kalan cezasını denetimli serbestlik tedbiri uygulanarak infaz etme veya ceza infaz kurumlarından doğrudan koşullu salıverilme işlemlerine yönelik iyi hâl kararı verilebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi hükümlüler için gelişim puanlaması yapılmaz?",
+    "A": "18 yaşından büyük tüm hükümlüler",
+    "B": "Ceza infaz kurumlarında toplam kalış süresi altı aydan az olanlar",
+    "C": "Sadece kadın hükümlüler",
+    "D": "Sadece disiplin cezası almış hükümlüler",
+    "Answer": "18 yaşından büyük tüm hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim puanlaması yapılmayan diğer bir dönem aşağıdakilerden hangisidir?",
+    "A": "Çocuk hükümlülük dönemi",
+    "B": "Artık dönem",
+    "C": "İlk gözlem dönemi",
+    "D": "Yıllık değerlendirme dönemi",
+    "Answer": "Artık dönem",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdaki hangi hükümlü grubu için ceza puanı uygulanmaz?",
+    "A": "18 yaş altı çocuk hükümlüler ve 70 yaş üzeri hükümlüler",
+    "B": "Yalnızca kadın hükümlüler",
+    "C": "Disiplin cezası alan hükümlüler",
+    "D": "Sağlık sorunları olan hükümlüler",
+    "Answer": "18 yaş altı çocuk hükümlüler ve 70 yaş üzeri hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim puanı Genel Müdürlükçe belirlenen eşik puanın altında olan bir hükümlü için aşağıdaki kararlardan hangisi verilmez?",
+    "A": "Açık ceza infaz kurumuna ayrılma kararı",
+    "B": "Denetimli serbestlik tedbiri uygulanarak infaz kararı",
+    "C": "Koşullu salıverilme kararı",
+    "D": "Eğitim programına katılım kararı",
+    "Answer": "Eğitim programına katılım kararı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, 70 yaş üzerindeki hükümlülere hangi tür puan verilmez?",
+    "A": "Disiplin puanı",
+    "B": "Gelişim puanı",
+    "C": "Ceza puanı",
+    "D": "Eğitim puanı",
+    "Answer": "Ceza puanı",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

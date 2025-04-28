@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün ceza infaz kurumunda kalma süresi 60 günden az ise, gözlem değerlendirme raporu düzenlenmesinde hangi servislerin katılımı zorunludur?",
+    "A": "Eğitim ve güvenlik servisleri",
+    "B": "Psiko-sosyal yardım ve güvenlik servisi",
+    "C": "Yönetim ve psiko-sosyal yardım servisi",
+    "D": "Eğitim ve öğretim servisi",
+    "Answer": "Yönetim ve psiko-sosyal yardım servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, altı aydan az kalan hükümlüler için hazırlanan gözlem değerlendirme raporunda hangi durum dikkate alınmaz?",
+    "A": "Hükümlünün mali durumu",
+    "B": "Hükümlünün sosyal uyumu",
+    "C": "Hükümlünün ceza infaz kurumundaki genel davranışları",
+    "D": "Hükümlünün psiko-sosyal destek ihtiyacı",
+    "Answer": "Hükümlünün mali durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bulunduğu ceza infaz kurumunda kalacağı süre 60 günden fazla, altı aydan az olan hükümlüler hakkında yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servislerince hangi rapor düzenlenir?",
+    "A": "İyi Hâl Raporu",
+    "B": "Psikososyal Destek Raporu",
+    "C": "Davranış Değerlendirme Raporu",
+    "D": "Gözlem Değerlendirme Raporu",
+    "Answer": "Gözlem Değerlendirme Raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, kurulun inceleme ve değerlendirme esaslarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "İdare ve gözlem kurulu, hükümlü hakkındaki değerlendirmesini gözlem değerlendirme ve gelişim değerlendirme raporları, risk değerlendirme raporu ve infaz dosyalarındaki tüm bilgi ve belgelere göre yapar.",
+    "B": "İdare ve gözlem kurulu, hükümlü hakkındaki değerlendirmesini yaparken yalnızca gözlem değerlendirme raporuna dayanır ve diğer belgeler dikkate alınmaz.",
+    "C": "İdare ve gözlem kurulu, değerlendirme sürecinde hükümlü ile mülakat yapamaz; yalnızca yazılı belgeler üzerinden karar verir.",
+    "D": "İdare ve gözlem kurulu, değerlendirme sırasında yalnızca talep üzerine hükümlü ile mülakat yapabilir, re'sen mülakat yapamaz.",
+    "Answer": "İdare ve gözlem kurulu, hükümlü hakkındaki değerlendirmesini gözlem değerlendirme ve gelişim değerlendirme raporları, risk değerlendirme raporu ve infaz dosyalarındaki tüm bilgi ve belgelere göre yapar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, kurulun inceleme ve değerlendirme esaslarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "İdare ve gözlem kurulu, açık ceza infaz kurumuna ayrılma ve denetimli serbestlik tedbiri altında kalan cezanın infazı ya da koşullu salıverilme öncesindeki son değerlendirme toplantısında hükümlü hakkında inceleme veya araştırma yapılmasına karar veremez.",
+    "B": "İdare ve gözlem kurulu, yalnızca denetimli serbestlik tedbiri altındaki hükümlüler için rapor tanzim edilmesine karar verir.",
+    "C": "İdare ve gözlem kurulu, açık ceza infaz kurumuna ayrılma ve kalan cezanın denetimli serbestlik tedbiri altında infazı ya da koşullu salıverilme öncesinde yapılan son toplantıda hükümlü hakkında inceleme, araştırma veya rapor tanzim edilmesine karar verebilir.",
+    "D": "İdare ve gözlem kurulu, son değerlendirme toplantısında hükümlü hakkında yalnızca daha önce yapılmış raporlara dayanarak karar alır, yeni bir araştırma yapılmasına gerek duymaz.",
+    "Answer": "İdare ve gözlem kurulu, açık ceza infaz kurumuna ayrılma ve kalan cezanın denetimli serbestlik tedbiri altında infazı ya da koşullu salıverilme öncesinde yapılan son toplantıda hükümlü hakkında inceleme, araştırma veya rapor tanzim edilmesine karar verebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu, hükümlü hakkındaki değerlendirmesini yaparken hangi belgelere dayanır?",
+    "A": "Yalnızca gözlem değerlendirme raporu",
+    "B": "Gözlem değerlendirme ve gelişim değerlendirme raporları, risk değerlendirme raporu ve infaz dosyasındaki tüm bilgi ve belgeler",
+    "C": "Sadece hükümlünün kişisel görüşüne",
+    "D": "Ceza infaz kurumu müdürünün hazırladığı raporlara",
+    "Answer": "Gözlem değerlendirme ve gelişim değerlendirme raporları, risk değerlendirme raporu ve infaz dosyasındaki tüm bilgi ve belgeler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu değerlendirme sırasında hangi durumda hükümlü ile mülakat yapabilir?",
+    "A": "Sadece hükümlünün talebi üzerine",
+    "B": "Yalnızca hükümlünün avukatı ile görüşmesiyle",
+    "C": "Yargı organlarının isteği doğrultusunda",
+    "D": "Talebi üzerine veya re’sen (kendi kararıyla",
+    "Answer": "Talebi üzerine veya re’sen (kendi kararıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, açık ceza infaz kurumuna ayrılma ve denetimli serbestlik tedbiri altında infaz gibi durumlarda idare ve gözlem kurulu son değerlendirme toplantısında neye karar verebilir?",
+    "A": "Hükümlünün cezasının azaltılmasına",
+    "B": "Hükümlü hakkında inceleme veya araştırma yapılmasına ya da rapor düzenlenmesine",
+    "C": "Hükümlünün sosyal faaliyetlere katılmasına",
+    "D": "Hükümlünün ailesiyle iletişim kurmasına",
+    "Answer": "Hükümlü hakkında inceleme veya araştırma yapılmasına ya da rapor düzenlenmesine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu, hangi aşamada hükümlü hakkında inceleme veya araştırma yapılmasına karar verebilir?",
+    "A": "Hükümlünün ceza infaz kurumuna ilk kabulünde",
+    "B": "Her yıl düzenli olarak",
+    "C": "Koşullu salıverilme öncesindeki son değerlendirme toplantısında",
+    "D": "Hükümlünün tahliyesinden bir yıl önce",
+    "Answer": "Koşullu salıverilme öncesindeki son değerlendirme toplantısında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu, hükümlü hakkında mülakat yapma kararını hangi durumda alabilir?",
+    "A": "Sadece re’sen (kendi kararıyla)",
+    "B": "Hükümlünün talebi veya re’sen",
+    "C": "Hükümlünün avukatının talebiyle",
+    "D": "Cumhuriyet başsavcısının talebiyle",
+    "Answer": "Hükümlünün talebi veya re’sen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, kurul kararlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Kurul kararları gerekçeli olarak yazılır; karara karşı başvuru yolu, mercii, süresi ve şekli kararda açıkça belirtilir.",
+    "B": "Açık ceza infaz kurumuna ayrılma, denetimli serbestlik tedbiri ile kalan cezanın infazı ve doğrudan koşullu salıverme değerlendirmelerinde, hükümlünün iyi hâlli olmadığına karar verilirse, bir sonraki değerlendirme tarihi kararda açıkça belirtilir. Yeniden değerlendirme süresi altı aydan az, bir yıldan fazla olamaz ve hükümlüye revize edilmiş iyileştirme planı tebliğ edilir.",
+    "C": "İdare ve gözlem kurulunun, açık ceza infaz kuruma ayrılmaya, kalan cezanın denetimli serbestlik tedbiri uygulanarak infazına ve ceza infaz kurumundan doğrudan koşullu salıvermeye esas olumlu iyi hal değerlendirmesini içeren gerekçeli kararı; 5275 sayılı Kanunun 107 nci maddesinin onbirinci fıkrasında yazılı “gerekçeli rapor” ile ilgili yönetmeliklerde belirtilen “değerlendirme raporu” ve “iyi hal kararı” yerine geçer.",
+    "D": "İdare ve gözlem kurulu kararının hükümlüye tebliğ edilen nüshasında karar tarihi, numarası, “ONAY” kaşesi ve kurum mührü ile imza bulunur; ancak kurul başkanı, kurul üyeleri ve rapor hazırlayan görevlilerin isim ve sicil bilgileri yer almaz, bu tebliğ işlemi uygun teknik altyapı varsa elektronik ortamda yapılabilir.",
+    "Answer": "İdare ve gözlem kurulu kararının hükümlüye tebliğ edilen nüshasında karar tarihi, numarası, “ONAY” kaşesi ve kurum mührü ile imza bulunur; ancak kurul başkanı, kurul üyeleri ve rapor hazırlayan görevlilerin isim ve sicil bilgileri yer almaz, bu tebliğ işlemi uygun teknik altyapı varsa elektronik ortamda yapılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu kararlarında aşağıdakilerden hangisi açıkça belirtilmelidir?",
+    "A": "Karara karşı başvuru yolu, mercii, süresi ve şekli",
+    "B": "Hükümlünün mali durumu",
+    "C": "Hükümlünün yakınlarının iletişim bilgileri",
+    "D": "Hükümlünün önceki cezaları",
+    "Answer": "Karara karşı başvuru yolu, mercii, süresi ve şekli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, açık ceza infaz kurumuna ayrılma, denetimli serbestlik veya koşullu salıverilme değerlendirmesinde hükümlünün iyi hâlli olmadığına karar verilirse ne yapılır?",
+    "A": "Hükümlü derhal tahliye edilir",
+    "B": "Bir sonraki değerlendirme tarihi kararda belirtilir",
+    "C": "Hükümlünün dosyası kapatılır",
+    "D": "Hükümlünün cezası artırılır",
+    "Answer": "Bir sonraki değerlendirme tarihi kararda belirtilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, yeniden değerlendirme süresi en az ve en fazla ne kadar olabilir?",
+    "A": "Üç aydan az, iki yıldan fazla olamaz",
+    "B": "Altı aydan az, iki yıldan fazla olamaz",
+    "C": "Altı aydan az, bir yıldan fazla olamaz",
+    "D": "Üç aydan az, bir yıldan fazla olamaz",
+    "Answer": "Üç aydan az, bir yıldan fazla olamaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâlli olmadığına karar verilen hükümlü hakkında hangi servislerce hazırlanan iyileştirme planı yenilenerek tebliğ edilir?",
+    "A": "Psiko-sosyal yardım servisi ile eğitim ve öğretim servisi",
+    "B": "Yönetim servisi ve güvenlik servisi",
+    "C": "Sağlık servisi ve rehberlik servisi",
+    "D": "Eğitim servisi ve sosyal faaliyet servisi",
+    "Answer": "Psiko-sosyal yardım servisi ile eğitim ve öğretim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kurul kararında olumsuz değerlendirme yapılan hükümlüye tebliğ edilmesi gereken belge hangisidir?",
+    "A": "Sosyal uyum belgesi",
+    "B": "Yenilenmiş iyileştirme planı",
+    "C": "Yeni gözlem raporu",
+    "D": "Sağlık raporu",
+    "Answer": "Yenilenmiş iyileştirme planı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün iyi hâlli olmadığına karar verilmesi durumunda yapılacak bir sonraki değerlendirme tarihinin belirlenme zorunluluğu hangi amaçla getirilmiştir?",
+    "A": "Hükümlünün cezalandırılması için",
+    "B": "Hükümlünün ailesiyle iletişim kurması için",
+    "C": "Hükümlünün ceza süresini uzatmak için",
+    "D": "Hükümlünün iyileştirme sürecine destek vermek amacıyla",
+    "Answer": "Hükümlünün iyileştirme sürecine destek vermek amacıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl kararına itiraz etmek isteyen hükümlüye başvuru yolu, süresi ve şekli hangi belgede belirtilir?",
+    "A": "İyileştirme planında",
+    "B": "Psiko-sosyal yardım raporunda",
+    "C": "Kararın gerekçeli metninde",
+    "D": "Disiplin kararında",
+    "Answer": "Kararın gerekçeli metninde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlü hakkında yapılacak bir sonraki iyi hâl değerlendirmesi tarihinin belirlenmesinde en az süre ne kadar olabilir?",
+    "A": "Üç ay",
+    "B": "Altı ay",
+    "C": "Dokuz ay",
+    "D": "On iki ay",
+    "Answer": "Altı ay",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bir hükümlünün koşullu salıverilme kararı reddedildiğinde yapılacak bir sonraki değerlendirme için maksimum süre ne kadardır?",
+    "A": "Altı ay",
+    "B": "Dokuz ay",
+    "C": "Bir yıl",
+    "D": "İki yıl",
+    "Answer": "Bir yıl",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

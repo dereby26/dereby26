@@ -1,0 +1,72 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, yeni yönetmelik hangi kanun çerçevesinde yürütülmektedir?",
+    "A": "İnfaz Hâkimliği Kanunu",
+    "B": "Adalet Kanunu",
+    "C": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun",
+    "D": "Sadece Cumhuriyet Başsavcılığı kararı ile",
+    "Answer": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, 25848 sayılı Resmî Gazete’de yayımlanan yönetmelik hangi tarihte yürürlükten kaldırılmıştır?",
+    "A": "17/6/2020",
+    "B": "1/1/2021",
+    "C": "1/1/2020",
+    "D": "17/6/2005",
+    "Answer": "1/1/2021",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, toplam ceza miktarı ne kadar olan suçlardan birinin ikinci fıkrada sayılan suçlardan biri olması durumunda iyi hâl değerlendirmesi yapılır?",
+    "A": "On yıldan fazla",
+    "B": "Beş yıldan az",
+    "C": "On yılın altında",
+    "D": "Bir yılın üzerinde",
+    "Answer": "On yıldan fazla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün eğitim programlarının planlanmasında hangi faktörler dikkate alınır?",
+    "A": "Yaş ve cinsiyet",
+    "B": "Risk düzeyi ve bireysel ihtiyaçlar",
+    "C": "Hükümlünün sosyal ilişkileri",
+    "D": "Hükümlünün mali durumu",
+    "Answer": "Risk düzeyi ve bireysel ihtiyaçlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, bulunduğu ceza infaz kurumunda kalacağı süre altı aydan fazla olan hükümlüler hakkında yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servislerince hangi rapor düzenlenir?",
+    "A": "İyi Hâl Raporu",
+    "B": "Psikososyal Destek Raporu",
+    "C": "Davranış Analiz Raporu",
+    "D": "Gelişim Değerlendirme Raporu",
+    "Answer": "Gelişim Değerlendirme Raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim puanı hesaplanmayan hükümlüler arasında kimler yer alır?",
+    "A": "18 yaşından büyük olanlar",
+    "B": "Herhangi bir suçtan hüküm giymiş olanlar",
+    "C": "Yalnızca denetimli serbestlikte olanlar",
+    "D": "Ceza infaz kurumunda altı aydan az süreyle kalanlar",
+    "Answer": "Ceza infaz kurumunda altı aydan az süreyle kalanlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ceza infaz süresince kurum düzeni ve güvenliğine katkısı nasıl değerlendirilir?",
+    "A": "İnfaz dosyasına işlenmez",
+    "B": "Artı puan verilerek gelişim puanına yansıtılır",
+    "C": "Hiçbir şekilde puanlanmaz",
+    "D": "Sadece güvenlik servisi tarafından raporlanır",
+    "Answer": "Artı puan verilerek gelişim puanına yansıtılır",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, birinci fıkra kapsamındaki idare ve gözlem kurulunun oluşturulmasına imkân bulunmayan ceza infaz kurumlarında kurul başkanlığını kim yapar?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Cumhuriyet savcısı",
+    "C": "İdare ve gözlem kurulu üyesi",
+    "D": "Denetimli serbestlik müdürü",
+    "Answer": "Cumhuriyet savcısı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulunda alınan karar yeter sayısı, üye tam sayısının kaçta kaçından az olamaz?",
+    "A": "Dörtte biri",
+    "B": "Beşte biri",
+    "C": "İkide biri",
+    "D": "Üçte biri",
+    "Answer": "Üçte biri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kurul üyelerinin oylarında eşitlik olması durumunda aşağıdakilerden hangisi söylenemez?",
+    "A": "Başkanın oyuna üstünlük tanınır.",
+    "B": "Eşitlik durumunda konu yeniden görüşülür.",
+    "C": "Başkanın bulunduğu tarafa üstünlük tanınır.",
+    "D": "Eşitlik durumunda çekimser oy hakkı verilir.",
+    "Answer": "Başkanın bulunduğu tarafa üstünlük tanınır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, kurulun inceleme ve değerlendirme esaslarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlüler ceza infaz kurumlarında bulunduğu tüm aşamalarda; ceza infaz kurumlarının düzen ve güvenliği amacıyla konulmuş kurallara uyup uymadığı, haklarını iyi niyetle kullanıp kullanmadığı, yükümlülükleri eksiksiz yerine getirip getirmediği, uygulanan iyileştirme programlarına göre toplumla bütünleşmeye hazır olup olmadığı, tekrar suç işleme ve mağdura veya başkalarına zarar verme riskinin düşük olup olmadığı hususlarında; idare ve gözlem kurulu tarafından, iyi hâlin belirlenmesine esas olmak üzere bir değerlendirmeye tabi tutulur.",
+    "B": "Yapılan değerlendirmede; infazın tüm aşamalarında hükümlülerin katıldığı eğitim-öğretim, psiko-sosyal yardım ve destek programları ile sosyal ve sportif faaliyetler, kültür ve sanat programları, aldığı sertifikalar, kitap okuma alışkanlığı, diğer hükümlü ve tutuklular ile ceza infaz kurumu görevlileri ve dışarıyla olan ilişkileri, işlediği suçtan dolayı duyduğu pişmanlığı, ceza infaz kurumu kuralları ile kurum bünyesindeki çalışma kurallarına uyumu, yükümlülüklerine riayeti, kurum güvenlik ve düzenine katkısı, aldığı disiplin cezaları ve ödüller dikkate alınır.",
+    "C": "Bulunduğu ceza infaz kurumunda kalacağı süre, altı aydan fazla olan hükümlüler hakkında yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servislerince “gözlem değerlendirme raporu” düzenlenir. Ancak açık ceza infaz kurumuna ayrılma, kalan cezasını denetimli serbestlik tedbiri altında infaz etme veya ceza infaz kurumundan doğrudan koşullu salıverilme tarihi öncesindeki son dönemin artık dönem olması durumunda, bu artık döneme ait değerlendirme ilgili servislerce düzenlenen gözlem değerlendirme raporuna göre yapılır.",
+    "D": "Bulunduğu ceza infaz kurumunda kalacağı süre 90 günden fazla, altı aydan az olan hükümlüler hakkında yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servislerince “gözlem değerlendirme raporu” düzenlenir. Ancak ceza infaz kurumunda kalma süresi 90 günden az olan hükümlü hakkında yalnızca yönetim ve psiko-sosyal yardım servisi tarafından gözlem değerlendirme raporu düzenlenir.",
+    "Answer": "Bulunduğu ceza infaz kurumunda kalacağı süre 90 günden fazla, altı aydan az olan hükümlüler hakkında yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servislerince “gözlem değerlendirme raporu” düzenlenir. Ancak ceza infaz kurumunda kalma süresi 90 günden az olan hükümlü hakkında yalnızca yönetim ve psiko-sosyal yardım servisi tarafından gözlem değerlendirme raporu düzenlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin iyi hâl değerlendirmesinde aşağıdaki hususlardan hangisi dikkate alınmaz?",
+    "A": "Ceza infaz kurumu kurallarına uyumu",
+    "B": "Hükümlünün maddi durumu",
+    "C": "Hükümlünün topluma yeniden uyum sağlama hazırlığı",
+    "D": "Hükümlünün aldığı disiplin cezaları",
+    "Answer": "Hükümlünün maddi durumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl değerlendirmesi yapılırken hükümlülerin hangi davranışları dikkate alınır?",
+    "A": "Kitap okuma alışkanlığı ve aldığı sertifikalar",
+    "B": "Ceza süresine göre davranışları",
+    "C": "Sadece eğitim faaliyetleri",
+    "D": "Ailesine gönderdiği para miktarı",
+    "Answer": "Kitap okuma alışkanlığı ve aldığı sertifikalar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl değerlendirmesinde dikkate alınan hususlardan biri de hükümlünün hangi özelliğidir?",
+    "A": "Tahliye tarihinden önceki sosyal durumu",
+    "B": "İnfaz kurumu dışındaki ilişkileri",
+    "C": "Suç işleme potansiyeli",
+    "D": "Kurum bünyesindeki çalışma kurallarına uyumu",
+    "Answer": "Kurum bünyesindeki çalışma kurallarına uyumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, iyi hâl değerlendirmesinde hükümlülerin hangi faaliyetlere katılımı dikkate alınır?",
+    "A": "Yalnızca sportif faaliyetler",
+    "B": "Eğitim-öğretim, psiko-sosyal yardım, sosyal ve sportif faaliyetler",
+    "C": "Sadece kültürel faaliyetler",
+    "D": "Mali destek programları",
+    "Answer": "Eğitim-öğretim, psiko-sosyal yardım, sosyal ve sportif faaliyetler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin iyi hâl değerlendirmesinde aşağıdakilerden hangisi göz önüne alınmaz?",
+    "A": "Hükümlünün kurum güvenliği ve düzenine katkısı",
+    "B": "Hükümlünün işlediği suçtan dolayı duyduğu pişmanlık",
+    "C": "Hükümlünün finansal yatırımları",
+    "D": "Hükümlünün diğer hükümlüler ve kurum görevlileriyle ilişkileri",
+    "Answer": "Hükümlünün finansal yatırımları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdaki hangi durum hükümlünün toplumla bütünleşmeye hazır olduğunu gösteren bir işaret olarak değerlendirilir?",
+    "A": "Ceza infaz kurumunda yalnız kalmayı tercih etmesi",
+    "B": "Disiplin cezalarına sürekli olarak maruz kalması",
+    "C": "Diğer hükümlülerle iletişim kurmaktan kaçınması",
+    "D": "İşlediği suçtan dolayı duyduğu pişmanlık",
+    "Answer": "İşlediği suçtan dolayı duyduğu pişmanlık",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün hangi davranışı iyi hâl değerlendirmesi için olumsuz bir etken olarak kabul edilir?",
+    "A": "Disiplin cezası alması",
+    "B": "Sosyal faaliyetlere aktif katılım",
+    "C": "Sertifika programlarına katılması",
+    "D": "Kültürel etkinliklerde yer alması",
+    "Answer": "Disiplin cezası alması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda kalacağı süre altı aydan fazla olan hükümlüler hakkında hangi rapor düzenlenir?",
+    "A": "Gözlem değerlendirme raporu",
+    "B": "Gelişim değerlendirme raporu",
+    "C": "İyi hâl değerlendirme raporu",
+    "D": "Ara değerlendirme raporu",
+    "Answer": "Gelişim değerlendirme raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim değerlendirme raporu hangi servisler tarafından hazırlanır?",
+    "A": "Yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servisleri",
+    "B": "Yalnızca psiko-sosyal yardım ve güvenlik servisleri",
+    "C": "Ceza infaz kurumu müdürlüğü",
+    "D": "Sadece eğitim servisi",
+    "Answer": "Yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servisleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, açık ceza infaz kurumuna ayrılma veya denetimli serbestlik tedbiri altında infaz gibi durumlarda son dönemin artık dönem olması halinde hangi rapor esas alınır?",
+    "A": "Gelişim değerlendirme raporu",
+    "B": "İyi hâl raporu",
+    "C": "Gözlem değerlendirme raporu",
+    "D": "Sosyal durum raporu",
+    "Answer": "Gözlem değerlendirme raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim değerlendirme raporu ne kadar süre ceza infaz kurumunda kalan hükümlüler için düzenlenir?",
+    "A": "Üç aydan fazla kalanlar için",
+    "B": "Altı aydan fazla kalanlar için",
+    "C": "Bir yıldan fazla kalanlar için",
+    "D": "İki yıldan fazla kalanlar için",
+    "Answer": "Altı aydan fazla kalanlar için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün artık dönemine ait değerlendirme hangi belgeye dayanılarak yapılır?",
+    "A": "Gelişim değerlendirme raporu",
+    "B": "Disiplin raporu",
+    "C": "Gözlem değerlendirme raporu",
+    "D": "Sosyal uyum raporu",
+    "Answer": "Gözlem değerlendirme raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi durumda gözlem değerlendirme raporu kullanılır?",
+    "A": "Hükümlünün cezalandırılmasında",
+    "B": "Son dönemin artık dönem olması durumunda",
+    "C": "Hükümlünün ilk giriş değerlendirmesinde",
+    "D": "Denetimli serbestlik süresince",
+    "Answer": "Denetimli serbestlik süresince",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda 60 günden fazla, altı aydan az kalan hükümlüler için hangi rapor düzenlenir?",
+    "A": "İyi hâl raporu",
+    "B": "Gelişim değerlendirme raporu",
+    "C": "Gözlem değerlendirme raporu",
+    "D": "Disiplin raporu",
+    "Answer": "Gözlem değerlendirme raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, 60 günden az süre kalan hükümlüler hakkında gözlem değerlendirme raporu hangi servisler tarafından düzenlenir?",
+    "A": "Yönetim ve psiko-sosyal yardım servisi",
+    "B": "Eğitim ve öğretim servisi",
+    "C": "Güvenlik ve gözetim servisi",
+    "D": "Yönetim, eğitim ve güvenlik servisleri",
+    "Answer": "Yönetim ve psiko-sosyal yardım servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, 60 günden fazla, altı aydan az süre kalan hükümlüler için gözlem değerlendirme raporunu hazırlayan servisler arasında aşağıdakilerden hangisi bulunur?",
+    "A": "Sadece güvenlik servisi",
+    "B": "Yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servisleri",
+    "C": "Disiplin servisi",
+    "D": "Sadece eğitim servisi",
+    "Answer": "Yönetim, eğitim ve öğretim, psiko-sosyal yardım ile güvenlik ve gözetim servisleri",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

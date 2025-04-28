@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve gelişim değerlendirme raporları hangi formatta düzenlenir?",
+    "A": "Ceza infaz kurumu müdürünün uygun gördüğü formatta",
+    "B": "Genel Müdürlükçe belirlenen formata uygun olarak",
+    "C": "Psiko-sosyal yardım servisi tarafından geliştirilen formata göre",
+    "D": "İlgili ceza infaz kurumu servislerinin tercihlerine göre",
+    "Answer": "Genel Müdürlükçe belirlenen formata uygun olarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve değerlendirme raporları ile gelişim değerlendirme raporlarının muhafaza edildiği yer neresidir?",
+    "A": "Ceza infaz kurumu müdürlüğü",
+    "B": "İlgili servisin kayıt dosyası",
+    "C": "Genel Müdürlük arşivi",
+    "D": "Gözlem ve değerlendirme dosyası",
+    "Answer": "Gözlem ve değerlendirme dosyası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, çocuk eğitimevleri dâhil tüm ceza infaz kurumlarında hükümlüler için gözlem ve gelişim değerlendirme raporları hangi sıklıkla düzenlenmelidir?",
+    "A": "Yılda bir kez",
+    "B": "Ayda bir kez",
+    "C": "En geç altı ayda bir",
+    "D": "Gerek duyulmadığında",
+    "Answer": "En geç altı ayda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre aşağıdakilerden hangisi gözlem ve gelişim değerlendirme raporları düzenleyen sorumlulardan biri değildir?",
+    "A": "Öğretmen",
+    "B": "Çocuk Gelişim Uzmanı",
+    "C": "İnfaz ve Koruma Başmemuru",
+    "D": "İnfaz ve Koruma Memuru",
+    "Answer": "Öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülere ait gözlem değerlendirme ve gelişim değerlendirme raporları hangi sıraya göre dosyalanır?",
+    "A": "Alınan puanlara göre",
+    "B": "Servis türüne göre",
+    "C": "Tarih sırasına göre",
+    "D": "Hükümlünün taleplerine göre",
+    "Answer": "Tarih sırasına göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlüye ait gözlem ve değerlendirme dosyasında aşağıdakilerden hangisi bulunmaz?",
+    "A": "İcma tabloları",
+    "B": "Risk değerlendirme raporları",
+    "C": "İdare ve gözlem kurulu kararları",
+    "D": "Hükümlünün finansal belgeleri",
+    "Answer": "Hükümlünün finansal belgeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün gözlem ve değerlendirme dosyasına hangi belgeler dahil edilir?",
+    "A": "Sadece gözlem değerlendirme raporu",
+    "B": "Gözlem değerlendirme ve gelişim değerlendirme raporları, icmal tabloları, risk değerlendirme raporları, idare ve gözlem kurulu kararları, ilâm örneği, süre belgesi ve sair belgeler",
+    "C": "Ceza infaz kurumunun belirlediği rastgele belgeler",
+    "D": "Hükümlünün sadece disiplin cezaları",
+    "Answer": "Gözlem değerlendirme ve gelişim değerlendirme raporları, icmal tabloları, risk değerlendirme raporları, idare ve gözlem kurulu kararları, ilâm örneği, süre belgesi ve sair belgeler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve değerlendirme dosyasına hangi belge türü dahil edilmez?",
+    "A": "Süre belgesi",
+    "B": "İdare ve gözlem kurulu kararları",
+    "C": "Hükümlünün sağlık raporu",
+    "D": "Risk değerlendirme raporu",
+    "Answer": "Hükümlünün sağlık raporu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gözlem ve değerlendirme dosyası ile infaz dosyasını idare ve gözlem kuruluna kim sunar?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Güvenlik ve gözetim servisi",
+    "C": "Psiko-sosyal yardım servisi",
+    "D": "Kurul sekretaryası",
+    "Answer": "Kurul sekretaryası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi hükümlülerin gözlem ve değerlendirme dosyasında yer almaz?",
+    "A": "İdare ve gözlem kurulu kararları",
+    "B": "Hükümlünün kişisel görüşleri",
+    "C": "İcma tabloları ve süre belgesi",
+    "D": "Risk değerlendirme raporları",
+    "Answer": "Hükümlünün kişisel görüşleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün dosyasına eklenen süre belgesi ne şekilde dosyalanır?",
+    "A": "Hükümlünün talebi doğrultusunda sıralanır",
+    "B": "Sadece idare ve gözlem kurulu kararlarına göre dosyalanır",
+    "C": "Tarih sırasına göre dosyalanır",
+    "D": "Risk değerlendirme raporları ile birlikte dosyalanır",
+    "Answer": "Tarih sırasına göre dosyalanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülere ait gözlem değerlendirme ve gelişim değerlendirme raporları, icmal tabloları, risk değerlendirme raporları, idare ve gözlem kurulu kararları, ilâm örneği, süre belgesi ve sair belgeler kurul günü kim tarafından idare ve gözlem kuruluna sunmak ile görevlidir?",
+    "A": "Ambar Servisi",
+    "B": "Disiplin Birimi",
+    "C": "İnfaz Birimi",
+    "D": "Sekretarya",
+    "Answer": "Sekretarya",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün açık ceza infaz kurumuna ayrılma, denetimli serbestlik tedbiri ile cezasının infaz edilmesi veya koşullu salıverilme talebi hangi durumlarda reddedilir?",
+    "A": "Hükümlünün talebi, süre şartını sağlamış ancak disiplin cezası bulunuyorsa",
+    "B": "Talep, mevzuatta belirtilen süre şartını ve kaldırılmamış disiplin cezası şartını sağlamıyorsa",
+    "C": "Hükümlü, ceza infaz kurumunda eğitim programlarına katılmamışsa",
+    "D": "Hükümlü sağlık raporu sunmamışsa",
+    "Answer": "Talep, mevzuatta belirtilen süre şartını ve kaldırılmamış disiplin cezası şartını sağlamıyorsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün açık ceza infaz kurumuna ayrılma veya denetimli serbestlik talebi hangi kurum tarafından araştırılır?",
+    "A": "Ceza infaz kurumu güvenlik servisi",
+    "B": "Psiko-sosyal yardım servisi",
+    "C": "İdare",
+    "D": "Kurul sekretaryası",
+    "Answer": "İdare",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, talebin süre şartını sağlaması ve disiplin cezasının kaldırılmış olması gibi koşulları karşılayan dosyalar için hangi işlem yapılır?",
+    "A": "Dosya derhal reddedilir",
+    "B": "Dosya, idare ve gözlem kurulu sekretaryası tarafından işleme alınır ve gözlem değerlendirme dosyası hazırlanır",
+    "C": "Hükümlüye talebin onaylandığına dair yazılı bildirim yapılır",
+    "D": "Hükümlünün durumu psikologlar tarafından yeniden değerlendirilir",
+    "Answer": "Dosya, idare ve gözlem kurulu sekretaryası tarafından işleme alınır ve gözlem değerlendirme dosyası hazırlanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, açık ceza infaz kurumuna ayrılma talebi hangi durumlar için geçerli değildir?",
+    "A": "Hükümlü süre şartını sağlamıyor ve disiplin cezası bulunuyor",
+    "B": "Hükümlü, aile görüşlerini tamamlamamış",
+    "C": "Hükümlü psikolojik destek programına katılmamış",
+    "D": "Hükümlünün ailesi talepte bulunmuş",
+    "Answer": "Hükümlü süre şartını sağlamıyor ve disiplin cezası bulunuyor",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu sekretaryası, ilgili dosyayı hangi madde kapsamında değerlendirir?",
+    "A": "5275 sayılı Kanunun 89. maddesinin üçüncü fıkrası",
+    "B": "5275 sayılı Kanunun 21. maddesi",
+    "C": "İnfaz Kanununun 102. maddesi",
+    "D": "Genel Müdürlük tarafından yayınlanan yönetmelik",
+    "Answer": "5275 sayılı Kanunun 89. maddesinin üçüncü fıkrası",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, talebi reddedilen hükümlüye bu durum nasıl bildirilir?",
+    "A": "Sözlü olarak bildirilir",
+    "B": "Ailesi aracılığıyla iletilir",
+    "C": "Yazılı olarak tebliğ edilir",
+    "D": "Kurul toplantısında duyurulur",
+    "Answer": "Yazılı olarak tebliğ edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün dosyasının işleme alınmasında dikkat edilen koşullardan biri nedir?",
+    "A": "Hükümlünün finansal durumu",
+    "B": "Disiplin cezasının bulunmaması ve mevzuatta belirtilen süre şartının sağlanması",
+    "C": "Hükümlünün ailesinin ceza infaz kurumunda kalma talebi",
+    "D": "Ceza infaz kurumunda belirli bir pozisyonda çalışması",
+    "Answer": "Disiplin cezasının bulunmaması ve mevzuatta belirtilen süre şartının sağlanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin açık ceza infaz kurumuna ayrılmalarına, denetimli serbestlik tedbiri uygulanarak cezalarının infaz edilmesine ve ceza infaz kurumlarından doğrudan koşullu salıverilmelerine ilişkin idare tarafından gerekli şartları için araştırılan konulardan biri değildir?",
+    "A": "Talebin bulunması",
+    "B": "Süre şartını sağlaması",
+    "C": "Kaldırılmamış disiplin cezası bulunmaması",
+    "D": "İdare ve gözlem kurulunun nihai kararı",
+    "Answer": "İdare ve gözlem kurulunun nihai kararı",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

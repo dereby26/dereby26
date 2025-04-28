@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, sosyal, kültürel ve sportif etkinliklerin amacı nedir?",
+    "A": "Hükümlülerin fiziksel yeteneklerini geliştirmek",
+    "B": "Hükümlülerin zaman geçirmesini sağlamak",
+    "C": "Hükümlülerin kişisel, sosyal, mesleki ve ahlaki yönlerden gelişim sağlaması",
+    "D": "Sadece ulusal bayramlarda kutlama yapılması",
+    "Answer": "Hükümlülerin kişisel, sosyal, mesleki ve ahlaki yönlerden gelişim sağlaması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, kütüphane ve kitaplık çalışmaları ile hükümlülerin gelişimi hangi tür raporlara işlenir?",
+    "A": "Psiko-sosyal raporlar",
+    "B": "Sağlık raporları",
+    "C": "Sadece güvenlik raporları",
+    "D": "Gözlem değerlendirme veya gelişim değerlendirme raporları",
+    "Answer": "Gözlem değerlendirme veya gelişim değerlendirme raporları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün din kültürü ve ahlâk eğitimi almasıyla ilgili bildirimler kim tarafından değerlendirilir?",
+    "A": "Psiko-sosyal yardım servisi",
+    "B": "Eğitim ve öğretim servisi",
+    "C": "Güvenlik servisi",
+    "D": "Sağlık servisi",
+    "Answer": "Eğitim ve öğretim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, sosyal ve kültürel etkinliklerin amacı arasında aşağıdakilerden hangisi bulunmaz?",
+    "A": "İnsan haklarına saygıyı geliştirmek",
+    "B": "Aile bağlarını sağlamlaştırmak",
+    "C": "Hükümlülerin yalnızca fiziksel yeteneklerini artırmak",
+    "D": "Yurt ve ulus sevgisini güçlendirmek",
+    "Answer": "Hükümlülerin yalnızca fiziksel yeteneklerini artırmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin sosyal çevresi ile ilişkilerini güçlendiren programlardan biri hangisidir?",
+    "A": "Kütüphane ve kitaplık çalışmaları",
+    "B": "Disiplin programları",
+    "C": "Güvenlik eğitimi",
+    "D": "Sosyal, kültürel ve sportif etkinlikler",
+    "Answer": "Sosyal, kültürel ve sportif etkinlikler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin ahlaki gelişimini sağlamak amacıyla hangi program uygulanır?",
+    "A": "Kütüphane çalışmaları",
+    "B": "Din kültürü ve ahlâk öğretimi",
+    "C": "Spor faaliyetleri",
+    "D": "Mesleki eğitim programları",
+    "Answer": "Din kültürü ve ahlâk öğretimi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin kütüphane çalışmaları sonucu kazandığı gelişim nasıl değerlendirilir?",
+    "A": "Disiplin raporlarına işlenir",
+    "B": "Sadece sözlü olarak değerlendirilir",
+    "C": "Puanlanır ve gözlem raporlarına işlenir",
+    "D": "Kurum müdürüne bildirilir",
+    "Answer": "Puanlanır ve gözlem raporlarına işlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre aşağıdakilerden hangisi destek programlarından biri değildir?",
+    "A": "Kütüphane ve kitaplık çalışmaları",
+    "B": "Din kültürü ve ahlâk öğretimi",
+    "C": "Sosyal, kültürel ve sportif etkinlikler",
+    "D": "Örgün eğitim",
+    "Answer": "Örgün eğitim",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, destek programlarının kapsamıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Destek programları kapsamında yapılan dinî ve millî günlerdeki tören ve anma programları, mesleki gelişime yönelik çalışmalar, kütüphane ve kitaplık çalışmaları ile manevi rehberlik kapsamındaki çalışmalar eğitim ve öğretim servisi tarafından planlanır, yürütülür ve raporlanır.",
+    "B": "Destek programları kapsamında yapılan konferans, dinleti, tiyatro, drama, film gösterimi, konser gibi sosyal ve kültürel etkinlikler ile sportif faaliyetler sosyal çalışmacı tarafından, ceza infaz kurumunda sosyal çalışmacının bulunmaması durumunda ise eğitim ve öğretim servisi tarafından planlanır ve yürütülür.",
+    "C": "Ceza infaz kurumunda öğretmen, psikolog, sosyal çalışmacı gibi uzman meslek elemanının bulunmaması halinde, tüm faaliyetler tamamen iptal edilir ve herhangi bir servis personeli tarafından yürütülmez.",
+    "D": "Bakanlığın veya kurumların taraf olduğu protokollere göre görevlendirilen kişi ve kurumlarla iş birliği halinde destek programları yürütülür.",
+    "Answer": "Ceza infaz kurumunda öğretmen, psikolog, sosyal çalışmacı gibi uzman meslek elemanının bulunmaması halinde, tüm faaliyetler tamamen iptal edilir ve herhangi bir servis personeli tarafından yürütülmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, dinî ve millî günlerdeki tören ve anma programları ile kütüphane çalışmaları hangi servis tarafından yürütülür?",
+    "A": "Psiko-sosyal yardım servisi",
+    "B": "Eğitim ve öğretim servisi",
+    "C": "Güvenlik servisi",
+    "D": "Sosyal çalışmacı",
+    "Answer": "Eğitim ve öğretim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda sosyal çalışmacı bulunmadığı durumlarda sportif faaliyetler kim tarafından yürütülür?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Psiko-sosyal yardım servisi",
+    "C": "Eğitim ve öğretim servisi",
+    "D": "Güvenlik ve gözetim servisi",
+    "Answer": "Eğitim ve öğretim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda konferans, dinleti, tiyatro gibi sosyal etkinlikler kimin sorumluluğundadır?",
+    "A": "Eğitim ve öğretim servisi",
+    "B": "Psiko-sosyal yardım servisi",
+    "C": "Güvenlik servisi",
+    "D": "Sosyal çalışmacı",
+    "Answer": "Sosyal çalışmacı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda öğretmen, psikolog, sosyal çalışmacı gibi uzmanların bulunmaması durumunda alan uzmanlığı gerektirmeyen faaliyetler nasıl yürütülür?",
+    "A": "Faaliyetler iptal edilir",
+    "B": "Dışarıdan uzman getirilir",
+    "C": "Görevlendirilen diğer servis personeli tarafından yürütülür",
+    "D": "Faaliyetler ceza infaz kurumu müdürünün inisiyatifine bırakılır",
+    "Answer": "Görevlendirilen diğer servis personeli tarafından yürütülür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, destek programları hangi protokollere göre yürütülür?",
+    "A": "Ceza infaz kurumu müdürünün protokollerine",
+    "B": "Psiko-sosyal yardım protokollerine",
+    "C": "Hükümlünün taleplerine göre",
+    "D": "Bakanlığın ve kurumların taraf olduğu protokollere",
+    "Answer": "Bakanlığın ve kurumların taraf olduğu protokollere",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ceza infaz kurumunda sosyal çalışmacı bulunmadığı takdirde sosyal ve kültürel etkinlikler kim tarafından yürütülür?",
+    "A": "Güvenlik servisi",
+    "B": "Eğitim ve öğretim servisi",
+    "C": "Psiko-sosyal yardım servisi",
+    "D": "Rehberlik servisi",
+    "Answer": "Eğitim ve öğretim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, manevi rehberlik kapsamındaki çalışmalar kim tarafından yürütülür?",
+    "A": "Güvenlik servisi",
+    "B": "Psiko-sosyal yardım servisi",
+    "C": "Eğitim ve öğretim servisi",
+    "D": "Sağlık servisi",
+    "Answer": "Eğitim ve öğretim servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hangi durumlarda diğer servis personeli etkinliklerin yürütülmesinde görevlendirilebilir?",
+    "A": "Etkinlikler düzenlenirken yeterli katılım olmadığında",
+    "B": "Ceza infaz kurumunda uzman meslek elemanları bulunmadığında",
+    "C": "Hükümlüler etkinliğe katılmak istemediğinde",
+    "D": "Dışarıdan katılım sağlanmadığında",
+    "Answer": "Ceza infaz kurumunda uzman meslek elemanları bulunmadığında",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, çalışma ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar hariç diğer hükümlüler, kurum iç hizmetlerinde veya mevcut işkollarında 5275 sayılı Kanunun 30 ve 31 inci maddelerinde belirtilen esaslara göre çalıştırılabilir.",
+    "B": "Yaş, sağlık durumu, bedensel yetenekleri itibarıyla çalışma şartlarına uyum sağlayamayacakları kurum tabibi tarafından tespit edilen hükümlüler çalıştırılmaz.",
+    "C": "Çalıştırmalar sırasında mesleği olmayan hükümlülerin meslek edinmeleri, mesleği olanların ise mevcut mesleklerini geliştirmeleri ve mesleki bilgi ve becerilerini belgelendirmeleri sağlanır.",
+    "D": "Ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar, kurum içi işlerde veya işkollarında çalıştırılabilir.",
+    "Answer": "Ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar, kurum içi işlerde veya işkollarında çalıştırılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, ağırlaştırılmış müebbet hapis cezasına hükümlü olanlar hangi işlerde çalıştırılır?",
+    "A": "Kurum iç hizmetlerinde",
+    "B": "Mevcut iş kollarında",
+    "C": "Hiçbir işte çalıştırılmaz",
+    "D": "Psiko-sosyal yardım servisinde",
+    "Answer": "Hiçbir işte çalıştırılmaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi hükümlülerin çalıştırılmasında göz önünde bulundurulan sağlık kriterlerinden biridir?",
+    "A": "Bedensel yetenekler ve sağlık durumu",
+    "B": "Yalnızca yaş durumu",
+    "C": "Sosyal ilişkiler",
+    "D": "Disiplin geçmişi",
+    "Answer": "Bedensel yetenekler ve sağlık durumu",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

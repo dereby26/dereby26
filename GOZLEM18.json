@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin gelişim puanı neye göre belirlenir?",
+    "A": "Aile görüşmelerine katılım sıklığına göre",
+    "B": "Ceza infaz kurumunun belirlediği ceza sürelerine göre",
+    "C": "Eğitim-öğretim, psiko-sosyal programlara katılım ve disiplin cezalarına göre",
+    "D": "Hükümlünün mali durumu ve sosyal ilişkilerine göre",
+    "Answer": "Eğitim-öğretim, psiko-sosyal programlara katılım ve disiplin cezalarına göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin “artı puan” almasını sağlayan unsurlardan biri aşağıdakilerden hangisidir?",
+    "A": "Disiplin cezalarına tabi olmaları",
+    "B": "Kurum iç düzenine katkıda bulunmaları",
+    "C": "Ceza süresini uzatmaları",
+    "D": "Hükümlü arkadaşları ile çatışmaya girmeleri",
+    "Answer": "Kurum iç düzenine katkıda bulunmaları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Hükmün infazına başlanması ile, ceza infaz kurumlarında bulunduğu süre içerisindeki tutum ve davranışları, kurum düzeni ve güvenliğine katkısı, yükümlülüklerini yerine getirmesi ile yürütülen iyileştirme ve topluma kazandırma programlarına katılımı sonucunda hükümlünün gösterdiği gelişim ölçülerek puanlanır. Yukarıdaki açıklamaya göre, hükümlülerin değerlendirilmesinde çeşitli kriterler dikkate alınır. Bu bağlamda, aşağıdaki seçeneklerden hangi servis hükümlünün puanlamasına dahil edilmez?",
+    "A": "Psiko-sosyal yardım servisi",
+    "B": "Eğitim ve öğretim servisi",
+    "C": "Yönetim servisi",
+    "D": "Sağlık servisi",
+    "Answer": "Sağlık servisi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim değerlendirme sistemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hangi tutum ve davranışlara ne kadar puan verileceği, ölçme ve değerlendirme kriterleri, değerlendirmeye esas eşik puanlar, değerlendirme raporlarının şekli, kullanılacak program ve formlar ile puanlama sonucuna göre yapılacak değerlendirmenin başlayacağı tarih Genel Müdürlükçe belirlenir.",
+    "B": "Hükümlülerin tutum ve davranışlarına verilen puanlar, ceza infaz kurumları tarafından belirlenir ve Genel Müdürlük bu süreçte rol almaz.",
+    "C": "Puanlama sonucuna göre yapılacak değerlendirmenin başlayacağı tarih, yalnızca ceza infaz kurumları tarafından belirlenir ve kurumlar arası değişiklik gösterir.",
+    "D": "Değerlendirme raporlarının şekli ve kullanılacak formlar, hükümlülerin bireysel tercihlerine göre belirlenir ve standart hale getirilmez.",
+    "Answer": "Hangi tutum ve davranışlara ne kadar puan verileceği, ölçme ve değerlendirme kriterleri, değerlendirmeye esas eşik puanlar, değerlendirme raporlarının şekli, kullanılacak program ve formlar ile puanlama sonucuna göre yapılacak değerlendirmenin başlayacağı tarih Genel Müdürlükçe belirlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülere hangi tutum ve davranışlara ne kadar puan verileceğini kim belirler?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Psiko-sosyal yardım servisi",
+    "C": "Genel Müdürlük",
+    "D": "Eğitim ve öğretim servisi",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, değerlendirmeye esas olan eşik puanlar kim tarafından belirlenir?",
+    "A": "Psiko-sosyal yardım servisi",
+    "B": "Genel Müdürlük",
+    "C": "Hükümlünün aile üyeleri",
+    "D": "Ceza infaz kurumu idaresi",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, değerlendirme raporlarının şekli ve kullanılacak formlar kim tarafından belirlenir?",
+    "A": "Genel Müdürlük",
+    "B": "Güvenlik ve gözetim servisi",
+    "C": "Kurum müdürü",
+    "D": "Eğitim ve öğretim servisi",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, değerlendirme sonucuna göre yapılacak puanlama işlemleri hangi tarihte başlatılır?",
+    "A": "Her altı ayda bir",
+    "B": "Genel Müdürlükçe belirlenen tarihte",
+    "C": "Ceza infaz kurumu müdürünün uygun gördüğü tarihte",
+    "D": "Hükümlünün isteği üzerine",
+    "Answer": "Genel Müdürlükçe belirlenen tarihte",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlülerin hangi tutum ve davranışlarına ne kadar puan verileceği hangi kurum tarafından düzenlenir?",
+    "A": "Psiko-sosyal yardım servisi",
+    "B": "Güvenlik servisi",
+    "C": "Rehberlik servisi",
+    "D": "Genel Müdürlük",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, aşağıdakilerden hangisi değerlendirmeye esas alınacak ölçme ve değerlendirme kriterlerinin belirlenmesinden sorumludur?",
+    "A": "Eğitim ve öğretim servisi",
+    "B": "Ceza infaz kurumu idaresi",
+    "C": "Genel Müdürlük",
+    "D": "Güvenlik ve gözetim servisi",
+    "Answer": "Genel Müdürlük",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanlamasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Hükümlü her değerlendirme dönemi içerisinde gözlemlenir, iyileştirme planına göre gelişimi ve gözlemler UYAP’ın ilgili bölümlerine kaydedilir.",
+    "B": "Hükümlü hakkında idare ve gözlem kurulunca iki ayda bir yapılacak değerlendirme öncesinde, UYAP’a kaydedilen bilgiler ve dönem içerisinde yapılan gözlemler dikkate alınarak gelişim değerlendirme raporları hazırlanır.",
+    "C": "Gelişim değerlendirme raporlarında hükümlünün infaz sürecindeki tutum ve davranışları ile iyileştirme planına göre gösterdiği gelişim puanlanır ve servis puanı bulunur.",
+    "D": "İki suret olarak düzenlenen gelişim değerlendirme raporunun bir sureti serviste muhafaza edilir, bir sureti işlemin ikmali için idare ve gözlem kurulu sekretaryasına gönderilir.",
+    "Answer": "Hükümlü hakkında idare ve gözlem kurulunca iki ayda bir yapılacak değerlendirme öncesinde, UYAP’a kaydedilen bilgiler ve dönem içerisinde yapılan gözlemler dikkate alınarak gelişim değerlendirme raporları hazırlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanlamasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Yönetim, eğitim ve öğretim, psiko-sosyal, güvenlik ve gözetim servislerince verilen servis puanları toplamının değerlendirme raporu sayısına bölümü ile dönem puanı hesaplanır. İdare ve gözlem kurulu sekretaryası tarafından hazırlanan dönem puanı icmal tablosu, ilgilinin gözlem ve değerlendirme dosyasında saklanır.",
+    "B": "Servis puanları hesaplanırken yalnızca psiko-sosyal ve güvenlik servislerinin puanları dikkate alınır, diğer servisler puanlama yapmaz.",
+    "C": "Dönem puanı, yalnızca idare ve gözlem kurulu başkanı tarafından hesaplanır ve gözlem dosyasına eklenmez.",
+    "D": "Dönem puanı icmal tablosu yalnızca idare ve gözlem kurulu başkanına sunulur, dosyada saklanmaz.",
+    "Answer": "Yönetim, eğitim ve öğretim, psiko-sosyal, güvenlik ve gözetim servislerince verilen servis puanları toplamının değerlendirme raporu sayısına bölümü ile dönem puanı hesaplanır. İdare ve gözlem kurulu sekretaryası tarafından hazırlanan dönem puanı icmal tablosu, ilgilinin gözlem ve değerlendirme dosyasında saklanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmelik’e göre, gelişim puanlamasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Ceza infaz kurumundan ayrılmaya ilişkin iyi hâl değerlendirmesi, hükümlünün toplam değerlendirme dönemi sayısı dikkate alınmaksızın yapılır.",
+    "B": "Hükümlünün gelişim puanı, yalnızca son dönemde aldığı puanlara göre belirlenir; önceki dönem puanları değerlendirmeye katılmaz.",
+    "C": "Ceza infaz kurumundan ayrılmaya ilişkin iyi hâl değerlendirmesinde dönem puanları dikkate alınmaz; yalnızca infaz süreci göz önünde bulundurulur.",
+    "D": "Ceza infaz kurumundan ayrılmaya ilişkin iyi hâl değerlendirmesinin yapılacağı son idare ve gözlem kurulu toplantısı öncesinde, o güne kadar alınan dönem puanları toplamının, toplam değerlendirme dönemi sayısına bölümü ile hükümlünün gelişim puanı belirlenir.",
+    "Answer": "Ceza infaz kurumundan ayrılmaya ilişkin iyi hâl değerlendirmesinin yapılacağı son idare ve gözlem kurulu toplantısı öncesinde, o güne kadar alınan dönem puanları toplamının, toplam değerlendirme dönemi sayısına bölümü ile hükümlünün gelişim puanı belirlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlünün iyileştirme planına göre gelişim ve gözlemleri hangi sisteme kaydedilir?",
+    "A": "UYAP",
+    "B": "E-devlet",
+    "C": "Ceza infaz dosyası",
+    "D": "Güvenlik dosyası",
+    "Answer": "UYAP",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, hükümlü hakkında gelişim değerlendirme raporları ne sıklıkla hazırlanır?",
+    "A": "Yılda bir kez",
+    "B": "Her üç ayda bir",
+    "C": "Altı ayda bir",
+    "D": "Her iki ayda bir",
+    "Answer": "Altı ayda bir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim değerlendirme raporunda hangi bilgiler dikkate alınır?",
+    "A": "Hükümlünün aile ilişkileri",
+    "B": "UYAP’a kaydedilen bilgiler ve yapılan gözlemler",
+    "C": "Hükümlünün mali durumu",
+    "D": "Sadece disiplin cezaları",
+    "Answer": "UYAP’a kaydedilen bilgiler ve yapılan gözlemler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim değerlendirme raporları kaç suret olarak düzenlenir?",
+    "A": "Bir",
+    "B": "Üç",
+    "C": "İki",
+    "D": "Dört",
+    "Answer": "İki",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, dönem puanı nasıl hesaplanır?",
+    "A": "Yalnızca güvenlik servisi tarafından belirlenir",
+    "B": "Servis puanları toplamının değerlendirme raporu sayısına bölünmesiyle",
+    "C": "Ceza infaz kurumu müdürü tarafından belirlenir",
+    "D": "Hükümlünün mali durumuna göre hesaplanır",
+    "Answer": "Servis puanları toplamının değerlendirme raporu sayısına bölünmesiyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, idare ve gözlem kurulu toplantısı öncesinde, iyi hâl değerlendirmesine esas alınacak gelişim puanı nasıl belirlenir?",
+    "A": "Hükümlünün son dönemdeki gözlem sonuçlarına göre",
+    "B": "Hükümlünün talebi üzerine",
+    "C": "Aile üyelerinin değerlendirmesiyle",
+    "D": "O güne kadar alınan dönem puanları toplamının, toplam değerlendirme dönemi sayısına bölünmesiyle",
+    "Answer": "O güne kadar alınan dönem puanları toplamının, toplam değerlendirme dönemi sayısına bölünmesiyle",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Gözlem ve Sınıflandırma Merkezleri ile Hükümlülerin Değerlendirilmesine Dair Yönetmeliği’ne göre, gelişim değerlendirme raporları hangi servisler tarafından puanlanır?",
+    "A": "Psiko-sosyal yardım servisi, yönetim servisi, eğitim ve öğretim servisi, güvenlik ve gözetim servisi",
+    "B": "Sadece yönetim servisi",
+    "C": "Güvenlik servisi ve psiko-sosyal yardım servisi",
+    "D": "İdare ve gözlem kurulu",
+    "Answer": "Psiko-sosyal yardım servisi, yönetim servisi, eğitim ve öğretim servisi, güvenlik ve gözetim servisi",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
