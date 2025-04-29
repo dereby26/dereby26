@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, müstakil okul açılmasına karar verilmesi halinde okullara hangi tür isimler verilmemelidir?",
+    "A": "Belirli şehir isimleri",
+    "B": "CİK’leri hatırlatacak isimler",
+    "C": "Halk Eğitim Merkezi isimleri",
+    "D": "Adalet Bakanlığı onaylı isimler",
+    "Answer": "CİK’leri hatırlatacak isimler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, yürütme kurulu kararına göre uygun okula bağlı olarak hangi eğitim birimleri açılabilir?",
+    "A": "Anaokulu, lise, MEM veya uygun bir şube/sınıf",
+    "B": "Yalnızca lise",
+    "C": "Ortaokul ve lise",
+    "D": "Halk Eğitim Merkezi",
+    "Answer": "Anaokulu, lise, MEM veya uygun bir şube/sınıf",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, yürütme kurulu tarafından belirlenen yerlerde açılması planlanan anaokulu ve ana sınıfları için kimden teklif yapılır?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "İl/ilçe milli eğitim müdürlüğü ve CİK müdürlüğü",
+    "C": "MEB Yürütme Kurulu",
+    "D": "Rehberlik ve Araştırma Merkezi",
+    "Answer": "İl/ilçe milli eğitim müdürlüğü ve CİK müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kapsamında açılacak kurslar hangi kurumun onayıyla açılabilir?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "CİK Müdürlüğü",
+    "C": "MEB Yürütme Kurulu",
+    "D": "İl/ilçe milli eğitim müdürlüğü",
+    "Answer": "MEB Yürütme Kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK’ler tarafından açılması teklif edilen kurslarda görevlendirilecek personel için hangi mevzuat geçerlidir?",
+    "A": "Adalet Bakanlığı yönetmeliği",
+    "B": "Halk Eğitim Merkezi yönergesi",
+    "C": "Ceza İnfaz Kurumları mevzuatı",
+    "D": "Milli Eğitim Bakanlığı yönetmeliği",
+    "Answer": "Milli Eğitim Bakanlığı yönetmeliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK tarafından teklif edilen kurslar hangi kurumun onayı ile açılır?",
+    "A": "İl/ilçe milli eğitim müdürlüğü",
+    "B": "Adalet Bakanlığı",
+    "C": "Yürütme Kurulu",
+    "D": "CİK Müdürlüğü",
+    "Answer": "İl/ilçe milli eğitim müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitmen, uzman ve usta öğretici görevlendirmeleri hangi şartlara göre yapılır?",
+    "A": "Kişisel tercihlere göre",
+    "B": "CİK onayına göre",
+    "C": "MEB'in belirlediği ilgili mevzuata göre",
+    "D": "Yürütme Kurulu kararına göre",
+    "Answer": "MEB'in belirlediği ilgili mevzuata göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, hangi koşullarda eğitim birimleri ve kurslar açılabilir?",
+    "A": "Öğrenci talebi olduğunda",
+    "B": "İlgili milli eğitim müdürlüğünün onayı ile",
+    "C": "Sadece bakanlık onayı ile",
+    "D": "Halk Eğitim Merkezi'nin desteğiyle",
+    "Answer": "İlgili milli eğitim müdürlüğünün onayı ile",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitim belgeleri ile ilgili aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden biridir?",
+    "A": "Eğitim ve öğretim faaliyetleri sonunda verilecek belgelerde Adalet Bakanlığı (AB), Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM) veya İşyurtları Kurumu (İYK) logolarının yer almamasını sağlamak",
+    "B": "Eğitim ve öğretim belgelerinde tüm ilgili kurumların logolarını kullanmak",
+    "C": "Müstakil olarak açılacak okullara, ceza infaz kurumunu (CİK) hatırlatan isimler vermek",
+    "D": "Eğitim belgelerinde yalnızca Adalet Bakanlığı logosunu bulundurmak",
+    "Answer": "Eğitim ve öğretim faaliyetleri sonunda verilecek belgelerde Adalet Bakanlığı (AB), Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM) veya İşyurtları Kurumu (İYK) logolarının yer almamasını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, diğer hükümler ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Belirli gün ve haftalar kapsamında yapılacak olan tören, anma programları ile bunların dışında sergi, konser, gösteri, yarışma, konferans, seminer vB) etkinlikler, il/ilçe millî eğitim müdürlükleri iş birliği ile ceza infaz kurumlarında (CİK) gerçekleştirilir.",
+    "B": "Eğitim ve öğretim çalışmalarında Millî Eğitim Bakanlığı'nın (MEB) örgün ve hayat boyu öğrenme kurumlarında görevli öğretmen ve usta öğreticilerin yanı sıra, Adalet Bakanlığı (AB) personelinden usta öğreticilik yeterliliğine sahip olanlar da görevlendirilebilir; eğitici ücretleri kurumlarına ödenir.",
+    "C": "Kurslarda, Hayat Boyu Öğrenme Genel Müdürlüğü (HBÖGM) tarafından onaylanan ve e-Yaygın sisteminde bulunan programlar kullanılır.",
+    "D": "Protokolün tarafları, Protokolde yer alan yükümlülükleri ve yetkilerini iş yoğunluğuna göre gerçek ya da tüzel kişilere devredebilir.",
+    "Answer": "Protokolün tarafları, Protokolde yer alan yükümlülükleri ve yetkilerini iş yoğunluğuna göre gerçek ya da tüzel kişilere devredebilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden değildir?",
+    "A": "Protokol hükümlerinin yürütülmesinden Milli Eğitim Bakanlığı (MEB) ile Adalet Bakanlığı (AB) yetkili ve sorumludur",
+    "B": "Kurslarda, onaylanmış programların kullanılması ve e-Yaygın sisteminde yer alan içeriklerle eğitim verilmesi",
+    "C": "Eğitim ve öğretim çalışmalarında MEB'in örgün ve hayat boyu öğrenme kurumlarında görevli öğretmen ve usta öğreticilerin yanı sıra, usta öğreticilik yeterliliğine sahip AB personelinin görevlendirilmesi ve eğitici ücretlerinin kurumlarına ödenmesi",
+    "D": "Belirli gün ve haftalar kapsamında yapılacak olan tören, anma programları, sergi, konser, gösteri, yarışma gibi etkinliklerin il/ilçe milli eğitim müdürlükleri iş birliği ile ceza infaz kurumlarında (CİK) gerçekleştirilmesi",
+    "Answer": "Kurslarda, onaylanmış programların kullanılması ve e-Yaygın sisteminde yer alan içeriklerle eğitim verilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, düzenlenen kurslarda aşağıdakilerden hangisi tarafından onaylanan programlar kullanılır?",
+    "A": "İl Millî Eğitim Müdürlüğü",
+    "B": "İlçe Millî Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu Müdürlüğü",
+    "D": "Hayat Boyu Öğrenme Genel Müdürlüğü (HBÖGM)",
+    "Answer": "Hayat Boyu Öğrenme Genel Müdürlüğü (HBÖGM)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden değildir?",
+    "A": "Protokol kapsamında yapılacak tanıtım materyallerinin (afiş, broşür, görsel ve işitsel yayınlar) MTEGM, FİBÖGM, TEGM, OGM, CTEGM ve İYK iş birliğiyle hazırlanması ve tanıtım faaliyetlerinin ilgili birimlerin onayıyla yürütülmesi",
+    "B": "Protokol kapsamında düzenlenecek faaliyetlerde kullanılacak materyallerde MEB ve AB logolarının karşılıklı izin alınarak kullanılması",
+    "C": "Protokolde belirtilen yükümlülüklerin veya yetkilerin başka bir gerçek veya tüzel kişiye devredilmesi",
+    "D": "Eğitim kurumuna veya programa devam eden yükümlülerin, ikamet değişikliği durumunda uygun bir eğitim kurumuna nakil olabilmesi",
+    "Answer": "Protokolde belirtilen yükümlülüklerin veya yetkilerin başka bir gerçek veya tüzel kişiye devredilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden değildir?",
+    "A": "Hükümlü ve tutuklulardan (H/T) açık öğretime kayıt ve sınavlara giriş için ödenecek ücret’in yüzde kırkının alınmaması",
+    "B": "Çıraklık sözleşmesi yapılarak mesleki eğitime dahil edilen hükümlü ve tutuklulara, işyurdu atölyelerinde çalışmaları halinde, belirlenen orandaki ücretin mahsuplaştırılarak ödenmesi",
+    "C": "Adalet Bakanlığı merkez ve taşra teşkilatında görevli öğretmenlerin açık öğretim sınavlarında görev almak istemeleri halinde, her eğitim-öğretim yılı başında bilgilerinin il/ilçe milli eğitim müdürlüğüne bildirilmesi",
+    "D": "Adalet Bakanlığı merkez ve taşra teşkilatında görevli öğretmenlerin görev taleplerini eğitim yılı dışında dikkate almak ve değişiklikleri il/ilçe milli eğitim müdürlüğüne bildirilmesi",
+    "Answer": "Adalet Bakanlığı merkez ve taşra teşkilatında görevli öğretmenlerin görev taleplerini eğitim yılı dışında dikkate almak ve değişiklikleri il/ilçe milli eğitim müdürlüğüne bildirilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol hükümlerinin yürütülmesinden hangi kurumlar sorumludur?",
+    "A": "MEB ve AB",
+    "B": "MEB ve CİK",
+    "C": "MEB ve İlçe Milli Eğitim Müdürlükleri",
+    "D": "CTEGM ve MEB",
+    "Answer": "MEB ve AB",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitim çalışmalarında MEB öğretmenlerinin yanı sıra görevlendirilebilecek diğer kişiler kimlerdir?",
+    "A": "İYK görevlileri",
+    "B": "Rehberlik uzmanları",
+    "C": "Yalnızca MEB personeli",
+    "D": "Usta öğreticilik yeterliliğine sahip AB personeli",
+    "Answer": "Usta öğreticilik yeterliliğine sahip AB personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitici ücretleri hangi kuruma ödenir?",
+    "A": "İlçe Milli Eğitim Müdürlüğü",
+    "B": "Eğiticilerin kendi kurumlarına",
+    "C": "Yalnızca MEB’e",
+    "D": "CİK Müdürlüklerine",
+    "Answer": "Eğiticilerin kendi kurumlarına",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, belirli gün ve haftalar kapsamında yapılacak tören ve anma programları kimlerin iş birliğiyle CİK’lerde gerçekleştirilir?",
+    "A": "CİK ve AB",
+    "B": "HBÖGM ve CTEGM",
+    "C": "Yalnızca MEB",
+    "D": "İl/ilçe milli eğitim müdürlükleri",
+    "Answer": "İl/ilçe milli eğitim müdürlükleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, kurslarda hangi sistemde onaylanmış programlar kullanılır?",
+    "A": "MEBBİS",
+    "B": "UYAP",
+    "C": "e-Yaygın",
+    "D": "E-Devlet",
+    "Answer": "e-Yaygın",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol faaliyetlerinin tanıtımı için hazırlanan afiş ve broşürler kimlerin onayıyla hazırlanır?",
+    "A": "İlçe Milli Eğitim Müdürlükleri",
+    "B": "MTEGM, HBÖGM, TEGM, OGM, CTEGM ve İYK",
+    "C": "MEB Yürütme Kurulu",
+    "D": "Yalnızca MEB Genel Müdürlükleri",
+    "Answer": "MTEGM, HBÖGM, TEGM, OGM, CTEGM ve İYK",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

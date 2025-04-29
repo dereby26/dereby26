@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'lerde görev yapan AB personelinin ücretleri nereden karşılanır?",
+    "A": "Milli Eğitim Bakanlığı bütçesinden",
+    "B": "Ceza İnfaz Kurumu bütçesinden",
+    "C": "İl Milli Eğitim Müdürlüğünden",
+    "D": "Adalet Bakanlığı’ndan",
+    "Answer": "Ceza İnfaz Kurumu bütçesinden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'lerde görev alacak MEB personeline sağlanacak imkanlar nelerdir?",
+    "A": "Maaş artışı",
+    "B": "Haftalık izin",
+    "C": "Ulaşım ve yemek imkânı",
+    "D": "Eğitim seminerleri",
+    "Answer": "Ulaşım ve yemek imkânı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, derslik ve atölye olarak inşa edilip başka amaçla kullanılan alanlar için yapılması gereken işlem nedir?",
+    "A": "Başka ihtiyaçlara yönelik kullanılmaya devam edilir",
+    "B": "Asıl mahiyetine dönüştürülür",
+    "C": "Kapalı tutulur",
+    "D": "Özel izinle açılır",
+    "Answer": "Asıl mahiyetine dönüştürülür",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, derslik ve atölye ihtiyacının karşılanamaması halinde hangi alternatif çözüm sağlanır?",
+    "A": "Eğitim faaliyetleri askıya alınır",
+    "B": "Yeni derslikler inşa edilir",
+    "C": "Eğitim dış kaynaklardan sağlanır",
+    "D": "Oda veya koğuşlar dersliğe çevrilir",
+    "Answer": "Oda veya koğuşlar dersliğe çevrilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK bina ve eklentilerinin \"okul\" olarak tanımlanması durumunda yapılması gereken işlem nedir?",
+    "A": "İlçe milli eğitim müdürlüğü ile alt protokol yapılması",
+    "B": "Yeni bina inşası yapılması",
+    "C": "Bakanlığa rapor sunulması",
+    "D": "Eğitim faaliyetlerinin askıya alınması",
+    "Answer": "İlçe milli eğitim müdürlüğü ile alt protokol yapılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, H/T'lerin sınav listelerinin sınav otomasyon sistemine girilmesinde dikkate alınması gereken unsurlar hangileridir?",
+    "A": "Sınav başarı durumu",
+    "B": "Sosyal geçmiş",
+    "C": "Akademik başarı",
+    "D": "Suç grupları, hasımlılık ve güvenlik kriterleri",
+    "Answer": "Suç grupları, hasımlılık ve güvenlik kriterleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEMP kapsamındaki kalfalık ve ustalık eğitimleri için sağlanması gereken alanlar nelerdir?",
+    "A": "Özel çalışma alanları",
+    "B": "Atölye, teçhizat ve eğitim ortamları",
+    "C": "Dış mekan eğitim alanları",
+    "D": "Yurt dışı staj olanakları",
+    "Answer": "Atölye, teçhizat ve eğitim ortamları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, devamsızlık sebebiyle başarısız duruma düşmemiş H/T öğrencilerin sınav taleplerini hangi birim değerlendirmelidir?",
+    "A": "Ceza İnfaz Kurumu",
+    "B": "MEB'e bağlı okulun müdürlüğü",
+    "C": "Öğrenci Koçları",
+    "D": "Bakanlık Gözetim Komisyonu",
+    "Answer": "Bakanlık Gözetim Komisyonu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, H/T'lerin okul kaydının olduğu il/ilçe milli eğitim müdürlüğüne bildirilme süresi nedir?",
+    "A": "10 iş günü",
+    "B": "5 iş günü",
+    "C": "2 iş günü",
+    "D": "1 ay",
+    "Answer": "10 iş günü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, yeni açılacak okul, bağlı birim ve sınıf şubeleri ile ilgili çalışmalar nasıl yürütülmelidir?",
+    "A": "Yalnızca yerel yönetimlerle iş birliği yapılarak",
+    "B": "İl/ilçe milli eğitim müdürlüğü ile koordineli olarak",
+    "C": "İlgili okul müdürlükleriyle sınırlı olarak",
+    "D": "Dış paydaşların yönlendirmesiyle",
+    "Answer": "İl/ilçe milli eğitim müdürlüğü ile koordineli olarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, sınav komisyonları aracılığıyla sınavların güvenli şekilde yapılmasını sağlama görevi hangi birime aittir?",
+    "A": "Ceza İnfaz Kurumu",
+    "B": "İl Milli Eğitim Müdürlüğü",
+    "C": "MEB",
+    "D": "Sınav Komisyonu",
+    "Answer": "Sınav Komisyonu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, H/T'lerin sınavlarına ilişkin güvenlik kriterlerinin sağlanmasında hangi sistem kullanılır?",
+    "A": "MEBBİS",
+    "B": "Sınav Otomasyon Sistemi",
+    "C": "UYAP",
+    "D": "e-Yaygın",
+    "Answer": "MEBBİS",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'lerde MEB personelinin ulaşım ve yemek ihtiyaçlarını sağlamak kimin sorumluluğundadır?",
+    "A": "Milli Eğitim Bakanlığı",
+    "B": "CİK",
+    "C": "İlçe Milli Eğitim Müdürlüğü",
+    "D": "Rehberlik ve Araştırma Merkezi",
+    "Answer": "Rehberlik ve Araştırma Merkezi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, sınav otomasyon sistemine girilecek H/T listeleri hangi kriterlere göre düzenlenir?",
+    "A": "Eğitim başarı durumu",
+    "B": "Mesleki eğitim ihtiyaçları",
+    "C": "Suç grubu, hasımlılık ve güvenlik",
+    "D": "Akademik başarı düzeyi",
+    "Answer": "Suç grubu, hasımlılık ve güvenlik",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kapsamındaki kurs ve etkinliklerde görev alacak personelin ücretleri hangi bütçeden karşılanır?",
+    "A": "Milli Eğitim Bakanlığı",
+    "B": "Ceza İnfaz Kurumu bütçesi",
+    "C": "İl Milli Eğitim Müdürlüğü",
+    "D": "Halk Eğitim Merkezi",
+    "Answer": "Ceza İnfaz Kurumu bütçesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB'in 2016/17 Sayılı Genelgesi'ne göre H/T’lerin devamsızlık durumu hangi durumda dikkate alınmaz?",
+    "A": "Eğitim süresince devamsızlık yapmamışsa",
+    "B": "Dönem sonu sınavlarına girmemişse",
+    "C": "İki dönem notu/puanı bulunuyorsa",
+    "D": "Başarı durumları düşükse",
+    "Answer": "Eğitim süresince devamsızlık yapmamışsa",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi Denetimli Serbestlik Müdürlükleri'nin (DSM) yükümlülüklerinden biri değildir?",
+    "A": "Adli merciler tarafından haklarında \"eğitim kurumuna veya programına devam etme\" kararı verilen yükümlülerden nitelikleri uygun olanların, il millî eğitim müdürlüğüne bildirilmesini ve ilgili kayıt döneminin geçmemiş olması şartıyla, öncelikle mesleki eğitim merkezlerine yönlendirilmelerini sağlamak,",
+    "B": "Kalfalık, ustalık ve usta öğreticilik eğitimleri ile kurs ve etkinliklerin düzenleneceği uygun ortamın sağlanması halinde bu eğitim ve etkinliklerin iş sağlığı ve güvenliği kuralları çerçevesinde gerçekleştirilmesi için gerekli önlemleri almak,",
+    "C": "Fiziki koşulların uygun olması halinde Mesleki Eğitim Merkezi Programı (MEMP) kapsamında kalfalık ve ustalık eğitimleri almaları için eğitim alanları, atölye, teçhizat vB) ortamları sağlamak,",
+    "D": "Kurslara katılan kursiyerlerin e-Yaygın sistemine kaydedilmesini ve kurs sonunda belgelendirilmesini sağlamak.",
+    "Answer": "Kurslara katılan kursiyerlerin e-Yaygın sistemine kaydedilmesini ve kurs sonunda belgelendirilmesini sağlamak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Denetimli Serbestlik Müdürlükleri'nin (DSM) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden biri değildir?",
+    "A": "Protokol kapsamındaki çalışmalarda Halk Eğitim Merkezleri (HEM), Mesleki Eğitim Merkezi Programı (MEMP) uygulayan okul ve kurumlar ile ceza infaz kurumları (CİK) ile iş birliği yapmak",
+    "B": "Protokol'ün uygulanmasına yönelik olarak ilgili CİK'lere gerekli duyuruları yapmak,",
+    "C": "Denetimli serbestlik yükümlüleri hakkında il milli eğitim müdürlüğü ile \"eğitim kurumuna veya programına devam etme\" kararının uygulanacağı eğitim kurumunu bilgilendirmek",
+    "D": "Adli merciler tarafından haklarında \"eğitim kurumuna veya programına devam etme\" kararı verilen ve nitelikleri uygun olan yükümlülerin, il milli eğitim müdürlüğüne bildirilmesini sağlamak ve ilgili kayıt döneminin geçmemiş olması durumunda öncelikle mesleki eğitim merkezlerine yönlendirilmesini sağlamak",
+    "Answer": "Protokol'ün uygulanmasına yönelik olarak ilgili CİK'lere gerekli duyuruları yapmak,",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Denetimli Serbestlik Müdürlükleri'nin (DSM) yükümlülükleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "A": "Denetimli serbestlik kararı bulunan yükümlüler ve eski hükümlülerin çalıştığı iş kolu ile ilgili olarak kalfalık, ustalık ve usta öğreticilik belgelerini alabilmeleri hususunda kayıtlara uygun olarak hizmet belgesi düzenlemek.",
+    "B": "Kalfalık, ustalık ve usta öğreticilik eğitimleri ile kurs ve etkinliklerin düzenleneceği uygun ortamın sağlanması halinde bu eğitim ve etkinliklerin iş sağlığı ve güvenliği kuralları çerçevesinde gerçekleştirilmesi için gerekli önlemleri almak.",
+    "C": "DSM'lerde gerçekleştirilen eğitim faaliyetlerinde kullanılan, MEB'e bağlı okul ve kurumlara ait demirbaş, eğitim araç-gereci ile diğer eşyanın hasar görmesi durumunda, bunların onarımını yaptırmak veya aynı özelliğe sahip yenilerini temin etmek.",
+    "D": "DSM'lerde açılacak lise veya bağlı şube sınıflarında görev alacak öğretmen, eğitici ve idareci görevlendirilmesini sağlamaktır.",
+    "Answer": "DSM'lerde açılacak lise veya bağlı şube sınıflarında görev alacak öğretmen, eğitici ve idareci görevlendirilmesini sağlamaktır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Denetimli Serbestlik Müdürlükleri'nin (DSM) yükümlülükleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Fiziki koşulların uygun olması halinde, Mesleki Eğitim Merkezi Programı (MEMP) kapsamında kalfalık ve ustalık eğitimleri almaları için gerekli eğitim alanları, atölye, teçhizat gibi ortamları sağlamak",
+    "B": "Kalfalık ve ustalık eğitimlerini yalnızca teorik dersler ile sınırlamak",
+    "C": "Eğitim alanları uygun değilse kalfalık ve ustalık eğitimlerini tamamen iptal etmek",
+    "D": "Kalfalık ve ustalık eğitimleri için gerekli ortamları hazırlamadan eğitimlere başlamak",
+    "Answer": "Fiziki koşulların uygun olması halinde, Mesleki Eğitim Merkezi Programı (MEMP) kapsamında kalfalık ve ustalık eğitimleri almaları için gerekli eğitim alanları, atölye, teçhizat gibi ortamları sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

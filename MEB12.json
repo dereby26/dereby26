@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, işyurtlarında çalışan hükümlülerin usta öğreticilik sınavları nerede yapılır?",
+    "A": "Ceza İnfaz Kurumları derslikleri",
+    "B": "İlçe Milli Eğitim Müdürlüğü salonları",
+    "C": "İşyuru atölyeleri",
+    "D": "HEM sınıfları",
+    "Answer": "İşyuru atölyeleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, işyuru atölye ve tesislerinde görev yapan personelin mesleki eğitimde görev alabilmesi için hangi niteliklere sahip olması gereklidir?",
+    "A": "Usta öğreticilik yeterliliği",
+    "B": "Kalfalık belgesi",
+    "C": "Eğitim diploması",
+    "D": "Rehberlik belgesi",
+    "Answer": "Usta öğreticilik yeterliliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, tutuklu ve hükümlülerin mesleki eğitimleri hangi kapsamda yürütülmektedir?",
+    "A": "İş sağlığı programı",
+    "B": "İşletmede mesleki eğitim",
+    "C": "Serbest eğitim",
+    "D": "İş güvenliği eğitimleri",
+    "Answer": "İşletmede mesleki eğitim",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, işyurtları, öğrencilere hangi durumda ödeme yapmak zorundadır?",
+    "A": "Eğitimlerdeki başarı durumuna göre",
+    "B": "Katılım belgelerine göre",
+    "C": "Devamsızlık durumuna göre",
+    "D": "İşyurdu müdürlüğü ile yapılan sözleşmeye",
+    "Answer": "İşyurdu müdürlüğü ile yapılan sözleşmeye",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, işyuru atölye ve tesislerinde çalışacak olan personelin görevleri hangi mevzuata uygun olarak yürütülür?",
+    "A": "MEB mevzuatı",
+    "B": "Mesleki eğitim mevzuatı",
+    "C": "Sosyal güvenlik mevzuatı",
+    "D": "Adalet Bakanlığı mevzuatı",
+    "Answer": "Mesleki eğitim mevzuatı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, İşyurtları Kurumu'nun (İYK) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamındadır?",
+    "A": "Hükümlü ve tutuklulardan, Mesleki Eğitim Merkez Programı (MEMP) kapsamında kalfalık, ustalık ve usta öğreticilik eğitimi alacakların eğitim alanları, atölye, teçhizat gibi koşulları Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM) ile iş birliği yaparak sağlamak",
+    "B": "Kalfalık ve ustalık eğitimleri için yalnızca dış eğitim merkezlerinin kullanımını zorunlu hale getirmek",
+    "C": "Tutuklu ve hükümlülerin mesleki eğitim süreçlerini yalnızca uzaktan eğitimle gerçekleştirmek",
+    "D": "Mesleki eğitim alan hükümlülerin bireysel çalışmasını teşvik etmek ve atölye kullanmamalarını sağlamak",
+    "Answer": "Hükümlü ve tutuklulardan, Mesleki Eğitim Merkez Programı (MEMP) kapsamında kalfalık, ustalık ve usta öğreticilik eğitimi alacakların eğitim alanları, atölye, teçhizat gibi koşulları Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM) ile iş birliği yaparak sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi Ceza İnfaz Kurumlarının (CİK) yükümlülüklerinden biri değildir?",
+    "A": "Hükümlü ve tutuklular (H/T) ile kurum personelinin, çalıştığı iş kolu ile ilgili olarak kalfalık, ustalık ve usta öğreticilik belgelerini alabilmeleri hususunda gerekli işlemleri yürütmek,",
+    "B": "CİK'lerde görevlendirilecek MEB personelinin (öğretmen, usta öğretici vB)) ulaşım ve yemek imkânlarından faydalanmalarını sağlamak,",
+    "C": "CİK bina ve eklentilerinin \"okul olarak\" tanımlanması ya da yeni bina ve eklentilerin inşası söz konusu olması halinde, gerekirse ilgili il/ilçe millî eğitim müdürlükleri ile uygulama ve işletme detaylarına ilişkin alt protokoller yapmak,",
+    "D": "Yetişkinlere yönelik okuryazarlık kurslarını e-Yaygın sistemi üzerinden ilgili mevzuat çerçevesinde açarak gerekli eğitim materyalini sağlamak ve başarılı olanların belgelerini düzenlemek.",
+    "Answer": "Yetişkinlere yönelik okuryazarlık kurslarını e-Yaygın sistemi üzerinden ilgili mevzuat çerçevesinde açarak gerekli eğitim materyalini sağlamak ve başarılı olanların belgelerini düzenlemek.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza İnfaz Kurumu/İşyurdu Müdürlüğü'nün yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Protokol kapsamındaki çalışmalarda il/ilçe milli eğitim müdürlükleri ile iş birliği yapmak",
+    "B": "Ceza infaz kurumlarında gerçekleştirilecek mesleki eğitim programlarının belirlenmesinde işyurdu faaliyetlerinin yürütüldüğü iş kollarını dikkate almak",
+    "C": "Hükümlü ve tutukluların mesleki eğitim programlarına katılmalarını yalnızca gönüllü esasına göre bırakmak ve herhangi bir belge vermemek",
+    "D": "Hükümlü ve tutukluların eğitim ve öğretim programlarına katılımlarını sağlamak için gerekli önlemleri almak ve disiplin kurallarına uymalarını sağlamak",
+    "Answer": "Hükümlü ve tutukluların mesleki eğitim programlarına katılmalarını yalnızca gönüllü esasına göre bırakmak ve herhangi bir belge vermemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza İnfaz Kurumu/İşyurdu Müdürlüğü'nün yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Hükümlü ve tutukluların teorik ders sınavlarının ceza infaz kurumunda (CİK), uygulamalı meslek derslerine ait sınavlarının ise mümkünse CİK'te, mümkün değilse ilgili mevzuata uygun olarak milli eğitim müdürlüklerince belirlenecek kurumlarda yapılmasını sağlamak",
+    "B": "Eğitim ve öğretim faaliyetlerinin düzenli, güvenli ve emniyetli bir ortamda gerçekleşmesi için gerekli önlemleri almak",
+    "C": "Hükümlü ve tutukluların tüm sınavlarının, ilgili CİK'in bulunduğu il/ilçe milli eğitim müdürlükleri tarafından oluşturulan sınav komisyonu aracılığıyla öncelikle CİK'lerde yapılması için gerekli çalışmaları yapmak",
+    "D": "CİK'lerde gerçekleştirilen eğitim ve öğretim faaliyetlerinde kullanılan, MEB'e bağlı okul ve kurumlara ait demirbaş, eğitim araç-gereci ile diğer eşyanın hasar görmesi durumunda, bunların onarımını için MEB’e danışmanlık yapmak",
+    "Answer": "CİK'lerde gerçekleştirilen eğitim ve öğretim faaliyetlerinde kullanılan, MEB'e bağlı okul ve kurumlara ait demirbaş, eğitim araç-gereci ile diğer eşyanın hasar görmesi durumunda, bunların onarımını için MEB’e danışmanlık yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza İnfaz Kurumu/İşyurdu Müdürlüğü'nün yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Ceza infaz kurumlarında (CİK) düzenlenen kurs ve etkinliklerde görev alacak Adalet Bakanlığı personelinin ücretlerini MEB bütçesinden ödetmek",
+    "B": "CİK'lerde görevlendirilecek Milli Eğitim Bakanlığı personelinin (öğretmen, usta öğretici vB)) ulaşım ve yemek imkanlarından faydalanmalarını sağlamak",
+    "C": "Kurum içinde eğitim ve kurs çalışmalarının yürütülebileceği derslik ve atölye oluşturulmasını, mimari projesinde derslik ve atölye olarak inşa edildiği halde başka ihtiyaçlar için tahsis edilip kullanılan derslik ve atölyelerin asıl mahiyetine dönüştürülmesini, bu şekilde de ihtiyacın karşılanamaması halinde oda/koğuşlan dersliğe çevirmek, aynı eğitim ve öğretim programının aynı aşamasına devam edenleri imkanlar ölçüsünde aynı odalkoğuşta toplamak ve başka yol bulunamadığı takdirde gerekirse derslerin oda ve koğuşlarda verilmesini sağlamak",
+    "D": "CİK bina ve eklentilerinin \"okul olarak\" tanımlaması ya da yeni bina ve eklentilerin inşası söz konusu olması halinde, gerekirse ilgili il/ilçe milli eğitim müdürlükleri ile uygulama ve işletme detaylarına ilişkin alt protokoller yapmak,",
+    "Answer": "Ceza infaz kurumlarında (CİK) düzenlenen kurs ve etkinliklerde görev alacak Adalet Bakanlığı personelinin ücretlerini MEB bütçesinden ödetmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza İnfaz Kurumu/İşyurdu Müdürlüğü'nün yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Açık öğretim sınavlarına girecek hükümlü ve tutukluların suç grupları, hasımlık ve güvenlik kriterleri göz önünde bulundurularak oluşturulan sınav listelerinin sınav otomasyon sistemine girilmesini sağlamak",
+    "B": "Mesleki Eğitim Merkezi Programı (MEMP) kapsamında kalfalık ve ustalık eğitimi alacaklar için eğitim alanları, atölye ve teçhizat gibi ortamları sağlamak",
+    "C": "Milli Eğitim Bakanlığı'nın 2016/17 Sayılı Tutuklu ve Hükümlü Öğrenciler konulu genelgesine göre, devamsızlık sebebiyle başarısız olmayan ve iki dönem notu bulunan öğrencilerin ortak sınav taleplerini, sınavdan en az yedi iş günü önce il/ilçe milli eğitim müdürlüklerine bildirmek",
+    "D": "Örgün eğitime devam eden tutuklu öğrencilerin, öğrenci olduğunu beyan etseler bile durumlarının kayıtlı oldukları okullara veya il/ilçe milli eğitim müdürlüklerine bildirilmesini sağlamak",
+    "Answer": "Milli Eğitim Bakanlığı'nın 2016/17 Sayılı Tutuklu ve Hükümlü Öğrenciler konulu genelgesine göre, devamsızlık sebebiyle başarısız olmayan ve iki dönem notu bulunan öğrencilerin ortak sınav taleplerini, sınavdan en az yedi iş günü önce il/ilçe milli eğitim müdürlüklerine bildirmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza İnfaz Kurumu/İşyurdu Müdürlüğü'nün yükümlülükleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Bu protokol kapsamında yürütülen çalışmalar ile ceza infaz kurumunda uygulanan eğitim ve öğretim çalışmalarını yıllık plana uygun olarak yürütmek, yeni açılacak okul, bağlı birim ve sınıf şubelerinin planlanması ve açılması konularında il/ilçe milli eğitim müdürlüğü ile koordineli çalışmak",
+    "B": "Yeni açılacak eğitim birimleri ve sınıf şubelerinin yalnızca ceza infaz kurumları içinde bağımsız olarak planlanmasını sağlamak",
+    "C": "Eğitim ve öğretim çalışmalarını herhangi bir yıllık plan olmadan yürütmek",
+    "D": "Ceza infaz kurumundaki eğitim çalışmalarında il/ilçe milli eğitim müdürlüğü ile iş birliği yapmaktan kaçınmak",
+    "Answer": "Bu protokol kapsamında yürütülen çalışmalar ile ceza infaz kurumunda uygulanan eğitim ve öğretim çalışmalarını yıllık plana uygun olarak yürütmek, yeni açılacak okul, bağlı birim ve sınıf şubelerinin planlanması ve açılması konularında il/ilçe milli eğitim müdürlüğü ile koordineli çalışmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kapsamındaki çalışmalarda iş birliği yapılacak kurumlar hangileridir?",
+    "A": "İl/ilçe milli eğitim müdürlükleri",
+    "B": "Yalnızca İl Milli Eğitim Müdürlükleri",
+    "C": "CİK ve DSM",
+    "D": "Ceza İnfaz Kurumları",
+    "Answer": "CİK ve DSM",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'lerde gerçekleştirilecek mesleki eğitim programları belirlenirken hangi unsurlar dikkate alınmalıdır?",
+    "A": "İlgili yasanın hükümleri",
+    "B": "İş yurdu faaliyetlerinin gerçekleştirildiği iş kolları",
+    "C": "Sosyal güvenlik kuralları",
+    "D": "Eğitim araç gereçleri",
+    "Answer": "İş yurdu faaliyetlerinin gerçekleştirildiği iş kolları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, H/T'lerin eğitim programlarına katılımını sağlamak için hangi önlemler alınır?",
+    "A": "Psikolojik destek",
+    "B": "Disiplin kurallarına uymalarını sağlama",
+    "C": "Sağlık kontrolleri",
+    "D": "Güvenlik önlemleri",
+    "Answer": "Güvenlik önlemleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, H/T'lerin teorik ders sınavları nerede yapılır?",
+    "A": "İlçe Milli Eğitim Müdürlüklerinde",
+    "B": "Ceza İnfaz Kurumu'nda (CİK)",
+    "C": "Halk Eğitim Merkezlerinde",
+    "D": "Rehberlik ve Araştırma Merkezlerinde",
+    "Answer": "Ceza İnfaz Kurumu'nda (CİK)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, uygulamalı meslek derslerine ait sınavlar mümkünse nerede yapılır?",
+    "A": "Halk Eğitim Merkezi'nde",
+    "B": "İl Milli Eğitim Müdürlüğünde",
+    "C": "Ceza İnfaz Kurumu'nda (CİK)",
+    "D": "Öğrenci evinde",
+    "Answer": "Ceza İnfaz Kurumu'nda (CİK)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitim ortamlarının güvenli ve düzenli bir şekilde sağlanması için hangi önlemler alınmalıdır?",
+    "A": "Disiplin önlemleri",
+    "B": "Güvenlik ve emniyet önlemleri",
+    "C": "Psikolojik destek",
+    "D": "Finansal destek",
+    "Answer": "Güvenlik ve emniyet önlemleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, sınavların güvenlik kriterlerine göre yapılması için oluşturulması gereken yapı nedir?",
+    "A": "CİK'te bir sınav komisyonu",
+    "B": "İl Milli Eğitim Müdürlükleri",
+    "C": "Denetim Komisyonları",
+    "D": "Bakanlık Gözetim Komisyonları",
+    "Answer": "Denetim Komisyonları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'teki eğitim araç-gereçleri hasar görürse yapılacak işlem nedir?",
+    "A": "Onarılması veya yenisinin temin edilmesi",
+    "B": "Güvenlik önlemlerinin artırılması",
+    "C": "Değişim talebi yapılması",
+    "D": "Bakım yapılması",
+    "Answer": "Onarılması veya yenisinin temin edilmesi",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

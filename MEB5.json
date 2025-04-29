@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Aşağıdakilerden hangisi Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, destekleme ve yetiştirme kursları ile ilgili gerekli iş ve işlemleri yürütmekle yükümlü kurumdur?",
+    "A": "İl Millî Eğitim Müdürlüğü",
+    "B": "İlçe Millî Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu Müdürlüğü",
+    "D": "Millî Eğitim Bakanlığı Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü (MEB ÖDSHGM)",
+    "Answer": "Millî Eğitim Bakanlığı Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü (MEB ÖDSHGM)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, AB işbirliği ile ceza infaz kurumlarında (CİK) gerekirse anaokulu veya ana sınıfı yaptırılmasını sağlamakla yükümlüdür?",
+    "A": "İl Millî Eğitim Müdürlüğü",
+    "B": "İlçe Millî Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu Müdürlüğü",
+    "D": "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü (MEB TEGM)",
+    "Answer": "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü (MEB TEGM)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB Temel Eğitim Genel Müdürlüğü'nün (TEGM) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Annesinin yanında kalan çocuklar için anaokulu veya ana sınıfı bulunmayan ceza infaz kurumlarında anaokulu veya ana sınıfı açılmasını sağlar.",
+    "B": "Protokol kapsamındaki çalışmalar ile ilgili mahallinde çözülemeyen problemler için görev alanı çerçevesinde görüş bildirmek",
+    "C": "Adalet Bakanlığı işbirliği ile ceza infaz kurumlarında gerekirse yüksek okul veya amfi yaptırılmasını sağlamak",
+    "D": "İhtiyaç duyulan öğretmen ile idarecilerin görevlendirilmesini sağlamak",
+    "Answer": "Adalet Bakanlığı işbirliği ile ceza infaz kurumlarında gerekirse yüksek okul veya amfi yaptırılmasını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, ceza infaz kurumunda annesinin yanında kalan çocukların eğitimi için anaokulu veya ana sınıfı olmayan kurumlarda ne yapılması sağlanır?",
+    "A": "Çocukların dışarıdaki bir okula yönlendirilmesi",
+    "B": "Anaokulu veya ana sınıfı açılması",
+    "C": "Evde eğitim sağlanması",
+    "D": "Çocukların diğer ceza infaz kurumlarına gönderilmesi",
+    "Answer": "Anaokulu veya ana sınıfı açılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, ceza infaz kurumlarında anaokulu veya ana sınıfı açılması durumunda ihtiyaç duyulan personel kimler tarafından sağlanır?",
+    "A": "MEB’in okul ve kurumlarından",
+    "B": "Cezaevi personelinden",
+    "C": "Aile ve Sosyal Politikalar Bakanlığından",
+    "D": "Üniversitelerden stajyer öğretmenler",
+    "Answer": "MEB’in okul ve kurumlarından",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, ceza infaz kurumlarında anaokulu veya ana sınıfı bulunmadığında yeni bir sınıfın açılması için hangi bakanlıkla iş birliği yapılır?",
+    "A": "Aile ve Sosyal Hizmetler Bakanlığı",
+    "B": "İçişleri Bakanlığı",
+    "C": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+    "D": "Milli Eğitim Bakanlığı",
+    "Answer": "Milli Eğitim Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, ceza infaz kurumlarında anaokulu veya ana sınıfı yapılmasına gerek duyulması halinde hangi kurumun iş birliği ile bu yapılır?",
+    "A": "Aile ve Sosyal Hizmetler Bakanlığı",
+    "B": "Adalet Bakanlığı (AB)",
+    "C": "Sağlık Bakanlığı",
+    "D": "Kültür ve Turizm Bakanlığı",
+    "Answer": "Adalet Bakanlığı (AB)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, anaokulu veya ana sınıfı bulunmayan ceza infaz kurumlarına öğretmen ve idareci görevlendirilmesinde yetkili kurum hangisidir?",
+    "A": "Ceza infaz kurumu",
+    "B": "Adalet Bakanlığı",
+    "C": "Milli Eğitim Bakanlığı",
+    "D": "Ceza ve Tevkifevleri Genel Müdürlüğü",
+    "Answer": "Milli Eğitim Bakanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kapsamındaki çalışmalar ile ilgili yerel düzeyde çözülemeyen problemler için hangi tür tedbirler alınır?",
+    "A": "İlgili bakanlıklardan çözüm önerisi alınır",
+    "B": "Sorunun çözümü için il veya ilçe düzeyinde toplantı düzenlenir",
+    "C": "Görev alanı çerçevesinde görüş bildirilir",
+    "D": "Sorun başka bir kuruma devredilir",
+    "Answer": "Görev alanı çerçevesinde görüş bildirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, anaokulu veya ana sınıfının bulunmadığı CİK'lerde eğitimin sağlanması için hangi adımlar atılır?",
+    "A": "Öğretmenlerin geçici görevlendirilmesi",
+    "B": "Ana sınıfı açılması ve öğretmen atanması",
+    "C": "Çocukların başka okullara yönlendirilmesi",
+    "D": "Çocuklara uzaktan eğitim verilmesi",
+    "Answer": "Ana sınıfı açılması ve öğretmen atanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, anaokulu veya ana sınıfı yapımında Adalet Bakanlığı ve Milli Eğitim Bakanlığı hangi tür iş birliğini sağlar?",
+    "A": "Anaokulu veya ana sınıfının yapılması",
+    "B": "Eğitim araç-gereçlerinin temini",
+    "C": "İdari işlemlerin yapılması",
+    "D": "Mali destek sağlanması",
+    "Answer": "Anaokulu veya ana sınıfının yapılması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kapsamındaki mahallinde çözülemeyen sorunlar için hangi adım izlenir?",
+    "A": "İl veya ilçe milli eğitim müdürlüğüne rapor edilir",
+    "B": "Valiliğe başvuru yapılır",
+    "C": "Görev alanı çerçevesinde görüş bildirilir",
+    "D": "Bakanlıktan destek talep edilir",
+    "Answer": "Görev alanı çerçevesinde görüş bildirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, ceza infaz kurumlarında kalmakta olan çocukların okul öncesi eğitime katılabilmeleri için nasıl bir düzenleme yapılır?",
+    "A": "Çocuklar en yakın okula gönderilir",
+    "B": "Çocuklara uzaktan eğitim imkanı verilir",
+    "C": "Eğitim tamamen iptal edilir",
+    "D": "Ceza infaz kurumlarında anaokulu veya ana sınıfı açılır",
+    "Answer": "Ceza infaz kurumlarında anaokulu veya ana sınıfı açılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB Ortaöğretim Genel Müdürlüğü'nün (OGM) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden biridir?",
+    "A": "Ceza infaz kurumlarında açılacak lise veya bağlı şube sınıflarında görev alacak öğretmen, eğitici ve idarecilerin görevlendirilmesini sağlamak",
+    "B": "Örgün ortaöğretim çağındaki hükümlü ve tutuklu çocuklar ile gençler için, ceza infaz kurumlarında müstakil lise veya uygun bir liseye bağlı olarak 9-10-11-12. sınıf şubelerinin açılmasını sağlamak",
+    "C": "Ortaöğretim çağındaki tüm hükümlü ve tutukluların yalnızca uzaktan eğitim ile lise eğitimlerini tamamlamalarını zorunlu hale getirmek",
+    "D": "Ceza infaz kurumlarında lise eğitimi vermek amacıyla yürütme kurulu tarafından belirlenen ceza infaz kurumlarında yeni sınıflar açılmasını sağlamak",
+    "Answer": "Örgün ortaöğretim çağındaki hükümlü ve tutuklu çocuklar ile gençler için, ceza infaz kurumlarında müstakil lise veya uygun bir liseye bağlı olarak 9-10-11-12. sınıf şubelerinin açılmasını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB Personel Genel Müdürlüğü'nün (PGM) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden biridir?",
+    "A": "Ceza infaz kurumlarında açılan eğitim birimlerinde yalnızca gönüllü öğretmenlerin görevlendirilmesini sağlamak",
+    "B": "Ceza infaz kurumlarında eğitim birimlerinde yalnızca uzaktan eğitim materyallerinin kullanılmasını zorunlu kılmak",
+    "C": "MEB personelinin ceza infaz kurumlarında sürekli olarak görev yapmasının önüne geçmek",
+    "D": "Protokolün öngördüğü yürütme kurulu tarafından belirlenen ceza infaz kurumlarında açılacak olan müstakil anaokulu, ana sınıfı, lise, MEM veya bunlara bağlı şube sınıf ve birimlerde görev yapacak yeteri kadar MEB idareci, öğretmen ve personelinin görevlendirilmesi için gereken norm kadro planlamalarını yapmak",
+    "Answer": "Protokolün öngördüğü yürütme kurulu tarafından belirlenen ceza infaz kurumlarında açılacak olan müstakil anaokulu, ana sınıfı, lise, MEM veya bunlara bağlı şube sınıf ve birimlerde görev yapacak yeteri kadar MEB idareci, öğretmen ve personelinin görevlendirilmesi için gereken norm kadro planlamalarını yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB Bilgi İşlem Dairesi Başkanlığı'nın (BİDB) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden biridir?",
+    "A": "MEB iş birliği ile yürütülen eğitim ve öğretim çalışmalarının kurumlarda daha etkin yapılabilmesi için, CİK öğretmenlerinin protokol kapsamında yer alan okulların belirlenen formattaki raporlarına erişim iznini sağlamak",
+    "B": "CİK öğretmenlerinin yalnızca sınırlı sayıda rapora erişimine izin vermek",
+    "C": "CİK öğretmenlerinin eğitim faaliyetlerine erişimini sınırlandırmak",
+    "D": "Protokol kapsamındaki okullarda yapılan çalışmaların sonuçlarını yalnızca idarecilerle paylaşmak",
+    "Answer": "MEB iş birliği ile yürütülen eğitim ve öğretim çalışmalarının kurumlarda daha etkin yapılabilmesi için, CİK öğretmenlerinin protokol kapsamında yer alan okulların belirlenen formattaki raporlarına erişim iznini sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, örgün ortaöğretim çağındaki HIT çocuk ve gençlerden olup CİK bünyesindeki MEM'de herhangi bir nedenle çırak (öğrenci) olamayanlar için hangi sınıf seviyelerinde şube açılması öngörülmektedir?",
+    "A": "5-6-7-8. sınıf",
+    "B": "9-10-11-12. sınıf",
+    "C": "1-2-3-4. sınıf",
+    "D": "6-7-8-9. Sınıf",
+    "Answer": "5-6-7-8. sınıf",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK bünyesindeki lise veya bağlı şubelerde görev alacak personel arasında hangileri yer almaktadır?",
+    "A": "Yalnızca öğretmen",
+    "B": "Yalnızca eğitici",
+    "C": "Yalnızca idareci",
+    "D": "Öğretmen, eğitici ve idareci",
+    "Answer": "Öğretmen, eğitici ve idareci",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB PGM'nin ceza infaz kurumlarında açılacak okullar için gerçekleştirmesi gereken işlem nedir?",
+    "A": "Yeteri kadar idareci, öğretmen ve personelin görevlendirilmesi için norm kadro planlaması yapmak",
+    "B": "Öğrencilerin eğitime yönlendirilmesi",
+    "C": "Sadece öğretmen görevlendirmesi yapmak",
+    "D": "Sadece idareci görevlendirmesi yapmak",
+    "Answer": "Yeteri kadar idareci, öğretmen ve personelin görevlendirilmesi için norm kadro planlaması yapmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB PGM'nin taşra teşkilatlarına hangi konularda talimat vermesi gerekmektedir?",
+    "A": "Öğretmen ve öğrenciler için kırtasiye temini",
+    "B": "Norm kadro planlamaları veya işlemleri yapılması",
+    "C": "Öğrencilerin sınıf geçişlerini onaylamak",
+    "D": "Sadece öğretmenlerin görev yerlerini belirlemek",
+    "Answer": "Norm kadro planlamaları veya işlemleri yapılması",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

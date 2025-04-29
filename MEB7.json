@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, örgün eğitime devam eden tutuklu öğrencilerin tüm sınavları kim tarafından yapılır?",
+    "A": "İlçe Milli Eğitim Müdürlüğü",
+    "B": "Ceza İnfaz Kurumu",
+    "C": "Rehberlik ve Araştırma Merkezi",
+    "D": "İl Milli Eğitim Müdürlüğü",
+    "Answer": "İl Milli Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'teki bir öğrencinin dışarıdaki örgün ortaöğretim okuluna bağlı eğitiminin devamı için ne yapılır?",
+    "A": "Okula nakil yapılır",
+    "B": "Eğitim kesintiye uğrar",
+    "C": "Yeni bir eğitim birimi açılır",
+    "D": "HEM tarafından eğitim verilir",
+    "Answer": "Okula nakil yapılır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, tutuklu öğrencilerin meslek dersleri sınavları mümkünse nerede yapılır?",
+    "A": "İlçe Milli Eğitim Müdürlüğünde",
+    "B": "Rehberlik ve Araştırma Merkezi",
+    "C": "CİK'teki MEM'de",
+    "D": "HEM",
+    "Answer": "CİK'teki MEM'de",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, açık ceza infaz kurumlarında kalan hükümlülerin eğitimi hangi kurum tarafından sağlanır?",
+    "A": "HEM veya MEM",
+    "B": "İl Milli Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu",
+    "D": "Anaokulu",
+    "Answer": "HEM veya MEM",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kapsamında görevlendirilen öğretmen ve diğer personelin ücretleri kim tarafından ödenir?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "İlçe Milli Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu",
+    "D": "MEB",
+    "Answer": "MEB",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, örgün ortaöğretim çağındaki çocuk ve gençler için hangi sınıf seviyelerinde şubeler açılması sağlanmaktadır?",
+    "A": "9-10-11-12. sınıf",
+    "B": "5-6-7-8. sınıf",
+    "C": "1-2-3-4. sınıf",
+    "D": "6-7-8-9. Sınıf",
+    "Answer": "9-10-11-12. sınıf",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, ceza infaz kurumlarında müstakil MEM veya uygun bir MEM'e bağlı eğitim birimlerinin açılması kimin sorumluluğundadır?",
+    "A": "Yürütme kurulu",
+    "B": "Ceza İnfaz Kurumu",
+    "C": "İl Milli Eğitim Müdürlüğü",
+    "D": "HEM",
+    "Answer": "İl Milli Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, lise diploması almak isteyen CİK'teki öğrenciler için hangi programlara erişim sağlanır?",
+    "A": "Teorik eğitim programı",
+    "B": "Lise diplomalarına erişim programı",
+    "C": "Mesleki eğitim programı",
+    "D": "Halk eğitim kursu",
+    "Answer": "Lise diplomalarına erişim programı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK bina ve eklentilerinin okul olarak tanımlanması veya yeni bina inşası için ne yapılır?",
+    "A": "Alt protokoller düzenlenir",
+    "B": "Yeni bir okul yapılır",
+    "C": "CİK kapatılır",
+    "D": "İl Milli Eğitim Müdürlüğü onay verir",
+    "Answer": "Alt protokoller düzenlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, her bir CİK'in eşleştirilmesi gereken eğitim kurumları arasında hangisi yer almaz?",
+    "A": "Anaokulu",
+    "B": "Üniversite",
+    "C": "Lise",
+    "D": "MEM",
+    "Answer": "Üniversite",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK bünyesinde anaokulu veya ana sınıfı kurma yetkisi kimdedir?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "Ceza İnfaz Kurumu",
+    "C": "İlçe Milli Eğitim Müdürlüğü",
+    "D": "HEM",
+    "Answer": "İl Milli Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, AÖO sınavlarında görev alacak salon görevlileri kimlerden seçilir?",
+    "A": "CİK öğretmenleri",
+    "B": "Dışarıdaki öğretmenler",
+    "C": "İl Milli Eğitim Müdürlüğü personeli",
+    "D": "İlçe Milli Eğitim Müdürlüğü personeli",
+    "Answer": "İl Milli Eğitim Müdürlüğü personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, AÖO sınavlarında güvenlik görevlisi olarak kimler görev alır?",
+    "A": "İnfaz ve koruma memurları",
+    "B": "Öğretmenler",
+    "C": "Rehberlik personeli",
+    "D": "İlçe Milli Eğitim personeli",
+    "Answer": "İnfaz ve koruma memurları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'te düzenlenen kurs faaliyetleri kim tarafından sağlanır?",
+    "A": "HEM",
+    "B": "MEM",
+    "C": "İl Milli Eğitim Müdürlüğü",
+    "D": "Ceza İnfaz Kurumu",
+    "Answer": "MEM",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, HEM aracılığıyla CİK'lerde kimler için kurs düzenlenir?",
+    "A": "Hükümlüler",
+    "B": "Öğretmenler",
+    "C": "Ceza infaz memurları",
+    "D": "İl Milli Eğitim personeli",
+    "Answer": "Hükümlüler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, AÖO sınavlarında görev alacak AB personeliyle ilgili iş ve işlemler hangi bölümde açıklanır?",
+    "A": "Diğer Hükümler",
+    "B": "Eğitim ve Öğretim Hükümleri",
+    "C": "Ödeme Hükümleri",
+    "D": "İdari Hükümler",
+    "Answer": "Eğitim ve Öğretim Hükümleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'te bulunan AÖO öğrencilerinin eğitimleriyle ilgili iş ve işlemler kim tarafından yürütülür?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "İlçe Milli Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu",
+    "D": "HEM",
+    "Answer": "Ceza İnfaz Kurumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, AÖO sınavlarında salon görevlisi olarak kimler atanabilir?",
+    "A": "Ceza İnfaz Kurumu öğretmenleri",
+    "B": "HEM öğretmenleri",
+    "C": "Sınav komisyonu öğretmenleri",
+    "D": "İl Milli Eğitim personeli",
+    "Answer": "İl Milli Eğitim personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, tutuklu öğrencilerin sınavları nerede yapılır?",
+    "A": "CİK'te",
+    "B": "İlçe Milli Eğitim Müdürlüğünde",
+    "C": "Okulda",
+    "D": "Üniversitede",
+    "Answer": "CİK'te",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Halk Eğitimi Merkezleri'nin (HEM) yükümlülükleri ile ilgili aşağıdakilerden hangisi doğru değildir?",
+    "A": "Protokol kapsamında açılacak kurslarla ilgili her türlü planlama, uygulama ve organizasyonu mevzuata göre yapmak",
+    "B": "Ceza infaz kurumları, işyurtları ve denetimli serbestlik müdürlüklerinde düzenlenmesi planlanan kurs ve etkinlikleri organize etmek",
+    "C": "Kursiyerlerin e-Yaygın sistemine kaydını yapmak ve kursları başarı ile bitirenlere kurs bitirme belgesi, başarı değerlendirmesi yapılmayan kurslara katılanlara ise katılım belgesi vermek",
+    "D": "Yapılan eğitimlerin belge defterlerini ve modül değerlendirme formlarını saklanması için ceza ve infaz kurumuna göndermek",
+    "Answer": "Yapılan eğitimlerin belge defterlerini ve modül değerlendirme formlarını saklanması için ceza ve infaz kurumuna göndermek",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

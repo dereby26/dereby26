@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB BİDB'nin CİK bünyesinde eğitim çalışmaları yapan öğretmenlere sağlamakla yükümlü olduğu kolaylık nedir?",
+    "A": "Öğrencilere kaynak sağlama",
+    "B": "Ek ders ücreti sağlama",
+    "C": "Yalnızca sınav dönemlerinde izin sağlama",
+    "D": "Protokol kapsamındaki okulların raporlarına erişim izni sağlama",
+    "Answer": "Protokol kapsamındaki okulların raporlarına erişim izni sağlama",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK bünyesindeki MEM'de herhangi bir nedenle çırak (öğrenci) olamayan HIT çocuk ve gençler için müstakil lise veya uygun bir liseye bağlı şubelerin açılması hangi kuruluşa aittir?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "Ceza İnfaz Kurumu Müdürlüğü",
+    "C": "Yürütme kurulu",
+    "D": "Adalet Bakanlığı",
+    "Answer": "İl Milli Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kapsamında ceza infaz kurumlarında hangi seviyelerde eğitim verilmesi öngörülmektedir?",
+    "A": "Yalnızca ilkokul",
+    "B": "Yalnızca ortaokul",
+    "C": "Anaokulu, lise ve meslek eğitim merkezleri",
+    "D": "Üniversite",
+    "Answer": "Anaokulu, lise ve meslek eğitim merkezleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB PGM'nin taşra teşkilatlarına norm kadro planlaması ve görevlendirme işlemleri için talimat vermesi gereken konular hangileridir?",
+    "A": "Sadece öğretmenler",
+    "B": "İdareci, öğretmen ve diğer personel",
+    "C": "Yalnızca eğitici personel",
+    "D": "Öğrenciler",
+    "Answer": "İdareci, öğretmen ve diğer personel",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, yürütme kurulunun ceza infaz kurumlarında eğitimle ilgili yükümlülükleri arasında hangisi yer almaktadır?",
+    "A": "Müstakil lise veya liseye bağlı şubeler açmak",
+    "B": "Yeni ders kitapları hazırlamak",
+    "C": "Üniversite eğitimine başvurmak",
+    "D": "Yalnızca ilkokul seviyesinde eğitim sağlamak",
+    "Answer": "Müstakil lise veya liseye bağlı şubeler açmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokolde belirtilen raporlara öğretmenlerin erişimini sağlamak kimin sorumluluğundadır?",
+    "A": "İl Milli Eğitim Müdürlükleri",
+    "B": "MEB BİDB",
+    "C": "Ceza İnfaz Kurumları",
+    "D": "Adalet Bakanlığı",
+    "Answer": "MEB BİDB",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi bilgi işlem daire başkanlığının yükümlülüklerindendir?",
+    "A": "Örgün ortaöğretim çağındaki HIT çocuk ve gençlerden olup CİK bünyesindeki MEM'de herhangi bir nedenle çırak (öğrenci) olamayanlar için; iş bu Protokolün öngördüğü yürütme kurulu tarafından belirlenen ceza infaz kurumlarında müstakil lise veya uygun bir liseye bağlı olarak ilgili mevzuat hükümleri çerçevesinde 9-10-11-12. sınıf şubelerinin açılmasını sağlamak.",
+    "B": "CİK'lerde yapılacak olan AÖO sınavlarında; sınav merkezi, ceza infaz kurumunun özelliği ve sınava girecek öğrenci kapasitesine uygun olacak şekilde MEB personelinden sınav görevlisi atamak sınavların usul ve esaslara uygun olarak gerçekleştirilmesini sağlamak.",
+    "C": "MEB iş birliği ile yürütülen eğitim ve öğretim çalışmalarının kurumlarda daha etkin olarak yapılabilmesi için; CİK öğretmenlerin protokol kapsamında yer alan okulların belirlenen formattaki raporlarına erişimi için izin vermek.",
+    "D": "Düzenlenecek kurslarda e-Yaygın sistemindeki yaygın eğitim kurs programlarının kullanılmasını ve CİK'lerde uygulanabilecek şekilde güncellenmesini sağlamak.",
+    "Answer": "MEB iş birliği ile yürütülen eğitim ve öğretim çalışmalarının kurumlarda daha etkin olarak yapılabilmesi için; CİK öğretmenlerin protokol kapsamında yer alan okulların belirlenen formattaki raporlarına erişimi için izin vermek.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi milli eğitim müdürlüğü yükümlülükleri için söylenemez?",
+    "A": "Öğrencinin durumunun gizliliğinin korunması ve güvenlik gibi nedenlerden dolayı örgün eğitime devam ederken tutuklanan öğrencilerin tüm sınavlarının CİK'in bağlı bulunduğu il/ilçedeki milli eğitim müdürlüğü tarafından bir sınav komisyonu oluşturularak CİK'te gerçekleştirilmesini sağlamak",
+    "B": "Örgün ortaöğretim çağındaki H/T çocuk ve gençler için bu Protokolün öngördüğü yürütme kurulu tarafindan belirlenen ceza infaz kurumlarında müstakil lise veya CİK dışında yer alan liselere bağlı olarak 9-10-11-12. sınıf şubelerinin açılmasını sağlamak,",
+    "C": "Örgün eğitim kapsamındayken tutuklananlar ile hakkındaki hüküm kesinleştiği içn CİK'e alınanların; teorik derslere ait sınavlarının CİK'lerde, uygulamalı meslek derslerine ait sınavlarının mümkün olması halinde CİK'te, mümkün olmaması halinde ise ilgili mevzuatına uygun olmak şartıyla milli eğitim müdürlüklerince belirlenecek kurumlarda yapılmasını sağlamak",
+    "D": "Protokol kapsamında yapılacak eğitim ve öğretim faaliyetlerinde iki ya da daha fazla ilçeyi kapsayanların ilçe milli eğitim müdürlüğünce; yalnızca bir ilçeyi kapsayanların ise il milli eğitim müdürlüğünce ilgili mevzuata göre yürütülmesi ve denetlenmesini sağlamak,",
+    "Answer": "Protokol kapsamında yapılacak eğitim ve öğretim faaliyetlerinde iki ya da daha fazla ilçeyi kapsayanların ilçe milli eğitim müdürlüğünce; yalnızca bir ilçeyi kapsayanların ise il milli eğitim müdürlüğünce ilgili mevzuata göre yürütülmesi ve denetlenmesini sağlamak,",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB İl/İlçe Milli Eğitim Müdürlükleri'nin yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Protokol kapsamında yapılacak eğitim ve öğretim faaliyetlerinde iki ya da daha fazla ilçeyi kapsayanların il milli eğitim müdürlüğünce, yalnızca bir ilçeyi kapsayanların ise ilçe milli eğitim müdürlüğünce yürütülmesi ve denetlenmesini sağlamak",
+    "B": "Ceza infaz kurumlarında bulunan açık öğretim okulu (AÖO) öğrencilerinin eğitim ve öğretim işlemlerinin yürütülmesini sağlamak",
+    "C": "Örgün eğitim kapsamındayken tutuklananlar ile hakkındaki hüküm kesinleştiği için CİK'e alınanların; teorik derslere ait sınavlarının CİK'lerde, uygulamalı meslek derslerine ait sınavlarının mümkün olması halinde CİK'te, mümkün olmaması halinde ise ilgili mevzuatına uygun olmak şartıyla milli eğitim müdürlüklerince belirlenecek kurumlarda yapılmasını sağlamak,",
+    "D": "Adli merciler tarafından hakkında denetimli serbestlik kapsamında \"eğitim kurumuna veya programına devam etme\" kararı verilen yükümlünün, yükümlülüklerine uyma durumunun takibi, gösterdiği gelişmenin etkili biçimde izlenmesi ve gerekli görülmüş olması halinde rehberlik görevinin yerine getirilmesi için okulda görevli rehberlik öğretmeninin, bulunmaması halinde ise ceza ve infaz kurumundan kurum öğretmeninin görevlendirilmesini sağlamak.",
+    "Answer": "Adli merciler tarafından hakkında denetimli serbestlik kapsamında \"eğitim kurumuna veya programına devam etme\" kararı verilen yükümlünün, yükümlülüklerine uyma durumunun takibi, gösterdiği gelişmenin etkili biçimde izlenmesi ve gerekli görülmüş olması halinde rehberlik görevinin yerine getirilmesi için okulda görevli rehberlik öğretmeninin, bulunmaması halinde ise ceza ve infaz kurumundan kurum öğretmeninin görevlendirilmesini sağlamak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, adli merciler tarafından hakkında denetimli serbestlik kapsamında 'eğitim kurumuna veya programına devam etme' kararı verilen yükümlünün, yükümlülüklerine uyma durumunun takibi, gösterdiği gelişmenin etkili biçimde izlenmesi ve gerekli görülmüş olması halinde rehberlik görevinin yerine getirilmesi için okulda görevli rehberlik öğretmeninin, bulunmaması halinde ise Rehberlik ve Araştırma Merkezinden bir rehberlik öğretmeninin görevlendirilmesi aşağıdaki hangi kurum görevlidir?",
+    "A": "Rehberlik ve Araştırma Merkezi",
+    "B": "Millî Eğitim Bakanlığı İl/İlçe Millî Eğitim Müdürlüğü",
+    "C": "Okul Yönetimi",
+    "D": "Ceza İnfaz Kurumu Müdürlüğü",
+    "Answer": "Millî Eğitim Bakanlığı İl/İlçe Millî Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB İl/İlçe Milli Eğitim Müdürlükleri'nin yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Öğrencinin durumunun gizliliğinin korunması ve güvenlik gibi nedenlerden dolayı örgün eğitime devam ederken tutuklanan öğrencilerin tüm sınavlarının CİK'in bağlı bulunduğu il/ilçedeki milli eğitim müdürlüğü tarafından bir sınav komisyonu oluşturularak CİK'te gerçekleştirilmesini sağlamak,",
+    "B": "Tutuklama ya da hakkındaki kesin hükmün infazı için CİK'e kabulü yapılan ve dışarıda örgün bir ortaöğretim kurumunun öğrencisi olan kişinin, CİK içerisinde durumuna uygun açık ortaokul, lise, MEM veya bunlara bağlı birim yahut şube/sınıf bulunmakta ise bu okula naklini ve eğitim ve öğretim hayatının kesintisiz devamını sağlamak,",
+    "C": "Örgün ve yaygın mesleki ortaöğretim kurumları öğrencilerinden tutuklu veya hükümlü olarak CİK'lerde bulunanların uygulamalı meslek dersleri sınavlarının; mümkün olması halinde CİK'te bulunan MEM'de, mümkün olmaması halinde yüz yüze eğitim gördükleri eğitim kurumlarında, teorik sınavların ise CİK'te yapılmasını sağlamak,",
+    "D": "Açık CİK'lerde kalan hükümlülerin eğitimlerinin HEM/MEM'ler tarafından üniversitelerin bu iş için ayrılan bölümlerinde de eğitim verilmesini sağlamak,",
+    "Answer": "Açık CİK'lerde kalan hükümlülerin eğitimlerinin HEM/MEM'ler tarafından üniversitelerin bu iş için ayrılan bölümlerinde de eğitim verilmesini sağlamak,",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB İl/İlçe Milli Eğitim Müdürlükleri'nin yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Protokol kapsamında düzenlenecek eğitim-öğretim, kurs ve sınav faaliyetlerinde görev alacak MEB öğretmenleri ve diğer personelin ücretlerinin ilgili mevzuata göre ilgili kurumun ödemesini sağlamak",
+    "B": "Ortaöğretim çağındaki hükümlü ve tutuklu çocuklar için belirlenen ceza infaz kurumlarında, müstakil lise veya ceza infaz kurumu dışında yer alan bir liseye bağlı olarak 9-10-11-12. sınıf şubelerinin açılmasını sağlamak",
+    "C": "Belirlenen ceza infaz kurumlarında müstakil bir mesleki eğitim merkezi (MEM) veya uygun bir MEM'e bağlı eğitim birimleri oluşturulmasını sağlamak",
+    "D": "CİK bünyesinde kurulacak MEM veya MEM'e bağlı eğitim birimindeki öğrencileri talep etmeleri halinde lise diplomalarına erişimi programlarına dahil etmek",
+    "Answer": "Ortaöğretim çağındaki hükümlü ve tutuklu çocuklar için belirlenen ceza infaz kurumlarında, müstakil lise veya ceza infaz kurumu dışında yer alan bir liseye bağlı olarak 9-10-11-12. sınıf şubelerinin açılmasını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB İl/İlçe Milli Eğitim Müdürlükleri'nin yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Ceza infaz kurumu (CİK) bina ve eklentilerinin \"okul olarak\" tanımlanması ya da yeni bina ve eklentilerin inşasının gerektiği durumlarda, ilgili CİK ile uygulama ve işletme detaylarına ilişkin alt protokoller yapmak",
+    "B": "Görev sahasındaki her bir ceza infaz kurumunu (CİK) en yakın ve fiziken yeterli bir anaokulu, ana sınıfı, lise ve mesleki eğitim merkezi (MEM) ile eşleştirmek ve bunu CİK'e bildirmek",
+    "C": "CİK bünyesinde anaokulu veya ana sınıfı kurmak",
+    "D": "CİK'lerde yapılacak sınavlarda yalnızca dış güvenlik personelinin görev yapmasını sağlamak",
+    "Answer": "CİK'lerde yapılacak sınavlarda yalnızca dış güvenlik personelinin görev yapmasını sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB İl/İlçe Milli Eğitim Müdürlükleri'nin yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamındadır?",
+    "A": "AÖO sınavlarında görev alacak Adalet Bakanlığı (AB) personeline ilişkin iş ve işlemleri, protokolün \"Diğer Hükümler\" bölümündeki Madde 20'ye uygun olarak tesis etmek",
+    "B": "AÖO sınavlarında görev alacak Adalet Bakanlığı (AB) personelini yalnızca sınav günleri için geçici olarak görevlendirmek",
+    "C": "AÖO sınavlarında yalnızca MEB personelinin görev almasını sağlamak",
+    "D": "AÖO sınavlarına katılan öğrencilere sınav boyunca herhangi bir güvenlik görevlisinin bulunmamasını sağlamak",
+    "Answer": "AÖO sınavlarında görev alacak Adalet Bakanlığı (AB) personeline ilişkin iş ve işlemleri, protokolün \"Diğer Hükümler\" bölümündeki Madde 20'ye uygun olarak tesis etmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, birden fazla ilçeyi kapsayan eğitim ve öğretim faaliyetleri hangi kurum tarafından yürütülmektedir?",
+    "A": "İlçe Milli Eğitim Müdürlüğü",
+    "B": "Adalet Bakanlığı",
+    "C": "Ceza İnfaz Kurumu",
+    "D": "İl Milli Eğitim Müdürlüğü",
+    "Answer": "İl Milli Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, yalnızca bir ilçeyi kapsayan eğitim ve öğretim faaliyetleri hangi kurum tarafından yürütülür?",
+    "A": "İlçe Milli Eğitim Müdürlüğü",
+    "B": "İl Milli Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu",
+    "D": "HEM",
+    "Answer": "İlçe Milli Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'lerdeki AÖO öğrencilerinin eğitim ve öğretimleriyle ilgili iş ve işlemleri kim yürütür?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "İlçe Milli Eğitim Müdürlüğü",
+    "C": "Ceza İnfaz Kurumu",
+    "D": "HEM",
+    "Answer": "İlçe Milli Eğitim Müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK'e alınan tutuklu ve hükümlü öğrencilerin teorik ders sınavları nerede yapılır?",
+    "A": "Dışarıda bir okulda",
+    "B": "İl Milli Eğitim Müdürlüğünde",
+    "C": "CİK'te",
+    "D": "Rehberlik ve Araştırma Merkezinde",
+    "Answer": "CİK'te",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, uygulamalı meslek dersleri sınavları mümkünse nerede yapılır?",
+    "A": "İl Milli Eğitim Müdürlüğünde",
+    "B": "CİK'te",
+    "C": "HEM'de",
+    "D": "Dışarıda bir okulda",
+    "Answer": "CİK'te",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, denetimli serbestlik kararı verilen yükümlünün eğitim programına devamını kim izler?",
+    "A": "Okulda görevli rehberlik öğretmeni",
+    "B": "Ceza İnfaz Kurumu",
+    "C": "İl Milli Eğitim Müdürlüğü",
+    "D": "HEM",
+    "Answer": "Okulda görevli rehberlik öğretmeni",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

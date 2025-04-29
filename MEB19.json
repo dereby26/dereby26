@@ -1,0 +1,72 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, hangi tarafların yazılı bildirimiyle protokol tek taraflı feshedilebilir?",
+    "A": "Merkez Yürütme Kurulu",
+    "B": "Her iki tarafın",
+    "C": "İl milli eğitim müdürlükleri",
+    "D": "Sadece Adalet Bakanlığı",
+    "Answer": "Her iki tarafın",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, yürütme kurulu toplantılarının tutanakları kimlere gönderilir?",
+    "A": "Katılımcılar ve Yürütme Kurulu üyelerine",
+    "B": "Genel müdürlükler ve İYK’ye",
+    "C": "Sadece Cumhuriyet Başsavcısına",
+    "D": "MEB merkez birimlerine",
+    "Answer": "Katılımcılar ve Yürütme Kurulu üyelerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, taşra yürütme kurulu toplantısı ne kadar sürede bir yapılır?",
+    "A": "Üç ayda bir",
+    "B": "Altı ayda bir",
+    "C": "Yılda bir kez",
+    "D": "İki yılda bir",
+    "Answer": "Yılda bir kez",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokolün 28. maddesine göre çözümü sağlanamayan hususlar nasıl çözülür?",
+    "A": "Mahkeme aracılığıyla",
+    "B": "Üçüncü bir kurum aracılığıyla",
+    "C": "İyi niyet ve karşılıklı anlayışla",
+    "D": "Resmi arabuluculuk yoluyla",
+    "Answer": "Üçüncü bir kurum aracılığıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokol kimlere bildirilmelidir?",
+    "A": "Sadece il milli eğitim müdürlüklerine",
+    "B": "Tüm eğitim kurumlarına",
+    "C": "İl ve ilçe milli eğitim müdürlüklerine",
+    "D": "Sadece AB yetkililerine",
+    "Answer": "İl ve ilçe milli eğitim müdürlüklerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, çalışmalar ile ilgili çözülemeyen sorunlar için hangi durumda görüş bildirilebilir?",
+    "A": "Görev alanı dışında bir durum olduğunda",
+    "B": "Görev alanı çerçevesinde çözülemediğinde",
+    "C": "İl/ilçe milli eğitim müdürlüklerinden istenildiğinde",
+    "D": "Tüm durumlarda",
+    "Answer": "Görev alanı çerçevesinde çözülemediğinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Çocuklar İçin Özel Gereksinim Raporu (ÇÖZGER) hangi amaçla düzenlenir?",
+    "A": "Tıbbi tedavi için",
+    "B": "Fiziksel aktivite için",
+    "C": "Psikolojik destek için",
+    "D": "Eğitsel değerlendirme ve tanılama amacıyla",
+    "Answer": "Eğitsel değerlendirme ve tanılama amacıyla",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

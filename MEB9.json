@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitim programları bitiminde sınavlarda neye dayalı ölçme yapılır?",
+    "A": "Yazılı ve beceriye dayalı ölçme",
+    "B": "Sözlü ölçme",
+    "C": "Çevrimiçi sınav",
+    "D": "Açık uçlu sınav",
+    "Answer": "Yazılı ve beceriye dayalı ölçme",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitim faaliyetlerinde izleme ve rehberlik görevini kim üstlenir?",
+    "A": "Ceza İnfaz Kurumu",
+    "B": "Halk Eğitim Merkezi",
+    "C": "İl/ilçe milli eğitim müdürlükleri",
+    "D": "MEB",
+    "Answer": "İl/ilçe milli eğitim müdürlükleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, okuryazarlık kursları üzerinden belge alan yetişkinlere hangi sistem aracılığıyla belgeleri düzenlenir?",
+    "A": "e-Yaygın",
+    "B": "e-Kurum",
+    "C": "MEBBİS",
+    "D": "e-Devlet",
+    "Answer": "e-Yaygın",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, eğitici talepleri ve ödeme işlerini kim üstlenir?",
+    "A": "İl/ilçe milli eğitim müdürlükleri",
+    "B": "Ceza İnfaz Kurumu",
+    "C": "Halk Eğitim Merkezi",
+    "D": "MEB",
+    "Answer": "MEB",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, yükümlülerin eğitim belgelerinin düzenlenmesinden sonra hangi belge sağlanabilir?",
+    "A": "Kurs bitirme belgesi",
+    "B": "Yükseköğretim diploması",
+    "C": "Sadece katılım belgesi",
+    "D": "Onur belgesi",
+    "Answer": "Kurs bitirme belgesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, AÖO sınavlarının salon görevlileri kimler arasından seçilir?",
+    "A": "Ceza İnfaz Kurumu öğretmenleri",
+    "B": "İl/ilçe milli eğitim müdürlüğü personeli",
+    "C": "Halk Eğitim Merkezi öğretmenleri",
+    "D": "Rehberlik ve Araştırma Merkezi öğretmenleri",
+    "Answer": "İl/ilçe milli eğitim müdürlüğü personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB birimlerinin ortak yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "AÖO'lara ait yeni kayıt, kayıt yenileme, sınav, eğitim materyali ve diploma işlemlerini ilgili mevzuat çerçevesinde yürütmek",
+    "B": "Yetişkinlere yönelik okuryazarlık kurslarını e-Yaygın sistemi üzerinden ilgili mevzuat çerçevesinde açarak gerekli eğitim materyalini sağlamak ve başarılı olanların belgelerini düzenlemek,",
+    "C": "Tutuklu, hükümlü, denetimli serbestlik altında bulunan yükümlü ve koruma kurullarınca yönlendirilen eski hükümlüler ile CTEGM personeli için düzenlenen belgelerin kabulünü müteakip, kurs bitirme belgesi ve çalıştığı iş koluna ait çıraklık, kalfalık ve ustalık belgelerini alabilmeleri hususunda gerekli işlemleri yürütmek",
+    "D": "HEM'in görev bölgelerinde bulunan CİK'lere gelen tutuklu ve hükümlülerden AÖO sınavlarına katılacak olanlara ait güncel bilgileri CTEGM’ye bildirilmesini sağlamak",
+    "Answer": "HEM'in görev bölgelerinde bulunan CİK'lere gelen tutuklu ve hükümlülerden AÖO sınavlarına katılacak olanlara ait güncel bilgileri CTEGM’ye bildirilmesini sağlamak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, MEB birimlerinin ortak yükümlülükleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Denetimli serbestlik müdürlüğü (DSM) tarafından eğitim, öğretim, kurs ve sosyal etkinliklere yönlendirilen yükümlülerin ifşa olmamaları ve dışlanmamaları için durumlarının kurum yetkilisi ve/veya program yöneticisi dışında diğer çalışanlar ve kişilerle paylaşılmaması yönünde önlemler almak",
+    "B": "Eğitim programlarına katılan yükümlülerin durumlarını tüm çalışanlara bildirmek",
+    "C": "Yükümlülerin eğitim ve sosyal etkinliklere yalnızca gözetim altında katılmalarını sağlamak",
+    "D": "Yükümlülerin katıldığı eğitim programlarının tüm detaylarını tüm katılımcılara açık hale getirmek",
+    "Answer": "Denetimli serbestlik müdürlüğü (DSM) tarafından eğitim, öğretim, kurs ve sosyal etkinliklere yönlendirilen yükümlülerin ifşa olmamaları ve dışlanmamaları için durumlarının kurum yetkilisi ve/veya program yöneticisi dışında diğer çalışanlar ve kişilerle paylaşılmaması yönünde önlemler almak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi Ceza ve Tevkifevleri Genel Müdürlüğü'nün (CTEGM) yükümlülüklerinden biri değildir?",
+    "A": "Mesleki ve Teknik Eğitim Genel Müdürlüğü'ne (MTEGM) bağlı okul/kurumlarda eğitim gören Adalet alanı öğretmen ve öğrencilerinin UYAP sisteminin kullanılması ve diğer konularda destek sağlamak için gerekli iş ve işlemlerin yapılmasını sağlamak,",
+    "B": "Sınav otomasyon sisteminin onaylandığı tarihten sonra, ceza infaz kurumlarına (CİK) gelen hükümlü/tutukluların (H/T) yedek salonda sınava alınabilmesi için Millî Eğitim Bakanlığı'na (MEB) yedek listeleri bildirmek,",
+    "C": "Yapılacak eğitim faaliyetlerinde kullanılacak temrinlik malzeme desteği sağlamak,",
+    "D": "Hükümlü ve tutuklulardan (H/T), Mesleki Eğitim Merkezi Programı (MEMP) kapsamında kalfalık, ustalık ve usta öğreticilik eğitimi alacakların eğitim alanları, atölye, teçhizat vB) koşulları sağlamak.",
+    "Answer": "Hükümlü ve tutuklulardan (H/T), Mesleki Eğitim Merkezi Programı (MEMP) kapsamında kalfalık, ustalık ve usta öğreticilik eğitimi alacakların eğitim alanları, atölye, teçhizat vB) koşulları sağlamak.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza ve Tevkifevleri Genel Müdürlüğü'nün (CTEGM) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Protokol'ün uygulanmasına yönelik olarak ilgili ceza infaz kurumlarına (CİK) ve denetimli serbestlik müdürlüklerine (DSM) gerekli duyuruları yapmak",
+    "B": "Protokol'ün Milli Eğitim Bakanlığı'na bağlı kurumlar ve İşyurtları Kurumu (İYK) ile iş birliği halinde yürütülmesini sağlamak",
+    "C": "Eğitim ve iyileştirme Dairesi Başkanlığı bünyesinde müstakil bir şube müdürlüğü kurarak, protokol kapsamında yürütülen faaliyetlerle ilgili uygulama raporlarını yılda en az iki kez MEB'e göndermek",
+    "D": "CİK’lerin ve DSM'lerin kurumsal özellikleri, tutuklu, hükümlü, yükümlü ile eski hükümlülerin ilgi ve ihtiyaçları, infaz rejimlere gibi hususlar uyarınca kurumlarda faydalılığı ve uygulanabilirliği değerlendirilen eğitim ve öğretim programları ile modüllerini MEB' in ilgili genel müdürlüklerine ve bu Protokolün yürütme kuruluna teklif etmek, CİK ve DSM'ler ile MEB genel müdürlükleri arasında talep ve yazışmalara aracılık etmek",
+    "Answer": "Eğitim ve iyileştirme Dairesi Başkanlığı bünyesinde müstakil bir şube müdürlüğü kurarak, protokol kapsamında yürütülen faaliyetlerle ilgili uygulama raporlarını yılda en az iki kez MEB'e göndermek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM), ceza infaz kurumlarındaki Açıköğretim Okulu öğrencilerinin, sınav merkezi olmayan ilçelerde sayılarının en az kaç kişi olması durumunda sınav merkezi olan en yakın ceza infaz kurumuna sevkini gerçekleştirir?",
+    "A": "Üç",
+    "B": "Dört",
+    "C": "İki",
+    "D": "Beş",
+    "Answer": "Beş",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza ve Tevkifevleri Genel Müdürlüğü'nün (CTEGM) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "MEB'e bağlı sınav merkezi olmayan ilçelerde, öğrenci sayısının üçten az olduğu ceza infaz kurumlarındaki açık öğretim okulu öğrencilerinin, sınav merkezi olan en yakın ceza infaz kurumuna sevkini gerçekleştirmek",
+    "B": "Hükümlü ve tutuklulardan, mesleki eğitim programı kapsamında kalfalık, ustalık ve usta öğreticilik eğitimi alacakların eğitim alanları, atölye, teçhizat vB) koşulları İYK ile işbirliği yaparak sağlamak, bunun dışındaki örgün ve yaygın eğitim kurs programları için kurumlarda uygun yer, derslik vB) ortamları hazırlamak, tahsis etmek.",
+    "C": "MTEGM'ye bağlı okullarda eğitim gören Adalet alanı öğretmen ve öğrencilerinin UYAP sistemini kullanmaları için gerekli desteği sağlamak",
+    "D": "CİK' ler tarafından sınavlar konusunda adaylarla ilgili 'Sınav Otomasyon Sistemi' üzerinden yürütülen iş ve işlemleri takip etmek,",
+    "Answer": "MEB'e bağlı sınav merkezi olmayan ilçelerde, öğrenci sayısının üçten az olduğu ceza infaz kurumlarındaki açık öğretim okulu öğrencilerinin, sınav merkezi olan en yakın ceza infaz kurumuna sevkini gerçekleştirmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Ceza ve Tevkifevleri Genel Müdürlüğü'nün (CTEGM) yükümlülükleri ile ilgili aşağıdakilerden hangisi protokol kapsamında değildir?",
+    "A": "Sınav otomasyon sisteminin onaylandığı tarihten sonra, ceza infaz kurumlarına gelen hükümlü ve tutukluların yedek salonda sınava alınabilmesi için Milli Eğitim Bakanlığı'na yedek listeleri bildirmek",
+    "B": "Yapılacak eğitim faaliyetlerinde kullanılacak temrinlik malzeme desteği sağlamak",
+    "C": "Ceza infaz kurumlarında yapılacak açık öğretim sınavlarında görev alan Adalet Bakanlığı ve Milli Eğitim Bakanlığı sınav görevlilerinin sınavları usul ve esaslara uygun olarak gerçekleştirebilmesi için gerekli güvenlik tedbirlerini almak",
+    "D": "\"MEB görevlileriyle uyumlu bir şekilde çalışarak, bu görevleri sınav komisyonunda görevlendirme sürecine entegre etmek.",
+    "Answer": "\"MEB görevlileriyle uyumlu bir şekilde çalışarak, bu görevleri sınav komisyonunda görevlendirme sürecine entegre etmek.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Millî Eğitim Bakanlığı arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi Adalet Bakanlığı Ceza ve Tevkifevleri Genel Müdürlüğü’nün (AB CTEGM) yükümlülüklerinden biridir?",
+    "A": "Adli merciler tarafından denetimli serbestlik kapsamında hakkında \"eğitim kurumuna veya programına devam etme\" kararı verilen ya da Denetimli Serbestlik Müdürlüğü (DSM) tarafından denetim planı ile hakkında \"MEB'e bağlı birimler tarafından açılan kurslara katılma\" yükümlülüğü belirlenen yükümlünün, bu yükümlülüklere uymaması halinde durumunun ilgili ceza infaz kurumu (CİK) veya DSM'ye bildirilmesini sağlamak,",
+    "B": "Kursiyerlerin e-Yaygın sistemine kaydını yapmak, kursları başarı ile bitiren kursiyerlere kurs bitirme belgelerini, başarı değerlendirmesi yapılmayan kurslara katılanlara ise katılım belgelerini vermek,",
+    "C": "Tutuklu, hükümlü, denetimli serbestlik altında bulunan yükümlü ve koruma kurulları tarafından yönlendirilen eski hükümlüler ile CTEGM personeli için düzenlenen belgelerin kabulünü müteakip, kurs bitirme belgesi ve çalıştığı iş koluna ait çıraklık, kalfalık ve ustalık belgelerini alabilmeleri hususunda gerekli işlemleri yürütmek,",
+    "D": "Sınav otomasyon sisteminin onaylandığı tarihten sonra, ceza infaz kurumlarına (CİK) gelen hükümlü/tutukluların (H/T) yedek salonda sınava alınabilmesi için Millî Eğitim Bakanlığı'na (MEB) yedek listeleri bildirmek.",
+    "Answer": "Kursiyerlerin e-Yaygın sistemine kaydını yapmak, kursları başarı ile bitiren kursiyerlere kurs bitirme belgelerini, başarı değerlendirmesi yapılmayan kurslara katılanlara ise katılım belgelerini vermek,",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, protokolün uygulanmasına yönelik duyurular hangi kurumlara yapılır?",
+    "A": "İl Milli Eğitim Müdürlükleri",
+    "B": "Halk Eğitim Merkezleri",
+    "C": "Rehberlik ve Araştırma Merkezleri",
+    "D": "Ceza İnfaz Kurumları (CİK) ve Denetimli Serbestlik Müdürlükleri (DSM)",
+    "Answer": "Ceza İnfaz Kurumları (CİK) ve Denetimli Serbestlik Müdürlükleri (DSM)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Protokol'ün MEB'e bağlı kurumlarla iş birliği içinde yürütülmesini sağlama sorumluluğu hangi kurumlara aittir?",
+    "A": "İYK ve MEB'e bağlı kurumlar",
+    "B": "İl Milli Eğitim Müdürlükleri",
+    "C": "Adalet Bakanlığı",
+    "D": "Ceza İnfaz Kurumları",
+    "Answer": "İYK ve MEB'e bağlı kurumlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, Protokol kapsamında uygulama raporlarını hazırlayarak MEB'e göndermek için hangi yapı oluşturulmalıdır?",
+    "A": "İlçe Milli Eğitim Müdürlüğü",
+    "B": "Müstakil bir şube müdürlüğü",
+    "C": "Rehberlik ve Araştırma Merkezi",
+    "D": "Ceza İnfaz Kurumu Yönetimi",
+    "Answer": "Müstakil bir şube müdürlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK ve DSM'lerde faydalılığı değerlendirilen eğitim programları hangi kuruma teklif edilir?",
+    "A": "MEB'in ilgili genel müdürlüklerine",
+    "B": "Ceza İnfaz Kurumu Yönetimine",
+    "C": "Halk Eğitim Merkezine",
+    "D": "Adalet Bakanlığı",
+    "Answer": "MEB'in ilgili genel müdürlüklerine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, CİK ve DSM'ler ile MEB genel müdürlükleri arasındaki yazışmalar kim aracılığıyla gerçekleştirilir?",
+    "A": "İl Milli Eğitim Müdürlüğü",
+    "B": "Yürütme Kurulu",
+    "C": "Adalet Bakanlığı",
+    "D": "Rehberlik ve Araştırma Merkezi",
+    "Answer": "Yürütme Kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Milli Eğitim Bakanlığı Arasında yapılan Eğitim-Öğretim İş Birliği Protokolü’ne göre, ÇÖZGER raporuna ek olarak kimler için Engelli Sağlık Kurulu Raporu alınabilir?",
+    "A": "Sadece çocuklar için",
+    "B": "Yalnızca tutuklular için",
+    "C": "Erişkinler ve özel eğitim ihtiyacı olan bireyler için",
+    "D": "Sadece yükümlüler için",
+    "Answer": "Erişkinler ve özel eğitim ihtiyacı olan bireyler için",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
