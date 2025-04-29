@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, BIS sisteminde salonların bilgisi dışında aşağıdaki bilgilerden hangisi yer alır?",
+    "A": "Öğrencilerin ders notları",
+    "B": "Kurumdaki görevli personelin sisteme tanımlanması",
+    "C": "Tutukluların disiplin durumları",
+    "D": "Fakülte ders içerikleri",
+    "Answer": "Kurumdaki görevli personelin sisteme tanımlanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, sınav salonlarının belirlenmesi hangi sistem üzerinden yapılır?",
+    "A": "CTEGM Raporlama Sistemi",
+    "B": "Açıköğretim Kayıt Portalı",
+    "C": "Öğrenci Yönetim Sistemi (ÖYS)",
+    "D": "Bina İşlemleri Sistemi (BİS)",
+    "Answer": "Bina İşlemleri Sistemi (BİS)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, öğretmen bulunmayan kurumlarda BIS işlemleri kim tarafından yürütülür?",
+    "A": "Üniversite temsilcisi",
+    "B": "Kurum müdürü",
+    "C": "CTEGM’nin yetkilendirdiği başka bir personel",
+    "D": "Ceza infaz kurumu yazı işleri memuru",
+    "Answer": "CTEGM’nin yetkilendirdiği başka bir personel",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, sınav dönemlerinde aday bilgileri ve sınav salonları hangi kurum tarafından sisteme girilmektedir?",
+    "A": "CTEGM merkez birimi",
+    "B": "İlgili ceza infaz kurumu",
+    "C": "Anadolu Üniversitesi",
+    "D": "Yükseköğretim Kurulu",
+    "Answer": "İlgili ceza infaz kurumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, CTEGM'nin görevlerinden biri aşağıdakilerden hangisidir?",
+    "A": "Açıköğretim ders içeriklerini hazırlamak",
+    "B": "Sınav gözetmenlerini görevlendirmek",
+    "C": "Öğrencilerin diploma taleplerini karşılamak",
+    "D": "Başvuru ve sınav merkezi olan kurumların listesini Anadolu Üniversitesi Rektörlüğüne bildirmek",
+    "Answer": "Başvuru ve sınav merkezi olan kurumların listesini Anadolu Üniversitesi Rektörlüğüne bildirmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, CTEGM sınav yönetim sistemi temsilcisini belirledikten sonra bu bilgiyi hangi kuruma bildirmelidir?",
+    "A": "Milli Eğitim Bakanlığı",
+    "B": "Cezaevi yönetimi",
+    "C": "Anadolu Üniversitesi Rektörlüğü",
+    "D": "Yükseköğretim Kurulu",
+    "Answer": "Anadolu Üniversitesi Rektörlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, kurumlarda BIS yetkilisi olarak görevlendirilecek kişi nasıl belirlenir?",
+    "A": "Üniversite tarafından doğrudan atanır",
+    "B": "Kurumdaki en kıdemli infaz koruma memuru olur",
+    "C": "İl milli eğitim müdürlüğü tarafından atanır",
+    "D": "Öğretmen varsa öğretmen, yoksa kurum amirinin belirlediği personel olarak CTEGM’ye bildirilir",
+    "Answer": "Öğretmen varsa öğretmen, yoksa kurum amirinin belirlediği personel olarak CTEGM’ye bildirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, kurumlar kayıt ve diploma işlemleri için ne yapmakla yükümlüdür?",
+    "A": "İşlemleri üniversiteye yönlendirmek",
+    "B": "Bu işlemler için yetkilendirilmiş personel görevlendirmek",
+    "C": "Tüm işlemleri yalnızca elden yürütmek",
+    "D": "İnternet erişimi sağlamak",
+    "Answer": "Bu işlemler için yetkilendirilmiş personel görevlendirmek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, kurumların sınav öncesinde görevlendirilmesi gereken salon başkanı ve bina güvenlik görevlisi kimlerden seçilir?",
+    "A": "Gönüllü tutuklular",
+    "B": "Üniversite öğretim üyeleri",
+    "C": "Kurum öğretmenleri ile infaz ve koruma personeli",
+    "D": "İlçe milli eğitim görevlileri",
+    "Answer": "Kurum öğretmenleri ile infaz ve koruma personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, sınav güvenliği kimin sorumluluğundadır?",
+    "A": "İlgili ceza infaz kurumu",
+    "B": "Üniversite güvenlik birimi",
+    "C": "İl Emniyet Müdürlüğü",
+    "D": "Sınav görevlileri",
+    "Answer": "İlgili ceza infaz kurumu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, başka kuruma nakli kesinleşen tutuklu veya hükümlülerin bilgileri nereye bildirilmelidir?",
+    "A": "Anadolu Üniversitesi Açıköğretim Fakültesi'ne",
+    "B": "CTEGM Sınav Komisyonu’na",
+    "C": "Nakil olacağı kurumun BIS yetkilisine",
+    "D": "Milli Eğitim Bakanlığı’na",
+    "Answer": "Nakil olacağı kurumun BIS yetkilisine",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, Anadolu Üniversitesi Rektörlüğü, hangi sistemlerin ihtiyaçlara uygun şekilde çalışmasını sağlamakla yükümlüdür?",
+    "A": "YÖKAS ve ÖSYM sistemi",
+    "B": "BIS ve CTE Sınav Yönetim Sistemi",
+    "C": "ÖBS ve E-devlet sistemi",
+    "D": "ALES ve KPSS modülü",
+    "Answer": "BIS ve CTE Sınav Yönetim Sistemi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, tutuklu ve hükümlülerin online ders materyallerine erişimi nasıl sağlanır?",
+    "A": "Elden dağıtımla",
+    "B": "Kitap kargosu ile",
+    "C": "Üniversite web sayfası üzerinden genel erişimle",
+    "D": "Anadolu Üniversitesi tarafından online olarak",
+    "Answer": "Anadolu Üniversitesi tarafından online olarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, basılı kitap talep eden öğrenciler kitaplara nasıl ulaşabilir?",
+    "A": "Sadece üniversiteye giderek",
+    "B": "Posta yoluyla doğrudan öğrenciye gönderilerek",
+    "C": "BIS yetkilisi ya da ailesi aracılığıyla, ücretini ödeyerek",
+    "D": "Ücretsiz olarak sınav merkezinden alarak",
+    "Answer": "BIS yetkilisi ya da ailesi aracılığıyla, ücretini ödeyerek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, Anadolu Üniversitesi diploma teslimlerini hangi yolla gerçekleştirmektedir?",
+    "A": "Posta ile doğrudan öğrenciye göndererek",
+    "B": "Rektörlük tarafından imzalı olarak ailelere teslim ederek",
+    "C": "Öğrencilerin bulunduğu kurumlara en yakın AÖF bürosuna göndererek",
+    "D": "E-devlet sistemi üzerinden dijital olarak ileterek",
+    "Answer": "Öğrencilerin bulunduğu kurumlara en yakın AÖF bürosuna göndererek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, Anadolu Üniversitesi kayıt/kayıt yenileme işlemlerinde kitap dağıtımını nasıl gerçekleştirmektedir?",
+    "A": "Ücretsiz olarak öğrencilere göndermektedir",
+    "B": "Üniversite temsilcileri aracılığıyla kuruma ulaştırmaktadır",
+    "C": "Sadece dijital kitap erişimi sunmaktadır",
+    "D": "Talep edilen kitapları, stok durumuna göre bedeli karşılığında sağlamaktadır",
+    "Answer": "Talep edilen kitapları, stok durumuna göre bedeli karşılığında sağlamaktadır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, kuruma yeni gelen öğrencilerin öğrencilik durumunun kontrolü hangi yöntemle yapılmaktadır?",
+    "A": "Öğrencilerin dilekçe vermesiyle",
+    "B": "BIS Yetkilisi’ne tanımlanan ekran üzerinden",
+    "C": "E-devlet üzerinden sorgulanarak",
+    "D": "Kurum öğretmeni tarafından elden sorgulanarak",
+    "Answer": "BIS Yetkilisi’ne tanımlanan ekran üzerinden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, Anadolu Üniversitesi hangi esaslara göre işlem yapar?",
+    "A": "CTEGM tarafından verilen talimatlara göre",
+    "B": "Yalnızca kendi yönetmeliklerine göre",
+    "C": "Kurum tarafından yapılan işlem verilerine dayanarak",
+    "D": "Öğrenci taleplerine göre",
+    "Answer": "Kurum tarafından yapılan işlem verilerine dayanarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, üniversite sınav görevlilerinin atanmasından hangi kurum sorumludur?",
+    "A": "Adalet Bakanlığı",
+    "B": "CTEGM",
+    "C": "Ceza infaz kurumu",
+    "D": "Anadolu Üniversitesi Rektörlüğü",
+    "Answer": "Anadolu Üniversitesi Rektörlüğü",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı ile Anadolu Üniversitesi Arasında Eğitim ve Öğretim Çalışmaları Yürütülmesine Dair İş Birliği Protokolü’ne göre, üniversite sınav görevlileri kimlerden oluşur?",
+    "A": "Öğrenciler ve danışmanlar",
+    "B": "Üniversite temsilcisi, bina sınav sorumlusu ve salon başkanı",
+    "C": "Kurum personeli ve AÖF bürosu çalışanları",
+    "D": "İl sınav komisyonları",
+    "Answer": "Üniversite temsilcisi, bina sınav sorumlusu ve salon başkanı",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
