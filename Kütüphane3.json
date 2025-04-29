@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hükümlü ve tutukluların boş zamanlarını değerlendirmelerini, eğitim kurulunca kabul edilen yayınlar üzerine, aşağıdakilerden hangisi yazılarak, kuruldaki bir üye tarafından imzalanır?",
+    "A": "Karar verilmiştir.",
+    "B": "Onaylanmıştır.",
+    "C": "İncelenmiştir.",
+    "D": "Görülmüştür.",
+    "Answer": "Görülmüştür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdaki maddelerden hangisi doğrudur?",
+    "A": "Eğitim kurulunca kabul edilen yayınlar, üzerine “Görülmüştür” kaydı konulduktan ve kuruldaki bir üye tarafından imzalandıktan sonra kütüphane veya kitaplığa gönderilir.",
+    "B": "Eğitim kurulunca kabul edilen yayınlar, doğrudan kütüphane veya kitaplığa gönderilmeden önce hiçbir onaya tabi tutulmaz.",
+    "C": "Eğitim kurulunca kabul edilen yayınlar, kaydedilmeden önce yalnızca eğitim kurulunun onayı gereklidir.",
+    "D": "Eğitim kurulunca kabul edilen yayınlar, yalnızca bir kuruldaki üye tarafından imzalanır ve kütüphaneye gönderilmez.",
+    "Answer": "Eğitim kurulunca kabul edilen yayınlar, üzerine “Görülmüştür” kaydı konulduktan ve kuruldaki bir üye tarafından imzalandıktan sonra kütüphane veya kitaplığa gönderilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdaki maddelerden hangisi yanlıştır?",
+    "A": "Her kütüphane ve kitaplıkta, kitaplık demirbaş kayıt defteri ile tasnif defterleri tutulur.",
+    "B": "Yayınlar kaydedildikten sonra, bağış sahiplerine herhangi bir bildirim yapılmaz.",
+    "C": "Kaydedilen yayınlar, kurumun adı ile demirbaş ve tasnif numaralarını içeren kaşe ile damgalanır.",
+    "D": "Kütüphanelerde bulunan yayınlar “Dewey Onlu Tasnif” sistemine göre düzenlenir.",
+    "Answer": "Yayınlar kaydedildikten sonra, bağış sahiplerine herhangi bir bildirim yapılmaz.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, her kütüphane ve kitaplıkta hangi tür defterler tutulur?",
+    "A": "Kütüphane bütçe defteri ve personel kayıt defteri",
+    "B": "Kitaplık demirbaş kayıt defteri ve tasnif defteri",
+    "C": "Yayınevleri kayıt defteri ve ödünç alma defteri",
+    "D": "Eğitim programı takip defteri ve okuma raporları",
+    "Answer": "Kitaplık demirbaş kayıt defteri ve tasnif defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayınlar defterlere kaydedildikten sonra hangi işlem yapılır?",
+    "A": "Eğitim kurulu tarafından yayınların ilk ve son sayfaları mühürlenir",
+    "B": "Yayınlar belirli bir süre saklanır",
+    "C": "Yayınlar kuruma kaydedilir ancak mühürlenmez",
+    "D": "Eğitim kurulu yayınları teslim alır ve inceleme yapar",
+    "Answer": "Eğitim kurulu tarafından yayınların ilk ve son sayfaları mühürlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kaydedilen yayınlar hangi sistemle düzenlenir?",
+    "A": "ISO Tasnif Sistemi",
+    "B": "Dewey Onlu Tasnif Sistemi",
+    "C": "Uluslararası Yayın Kayıt Sistemi",
+    "D": "Avrupa Yayın Kataloğu",
+    "Answer": "Dewey Onlu Tasnif Sistemi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, bağış yoluyla temin edilen yayınlar kaydedildikten sonra ne yapılır?",
+    "A": "Bağış sahiplerine yayınların durumuna dair rapor hazırlanır",
+    "B": "Yayınlar başka kurumlardan temin edilir",
+    "C": "Bağış sahiplerine demirbaş ve tasnif numaraları bildirilir",
+    "D": "Yayınlar kütüphane yöneticisi tarafından kabul edilir",
+    "Answer": "Bağış sahiplerine demirbaş ve tasnif numaraları bildirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphanelerde bulunan yayınlar hangi tasnif sistemine göre düzenlenir?",
+    "A": "Kongre Kütüphane Sistemi",
+    "B": "Uluslararası Standart Kitap Numarası (ISBN) Sistemi",
+    "C": "Evrensel Onlu Sınıflama Sistemi",
+    "D": "Dewey Onlu Tasnif",
+    "Answer": "Dewey Onlu Tasnif",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdaki maddelerden hangisi yanlıştır?",
+    "A": "Hükümlü ve tutukluların boş zamanlarını değerlendirmelerini sağlamak amacıyla, yayın arama fişleri, yayının konusu, adı, kitap ise yazarın adı esas alınarak ayrı ayrı düzenlenir ve varsa elektronik ortamda, yoksa ayrı bir yerde muhafaza edilir.",
+    "B": "Kitaplıklarda bu sistem uygulanmayabilir. Bu durumda yayınlar, konularına göre ayrı bölmelerde muhafaza edilerek hizmete hazır halde tutulur.",
+    "C": "Hükümlü ve tutukluların boş zamanlarını değerlendirmeleri için herhangi bir arama fişi düzenlenmesi gerekmez.",
+    "D": "Bu sistem, illerdeki ilgili müdürlük elemanları ile işbirliği yapılarak kurulur ve işletilir.",
+    "Answer": "Hükümlü ve tutukluların boş zamanlarını değerlendirmeleri için herhangi bir arama fişi düzenlenmesi gerekmez.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdaki maddelerden hangisi doğrudur?",
+    "A": "Her kütüphane ve kitaplıkta bir yayın dağıtım defteri tutulur.",
+    "B": "Kütüphane ve kitaplıklarda yayın dağıtım defteri tutulmaz.",
+    "C": "Her kütüphane ve kitaplıkta sadece kitapların dağıtımı kaydedilir, diğer yayınlar kayda alınmaz.",
+    "D": "Yayın dağıtım defteri sadece elektronik ortamda tutulur, fiziksel defter tutulmaz.",
+    "Answer": "Her kütüphane ve kitaplıkta bir yayın dağıtım defteri tutulur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hükümlü ve tutukluların boş zamanlarını değerlendirmeleri için hangi sistem uygulanır?",
+    "A": "Yayınların konularına göre tasnif edilmesi",
+    "B": "Yayın arama fişleri ve elektronik ortamda kayıt sistemi",
+    "C": "Sadece kitapların konuya göre sıralanması",
+    "D": "Yayınların sadece yazara göre sıralanması",
+    "Answer": "Yayın arama fişleri ve elektronik ortamda kayıt sistemi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kitaplıklar için hangi sistem uygulanmadığı belirtilmiştir?",
+    "A": "Elektronik ortamda kayıt sistemi",
+    "B": "Yayın arama fişlerinin düzenlenmesi",
+    "C": "Yayınların sıralı olarak saklanması",
+    "D": "Yayınların konularına göre ayrı bölmelerde muhafaza edilmesi",
+    "Answer": "Yayınların konularına göre ayrı bölmelerde muhafaza edilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, her kütüphane ve kitaplıkta hangi defter tutulur?",
+    "A": "Yayın kontrol defteri",
+    "B": "Yayın dağıtım defteri",
+    "C": "Eğitim programı defteri",
+    "D": "Kütüphane ziyaretçi defteri",
+    "Answer": "Yayın dağıtım defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayın arama fişleri hangi bilgileri içermelidir?",
+    "A": "Yayının konusu ve yazarı",
+    "B": "Yayının sadece adı",
+    "C": "Yayının konusu ve yayın tarihi",
+    "D": "Yayının fiyatı ve yayınevi",
+    "Answer": "Yayının konusu ve yazarı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, ceza infaz kurumlarında kitaplık ve kütüphanelerin sevk ve idaresinden aşağıdakilerden hangisi sorumludur?",
+    "A": "Eğitim kurulu",
+    "B": "Ceza infaz kurumu müdürü",
+    "C": "Kütüphaneci",
+    "D": "Güvenlik görevlisi",
+    "Answer": "Kütüphaneci",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, eğer ceza infaz kurumlarında kütüphaneci bulunmazsa, kitaplık ve kütüphane hizmetlerini kim yönetir?",
+    "A": "Ceza infaz kurumunun güvenlik sorumlusu",
+    "B": "Kurumun en üst amiri tarafından görevlendirilen öğretmen",
+    "C": "İlgili bakanlık görevlisi",
+    "D": "Ceza infaz kurumu müdürü",
+    "Answer": "Kurumun en üst amiri tarafından görevlendirilen öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, ceza infaz kurumlarında kitaplık ve kütüphaneler hangi işlemleri içerir?",
+    "A": "Yayınların alım ve dağıtımı",
+    "B": "Yalnızca kitapların dağıtılması",
+    "C": "Eğitim programlarının düzenlenmesi",
+    "D": "Yayınların bakımı, muhafazası, tasnifi ve yerleştirilmesi",
+    "Answer": "Yayınların bakımı, muhafazası, tasnifi ve yerleştirilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, ceza infaz kurumlarında kitaplık ve kütüphanelerin hizmete hazır hale getirilmesinden kim sorumludur?",
+    "A": "Ceza infaz kurumu güvenlik görevlisi",
+    "B": "Kütüphaneci veya görevlendirilen öğretmen",
+    "C": "Ceza infaz kurumu doktoru",
+    "D": "Eğitici ve rehberlik personeli",
+    "Answer": "Kütüphaneci veya görevlendirilen öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kurumda kütüphaneci bulunmuyorsa, kurum en üst amiri tarafından kim görevlendirilir?",
+    "A": "İdare memuru",
+    "B": "2. Müdür",
+    "C": "İnfaz ve Koruma memuru",
+    "D": "Öğretmen",
+    "Answer": "Öğretmen",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane ve kitaplık görevlilerinin sorumlulukları arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "Kütüphane ve kitaplıkta bulunan yayınlar ile dolap, raf, masa ve sandalye gibi eşyaları sayarak teslim almak.",
+    "B": "Yayınların bakım ve muhafazasını sağlamak, dağıtım ve toplama işlemlerini yapmak.",
+    "C": "Kütüphane ve kitaplığın düzen ve temizliğinden sorumlu olmak.",
+    "D": "Kütüphane ve kitaplık sorumlusuna yardımcı olarak çalışacak hükümlü ve tutukluları seçmek ve görevlendirmek.",
+    "Answer": "Kütüphane ve kitaplık sorumlusuna yardımcı olarak çalışacak hükümlü ve tutukluları seçmek ve görevlendirmek.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

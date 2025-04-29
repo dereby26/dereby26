@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hükümlü ve tutuklulara verilen yayınlar, en çok kaç günün sonunda kütüphane veya kitaplığa iade edilir?",
+    "A": "Yedi",
+    "B": "On beş",
+    "C": "On",
+    "D": "Yirmi",
+    "Answer": "On beş",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi yanlıştır?",
+    "A": "Kütüphane ve kitaplıklardan oda veya koğuşlarda okunmak üzere alınan yayınlar, hükümlü ve tutuklulara zimmetle verilir ve en geç onbeş gün içinde iade edilir.",
+    "B": "Oda veya koğuşlara verilecek yayın sayısı, kütüphane veya kitaplıkta bulunan yayın sayısı ve hükümlü/tutuklu mevcudu göz önüne alınarak, eğitim kurulu kararıyla belirlenir.",
+    "C": "Kütüphaneden alınan yayınların süresi dolduğunda, iade edilmeden süre uzatımı istenirse kütüphane veya kitaplık sorumlusu bu talebi değerlendirip uygun görürse ek süre verebilir.",
+    "D": "Kütüphane ve kitaplıklardan alınan yayınların kaybolması veya tahrip edilmesi durumunda, eğitim kurulu kararına bağlı olarak hükümlü ve tutuklulara yeni yayın sağlanır.",
+    "Answer": "Kütüphane ve kitaplıklardan alınan yayınların kaybolması veya tahrip edilmesi durumunda, eğitim kurulu kararına bağlı olarak hükümlü ve tutuklulara yeni yayın sağlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlü, tutuklu veya personel, kendisine zimmetle verilen yayının kaybolmasından veya tahrip edilmesinden sorumlu tutulmaz.",
+    "B": "Yayın kaybolduğunda veya zarar gördüğünde, zararın tazmin edilmesi gerekmez; kurum tarafından karşılanır.",
+    "C": "Kaybedilen veya tahrip edilen yayınların bedeli ödendiğinde, yenisi alınıp yerine konur veya mevcut değilse eğitim kurulunun uygun göreceği başka bir yayın alınır.",
+    "D": "Eğitim kurulu, kaybolan yayınların yerine yalnızca eski bir basımını alır; başka bir yayının alınması söz konusu değildir.",
+    "Answer": "Kaybedilen veya tahrip edilen yayınların bedeli ödendiğinde, yenisi alınıp yerine konur veya mevcut değilse eğitim kurulunun uygun göreceği başka bir yayın alınır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, verilen yayınlar ne kadar süreyle kütüphane veya kitaplığa iade edilmelidir?",
+    "A": "Üçüncü günün sonunda",
+    "B": "Onbeşinci günün sonunda",
+    "C": "Beşinci günün sonunda",
+    "D": "Yirmi günün sonunda",
+    "Answer": "Onbeşinci günün sonunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, süresi biten yayınların geri verilmesi için hangi durumlarda ek süre verilebilir?",
+    "A": "Yayına gösterilen ilgiye, adedine ve faydalanma amacına göre",
+    "B": "Sadece yayının türüne göre",
+    "C": "Hükümlünün talepleri doğrultusunda",
+    "D": "Kurumun ihtiyaçlarına göre",
+    "Answer": "Yayına gösterilen ilgiye, adedine ve faydalanma amacına göre",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kaybolan veya tahrip edilen yayınların bedelini kim ödemekle sorumludur?",
+    "A": "Ceza infaz kurumu idaresi",
+    "B": "Eğitim kurulu",
+    "C": "Hükümlü, tutuklu veya personel",
+    "D": "Kütüphane sorumlusu",
+    "Answer": "Hükümlü, tutuklu veya personel",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, zarar tazmin edildikten sonra kaybolan yayının yerine ne alınır?",
+    "A": "Aynı yayının bir kopyası",
+    "B": "Eğitici bir kitap",
+    "C": "Ceza infaz kurumunun belirlediği yeni bir dergi",
+    "D": "Piyasada temin edilemiyorsa, eğitim kurulunun takdir edeceği başka bir yayın",
+    "Answer": "Piyasada temin edilemiyorsa, eğitim kurulunun takdir edeceği başka bir yayın",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, bir yayın kaybedildiğinde veya zarar gördüğünde zarar nasıl telafi edilir?",
+    "A": "Yayın geri alınarak",
+    "B": "Aynı yayın bulunamazsa, eğitim kurulunun uygun göreceği farklı bir yayın alınarak",
+    "C": "Başka bir hükümlüye ödettirilerek",
+    "D": "Sadece maddi ödeme ile",
+    "Answer": "Aynı yayın bulunamazsa, eğitim kurulunun uygun göreceği farklı bir yayın alınarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, zimmetle verilen bir yayının kaybedilmesi halinde yapılması gereken ilk işlem nedir?",
+    "A": "Yayını bulmaya çalışmak",
+    "B": "Yayını ödünç alan kişinin ceza alması",
+    "C": "Zararın tazmini yoluyla yenisini almak veya eğitim kurulunun onayladığı başka bir yayını almak",
+    "D": "Kayıp yayının bildirilmesi",
+    "Answer": "Zararın tazmini yoluyla yenisini almak veya eğitim kurulunun onayladığı başka bir yayını almak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane veya kitaplıktan alınan yayının kaybolması veya zarar görmesi durumunda tazmin edilen zarar karşılığında yapılacak işlem hangisidir?",
+    "A": "Yayının aynı baskısını bulmak zorunludur",
+    "B": "Piyasada bulunamıyorsa, eğitim kurulunun seçeceği başka bir yayın temin edilir",
+    "C": "Zarar tutarı ceza infaz kurumunun bütçesine eklenir",
+    "D": "Zararın tazmin edilmesine gerek yoktur",
+    "Answer": "Piyasada bulunamıyorsa, eğitim kurulunun seçeceği başka bir yayın temin edilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, salıverilme ve nakil sırasındaki işlemlerle ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Hükümlü ve tutukluların salıverilmesi veya başka ceza infaz kurumlarına nakledilmesi sırasında, üzerlerinde zimmetli yayın olup olmadığı araştırılmaz.",
+    "B": "Hükümlü ve tutuklular nakledildikten sonra zimmetlerindeki yayınların iadesi sağlanır.",
+    "C": "Hükümlü ve tutuklular salıverilmeden veya başka ceza infaz kurumlarına nakledilmeden önce, üzerlerinde zimmetli yayın olup olmadığı araştırılır ve varsa iadesi sağlanır.",
+    "D": "Zimmette bulunan yayınların iadesi, yalnızca hükümlülerin talebi doğrultusunda gerçekleştirilir.",
+    "Answer": "Hükümlü ve tutuklular salıverilmeden veya başka ceza infaz kurumlarına nakledilmeden önce, üzerlerinde zimmetli yayın olup olmadığı araştırılır ve varsa iadesi sağlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, sayım ve düşüm usulü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Yayınların yıllık sayım ve düşüm işlemleri, kurumun kendi belirlediği kurallara göre yapılır.",
+    "B": "Yayınların sayım ve düşüm işlemleri sadece ihtiyaç olduğunda yapılır.",
+    "C": "Yıllık sayım işlemlerinde düşüm yapılmaz, sadece mevcut yayınlar sayılır.",
+    "D": "Yayınların yıllık sayım ve düşüm işlemleri, Ayniyat Talimatnamesi hükümlerine göre yapılır.",
+    "Answer": "Yayınların yıllık sayım ve düşüm işlemleri, Ayniyat Talimatnamesi hükümlerine göre yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hükümlü ve tutukluların başka bir kuruma nakilleri veya salıverilmelerinden önce yapılması gereken işlem nedir?",
+    "A": "Kütüphaneye yeni yayın bağışlamaları sağlanır",
+    "B": "Kütüphaneye aidat ödemeleri istenir",
+    "C": "Zimmetlerinde yayın olup olmadığı kontrol edilir ve varsa iadesi sağlanır",
+    "D": "Nakil işlemleri için kitap ödünç alınır",
+    "Answer": "Zimmetlerinde yayın olup olmadığı kontrol edilir ve varsa iadesi sağlanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, zimmetli yayınların iadesi hangi durumda özellikle kontrol edilir?",
+    "A": "Hükümlü ve tutukluların tatil dönemlerinde",
+    "B": "Hükümlü ve tutukluların başka ceza infaz kurumlarına nakillerinde veya salıverilmelerinde",
+    "C": "Kütüphane düzenlemeleri sırasında",
+    "D": "Hükümlülerin cezalarının azalması durumunda",
+    "Answer": "Hükümlü ve tutukluların başka ceza infaz kurumlarına nakillerinde veya salıverilmelerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yıllık yayın sayım ve düşüm işlemleri hangi talimatnameye göre yapılır?",
+    "A": "Cezaevi Yönetmeliği Talimatnamesi",
+    "B": "Eğitim ve Öğretim Talimatnamesi",
+    "C": "Ayniyat Talimatnamesi",
+    "D": "Kütüphane Yönetimi Talimatnamesi",
+    "Answer": "Ayniyat Talimatnamesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayınların yıllık sayım ve düşüm işlemleri, hangi talimat hükümlerine göre yapılır?",
+    "A": "Ayniyat Talimatnamesi",
+    "B": "Kamu İhale Talimatnamesi",
+    "C": "Taşınır Mal Talimatnamesi",
+    "D": "Demirbaş Talimatnamesi",
+    "Answer": "Ayniyat Talimatnamesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayın isteme formu ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "A": "Yayınlardan yararlanmak isteyen kişiler, süresiz doğrudan kütüphaneden istedikleri kitabı alabilirler.",
+    "B": "Kütüphane ve kitaplık görevlileri, yayınları okuyuculara vermeden önce yayınlardan yararlanma izin formu doldurur.",
+    "C": "Kütüphane veya kitaplık sorumlusunun onayı olmaksızın yayınlardan yararlanmak mümkündür.",
+    "D": "Yayın isteme işlemi için Ek - 1 sayılı \"Yayın İsteme Formu\" doldurulup, kütüphane veya kitaplık sorumlusuna teslim edilmelidir.",
+    "Answer": "Yayın isteme işlemi için Ek - 1 sayılı \"Yayın İsteme Formu\" doldurulup, kütüphane veya kitaplık sorumlusuna teslim edilmelidir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayınlardan yararlanmak isteyen bir hükümlü veya tutuklu ne yapmalıdır?",
+    "A": "Kütüphane sorumlusuna sözlü olarak bildirmelidir",
+    "B": "Kendi odasından istekte bulunmalıdır",
+    "C": "Kütüphane listelerinden yayını seçip almaya gitmelidir",
+    "D": "Ek-1 sayılı “Yayın İsteme Formu”nu doldurup kütüphane sorumlusuna teslim etmelidir",
+    "Answer": "Ek-1 sayılı “Yayın İsteme Formu”nu doldurup kütüphane sorumlusuna teslim etmelidir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayın teslimi sırasında hangi bilgilere dikkat edilmelidir?",
+    "A": "Yalnızca yayının fiyatı",
+    "B": "Basıldığı yer, yılı, fiyatı, demirbaş ve tasnif numarası ile teslim tarihi",
+    "C": "Yayının yazarının biyografisi",
+    "D": "Yayının sadece tasnif numarası",
+    "Answer": "Basıldığı yer, yılı, fiyatı, demirbaş ve tasnif numarası ile teslim tarihi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, okuma amacıyla teslim edilen yayınların kayıtları nasıl saklanır?",
+    "A": "Günlük dosyalanarak",
+    "B": "Kütüphane arşivinde ayrı bir alanda saklanarak",
+    "C": "İlgili arşiv yönetmeliği hükümlerine göre",
+    "D": "Yayın dağıtım defterine not alınarak",
+    "Answer": "İlgili arşiv yönetmeliği hükümlerine göre",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

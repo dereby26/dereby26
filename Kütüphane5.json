@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hangi etkinlikler hükümlülerin yayınlara ilgisini artırmak için düzenlenir?",
+    "A": "Okuma yarışmaları",
+    "B": "Özendirici konferans ve seminerler",
+    "C": "Eğitici film gösterimleri",
+    "D": "Sınav hazırlık kursları",
+    "Answer": "Özendirici konferans ve seminerler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hangi amaçla özendirici konferanslar ve seminerler düzenlenir?",
+    "A": "Hükümlülerin kültürel bilgilerini artırmak",
+    "B": "Hükümlülerin sosyal uyumlarını güçlendirmek",
+    "C": "Yayınlara olan ilgilerini artırmak",
+    "D": "Hükümlülerin eğitim seviyelerini yükseltmek",
+    "Answer": "Yayınlara olan ilgilerini artırmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, düzenlenen konferans ve seminerlerde hangi konulara odaklanılır?",
+    "A": "Sadece kitap okuma yöntemleri",
+    "B": "Yalnızca hukuk ve adalet konuları",
+    "C": "Sadece eğlenceli etkinlikler",
+    "D": "Yayınlar ve okumaya yönelik ilgiyi artırma",
+    "Answer": "Yayınlar ve okumaya yönelik ilgiyi artırma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, ceza infaz kurumları kitaplık ve kütüphanelerinde bulunan yayınlardan öncelikli olarak kimler yararlanır?",
+    "A": "Hükümlü ve tutuklular ile kurum personeli",
+    "B": "Sadece kurum personeli",
+    "C": "Sadece hükümlü ve tutuklular",
+    "D": "Sadece hükümlüler",
+    "Answer": "Hükümlü ve tutuklular ile kurum personeli",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphanelerden yararlanmak isteyen hükümlü ve tutukluların sayısı kim tarafından belirlenir?",
+    "A": "Ceza infaz kurumu müdürü",
+    "B": "Eğitim kurulu",
+    "C": "Kütüphane sorumlusu",
+    "D": "İdare ve gözlem kurulu",
+    "Answer": "İdare ve gözlem kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane çalışmaları sırasında hangi görevli hazır bulundurulur?",
+    "A": "Yalnızca infaz ve koruma memurları",
+    "B": "Kütüphane görevlileri",
+    "C": "İnfaz ve koruma memurları",
+    "D": "Sadece güvenlik görevlileri",
+    "Answer": "İnfaz ve koruma memurları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphaneye başvuruda bulunan hükümlü ve tutuklular hangi koşulda kütüphaneden yararlanabilir?",
+    "A": "Yalnızca kişisel araştırma yapmak için",
+    "B": "Sadece infaz programına dahil olanlar için",
+    "C": "Yalnızca yazılı başvuru yapmış olanlar için",
+    "D": "İdare ve gözlem kurulu kararıyla, iyi hal gösterenler için",
+    "Answer": "İdare ve gözlem kurulu kararıyla, iyi hal gösterenler için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane çalışmaları sırasında kurum güvenliğini tehlikeye sokmamak için hangi faktör dikkate alınır?",
+    "A": "Hükümlü ve tutukluların sayısı",
+    "B": "Kütüphaneye gelen ziyaretçilerin sayısı",
+    "C": "İdare ve gözlem kurulu tarafından belirlenen yararlanma sayısı",
+    "D": "Kütüphanedeki yayınların türü",
+    "Answer": "İdare ve gözlem kurulu tarafından belirlenen yararlanma sayısı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphanede çalışma yapacak hükümlülerin ve tutukluların hangi niteliklere sahip olmaları beklenir?",
+    "A": "Yalnızca okuma yazma bilmelidirler",
+    "B": "İyi halli ve öğrenim seviyesi yüksek olmalıdırlar",
+    "C": "Sadece okuma alışkanlığına sahip olmaları yeterlidir",
+    "D": "Sadece ders çalışabilme kapasitesine sahip olmaları yeterlidir",
+    "Answer": "İyi halli ve öğrenim seviyesi yüksek olmalıdırlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphanede çalışma yapacak hükümlüler ve tutukluların sayısı nasıl belirlenir?",
+    "A": "İdare ve gözlem kurulu tarafından belirlenir",
+    "B": "Ceza infaz kurumu müdürünün kararına göre",
+    "C": "Kütüphane sorumlusunun önerisi ile",
+    "D": "Güvenlik personelinin onayı ile",
+    "Answer": "İdare ve gözlem kurulu tarafından belirlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında aşağıdakilerden hangisi doğrudur?",
+    "A": "Ceza infaz kurumları kitaplık ve kütüphanelerinde bulunan yayınlardan, bu Yönerge esaslarına göre yalnızca hükümlü ve tutuklular yararlanır; kurum personeli bu hizmetten yararlanamaz.",
+    "B": "İdare ve gözlem kurulunun kararıyla, iyi hal gösteren hükümlü ve tutuklular kütüphaneden yararlanabilirler, ancak kütüphaneden aynı anda yararlanmak isteyenlerin sayısına ilişkin herhangi bir sınırlama bulunmaz; istedikleri kadar kişi kütüphaneye giriş yapabilir.",
+    "C": "Kütüphanede sigara içilmesi, herhangi bir şey yenmesi veya yüksek sesle konuşulması gibi çalışma ortamını bozucu davranışlara izin verilmeyeceğine dair kural yoktur; kütüphanede uyulacak kurallar belirtilmemiştir.",
+    "D": "Yayınlara ait bilgiler ile tasnif numaralarını gösteren listeler ile yayınların eskimesini, yıpranmasını ve kirlenmesini önleyici tedbirleri içeren talimat hükümlü ve tutuklulara duyurulur.",
+    "Answer": "Yayınlara ait bilgiler ile tasnif numaralarını gösteren listeler ile yayınların eskimesini, yıpranmasını ve kirlenmesini önleyici tedbirleri içeren talimat hükümlü ve tutuklulara duyurulur.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayınların duyurulmasıyla ilgili hangi bilgiler hükümlü ve tutuklulara iletilir?",
+    "A": "Yayınların konusu ve yazarı",
+    "B": "Yayınların eskimesini ve yıpranmasını önleyici tedbirler",
+    "C": "Yayınların alım bedelleri ve kaynakları",
+    "D": "Yayınların dağıtım tarihleri",
+    "Answer": "Yayınların eskimesini ve yıpranmasını önleyici tedbirler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphanede hangi davranışlar yasaktır?",
+    "A": "Sadece sigara içmek",
+    "B": "Sadece yüksek sesle konuşmak",
+    "C": "Yalnızca bir şeyler yemek",
+    "D": "Sigara içmek, bir şeyler yemek ve yüksek sesle konuşmak",
+    "Answer": "Sigara içmek, bir şeyler yemek ve yüksek sesle konuşmak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphanede uyulacak kurallara göre, hangi tür davranışlar kütüphane ortamında yasaktır?",
+    "A": "Yalnızca kitapları karıştırmak",
+    "B": "Yüksek sesle konuşmak ve yemek yemek",
+    "C": "Yayınları düzenlemek",
+    "D": "Kitapları ödünç almak",
+    "Answer": "Yüksek sesle konuşmak ve yemek yemek",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayınların oda veya koğuşlara verilmesiyle ilgili hangi kural geçerlidir?",
+    "A": "Yayınlar yalnızca haftada bir verilir",
+    "B": "Yayınlar sadece sabah saatlerinde verilir",
+    "C": "Yayınlar her gün yenilenir",
+    "D": "Yayınların verilme süresi idare tarafından belirlenir",
+    "Answer": "Yayınların verilme süresi idare tarafından belirlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, oda veya koğuşta okunmak üzere verilen yayın sayısı aşağıdaki hangi kurul tarafından belirlenir?",
+    "A": "Eğitim Kurulu",
+    "B": "İş Yurdu Yönetim Kurulu",
+    "C": "İdare ve Gözlem Kurulu",
+    "D": "Disiplin Kurulu",
+    "Answer": "Eğitim Kurulu",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, oda veya koğuşlarda okunmak üzere kütüphanede bulunan yayınlar nasıl verilir?",
+    "A": "Yayınlar, her ay belirli bir sayıda verilir",
+    "B": "Yayınlar, ödünç olarak verilir",
+    "C": "Yayınlar, zimmetle verilir",
+    "D": "Yayınlar, sadece koğuş başkanına teslim edilir",
+    "Answer": "Yayınlar, zimmetle verilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayın verilecek olan sayı nasıl belirlenir?",
+    "A": "Kütüphane müdürünün takdirine göre",
+    "B": "Eğitim kurulu kararıyla belirlenir",
+    "C": "Ceza infaz kurumu güvenlik görevlisinin onayıyla",
+    "D": "Kütüphane veya kitaplık sayısına göre",
+    "Answer": "Eğitim kurulu kararıyla belirlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayın verilecek sayı belirlenirken hangi faktörler dikkate alınır?",
+    "A": "Oda veya koğuş düzeni ve hükümlü sayısı",
+    "B": "Yayınların fiyatı",
+    "C": "Ceza infaz kurumundaki güvenlik durumu",
+    "D": "Kütüphanedeki görevli sayısı",
+    "Answer": "Oda veya koğuş düzeni ve hükümlü sayısı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayın verilecek sayının belirlenmesinde hangi unsurlar göz önünde bulundurulmaz?",
+    "A": "Oda veya koğuştaki hükümlü ve tutuklu sayısı",
+    "B": "Kütüphane ve kitaplıkta bulunan yayın sayısı",
+    "C": "Yayınların içerik türü",
+    "D": "Kütüphane hizmetlerini aksatmama",
+    "Answer": "Yayınların içerik türü",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane ve kitaplıklarda kayıt işlemi yapılırken hangi belge esas alınır?",
+    "A": "Kütüphane Giriş Defteri",
+    "B": "Günlük İşlem Defteri",
+    "C": "Kütüphane Envanter Defteri",
+    "D": "Yayın Dağıtım Defteri",
+    "Answer": "Yayın Dağıtım Defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hükümlü ve tutuklulara teslim edilen yayınların bilgileri nerede saklanır?",
+    "A": "Kütüphane kayıt dosyasında",
+    "B": "Yayın İsteme Formu ile birlikte ilgili arşiv yönetmeliğine göre saklanır",
+    "C": "Kütüphane görevlisinin kişisel dosyasında",
+    "D": "Kurum arşivinde",
+    "Answer": "Yayın İsteme Formu ile birlikte ilgili arşiv yönetmeliğine göre saklanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, bir yayının tesliminde hangi form veya defter kullanılır?",
+    "A": "Kütüphane Envanter Formu",
+    "B": "Kayıt Defteri",
+    "C": "Yayın İsteme Formu ve Yayın Dağıtım Defteri",
+    "D": "Günlük İşlem Formu",
+    "Answer": "Yayın İsteme Formu ve Yayın Dağıtım Defteri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, okunmak üzere hükümlü ve tutuklulara teslim edilen ve okunduktan sonra teslim alınan yayınların tutulan kayıtları ile formları hangi yönetmeliğe göre saklanır?",
+    "A": "Bilgi ve Belge Yönetimi Yönetmeliği",
+    "B": "Kamu Arşivi Yönetmeliği",
+    "C": "Kütüphane Hizmetleri Yönetmeliği",
+    "D": "Arşiv Yönetmeliği",
+    "Answer": "Arşiv Yönetmeliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi doğrudur?",
+    "A": "Yayın İsteme Formu'nda bulunan bilgiler, teslim edilmeden önce Yayın Dağıtım Defterine işlenmez; sadece teslim sırasında kaydedilir.",
+    "B": "Yayınlar, okuyucularına teslim edilmeden önce “Yayın İsteme Formu” ile karşılaştırılır ve formda bulunan bilgilerle birlikte, formda yer almayan fakat yayın üzerinde bulunan; basıldığı yer ve yılı, fiyatı, demirbaş ve tasnif numarası ile teslim tarihi Yayın Dağıtım Defterine işlenir.",
+    "C": "Okunmak üzere hükümlü ve tutuklulara teslim edilen ve okunduktan sonra teslim alınan yayınlarla ilgili tutulan kayıtlar, yalnızca o yıl için saklanır ve sonrasında imha edilir.",
+    "D": "Elektronik ortamda kayıt uygulamasına geçildiğinde, tüm bilgiler elektronik ortamda tutulsa bile defter ve formların yazılı olarak kayıtlarının tutulması zorunludur.",
+    "Answer": "Yayınlar, okuyucularına teslim edilmeden önce “Yayın İsteme Formu” ile karşılaştırılır ve formda bulunan bilgilerle birlikte, formda yer almayan fakat yayın üzerinde bulunan; basıldığı yer ve yılı, fiyatı, demirbaş ve tasnif numarası ile teslim tarihi Yayın Dağıtım Defterine işlenir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane ve kitaplık hizmetlerinin iyi yürütülüp yürütülmediği kimler tarafından denetlenir?",
+    "A": "Ceza İnfaz Kurumu Müdürü",
+    "B": "Kütüphane Görevlisi",
+    "C": "Adalet Müfettişleri ve Genel Müdürlük Kontrolörleri",
+    "D": "Eğitim Kurulu",
+    "Answer": "Adalet Müfettişleri ve Genel Müdürlük Kontrolörleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane hizmetleriyle ilgili hangi durumlarda sorumlular hakkında işlem yapılır?",
+    "A": "Eksik yayın bulunması durumunda",
+    "B": "Kütüphane kullanımının az olması durumunda",
+    "C": "Yayınların yıpranması durumunda",
+    "D": "Yıllık sayımların yapılmaması ve yönergeye uyulmaması durumunda",
+    "Answer": "Yıllık sayımların yapılmaması ve yönergeye uyulmaması durumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, elektronik ortamda kayıt sistemine geçilen ceza infaz kurumlarında ne yapılabilir?",
+    "A": "Elektronik kayıtlar sadece güvenlik amaçlı tutulur",
+    "B": "Defter ve formların yazılı kayıtları tamamen kaldırılabilir",
+    "C": "Yalnızca istatistik sonuçları elektronik ortamda saklanır",
+    "D": "Elektronik kayıtların yazılı olarak tutulmasına devam edilir",
+    "Answer": "Defter ve formların yazılı kayıtları tamamen kaldırılabilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, Elektronik ortamda tutulan kayıtların yeterli olup olmadığı nasıl belirlenir?",
+    "A": "Adalet Bakanlığı Müfettişleri tarafından belirlenir",
+    "B": "İdare ve gözlem kurulu tarafından kararlaştırılır",
+    "C": "Kütüphane sorumlusunun görüşüne göre",
+    "D": "Kayıtların ihtiyacı karşılayıp karşılamadığı tespiti ile",
+    "Answer": "Kayıtların ihtiyacı karşılayıp karşılamadığı tespiti ile",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi kütüphane ve kitaplık hizmetlerinin denetlenmesi ile ilgilidir?",
+    "A": "Adalet Müfettişleri ve Genel Müdürlük Kontrolörleri",
+    "B": "Ceza İnfaz Kurumları Müdürleri",
+    "C": "Eğitim ve Sağlık Komisyonları",
+    "D": "Mahkeme Denetçileri",
+    "Answer": "Adalet Müfettişleri ve Genel Müdürlük Kontrolörleri",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdaki durumlardan hangisi kütüphane hizmetleri ile ilgili yapılması gereken işlemlerden biri değildir?",
+    "A": "Yıllık sayımların yapılması",
+    "B": "Eksik yayınların bulunup bulunmadığının kontrolü",
+    "C": "Yönerge hükümlerine uyulup uyulmadığının denetlenmesi",
+    "D": "Kitaplıkta bulunan kitapların Adalet Bakanlığı onayına sunulması",
+    "Answer": "Kitaplıkta bulunan kitapların Adalet Bakanlığı onayına sunulması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, elektronik ortamda kayıtların tutulduğu ceza infaz kurumları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "A": "Tüm kayıtlar yalnızca defterlerde tutulur.",
+    "B": "Elektronik ortamda tutulan kayıtlar yeterli görülürse defter ve formların yazılı kayıtları kaldırılabilir.",
+    "C": "Elektronik kayıtlar, yazılı kayıtlarla aynı gün silinir.",
+    "D": "Elektronik kayıtlar yalnızca aylık olarak güncellenir.",
+    "Answer": "Elektronik ortamda tutulan kayıtlar yeterli görülürse defter ve formların yazılı kayıtları kaldırılabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi elektronik ortamda tutulan kayıtların bir avantajı değildir?",
+    "A": "Kayıtların uzun süre saklanabilmesi",
+    "B": "Kayıtların yalnızca yetkililerin erişimine açık olması",
+    "C": "Yazılı kayıtların tamamen iptal edilmesi",
+    "D": "Bilgilerin hızlıca güncellenebilmesi",
+    "Answer": "Yazılı kayıtların tamamen iptal edilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi söylenemez?",
+    "A": "Yayınlar okuyucularına teslim edilmeden önce, “Yayın İsteme Formu” ile karşılaştırılır ve formda bulunan bilgilerle birlikte, formda yer almayan fakat yayın üzerinde bulunan; basıldığı yer ve yılı, fiyatı, demirbaş ve tasnif numarası ile teslim tarihi Yayın Dağıtım Defterine işlenir.",
+    "B": "Okunmak üzere hükümlü ve tutuklulara teslim edilen ve okunduktan sonra teslim alınan yayınların tutulan kayıtları ile formlar, ilgili arşiv yönetmeliği hükümlerine göre saklanır.",
+    "C": "Kütüphane ve kitaplık hizmetlerinin iyi yürütülüp yürütülmediği, yıllık sayımların yapılıp yapılmadığı, eksik yayın bulunup bulunmadığı ve bu Yönerge hükümlerine uyulup uyulmadığı, Adalet Müfettişleri ve Genel Müdürlük Kontrolörleri tarafından denetlenir. Sorumlular hakkında genel hükümlere göre işlem yapılır.",
+    "D": "Elektronik ortamda kayıtların tutulmasına başlanılan ceza infaz kurumlarında, istatistik sonuçları, defter ve formlarla birlikte tüm kayıt ve bilgiler ayrıca elektronik ortamda tutulur ve saklanır. Elektronik ortamda tutulan kayıtlar ile defter ve formların yazılı olarak kayıtlarının tutulması uygulamalarına birlikte devam edilmelidir.",
+    "Answer": "Elektronik ortamda kayıtların tutulmasına başlanılan ceza infaz kurumlarında, istatistik sonuçları, defter ve formlarla birlikte tüm kayıt ve bilgiler ayrıca elektronik ortamda tutulur ve saklanır. Elektronik ortamda tutulan kayıtlar ile defter ve formların yazılı olarak kayıtlarının tutulması uygulamalarına birlikte devam edilmelidir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi doğrudur?",
+    "A": "Ceza İnfaz Kurumları ile Tutukevleri Kütüphane ve Kitaplık Yönetmeliği, 1985 yılında yürürlüğe girmiştir ve hâlâ geçerlidir.",
+    "B": "Yönerge, yalnızca ilgili Bakanlıkça imzalanarak yürürlüğe girer.",
+    "C": "Bu Yönerge hükümlerini Adalet Bakanı yürütür.",
+    "D": "Yönerge, onaylandıktan bir ay sonra yürürlüğe girer.",
+    "Answer": "Bu Yönerge hükümlerini Adalet Bakanı yürütür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, okunmak üzere hükümlü ve tutuklulara teslim edilen ve okunduktan sonra teslim alınan yayınların kayıtlarının tutulduğu bölüm aşağıdakilerden hangisidir?",
+    "A": "Dördüncü Kısım",
+    "B": "Sekizinci Kısım",
+    "C": "Beşinci Kısım",
+    "D": "Üçüncü Kısım",
+    "Answer": "Beşinci Kısım",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hangi yönetmelik 09/11/1983 tarihli Bakan onayıyla yürürlüğe girmiş ve sonradan yürürlükten kaldırılmıştır?",
+    "A": "Ceza İnfaz Kurumları ile Tutukevleri Kütüphane ve Kitaplık Yönetmeliği",
+    "B": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+    "C": "Tutukevleri ve Ceza İnfaz Kurumları Yönetmeliği",
+    "D": "Adalet Bakanlığı Genel Yönetmeliği",
+    "Answer": "Ceza İnfaz Kurumları ile Tutukevleri Kütüphane ve Kitaplık Yönetmeliği",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hangi makam bu yönergenin hükümlerini yürütmekle sorumludur?",
+    "A": "Ceza İnfaz Kurumları Müdürü",
+    "B": "Adalet Bakanı",
+    "C": "Cumhuriyet Savcısı",
+    "D": "Adalet Bakanlığı Müsteşarı",
+    "Answer": "Adalet Bakanı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, bu yönerge ne zaman yürürlüğe girer?",
+    "A": "Bir yıl sonra",
+    "B": "Resmî Gazete'de yayımlandıktan 30 gün sonra",
+    "C": "Yayımı tarihinde",
+    "D": "Adalet Bakanlığı onayından sonra",
+    "Answer": "Yayımı tarihinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, okunan yayınların istatistikleri hangi amaçla düzenlenir?",
+    "A": "Ceza infaz kurumlarındaki personel performansını değerlendirmek",
+    "B": "Hükümlülerin eğitim ihtiyaçlarını belirlemek",
+    "C": "Yayınların popülerliğini ölçmek",
+    "D": "Yayın okuma alışkanlıklarını izlemek ve Genel Müdürlüğe raporlamak",
+    "Answer": "Yayın okuma alışkanlıklarını izlemek ve Genel Müdürlüğe raporlamak",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

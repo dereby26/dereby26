@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, eğer kurumda öğretmen bulunmazsa, kütüphane veya kitaplıkların yönetimi için kim görevlendirilir?",
+    "A": "Kurum en üst amiri tarafından bir personel",
+    "B": "Ceza infaz kurumu müdürü",
+    "C": "Eğitim kurulunun kararıyla görevlendirilen kişi",
+    "D": "Güvenlik görevlisi",
+    "Answer": "Kurum en üst amiri tarafından bir personel",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane veya kitaplık sorumlusuna yardımcı olarak çalıştırılabilecek hükümlü veya tutuklular hangi özelliklere sahip olmalıdır?",
+    "A": "Yalnızca erkek olmaları gerekir",
+    "B": "İyi halli ve öğrenim seviyesi yüksek olmaları gerekir",
+    "C": "Yalnızca tutuklu olmaları gerekir",
+    "D": "Ceza infaz kurumu müdürüne yakın olmaları gerekir",
+    "Answer": "İyi halli ve öğrenim seviyesi yüksek olmaları gerekir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hangi durumda tutuklular kütüphane veya kitaplık sorumlusuna yardımcı olarak çalıştırılabilir?",
+    "A": "İdare ve gözlem kurulu kararıyla",
+    "B": "Sadece ceza infaz kurumu müdürünün izniyle",
+    "C": "Sadece eğitim kurulu kararıyla",
+    "D": "Tutukluların kendi isteğiyle",
+    "Answer": "İdare ve gözlem kurulu kararıyla",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane veya kitaplık sorumlusuna yardımcı olarak çalıştırılacak hükümlülerin ve tutukluların hangi özelliklere sahip olması beklenir?",
+    "A": "Yüksek güvenlik riskine sahip olmamalıdırlar",
+    "B": "Sadece kitap okuma konusunda bilgili olmalıdırlar",
+    "C": "İyi halli ve öğrenim seviyesi yüksek olmalıdırlar",
+    "D": "Ceza infaz kurumunun her bölgesinde görevli olmalıdırlar",
+    "Answer": "İyi halli ve öğrenim seviyesi yüksek olmalıdırlar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, aşağıdakilerden hangisi kütüphanecinin görevleri arasında yer almaz?",
+    "A": "Yayınların bakım ve muhafazasından, dağıtılıp toplanmasından, kütüphane ve kitaplığın düzen ve temizliğinden, her türlü eksikliklerinin giderir.",
+    "B": "Herhangi bir nedenle bu görevden ayrılanların, ayrılmadan önce üzerlerinde zimmetli bulunan eşya ve yayınları, göreve yeni atananlara veya kurum en üst amirinin belirleyeceği personele devir- teslim tutanağı karşılığında teslim eder.",
+    "C": "Her yıl sonunda, bütün yayın ve eşyaların sayımının yapılarak “Sayım Cetvel ve Sayım Tutanağı” düzenlenmesinden ve bu tutanağın birer suretinin özel kartonunda saklar.",
+    "D": "Kurum personelleri ile sadece sabah sayımlarına katılır.",
+    "Answer": "Kurum personelleri ile sadece sabah sayımlarına katılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane ve kitaplık görevlilerinin sorumlulukları arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "Görevlerine başlarken, kütüphane ve kitaplıklarda bulunan yayınlar ile dolap, raf, masa ve sandalye gibi eşyaları sayarak teslim alınmasından,",
+    "B": "Altı ayda bir, bütün yayın ve eşyaların sayımının yapılarak “Sayım Cetvel ve Sayım",
+    "C": "",
+    "D": "",
+    "Answer": "Altı ayda bir, bütün yayın ve eşyaların sayımının yapılarak “Sayım Cetvel ve Sayım",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane ve kitaplıklarda görevli personel, hangi eşyaların teslim alınmasından sorumludur?",
+    "A": "Sadece kitaplar",
+    "B": "Sadece bilgisayarlar ve teknoloji ekipmanları",
+    "C": "Kitaplar, dolaplar, raflar, masa ve sandalyeler",
+    "D": "Sadece kitap ve dergiler",
+    "Answer": "Kitaplar, dolaplar, raflar, masa ve sandalyeler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, görevden ayrılan personel, üzerlerinde zimmetli bulunan eşyayı kime teslim eder?",
+    "A": "Sadece kurum müdürüne",
+    "B": "Yeni atanan personele veya kurum en üst amirinin belirleyeceği personele",
+    "C": "Kütüphane yönetimine",
+    "D": "Yalnızca kurumun güvenlik görevlilerine",
+    "Answer": "Yeni atanan personele veya kurum en üst amirinin belirleyeceği personele",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hangi işlem her yıl sonunda yapılmalıdır?",
+    "A": "Personel eğitimine dair rapor hazırlanmalıdır",
+    "B": "Güvenlik kontrolü yapılmalıdır",
+    "C": "Yayınların dağıtımı gözden geçirilmelidir",
+    "D": "Yayın ve eşyaların sayımı yapılmalı ve Sayım Cetvel ve Sayım Tutanağı düzenlenmelidir",
+    "Answer": "Yayın ve eşyaların sayımı yapılmalı ve Sayım Cetvel ve Sayım Tutanağı düzenlenmelidir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, devir-teslim işlemi ne zaman yapılır?",
+    "A": "Her ay sonunda",
+    "B": "Görevden ayrılmadan önce",
+    "C": "Sadece yıllık olarak",
+    "D": "Her üç ayda bir",
+    "Answer": "Görevden ayrılmadan önce",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında aşağıdakilerden hangisi Yönerge ’ye göre belirtilen sorumluluklardan biri değildir?",
+    "A": "Kütüphane veya kitaplık görevlileri, yayınların kasıt veya ihmal sonucu kayıp ve tahrip edilmesinden sorumludur.",
+    "B": "Yayınlar, kullanım süresini uzatmak için, türlerine göre kaplanır veya ciltlenir. Cilt işleri, iş yurdu cilt atölyelerinde yaptırılır. Kurumda iş yurdu bulunmuyorsa, yayının adı ve sayfa adetini gösteren listeler düzenlenip imza karşılığı teslim edilerek, cilt atölyesi bulunan en yakın ceza infaz kurumu iş yurdu müdürlüğüne gönderilir ve ciltlenmeleri sağlanır.",
+    "C": "Okunan yayınların istatistikleri ceza infaz kurumu idaresince tutulur ve bu istatistiki bilgiler üçer aylık ve yıllık olarak düzenlenerek Genel Müdürlüğe gönderilir. Ayrıca bu bilgiler ilgililerin istifadelerine sunulmak üzere özel dosyalarında saklanır.",
+    "D": "Kütüphane veya kitaplık görevlileri, yayınların kaybolması durumunda ilgili masrafları ceza infaz kurumu karşılamakla yükümlüdür.",
+    "Answer": "Kütüphane veya kitaplık görevlileri, yayınların kaybolması durumunda ilgili masrafları ceza infaz kurumu karşılamakla yükümlüdür.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, kütüphane veya kitaplık görevlileri, hangi durumdan sorumludur?",
+    "A": "Yayınların kaybolmasından",
+    "B": "Yayınların taşınmasından",
+    "C": "Yayınların kayıp ve tahrip edilmesinden",
+    "D": "Yayınların ödünç verilmesinden",
+    "Answer": "Yayınların kayıp ve tahrip edilmesinden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, yayınların kullanım süresini uzatmak için ne yapılır?",
+    "A": "Yayınlar taşınır ve yeniden dağıtılır",
+    "B": "Yayınlar dijital ortama aktarılır",
+    "C": "Yayınlar kaplanır veya ciltlenir",
+    "D": "Yayınlar kütüphane dışında depolanır",
+    "Answer": "Yayınlar kaplanır veya ciltlenir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, ciltleme ve kaplama işlemi hangi kurumda yapılır?",
+    "A": "Kütüphanede",
+    "B": "İşyurdu cilt atölyelerinde",
+    "C": "Ceza infaz kurumunun sağlık biriminde",
+    "D": "Ceza infaz kurumu idaresinde",
+    "Answer": "İşyurdu cilt atölyelerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, okunan yayınların istatistikleri kim tarafından tutulur?",
+    "A": "Ceza infaz kurumu idaresi",
+    "B": "Genel Müdürlük",
+    "C": "Eğitim kurulu",
+    "D": "Güvenlik birimi",
+    "Answer": "Ceza infaz kurumu idaresi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, okunan yayınların istatistikleri ne zaman Genel Müdürlüğe gönderilir?",
+    "A": "Aylık olarak",
+    "B": "Yıllık olarak",
+    "C": "Üçer aylık ve yıllık olarak",
+    "D": "Haftalık olarak",
+    "Answer": "Üçer aylık ve yıllık olarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hangi durumda yayınlar ciltlenir ve kaplanır?",
+    "A": "Yayınların ilk kez kütüphaneye alınması sırasında",
+    "B": "Yayınların yıpranması veya kullanıma uygun hale gelmesi için",
+    "C": "Yayınların envantere kaydedilmesi sırasında",
+    "D": "Yayınlar sadece sayım sırasında kaplanır",
+    "Answer": "Yayınların yıpranması veya kullanıma uygun hale gelmesi için",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, ciltleme ve kaplama işi için hangi tür gider karşılanır?",
+    "A": "Kütüphanedeki çalışan personel gideri",
+    "B": "Yayınların alım giderleri",
+    "C": "Ciltleme ve kaplama işlemi için bütçeden karşılanacak giderler",
+    "D": "Eğitim giderleri",
+    "Answer": "Ciltleme ve kaplama işlemi için bütçeden karşılanacak giderler",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, okunan yayınların istatistiki bilgileri kaç aylık ve yıllık olarak düzenlenerek Genel Müdürlüğe gönderilir?",
+    "A": "On iki",
+    "B": "Bir",
+    "C": "Altı",
+    "D": "Üç",
+    "Answer": "Üç",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumları Kitaplık ve Kütüphane Yönergesi kapsamında, hükümlü ve tutuklular ile personelin yayınlara olan ilgisini artırmak amacıyla ne tür etkinlikler düzenlenir?",
+    "A": "Eğitici kitap okuma programları",
+    "B": "Özendirici konferans ve seminerler",
+    "C": "Haftalık yayın ödülleri",
+    "D": "Eğitim seminerleri ve film gösterimleri",
+    "Answer": "Özendirici konferans ve seminerler",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
