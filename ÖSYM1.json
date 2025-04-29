@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, protokol kapsamında yer alan sınavlarla ilgili hizmetler arasında aşağıdakilerden hangisi bulunur?",
+    "A": "Sınav görevlisi atamaları",
+    "B": "Yemek hizmetlerinin sağlanması",
+    "C": "Rehberlik danışmanlığı sunulması",
+    "D": "Sağlık hizmetleri sağlanması",
+    "Answer": "Sınav görevlisi atamaları",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, protokol hangi hizmetleri kapsar?",
+    "A": "Ceza infaz kurumlarındaki sağlık hizmetlerini",
+    "B": "Ceza infaz kurumlarındaki sosyal etkinlikleri",
+    "C": "Eğitim programlarının düzenlenmesini",
+    "D": "Ceza infaz kurumlarında sınav güvenliği ve sınav hizmetlerini",
+    "Answer": "Ceza infaz kurumlarında sınav güvenliği ve sınav hizmetlerini",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, protokol kimler arasında düzenlenmiştir?",
+    "A": "Adalet Bakanlığı, Sağlık Bakanlığı ve ÖSYM Başkanlığı",
+    "B": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı",
+    "C": "Adalet Bakanlığı, Milli Eğitim Bakanlığı ve ÖSYM Başkanlığı",
+    "D": "İçişleri Bakanlığı, Milli Eğitim Bakanlığı ve Adalet Bakanlığı",
+    "Answer": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi protokol kapsamında yanlıştır?",
+    "A": "Adalet Bakanlığı Ceza ve Tevkifevleri Genel Müdürlüğü’nün tüm kurumları ve Başvuru Merkezi Yetkililerini (BMY) ÖSYM’ye bildirmesi.",
+    "B": "ÖSYM, CTEGM tarafından bildirilen kurumları başvuru merkezi olarak tanımlar. BMY, ise kurumda düzenlenecek sınavda görev alacak personelin sisteme tanımlamasını yapar.",
+    "C": "Belirli açılan kurumlar ve görevli değişiklikleri, CTEGM tarafından ivedilikle Adalet Bakanlığına bildirilir. Bu bildirimlere göre Adalet Bakanlığı gerekli düzenlemeyi yapar.",
+    "D": "Sınava ilişkin ayrıntılı bilgi, ilgili sınav kılavuzunda yer alır. Sınav kılavuzu, başvuru tarihlerinde ÖSYM'nin internet sayfasında yayımlanır. Sınav kılavuzunda belirtilen usul ve esaslar doğrultusunda başvuru merkezi yetkilisi, adayların başvurularını alır. BMY, kurumda bir başka görevliyi de başvuru alma konusunda yetkili kılabilir. Kurumlardan başvuru yapan adaylar, başvurularını kendi kurumlarındaki başvuru merkezi aracılığı ile yapar ve ilgili sınav kılavuzunda belirtilen esaslara göre sınav ücretlerini yatırır.",
+    "Answer": "Belirli açılan kurumlar ve görevli değişiklikleri, CTEGM tarafından ivedilikle Adalet Bakanlığına bildirilir. Bu bildirimlere göre Adalet Bakanlığı gerekli düzenlemeyi yapar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, aşağıdakilerden hangisi protokol kapsamında yapılacak faaliyetlerden değildir?",
+    "A": "Başvuru Merkezi Yetkilisi (BMY), ilgili sınavın başvuru süresince mesai saatleri dışında da başvuru alabilir.",
+    "B": "BMY, aday tarafından ibraz edilen belgeleri inceledikten sonra adayın başvurusunu alır. İlgili belgeler, başvuru merkezi yetkilisi tarafından dosyalanır ve bir takvim yılı süresince saklanır. Söz konusu belgeler, ÖSYM tarafından talep edildiğinde ÖSYM'ye gönderilir.",
+    "C": "Belirli açılan kurumlar ve görevli değişiklikleri, Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM) tarafından ivedilikle ÖSYM’ye bildirilir. Bu bildirimlere göre ÖSYM gerekli düzenlemeyi yapar.",
+    "D": "BMY, ceza infaz kurumunun bulunduğu yer ile bağlı olmaksızın hükümlü/tutuklu adayların başvuru sırasında belirttiği tercihe uygun olarak il/ilçe sınav merkezini seçer.",
+    "Answer": "Başvuru Merkezi Yetkilisi (BMY), ilgili sınavın başvuru süresince mesai saatleri dışında da başvuru alabilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, sınava girecek adayların atama işlemleriyle ilgili olarak aşağıdakilerden hangisi protokol kapsamında yer alan faaliyetlerden değildir?",
+    "A": "Sınavlara katılacak adayların verileri elektronik ortamda alınacaktır. CTEGM, ilgili sınavın uygulanma tarihinden en geç 15 gün önce sınava katılacak adaylara ait verileri ÖSYM ile elektronik ortamda paylaşır. Elektronik ortamda entegrasyonun sağlanması hususunda Adalet Bakanlığı ve ÖSYM iş birliği yapar.",
+    "B": "Sınav tarihinden en geç 15 gün önce bildirilen adayların sınava ilişkin atama bilgilerinin kurumlara iletilmesi; bildirilmeyen veya hatalı yapılan aday bildirimleri için herhangi bir işlem yapılmaz. Adaylara ilişkin atama sonuçları sistem üzerinden CTEGM’ye bildirilir.",
+    "C": "Sınav tarihinden 15 gün önce sınava başvuran ve sınav ücretini yatıran adayların atama bilgileri, ceza infaz kurumu sorumlusu olan başvuru merkezi yetkilisi (BMY) tarafından elektronik ortamda ÖSYM’ye bildirilir. Bu bildirimler, Adalet Bakanlığı ile ÖSYM arasında oluşturulacak web servisi üzerinden yapılır.",
+    "D": "UYAP-ÖSYM entegrasyonu ile Protokol’de belirtilen kurallar dahilinde adayların ataması ceza infaz kurumu binalarına yapılacaktır. Atama işlemleri tamamlandıktan sonra, tahliye işlemleri haricinde adaylar için herhangi bir sınav merkezi değişikliği yapılamaz. Atama sonuçları evrakı CTEGM’ye APS yolu ile bildirilir.",
+    "Answer": "UYAP-ÖSYM entegrasyonu ile Protokol’de belirtilen kurallar dahilinde adayların ataması ceza infaz kurumu binalarına yapılacaktır. Atama işlemleri tamamlandıktan sonra, tahliye işlemleri haricinde adaylar için herhangi bir sınav merkezi değişikliği yapılamaz. Atama sonuçları evrakı CTEGM’ye APS yolu ile bildirilir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, Adalet Bakanlığı Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM) hangi bilgileri ÖSYM'ye bildirir?",
+    "A": "Yalnızca sınav tarihlerini",
+    "B": "Sadece sınav ücretlerini",
+    "C": "Tüm kurumları ve başvuru merkezi yetkililerini (BMY)",
+    "D": "Eğitim programları ile ilgili bilgileri",
+    "Answer": "Tüm kurumları ve başvuru merkezi yetkililerini (BMY)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, sınav kılavuzları nerede ve ne zaman yayımlanır?",
+    "A": "Adalet Bakanlığı’nın internet sitesinde yıl sonunda",
+    "B": "ÖSYM’nin internet sayfasında başvuru tarihlerinde",
+    "C": "İçişleri Bakanlığı’nın duyuru panosunda ay başında",
+    "D": "Ceza infaz kurumlarının girişinde",
+    "Answer": "ÖSYM’nin internet sayfasında başvuru tarihlerinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, kurumdan başvuru yapan adaylar sınav başvurularını nasıl yapar?",
+    "A": "ÖSYM'nin merkezinde yüz yüze başvuru yapar",
+    "B": "Sadece telefonla başvurabilir",
+    "C": "Kurum dışındaki başvuru merkezlerine gitmelidir",
+    "D": "Kendi kurumlarındaki başvuru merkezi aracılığıyla başvuru yapar",
+    "Answer": "Kendi kurumlarındaki başvuru merkezi aracılığıyla başvuru yapar",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, BMY sınav başvurularını hangi zaman diliminde alabilir?",
+    "A": "Mesai saatleri dışında",
+    "B": "Sadece hafta sonları",
+    "C": "Sadece mesai saatleri içinde",
+    "D": "Her zaman",
+    "Answer": "Sadece mesai saatleri içinde",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, başvuru sırasında BMY tarafından alınan belgeler ne kadar süreyle saklanır?",
+    "A": "Altı ay",
+    "B": "Bir takvim yılı",
+    "C": "Üç yıl",
+    "D": "Süresiz",
+    "Answer": "Bir takvim yılı",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, hükümlü veya tutuklu adaylar sınav başvurusunda il/ilçe sınav merkezini nasıl belirler?",
+    "A": "Rastgele bir merkez seçer",
+    "B": "BMY’nin önerisi doğrultusunda belirler",
+    "C": "Yazılı beyanıyla tercihini belirterek il/ilçe sınav merkezini seçer",
+    "D": "İkamet adresine göre sistem otomatik olarak belirler",
+    "Answer": "Yazılı beyanıyla tercihini belirterek il/ilçe sınav merkezini seçer",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, sınava girecek adayların atama işlemleriyle ilgili olarak aşağıdakilerden hangisi protokol kapsamında yer alan faaliyetlerden değildir?",
+    "A": "Kapalı ve açık ceza infaz kurumunun bulunduğu ilin, sınav merkezi olmaması durumunda adayın, sınav merkezi olan en yakın il veya ilçeye atanması",
+    "B": "Bağlı açık veya müstakil açık ceza infaz kurumlarında bulunan adayların, geçerli kimlik belgesi ve sınava giriş belgesi ile birlikte ÖSYM tarafından belirlenen sınav merkezlerinde sınavlara alınması",
+    "C": "Atama yapılacak bina müstakil yerleşkede veya kampüste ise adayların atamalarının, bulundukları ceza infaz kurumuna yapılması",
+    "D": "Adayların sınav salon atamalarındaki sınıflandırmanın kadın ve erkek ayrımına riayet edilerek 4 gruba göre yapılması; bu 4 suç grubunun CTEGM tarafından elektronik ortamda ÖSYM Bilgi Güvenliği ve Yönetimi Daire Başkanlığına bildirilmesi",
+    "Answer": "Adayların sınav salon atamalarındaki sınıflandırmanın kadın ve erkek ayrımına riayet edilerek 4 gruba göre yapılması; bu 4 suç grubunun CTEGM tarafından elektronik ortamda ÖSYM Bilgi Güvenliği ve Yönetimi Daire Başkanlığına bildirilmesi",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre:",
+    "A": "Aday sayısının 10 ve 10’dan az olması durumunda, kampüs içerisinde veya aynı yerleşke içerisindeki kapalı ceza infaz kurumlarında, suç grubuna dikkat edilmek kaydıyla kampüste yer alan diğer kapalı ceza infaz kurumları ile birleştirme yapılarak sınav düzenlenir. Aday sayısının 10’dan büyük olması, suç grubu ve cinsiyetinin aynı olması halinde ise bulundukları ceza infaz kurumunda sınava alınmaları sağlanır.",
+    "B": "İlgili sınavın son haftasında bildirilen adayların ise ÖSYM’ye atamaları yapılarak, yedek sınav evrakı ile sınava alınmaları sağlanır.",
+    "C": "Aday atama işlemleri için Adalet Bakanlığı ve ÖSYM’nin kullanmakta olduğu bilişim sistemleri arasında entegrasyon sağlanacaktır. Adaylara ait verilerin sisteme doğru girilmesine ilişkin sorumluluk, başvuru merkezi yetkilisine aittir.",
+    "D": "Adayların ÖSYM tarafından yapılacak sınavlara atama işlemleri; ceza infaz kurumu sınav binası atama süreci ile YSYM binası atama-tahliye süreci olmak üzere iki aşamada gerçekleştirilecektir.",
+    "Answer": "Aday sayısının 10 ve 10’dan az olması durumunda, kampüs içerisinde veya aynı yerleşke içerisindeki kapalı ceza infaz kurumlarında, suç grubuna dikkat edilmek kaydıyla kampüste yer alan diğer kapalı ceza infaz kurumları ile birleştirme yapılarak sınav düzenlenir. Aday sayısının 10’dan büyük olması, suç grubu ve cinsiyetinin aynı olması halinde ise bulundukları ceza infaz kurumunda sınava alınmaları sağlanır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre:",
+    "A": "Ceza infaz kurumu sınav binası atama süreci; ilgili sınav kılavuzunda yer alan sınav merkezlerinde bulunan ceza infaz kurumu binalarına yapılacak olan atama sürecini ifade eder. Adayların Türkiye Cumhuriyeti kimlik numarası, sınav merkezi kodu, bina kodu ve salon numarası bilgilerinin aktarımı için sistem, en geç ilgili sınavın uygulanma tarihinden bir önceki hafta Perşembe günü saat 17.00’ye kadar açık kalacaktır. Yine aynı haftanın Cuma günü mesai bitimine kadar uygulama problemi yaşanan aday kitlesinin ÖSYM’ye bildirilmesi halinde, ÖSYM tarafından uygun atama işlemi yapılacaktır.",
+    "B": "YSYM binası atama ve tahliye süreci; ceza infaz kurumu sınav binası atama süreci sistem üzerinden tamamlandıktan sonra tahliye ve sevk olanlar ile kuruma yeni gelen hükümlü/tutuklu adaylar için uygulanacak olan süreci ifade eder. Kurum sınav binasına ataması gerçekleştirildikten sonra tahliye olan aday; sınav merkezi tercihinde 1’inci sırada belirtilen sınav merkezine, yani ilk atama yerine yönlendirilecektir. Adayların Türkiye Cumhuriyeti kimlik numarası ve sınav merkezi kodu bilgilerinin ÖSYM sistemine aktarımı için sistem, en geç ilgili sınavın uygulanacağı hafta Cuma günü saat 12.00’ya kadar açık kalacaktır.",
+    "C": "Atama işlemleri tamamlandıktan sonra, tahliye işlemleri haricinde adaylar için herhangi bir sınav merkezi değişikliği yapılamaz. Tahliye olan adayların atamaları, sınav merkezi tercihinde belirtmiş oldukları sınav merkezlerinden birine yapılır.",
+    "D": "Atama işlemleri bittikten sonra kuruma gelen adaylar, ÖSYM binalarında sınava alınır. Bunun için ilgili sınav öncesi son Cuma günü saat 16.00’ya kadar kurum tarafından ÖSYM’ye bildirim yapılır. Entegrasyon sürecinin tamamlanmasını müteakip, sınavdan önceki son Perşembe günü saat 16.00’ya kadar son kez sorgu yapılır ve değişiklik olması halinde gerekli atama işlemi yapılır. Atamalar yapıldıktan sonraki değişiklikler CTEGM tarafından ÖSYM’ye bildirilir.",
+    "Answer": "YSYM binası atama ve tahliye süreci; ceza infaz kurumu sınav binası atama süreci sistem üzerinden tamamlandıktan sonra tahliye ve sevk olanlar ile kuruma yeni gelen hükümlü/tutuklu adaylar için uygulanacak olan süreci ifade eder. Kurum sınav binasına ataması gerçekleştirildikten sonra tahliye olan aday; sınav merkezi tercihinde 1’inci sırada belirtilen sınav merkezine, yani ilk atama yerine yönlendirilecektir. Adayların Türkiye Cumhuriyeti kimlik numarası ve sınav merkezi kodu bilgilerinin ÖSYM sistemine aktarımı için sistem, en geç ilgili sınavın uygulanacağı hafta Cuma günü saat 12.00’ya kadar açık kalacaktır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, sınavlara katılacak adayların verileri hangi şekilde alınacaktır?",
+    "A": "Elektronik ortamda",
+    "B": "El yazısıyla kayıt alınarak",
+    "C": "Telefon üzerinden",
+    "D": "Posta yoluyla",
+    "Answer": "Elektronik ortamda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, Ceza ve Tevkifevleri Genel Müdürlüğü (CTEGM), sınava katılacak adayların verilerini ÖSYM ile en geç ne zaman paylaşmalıdır?",
+    "A": "Sınav tarihinden 30 gün önce",
+    "B": "Sınav tarihinden en geç 15 gün önce",
+    "C": "Sınav tarihinden bir hafta önce",
+    "D": "Sınav günü",
+    "Answer": "Sınav tarihinden en geç 15 gün önce",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olark Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, elektronik ortamda veri entegrasyonunun sağlanması konusunda hangi iki kurum iş birliği yapacaktır?",
+    "A": "Adalet Bakanlığı ve İçişleri Bakanlığı",
+    "B": "ÖSYM ve İçişleri Bakanlığı",
+    "C": "Adalet Bakanlığı ve ÖSYM",
+    "D": "İçişleri Bakanlığı ve Sağlık Bakanlığı",
+    "Answer": "Adalet Bakanlığı ve ÖSYM",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, sınava girecek adayların atama işlemleriyle ilgili olarak aşağıdakilerden hangisi protokol kapsamında yer alan faaliyetlerden biri değildir?",
+    "A": "Denetimli serbestlik tedbiri altında olup elektronik cihazlarla takibi yapılan şüpheli, sanık ve hükümlülerin, üzerlerindeki cihazlarla sınav binalarına alınmaması",
+    "B": "Yükümlülerin üzerlerindeki takip cihazları ile sınava girmeleri, sınav esnasında gerekli güvenlik önlemleri alınarak sağlanması",
+    "C": "Şüpheli, sanık ve hükümlülerin sınav esnasında üzerlerindeki cihazlarla birlikte sınava girmemesi",
+    "D": "Takip cihazlarının takibini yapan DSM tarafından sınav öncesinde cihazların çıkarılması ve teslim alınması işlemlerinin yapılması",
+    "Answer": "Yükümlülerin üzerlerindeki takip cihazları ile sınava girmeleri, sınav esnasında gerekli güvenlik önlemleri alınarak sağlanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre,",
+    "A": "Sınav görevlilerinin, ÖSYM tarafından verilen görev ve kurum bilgilerinin yer aldığı fotoğraflı görev kartı ile T.C. Kimlik Kartı, nüfus cüzdanı veya geçerli pasaportlarını kurum girişinde ibraz etmek zorundadır.",
+    "B": "Görevliler, kurumlara girişlerinde; telefon, sim kart, flaş bellek gibi elektronik araç gereçler ile ilaç, yiyecek-içecek ve kuruma girişleri ikincil mevzuat ile yasaklanan diğer maddeleri yanlarında bulunduramaz. Güvenlik görevlileri tarafından kuruma girişte yapılan aramada sınav görevlilerinden teslim alınan eşyalar, çıkışta kendilerine teslim edilmek üzere uygun bir alanda muhafaza edilir.",
+    "C": "Sınav görevlileri, 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Hizmetleri Hakkında Kanun, 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun, Adayların ve Sınav Görevlilerinin Sınav Binalarına Giriş Koşullarına İlişkin Yönetmelik, Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik ile Hükümlü ve Tutukluların Ziyaret Edilmeleri Hakkında Yönetmelik hükümleri çerçevesinde aranır.",
+    "D": "Mevzuatta belirtilen ve elle arama yapılmasını gerektiren hallerde, ceza infaz kurumunda sınava girecek olan kadın adaylar, kadın güvenlik personeli tarafından aranır. Kurumda kadın güvenlik personeli bulunmaması ve bu ihtiyacın mahaldeki başka bir ceza infaz kurumundan karşılanamaması halinde, Cumhuriyet Başsavcılığının talebi üzerine mülki amirlikçe görevlendirilecek erkek görevliler tarafından arama işlemi yapılır.",
+    "Answer": "Mevzuatta belirtilen ve elle arama yapılmasını gerektiren hallerde, ceza infaz kurumunda sınava girecek olan kadın adaylar, kadın güvenlik personeli tarafından aranır. Kurumda kadın güvenlik personeli bulunmaması ve bu ihtiyacın mahaldeki başka bir ceza infaz kurumundan karşılanamaması halinde, Cumhuriyet Başsavcılığının talebi üzerine mülki amirlikçe görevlendirilecek erkek görevliler tarafından arama işlemi yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, sınav tarihinden en geç kaç gün önce adayların atama bilgileri kurumlara iletilir?",
+    "A": "30 gün önce",
+    "B": "15 gün önce",
+    "C": "10 gün önce",
+    "D": "5 gün önce",
+    "Answer": "15 gün önce",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, bildirimi yapılmayan veya hatalı yapılan aday bildirimleri için ne yapılır?",
+    "A": "Düzeltme yapılır",
+    "B": "Adaylara ek süre tanınır",
+    "C": "Herhangi bir işlem yapılmaz",
+    "D": "Sınav günü telafi edilir",
+    "Answer": "Herhangi bir işlem yapılmaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, sınav ücretini yatıran adayların atama bilgileri hangi yöntemle ÖSYM’ye bildirilir?",
+    "A": "Yazılı başvuru ile",
+    "B": "Elektronik ortamda web servis üzerinden",
+    "C": "Telefonla bildirilerek",
+    "D": "Kurum yetkilisi tarafından şahsen iletilerek",
+    "Answer": "Elektronik ortamda web servis üzerinden",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, ceza infaz kurumlarında sınav merkezi değişikliği hangi durumda yapılabilir?",
+    "A": "Adayın isteğine bağlı olarak",
+    "B": "Sınav tarihine yakın bir zamanda",
+    "C": "Adayın sağlık durumuna göre",
+    "D": "Tahliye işlemleri haricinde değişiklik yapılamaz",
+    "Answer": "Tahliye işlemleri haricinde değişiklik yapılamaz",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, adayların sınav salonlarına yerleştirilmesinde hangi kriter dikkate alınır?",
+    "A": "Adayların yaş grubu",
+    "B": "Eğitim durumu",
+    "C": "Kadın ve erkek ayrımı ile 5 suç grubuna göre sınıflandırma",
+    "D": "Adayların talep ettikleri salonlar",
+    "Answer": "Kadın ve erkek ayrımı ile 5 suç grubuna göre sınıflandırma",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, görevlilerin kuruma girişi, üst araması, kontrolleri, görevlilerin atanması ve sınavın yürütülmesi ile ilgili olarak aşağıdakilerden hangisi protokol kapsamında yer alan faaliyetlerden değildir?",
+    "A": "ÖSYM tarafından sınav kılavuzunda belirtilen merkezlerde, sınav binası olarak belirlenen kurumlar ve diğer kurumlardan nakledilen adaylar, ilgili kurum müdürlüğü tarafından kendilerine verilen sınava giriş belgesi ve fotoğraflı ceza infaz kurumu kimlik belgesiyle sınav binasına ve sınav salonuna alınır.",
+    "B": "Taşınan sınav evrakı taşıma kutuları açılmaksızın, sınav nakil araçları aranır ve bu araçların sınavın yapılacağı bina önüne kadar gitmelerine izin verilir. Sınav evrakı taşıma kutuları, kilitleri açılmaksızın x-ray cihazı veya benzeri güvenlik sisteminden geçirilmek suretiyle binaya alınır. Güvenlik (kolluk) görevlisi, sınav evrakı taşıma kutularının BSS’ye teslim edilmesi işlemine kadar nezaret eder. Sınav evrakı, bina girişinde BSS tarafından imza karşılığı teslim alınır.",
+    "C": "Sınav binası olarak belirlenmiş kurumun müdürü ya da müdür tarafından görevlendirilen ikinci müdür, ÖSYM tarafından o kurumun bina yöneticisi olarak atanır. Bina yöneticisi; bina sınav sorumlusu ve yardımcısına, sınav hazırlık ve yürütme çalışmalarını yapabilecekleri ortamı 'bina sınav sorumlusu (BSS) odası' olarak tahsis eder. Ayrıca bina yöneticisi; aday ve görevlilerin salonlara giriş, çıkış ve kontrollerini yönetir.",
+    "D": "Sınav evrakı kutusunun x-ray cihazından geçişi esnasında, kuruma girmesi sakıncalı herhangi bir nesnenin tespiti durumunda sınav evrakı kutusunun kuruma girişine izin verilmez. Bu durum sınav koordinatörlüğü aracılığıyla derhal ÖSYM’ye bildirilir ve ÖSYM Başkanlığının vereceği karara göre işlem yapılır. Sınav evrakı kutusunun kuruma alınmadığı durumlarda, sınavın türü ve doğabilecek her türlü masraf, Hazine ve Maliye Bakanlığına aittir.",
+    "Answer": "Sınav evrakı kutusunun x-ray cihazından geçişi esnasında, kuruma girmesi sakıncalı herhangi bir nesnenin tespiti durumunda sınav evrakı kutusunun kuruma girişine izin verilmez. Bu durum sınav koordinatörlüğü aracılığıyla derhal ÖSYM’ye bildirilir ve ÖSYM Başkanlığının vereceği karara göre işlem yapılır. Sınav evrakı kutusunun kuruma alınmadığı durumlarda, sınavın türü ve doğabilecek her türlü masraf, Hazine ve Maliye Bakanlığına aittir.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, görevlilerin kuruma girişi, üst araması, kontrolleri, görevlilerin atanması ve sınavın yürütülmesi ile ilgili olarak aşağıdakilerden hangisi protokol kapsamında yer alan faaliyetlerden değildir?",
+    "A": "Sınav evrakı kutusu, kesinlikle bina sınav sorumlusu odası dışında açılmaz. Sınav evrakı taşıma kutuları sadece bina sınav sorumlusu (BSS) odasında, saate entegre kameranın çalıştırılmasından sonra açılır.",
+    "B": "BSS odasında açılan sınav evrakı kutusundan çıkan salon sınav evrakı poşeti, sınav başlamadan önce salon başkanına teslim edilir. Salon başkanı, salon sınav evrakı poşetini muhakkak sınav salonunda ve adayların önünde açar. Bu poşet; arama, içine bakma vb. hiçbir gerekçe ile sınav salonu dışında açılmaz.",
+    "C": "ÖSYM tarafından her sınav binasına; 1 bina sınav sorumlusu, 1 bina sınav sorumlusu yardımcısı, 1 bina yöneticisi, 1 bina denetim ve cihaz yöneticisi ve her bir salona salon başkanı ve gözetmen ile en fazla 5 kurum öğretmeni ve her salon için 1 İKBM ya da İKM görevlendirilir. İKBM ve İKM’ler sınav süresince salonun güvenliğinden sorumlu olmak üzere salon başkanının belirteceği kısımda ve sınav salonunun dışında, adayları görebilecek şekilde görev yapar. ÖSYM, sınavı denetlemek üzere ÖSYM temsilcisi görevlendirebilir. ÖSYM tarafından görevlendirilen personele ÖSYM tarafından ücret ödenir.",
+    "D": "Kurum idaresi, yukarıda belirtilen görevlendirmeler haricinde, sınav güvenliğini sağlamak üzere yeteri kadar İKBM ve İKM görevlendirebilir. Bu görevliler sınav sürecinde sınav salonuna yakın bir alanda bulunur. Kurum idaresi tarafından görevlendirilen bu personele ödeme yapılır.",
+    "Answer": "Kurum idaresi, yukarıda belirtilen görevlendirmeler haricinde, sınav güvenliğini sağlamak üzere yeteri kadar İKBM ve İKM görevlendirebilir. Bu görevliler sınav sürecinde sınav salonuna yakın bir alanda bulunur. Kurum idaresi tarafından görevlendirilen bu personele ödeme yapılır.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, kapalı ve açık ceza infaz kurumunun bulunduğu il sınav merkezi değilse, adayın ataması nereye yapılır?",
+    "A": "İlin herhangi bir yerine",
+    "B": "Sınav merkezi olan en yakın il veya ilçeye",
+    "C": "Sadece il merkezine",
+    "D": "Kendi ceza infaz kurumuna",
+    "Answer": "Sınav merkezi olan en yakın il veya ilçeye",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, bağlı açık ve müstakil açık ceza infaz kurumlarında bulunan adaylar hangi koşulda sınava alınır?",
+    "A": "Geçerli kimlik belgesi ve sınava giriş belgesi ile",
+    "B": "Ceza infaz kurumunun belirlediği kimlik ile",
+    "C": "Sadece sınav giriş belgesi ile",
+    "D": "Sadece ÖSYM tarafından sağlanan kimlik ile",
+    "Answer": "Geçerli kimlik belgesi ve sınava giriş belgesi ile",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, atama yapılacak bina müstakil yerleşkede veya kampüste ise adayların ataması nereye yapılır?",
+    "A": "En yakın sınav merkezine",
+    "B": "Bulunduğu ceza infaz kurumuna",
+    "C": "İl merkezindeki bir sınav merkezine",
+    "D": "ÖSYM merkezine",
+    "Answer": "Bulunduğu ceza infaz kurumuna",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, aday sayısının 5 veya daha az olması durumunda sınava nasıl alınır?",
+    "A": "Sınava alınmazlar",
+    "B": "Kendi yerleşkelerinde bağımsız olarak sınava girerler",
+    "C": "Kampüste yer alan diğer kapalı ceza infaz kurumlarıyla birleştirme yapılarak",
+    "D": "Başka bir şehirde sınava alınır",
+    "Answer": "Kampüste yer alan diğer kapalı ceza infaz kurumlarıyla birleştirme yapılarak",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, aday sayısının 5’ten fazla olması ve suç grubu ile cinsiyetinin aynı olması durumunda adaylar nerede sınava alınır?",
+    "A": "Farklı bir sınav merkezinde",
+    "B": "Bulunduğu ceza ve infaz kurumunda",
+    "C": "ÖSYM tarafından belirlenen merkezde",
+    "D": "Başka bir ildeki infaz kurumunda",
+    "Answer": "Bulunduğu ceza ve infaz kurumunda",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, görevlilerin kuruma girişi, üst araması, kontrolleri, görevlilerin atanması ve sınavın yürütülmesi ile ilgili olarak aşağıdakilerden hangisi protokol kapsamında yer alan faaliyetlerden biridir?",
+    "A": "Bina sınav sorumlusunun iletişim kurması gerektiğinde, bu iletişimin ceza infaz kurumu tarafından sağlanması",
+    "B": "Bina sınav sorumlusunun iletişim ihtiyacını kendi cihazlarıyla karşılaması",
+    "C": "Ceza infaz kurumunun iletişim sağlama görevini sınav süresince sınırlandırması",
+    "D": "İletişim işlemlerinin bina sınav sorumlusu tarafından dış kurumlarla sağlanması",
+    "Answer": "Bina sınav sorumlusunun iletişim kurması gerektiğinde, bu iletişimin ceza infaz kurumu tarafından sağlanması",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Adalet Bakanlığı, İçişleri Bakanlığı ve ÖSYM Başkanlığı İş Birliği Protokolü’ne göre, Sınav salonunun hazırlanması ve adayların sınav salonuna alınması ile ilgili olarak aşağıdakilerden hangisi protokol kapsamında yer alan faaliyetlerden değildir?",
+    "A": "Salon sınav evrakı poşeti ile birlikte BSS tarafından salon başkanına teslim edilen çalışır vaziyetteki saate entegre kamera, salon başkanı tarafından sınav salonunda mevcut aparat üzerine takılır. Saate entegre kameranın kayıt işlemi, salon sınav evrakı poşeti açılmadan önce salon başkanı tarafından başlatılır.",
+    "B": "Kurumlarda, kurum müdürü veya ikinci müdür, bina yöneticisi sıfatı ile adayların bilgilerini kontrol eder. Adayların sınav salonuna girişleri ve sınavın uygulanması, BSS gözetiminde yapılır.",
+    "C": "Kurum müdürlüğü, belirlenen sınav salonlarına sınavdan önce saate entegre kamera aparatının monte edilmesini sağlar.",
+    "D": "Sınav başlamadan önce her adayın sınava giriş belgesi ve hükümlü/tutuklu fotoğraflı kimlik belgesini yanında bulundurması zorunludur. Bu belgeleri yanında bulundurmayan adaylar, sınava girmiş olsalar dahi sınavları geçersiz sayılır.",
+    "Answer": "Kurum müdürlüğü, belirlenen sınav salonlarına sınavdan önce saate entegre kamera aparatının monte edilmesini sağlar.",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, ilgili sınavın son haftasında bildirilen adaylar için hangi işlem yapılır?",
+    "A": "Atamaları yapılarak yedek sınav evrakı ile sınava alınmaları sağlanır",
+    "B": "Sınava alınmazlar",
+    "C": "Başvuru süreci tekrar edilir",
+    "D": "Başka bir sınav merkezine yönlendirilirler",
+    "Answer": "Atamaları yapılarak yedek sınav evrakı ile sınava alınmaları sağlanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, adayların verilerinin doğru sisteme girişi hangi yetkiliye aittir?",
+    "A": "ÖSYM personeline",
+    "B": "Cezaevi müdürüne",
+    "C": "Başvuru merkezi yetkilisine (BMY)",
+    "D": "İçişleri Bakanlığı yetkilisine",
+    "Answer": "Başvuru merkezi yetkilisine (BMY)",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, ceza infaz kurumu sınav binası atama süreci en geç hangi gün ve saatte tamamlanır?",
+    "A": "Sınavdan önceki Çarşamba günü saat 17.00",
+    "B": "Sınavdan önceki Perşembe günü saat 17.00",
+    "C": "Sınav günü saat 09.00",
+    "D": "Sınavdan bir hafta önce saat 12.00",
+    "Answer": "Sınavdan önceki Perşembe günü saat 17.00",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, tahliye olan adayların sınav merkezi tercihi nasıl yapılır?",
+    "A": "Otomatik olarak en yakın sınav merkezine atanır",
+    "B": "En yakın ilçedeki sınav merkezine atanır",
+    "C": "Başka bir tercih yapılmaz",
+    "D": "Sınav merkezi tercihinde 1. sırada belirttiği sınav merkezine yönlendirilir",
+    "Answer": "Sınav merkezi tercihinde 1. sırada belirttiği sınav merkezine yönlendirilir",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olarak Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, denetimli serbestlik tedbiri altında olup elektronik cihaz ile takibi yapılan şüpheli, sanık ve hükümlüler için hangi işlem yapılır?",
+    "A": "Cihazları ile sınav binalarına alınırlar",
+    "B": "Cihazların sınav öncesinde sökülüp teslim edilmesi sağlanır",
+    "C": "Cihaz takılıyken sınava alınırlar",
+    "D": "Sadece belirli sınav merkezlerine atanırlar",
+    "Answer": "Cihazların sınav öncesinde sökülüp teslim edilmesi sağlanır",
+    "Image": 1,
+    "Explaination": 1
+  },
+  {
+    "Question": "Ceza İnfaz Kurumlarında Hükümlü ve Tutuklu Olark Bulunan Adayların Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (ÖSYM) Tarafından Yapılan Sınavlara Başvuruları ve Sınava Alınmaları İle Sınav Görevlilerinin Görev ve İşlemleri Hakkındaki Protokole göre, ceza infaz kurumunda bulunan adayların Türkiye Cumhuriyeti kimlik numarası, sınav merkezi kodu, bina kodu ve salon numarası bilgileri en geç hangi gün saat kaçta sisteme aktarılmalıdır?",
+    "A": "Sınav haftasındaki Perşembe günü saat 17.00",
+    "B": "Sınav gününden bir gün önce saat 12.00",
+    "C": "Sınav haftasındaki Cuma günü saat 16.00",
+    "D": "Sınav haftasındaki Çarşamba günü saat 10.00",
+    "Answer": "Sınav haftasındaki Cuma günü saat 16.00",
+    "Image": 1,
+    "Explaination": 1
+  }
+]
