@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Sadece bir sandalyeye boya damlattığını, ancak arkadaşının tüm sınıfı kirlettiğini ve bu yüzden arkadaşının daha fazla ceza alması gerektiğini düşünen bir çocuk, Piaget'nin ahlak gelişimi teorisine göre hangi evrededir?",
+    "A": "Ahlak Öncesi",
+    "B": "Özerk",
+    "C": "İyi çocuk",
+    "D": "Dışa bağımlı",
+    "Answer": "Dışa bağımlı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yemek dağıtma görevi verilen bir aşçı, öğlen yemeklerinde herkese eşit olarak yemek koyarken, fark ettirmeden tanıdıklarına daha fazla kepçe yemek koymaya çalışmaktadır. Bu aşçının tanıdıklarına fazla yemek vermesi, Kohlberg’in ahlaki gelişim evrelerinden hangisine karşılık gelir?",
+    "A": "Kişiler arası uyum",
+    "B": "İtaat-ceza",
+    "C": "Sosyal sözleşme",
+    "D": "Saf çıkarcı",
+    "Answer": "Kişiler arası uyum",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir spor kulübünde, antrenörlerin gözüne girmek için antrenörlerin arkadaşlarına ve ailelerine iyi davranan bir sporcu, Kohlberg'in ahlak gelişim kuramına göre hangi aşamadadır?",
+    "A": "Ceza itaat",
+    "B": "Saf çıkar",
+    "C": "Yasa düzen",
+    "D": "İyi çocuk",
+    "Answer": "İyi çocuk",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Cenk ve Kaan kardeştir. Cenk’in maddi durumu Kaan’dan daha iyidir. Kaan, ortak bir yatırımı kazanca çevirmiş, fakat kazancın bir kısmını Cenk’e eksik söyleyip geri kalanını kendisi almıştır. Kaan’ın davranışı, Kohlberg'in ahlak gelişim kuramına göre aşağıdaki hangi evre ile açıklanabilir?",
+    "A": "Ceza itaat",
+    "B": "Saf çıkarcı",
+    "C": "İyi çocuk",
+    "D": "Yasa düzen",
+    "Answer": "Saf çıkarcı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Trafik kazası neticesinde yerde yatan yaralılardan birinin babası olduğunu gören bir sağlık personeli, babası yerine durumu daha ağır olan diğer yaralıya müdahale etmiştir. Kohlberg’in ahlak gelişim kuramına göre, bu davranış hangi düzeye karşılık gelir?",
+    "A": "Saf çıkarcı",
+    "B": "Gelenek öncesi",
+    "C": "Gelenek sonrası",
+    "D": "Kanun ve düzen",
+    "Answer": "Gelenek sonrası",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi ahlak gelişimi ile ilgili yanlış bir ifadedir?",
+    "A": "Ahlak gelişim evrelerinin sıra düzeni kültüre göre değişmektedir.",
+    "B": "Ahlaki kararlar, bireyin bilişsel gelişim seviyesiyle doğrudan ilişkilidir.",
+    "C": "Ahlaki yargılar, bireyin zihinsel olgunluğu ve deneyimleriyle şekillenir.",
+    "D": "Otuz yaşındaki bir birey, farklı ahlaki düşünme aşamalarında bulunabilir.",
+    "Answer": "Ahlak gelişim evrelerinin sıra düzeni kültüre göre değişmektedir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir arkadaşının doğum gününe giden Nazım, genelde çok aceleci ve tez canlı biridir. Ancak, diğer misafirlerin kendisi hakkında kötü düşünmesinden çekindiği için sessiz durmuş ve sabırlı bir şekilde davranmıştır. Bu durumu dikkate aldığımızda, Nazım'ın Kohlberg'in ahlaki gelişim teorisine göre hangi aşamada davrandığı ifade edilebilir?",
+    "A": "İtaat ve ceza eğilimi",
+    "B": "Saf çıkarcı eğilim",
+    "C": "Yasa ve düzen eğilimi",
+    "D": "İyi çocuk olma eğilimi",
+    "Answer": "İyi çocuk olma eğilimi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kohlberg’in ahlaki gelişim kuramına göre, aşağıdakilerden hangisi geleneksel dönem ahlak anlayışını yansıtır?",
+    "A": "Tüm insanlar biriciktir. Her insan değerlidir.",
+    "B": "Herkes kurallara uymalı yoksa toplum düzeni kalmaz.",
+    "C": "Bu fırsatı değerlendirmeliyim, yoksa bir başkası kullanır.",
+    "D": "Yardım etmeliyim çünkü çevremdekiler beni iyi biri olarak görmeli.",
+    "Answer": "Herkes kurallara uymalı yoksa toplum düzeni kalmaz.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Duygu Hanım, bir özel üniversitede öğretim görevlisidir. İşini riske atmamak için öğrencilerinden gelen talepleri yerine getirip notlarını yüksek tutmaktadır. Ayrıca birkaç yıl daha bu şekilde devam ederse bölüm başkanı olmayı planlamaktadır. Bu hedefi doğrultusunda, öğrencilere yüksek not verip velilerle ve idareyle iyi ilişkiler kurmaya çalışmaktadır. Duygu Hanım’ın, bölüm başkanı olma hedefiyle öğrencilere yüksek not verip velilere samimi davranması, Kohlberg’in ahlaki gelişim kuramına göre hangi evrede olduğunu gösterir?",
+    "A": "Dışa bağımlı ahlak",
+    "B": "Ceza itaat",
+    "C": "Özerk dönem",
+    "D": "Araçsal ilişkiler",
+    "Answer": "Araçsal ilişkiler",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kütüphanede sınavına hazırlanan bir öğrenci, yan masadaki kütüphane görevlisinin cips yemesinden rahatsız olur. Görevliye sınava hazırlandığı için sessiz bir ortama ihtiyacı olduğunu açıklar. Görevli, “Birazdan paketimdeki cipsler bitecek.” der. Görevli daha sonra kola açıp içmeye devam eder ve öğrenciye dönüp “Buna da itirazın olmaz herhalde.” diyerek rahatsız etmeye devam eder. Kohlberg’in ahlaki gelişim kuramına göre, kütüphane görevlisi hangi ahlaki evrede bulunmaktadır?",
+    "A": "Kanun ve düzen",
+    "B": "Saf çıkarcı",
+    "C": "Kişiler arası uyum",
+    "D": "İtaat ve ceza",
+    "Answer": "Saf çıkarcı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Emirhan, arkadaşına yalnızca bir isteği olduğunda proje çalışmalarında destek vermektedir. Bu durumda Emirhan için aşağıdakilerden hangisi söylenebilir?",
+    "A": "İtaat ve cezaya göre hareket ettiği",
+    "B": "Saf çıkarcı dönemde olduğu",
+    "C": "Kanun ve düzen eğiliminin baskın olduğu",
+    "D": "Piaget'ye göre özerk dönemde olduğu",
+    "Answer": "Saf çıkarcı dönemde olduğu",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Ömer ve Ali, evin salonunda körebe oynarken, ebe olan Ali gözleri bağlı şekilde Ömer’i ararken elini masanın üzerindeki vazoya çarpar ve vazonun kırılmasına neden olur. Bu olayı gören Ömer, masanın üzerindeki mumluğu alarak bilerek yere atar ve mumluğu kırar. Mutfakta olan anneleri, sesleri duyup salona geldiğinde, Ali annesine olayı açıklar: \"Oyun oynarken gözlerim bağlı olduğu için yanlışlıkla vazoya çarptım ve kırdım. Ömer ise mumluğu bilerek yere atıp kırdı.\" Ömer ise kardeşinin vazoyu kırdığını, mumluğu da yine kardeşinin kırdığını söyleyerek suçu Ali’ye atar. Piaget’in ahlak gelişim kuramına göre, Ömer ve Ali’nin hangi dönemde olduğu söylenir?",
+    "A": "Ahlak öncesi dönem / Dışa bağlı dönem",
+    "B": "Dışa bağlı dönem / Özerk dönem",
+    "C": "Özerk dönem / Dışa bağlı dönem",
+    "D": "Ahlak öncesi dönem / Özerk dönem",
+    "Answer": "Özerk dönem / Dışa bağlı dönem",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Birçok kişi, müzik albümlerini satın almak yerine şarkıları internetten illegal olarak indirmenin daha hesaplı olduğunu düşünmektedir. Bu siteler de para kazanmak amacıyla şarkıları izinsiz olarak paylaşmaktadır. Kimse müzisyenlerin ya da yapımcıların emeğini çiğnediğini düşünmez, herkes yalnızca mali avantajı düşünmektedir. Bu davranışı sergileyen kişiler ve müzik albümlerini izinsiz paylaşanların, Kohlberg'in ahlaki gelişim kuramına göre hangi aşamada oldukları söylenebilir?",
+    "A": "İyi çocuk",
+    "B": "Yasa düzen",
+    "C": "Toplumsal sözleşme",
+    "D": "Araçsal ilişkiler",
+    "Answer": "Araçsal ilişkiler",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kohlberg’in ahlaki gelişim kuramına göre, askerlik yaşı geldiği halde askere gitmeyen birinin başkalarının ayıplamasından dolayı askere gitme davranışını sergilemesi hangi evreyle ilişkilidir?",
+    "A": "Ceza itaat evresi",
+    "B": "Kanun düzen evresi",
+    "C": "Araçsal ilişki evresi",
+    "D": "Kişiler arası uyum evresi",
+    "Answer": "Kişiler arası uyum evresi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Sağlıklı yaşamla pek ilgilenmeyen Ezgi, çevresine iyi bir izlenim vermek için sosyal medyada sağlıklı yemek tarifleri paylaşmaktadır. Kohlberg'in ahlaki gelişim aşamalarına göre, bu kişi hangi evrede bulunmaktadır?",
+    "A": "İyi çocuk",
+    "B": "Ceza itaat",
+    "C": "Aracsal ilişkiler",
+    "D": "Toplumsal sözleşme",
+    "Answer": "İyi çocuk",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Evander Holyfield ile Mike Tyson arasında geçen ünlü müsabaka, spor tarihinin en çok konuşulan olaylarından biridir. İlk maçta Holyfield, Tyson'ı yenmeyi başarmıştı. Ancak 28 Haziran 1997'de Las Vegas'taki Grand Garden Arena'da yapılan rövanş maçı, beklenmedik bir şekilde gelişti. Tyson, müsabaka sırasında Holyfield’in kulağını iki kez ısırdı ve bu davranışı nedeniyle diskalifiye edildi. Bu olay, boks tarihinde büyük bir skandal olarak kayıtlara geçti. Freud’un psikoseksüel gelişim kuramına göre, rakibinin kulağını ısıran Mike Tyson’ın hangi gelişim döneminde saplandığı söylenebilir?",
+    "A": "Ergenlik",
+    "B": "Latent",
+    "C": "Anal",
+    "D": "Oral",
+    "Answer": "Oral",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir reklam ajansında çalışan iki grafik tasarımcı, aldıkları işlerden elde edilen kazancı nasıl paylaşacaklarına dair anlaşmışlar ve gelirlerini eşit olarak bölmeye karar vermişler, bu düzenlemeyi uygulamışlardır. Bu kişilerin, Kohlberg'in ahlaki gelişim kuramına göre hangi aşamada oldukları söylenebilir?",
+    "A": "Araçsal ilişkiler",
+    "B": "İyi çocuk",
+    "C": "Yasa düzen",
+    "D": "Toplumsal sözleşme",
+    "Answer": "Toplumsal sözleşme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Freud’un psikoseksüel gelişim kuramına göre, düzen takıntısı, cimrilik ve aşırı disiplin gibi özellikler hangi gelişim dönemine saplanmayla ilişkilidir?",
+    "A": "Latent (Gizil)",
+    "B": "Fallik",
+    "C": "Anal",
+    "D": "Oral",
+    "Answer": "Anal",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir ilaç firması, yanlış dozajda üretilen ilaçlarını geri çağırarak halktan özür dilemiş ve müşterilerine adil davranmadıklarını kabul etmiştir. Benzer bir hata yapan diğer ilaç şirketi ise büyük bir para cezasından kurtulmak için ilaçlarını toplatmıştır. Bu iki firmanın yetkililerinin sırasıyla, Kohlberg'in ahlaki gelişim kuramına göre hangi aşamalarda oldukları ifade edilebilir?",
+    "A": "Ceza itaat- Saf çıkar",
+    "B": "Evrensel ilkeler - Ceza itaat",
+    "C": "Araçsal ilişkiler - İyi çocuk",
+    "D": "Yasa düzen - Ceza itaat",
+    "Answer": "Ceza itaat- Saf çıkar",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Freud’un psikoseksüel gelişim kuramına göre, erkek çocuğun annesine karşı yoğun sevgi duyup, babasına düşmanlık beslemesi hangi karmaşayla açıklanır? TEST8\t\t\t\t\t\t\t\t\t\t\t\t\tAHLAK GELİŞİMİ 2",
+    "A": "Kastrasyon kompleksi",
+    "B": "Elektra kompleksi",
+    "C": "Oedipus kompleksi",
+    "D": "Fallik karmaşa",
+    "Answer": "Oedipus kompleksi",
+    "Image": "",
+    "Explaination": ""
+  }
+]
