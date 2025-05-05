@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "Aşağıdaki eğitim yaklaşımlarından hangisinde beklenmeyen davranışların ortaya çıkma riski, diğerlerine kıyasla daha fazladır?",
+    "A": "Formal",
+    "B": "Sargın",
+    "C": "Informal",
+    "D": "Yaygın",
+    "Answer": "Informal",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Barlas Bey, fotoğrafçılıkla ilgilenen biridir. Öğrencilerine hafta sonları düzenlemeyi düşündüğü fotoğrafçılık derslerinde daha başarılı olabilmek için yaz tatilinde bir fotoğrafçılık kursuna katılarak kendini geliştirmiştir. Aşağıdakilerden hangisi, Barlas Bey’in aldığı eğitim türüdür?",
+    "A": "Sargın",
+    "B": "Hizmet içi",
+    "C": "Informal",
+    "D": "Halk",
+    "Answer": "Halk",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Mühendislik fakültesinden mezun olan Bahri, çalışmaya başladığı teknoloji firmasında hafta içi projelerine devam ederken, hafta sonları da firmanın verdiği “liderlik ve takım çalışması” eğitimine katılmaktadır. Aşağıdakilerden hangisi, Bahri’nin katıldığı eğitim türüdür?",
+    "A": "Sargın",
+    "B": "Hizmet içi",
+    "C": "Örgün",
+    "D": "Hizmet öncesi",
+    "Answer": "Hizmet içi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Berrak isimli bir ev hanımı, mahallesinde açılan seramik kursuna katılmış ve bu alanda eğitim almıştır. Fatma Hanım’ın kurs sırasında fark ettiği en önemli nokta ise eğitimi veren kişinin, akademik bir eğitimi olmamasına karşın bu konuda ustalaşmış, mahallede yaşayan bir kadın olmasıydı. Aşağıdakilerden hangisi, Berrak Hanım’ın aldığı eğitim türünü ifade eder?",
+    "A": "Informal",
+    "B": "Halk,",
+    "C": "Sargın",
+    "D": "Örgün",
+    "Answer": "Sargın",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bahri Öğretmen, \"akademik değişim programları\" aracılığıyla bir dönem ders vermek için Amerika’ya gitmiştir. Amerika'daki ilk ayda karşılaştığı uyum sorunlarını ise hâlâ öğrencileriyle paylaşmaktadır. Bahri Öğretmen’in Amerika’ya gittiğinde karşılaştığı uyum zorlukları, aşağıdaki kültürel dinamiklerden hangisiyle açıklanabilir?",
+    "A": "Kültürleme",
+    "B": "Kültürlenme",
+    "C": "Kültür şoku",
+    "D": "Kültür yozlaşması",
+    "Answer": "Kültür şoku",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Üniversiteyi Ankara’da okuyan Çilem, üniversiteye başlayana kadar Mardin’de yaşamıştır. Ankara’da tanıştığı arkadaşı Aslı ile yakın arkadaş olan Çilem, Aslı’dan İç Anadolu mutfağına özgü yemekleri öğrenirken, Aslı’ya da Mardin’in yöresel yemeklerini yapmayı öğretmiştir. Aşağıdakilerden hangisi, bu yaşantıları açıklayan kültürel süreçtir?",
+    "A": "Kültürlenme",
+    "B": "Kültürleme",
+    "C": "Zoraki kültürleme",
+    "D": "Kültürleşme",
+    "Answer": "Kültürleşme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki kültürel süreçlerden hangisi, bir kültürün kendine özgü özelliklerini kaybederek zamanla yok olmasını açıklar?",
+    "A": "Zoraki kültürleme",
+    "B": "Asimilasyon",
+    "C": "Kültürleşme",
+    "D": "Kültürel yozlaşma",
+    "Answer": "Asimilasyon",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İspanyolca öğrenmek amacıyla Madrid’e giden Ceyhun, orada tanıştığı bir İspanyol arkadaşından sosyal hayatla ilgili önemli alışkanlıkları öğrenmiş ve kolayca uyum sağlamıştır. Bu yaşantının açıklanabileceği kültürel süreç aşağıdakilerden hangisidir?",
+    "A": "Kültürleşme",
+    "B": "Kültür şoku",
+    "C": "Zoraki kültürleme",
+    "D": "Kültürlenme",
+    "Answer": "Kültürlenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Günümüzde insanlar, sohbetlerinde yabancı kelimeleri cümlelerine dahil etmekte ve internet üzerinden yazarken sesli harfleri kullanmamayı tercih etmektedir. Bu durum, aşağıda verilen kültürel süreçlerden hangisiyle en iyi şekilde açıklanabilir?",
+    "A": "Zoraki kültürleme",
+    "B": "Kültür şoku",
+    "C": "Kültürel yozlaşma",
+    "D": "Kültürlenme",
+    "Answer": "Kültürel yozlaşma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Dünyanın farklı bölgelerinde, \"baklava\" kelimesi Türkçe telaffuzuna benzer şekilde kullanılmaktadır. Bu durumu açıklayan kültürel süreç aşağıdakilerden hangisidir?",
+    "A": "Zoraki kültürleme",
+    "B": "Kültür yayılması",
+    "C": "Kültür şoku",
+    "D": "Kültürel yozlaşma",
+    "Answer": "Kültür yayılması",
+    "Image": "",
+    "Explaination": ""
+  }
+]

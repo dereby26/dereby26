@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "Aşağıdakilerden hangisi, ihtiyaç analizi kaynakları arasında yer almaz?",
+    "A": "Birey",
+    "B": "Toplum",
+    "C": "Disiplin",
+    "D": "Konu alanı",
+    "Answer": "Disiplin",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Okul idarecileri, projeksiyon cihazlarının sınıflarda olmasının getireceği avantajları ve olmamasının yaratacağı eksiklikleri kıyaslayarak, bu cihazları sınıflara koymanın gerekli olduğunu tespit etmiştir. Okul yöneticilerinin ihtiyaçları tespit etmek için kullandıkları yaklaşım aşağıdakilerden hangisidir?",
+    "A": "Bütünsel",
+    "B": "Analitik",
+    "C": "Farklar",
+    "D": "Betimsel",
+    "Answer": "Betimsel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "\"Birçok kişinin katkısıyla yapılan ihtiyaç belirlemesi geçerli olabilir, ancak bu o ihtiyacın çok kıymetli olduğu anlamına gelmez\" eleştirisi, hangi ihtiyaç analizi yöntemine yönelik bir eleştiridir?",
+    "A": "Demokratik",
+    "B": "Betimsel",
+    "C": "Bütünsel",
+    "D": "Analitik",
+    "Answer": "Demokratik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğretmenlik branşlarında atama zorluklarının artacağını öngören bazı öğrenciler, üniversiteye girişte bu branşları tercih etmemeye başlamışlardır. Öğrencilerin ihtiyaçlarını bu şekilde belirlemeleri, aşağıdaki hangi ihtiyaç analizi yaklaşımıyla ilişkilidir?",
+    "A": "Betimsel",
+    "B": "Bütünsel",
+    "C": "Farklar",
+    "D": "Analitik",
+    "Answer": "Analitik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Farklar yaklaşımına dayalı ihtiyaç analizi hakkında aşağıdakilerden hangisi doğru bir ifadedir?",
+    "A": "İhtiyaç, çoğunluğun oluşturduğu baskı gruplarının isteklerine göre saptanır.",
+    "B": "İhtiyaç, mevcut durumdan hareketle geleceğe yönelik öngörüler doğrultusunda belirlenir.",
+    "C": "İhtiyaç, bir unsurun yokluğunda oluşacak zarar ile varlığında sağlanacak fayda karşılaştırılarak belirlenir.",
+    "D": "İhtiyaç, beklenen başarı düzeyi ile var olan başarı düzeyi arasındaki açığa göre saptanır.",
+    "Answer": "İhtiyaç, beklenen başarı düzeyi ile var olan başarı düzeyi arasındaki açığa göre saptanır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Belirli bir konuda uzmanlardan rasyonel bir şekilde görüş alarak ortak bir kanaat oluşturmayı hedefleyen ihtiyaç belirleme tekniği hangisidir?",
+    "A": "Anket geliştirme",
+    "B": "Progel-Dacum",
+    "C": "Meslek-İş analizi",
+    "D": "Ölçme araçları",
+    "Answer": "Anket geliştirme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Progel-Dacum tekniği hakkında aşağıdakilerden hangisi hatalı bir ifadedir?",
+    "A": "Bir mesleğe alt beceri profili ortaya çıkarılır.",
+    "B": "İş tanımlarının oluşturulmasında kullanılır.",
+    "C": "İş ve işlemlerin belirlenmesi, bir panel çalışması ile başlatılır.",
+    "D": "Meslek-İş analizi tekniğine göre uzun zaman gerektirir.",
+    "Answer": "Meslek-İş analizi tekniğine göre uzun zaman gerektirir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi meslek-iş analizi tekniği konusunda verilen yanlış bir bilgidir?",
+    "A": "İş veya meslek tanımı, fonksiyonlara göre ayrıştırılır.",
+    "B": "Her iş alanı, gerçek iş basamaklarına bölünerek analiz edilir.",
+    "C": "Progel-Dacum yöntemine kıyasla daha fazla zaman gerektirir.",
+    "D": "İş ve işlemler yüzeysel olarak analiz edilir.",
+    "Answer": "İş ve işlemler yüzeysel olarak analiz edilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Mevcut programları inceleme, literatür taraması ve rapor değerlendirme gibi aşamalardan oluşan bilgi toplama yöntemi aşağıdakilerden hangisidir?",
+    "A": "Görüşme",
+    "B": "Progel-Dacum",
+    "C": "Kaynak tarama",
+    "D": "Meslek-İş analizi",
+    "Answer": "Kaynak tarama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğretmenlerin, öğrencileriyle ilgili en birincil ve doğal kaynaklardan bilgi edinmek için başvurması gereken bilgi toplama tekniği hangisidir?",
+    "A": "Görüşme",
+    "B": "Gözlem",
+    "C": "Anket geliştirme",
+    "D": "Ölçme araçları",
+    "Answer": "Gözlem",
+    "Image": "",
+    "Explaination": ""
+  }
+]

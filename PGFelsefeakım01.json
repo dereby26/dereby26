@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "Giray, okuduğu kitapta geçen bir bilginin kaynakçasını takip ederek, ilgili kaynağı bulur ve bilginin güvenilirliğini kontrol eder. Bu bağlamda, Giray’ın izlediği yöntem aşağıdaki felsefi alanlardan hangisiyle en fazla ilgilidir?",
+    "A": "Ontoloji",
+    "B": "Aksiyoloji",
+    "C": "Epistemoloji",
+    "D": "Mantık",
+    "Answer": "Epistemoloji",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Sanat ve estetikle birlikte etik anlayışa odaklanan felsefe dalı aşağıdakilerden hangisidir?",
+    "A": "Esasicilik",
+    "B": "Aksiyoloji",
+    "C": "Ontoloji",
+    "D": "Epistemoloji",
+    "Answer": "Aksiyoloji",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Zeynep, ruhsal gerçekliği temel alan felsefe eserlerine ilgi duyan bir öğrencidir. Bu yüzden, değerlerin sabit ve evrensel olduğuna ve doğru bilginin yalnızca akıl yoluyla kazanılabileceğine inanır. Zeynep’in tercih ettiği kitaplar, hangi felsefi akımla ilişkilendirilebilir?",
+    "A": "Realizm",
+    "B": "İdealizm",
+    "C": "Pragmatizm",
+    "D": "Varoluşçuluk",
+    "Answer": "İdealizm",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Güven, sınıfta yapılan tartışmada söz alarak, \"Bir düşüncenin doğruluğu, onun ifade ettiği nesne ya da olgunun varlığına dayanır. Hislerden ziyade akla önem vermeliyiz, çünkü modern bilimin temeli nesnelliğe dayanır,\" şeklinde açıklamalarda bulunmuştur. Güven’in savunduğu görüşler, aşağıdaki felsefi akımlardan hangisi ile ilişkilidir?",
+    "A": "Pragmatizm",
+    "B": "İdealizm",
+    "C": "Varoluşçuluk",
+    "D": "Realizm",
+    "Answer": "Realizm",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Tartışmada söz alan Ege Öğretmen, \"Yaratıcı düşüncede önyargılara yer yoktur. Faydasız gibi görünen bazı şeyler zamanla işlevsel olabilir. Esnek olun ve denemekten korkmayın.\" ifadelerini kullanmıştır. Bu yaklaşımın dayandığı felsefi akım aşağıdakilerden hangisidir?",
+    "A": "Natüralizm",
+    "B": "İdealizm",
+    "C": "Varoluşçuluk",
+    "D": "Pragmatizm",
+    "Answer": "Pragmatizm",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Paul Goodman, okulların var olan toplumsal yapıyı koruduğunu iddia eden eleştirmenlerden biridir. “Growing Up Absurd” adlı kitabında eğitimin mevcut düzeni nasıl pekiştirdiğini vurgulamaktadır. Benzer şekilde bazı eğitimciler, okulların devletin istekleri doğrultusunda bireyler yetiştirip özgür düşünceyi kısıtladığını ifade etmektedir. Yukarıdaki eleştirilerden yola çıkarak, okullara yönelik bu düşünceleri savunanlar hangi felsefi akımı desteklemektedir?",
+    "A": "Natüralizm",
+    "B": "Varoluşçuluk",
+    "C": "Pragmatizm",
+    "D": "İdealizm",
+    "Answer": "Varoluşçuluk",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Martin Durand ve onun gibi düşünen filozoflara göre, eğitimin amacı toplumu dönüştürmek ve reformlar yapmaktır. Bu toplumsal dönüşümün ilk adımları ise okullarda atılmalıdır. Anlatılan düşünme biçimi, aşağıdaki eğitim felsefelerinden hangisiyle en fazla ilişkilendirilebilir?",
+    "A": "Esasicilik",
+    "B": "Realizm",
+    "C": "Yeniden Kurmacılık",
+    "D": "Daimicilik",
+    "Answer": "Yeniden Kurmacılık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, Stand and Deliver filminde baskıcı ve ezberci bir eğitim sistemine sahip olan okulun temel aldığı eğitim felsefeleridir?",
+    "A": "İlerlemecilik-Daimicilik",
+    "B": "Yeniden Kurmacılık-İlerlemecilik",
+    "C": "Daimicilik-Esasicilik",
+    "D": "Esasicilik-İlerlemecilik",
+    "Answer": "Daimicilik-Esasicilik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrenci odaklı ve çağdaş bir eğitim anlayışına sahip olan Stand and Deliver filmindeki Jaime Escalante'nin dayandığı eğitim felsefesi aşağıdakilerden hangisidir?",
+    "A": "Yeniden Kurmacılık",
+    "B": "Esasicilik",
+    "C": "Daimicilik",
+    "D": "İlerlemecilik",
+    "Answer": "İlerlemecilik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yücel Öğretmen, öğrencilerine takım çalışmasını öğretmeyi çok önemsiyor. Çünkü işbirliği ve uyum içinde çalışmak, onların profesyonel yaşamlarında büyük fayda sağlayacaktır. Bu becerileri öğretirken, Yücel Öğretmen, öğrencilerinin kişisel özelliklerini ve ihtiyaçlarını göz önünde bulundurur. Bu şekilde düşünen bir öğretmenin etkilendiği eğitim felsefesi aşağıdakilerden hangisidir?",
+    "A": "Yeniden Kurmacılık",
+    "B": "Esasicilik",
+    "C": "Daimicilik",
+    "D": "İlerlemecilik",
+    "Answer": "İlerlemecilik",
+    "Image": "",
+    "Explaination": ""
+  }
+]

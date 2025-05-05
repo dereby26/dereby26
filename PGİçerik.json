@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "Her ne kadar bazı kitaplar bölümlere ayrılsa da, okumaya her zaman birinci bölümden başlamak gereklidir. Çünkü bölümler, önceki bilgilerin devamı olarak tasarlanmıştır. Bu ardışık yapı, özellikle rehber veya ders kitaplarında önemlidir. Yukarıda belirtilen içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?",
+    "A": "Modüler",
+    "B": "Sarmal",
+    "C": "Piramit",
+    "D": "Doğrusal",
+    "Answer": "Doğrusal",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bazı ders kitapları, üniversitelerde okutulan birçok bağımsız bölümden oluşur ve her bölüm farklı yazarlar tarafından yazılmıştır. Bu kitaplarda bölümler arasında bir bağlantı olmadığından, ilk iki bölümü okumadan üçüncü bölümü rahatlıkla öğrenebilirsiniz. Sözü edilen içerik düzenlemesi aşağıdakilerden hangisidir?",
+    "A": "Doğrusal",
+    "B": "Sarmal",
+    "C": "Konu ağı-proje",
+    "D": "Modüler",
+    "Answer": "Modüler",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Matematik dersinde temel işlemleri öğrenme süreci, ilkokul birinci sınıfta başlar. İlerleyen yıllarda hem ilkokul hem de ortaokul boyunca bu konunun öğretimi sürer. Her yıl kapsam genişler ve öğrenciler yeni kavramları öğrenip, bu bilgileri önceki yıllarda edindikleriyle bağlantı kurarlar. Yukarıda bahsedilen içerik düzenleme yaklaşımı aşağıdakilerden hangisidir?",
+    "A": "Doğrusal",
+    "B": "Sarmal",
+    "C": "Sorgulama",
+    "D": "Piramit",
+    "Answer": "Sarmal",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bazı mühendislik fakültelerinde, öğrencilerin hangi mühendislik dalında uzmanlaşacakları önceden belli olmasına rağmen, mühendislik öğrencileri üniversitenin ilk yıllarında geniş bir alana hitap eden ortak dersler alırlar. Bu dersler, farklı mühendislik disiplinlerini kapsayan temel dersler olup, her mühendislik dalının temel ihtiyaçlarını karşılayacak niteliktedir. Ancak, ilerleyen yıllarda bu ortak derslerin sayısı azalır ve her mühendislik branşının kendine özgü olan dersler yoğunlaşmaya başlar. Yukarıda sözü edilen içerik düzenleme yöntemi aşağıdakilerden hangisidir?",
+    "A": "Piramit",
+    "B": "Çekirdek",
+    "C": "Sorgulama",
+    "D": "Sarmal",
+    "Answer": "Piramit",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Çekirdek içerik düzenlemesine dair doğru bilginin yer aldığı seçenek aşağıdakilerden hangisidir?",
+    "A": "Öğrencilerin hangi alanda uzmanlaşacağı, okulun ilk gününden itibaren belirlenmiştir.",
+    "B": "Öğrencilerin hangi alanda uzmanlaşacağı süreç esnasında öğrenci tarafından belirlenir.",
+    "C": "Öğrencilerin öğreneceği konular planlı ve projelendirilmiştir.",
+    "D": "Öğrencilerin hangi alanda uzmanlaşacağı, okulun bitimine kadar belirlenmez.",
+    "Answer": "Öğrencilerin hangi alanda uzmanlaşacağı süreç esnasında öğrenci tarafından belirlenir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi çekirdek ve piramitsel içerik düzenlemelerinin ortak noktasıdır?",
+    "A": "İlk yıllarda işlenen konular, ilerleyen yıllarda daha geniş kapsamda tekrar ele alınır.",
+    "B": "İçerik, öğrencilerin beklenti, tercih ve ihtiyaçlarına göre şekillenir.",
+    "C": "Öğrencilerin tamamı, okulun ilk yıllarında ortak dersler kapsamında eğitim alır.",
+    "D": "İçerik, birbirinden bağımsız bölümler şeklinde ve sırasız olarak öğretilir.",
+    "Answer": "Öğrencilerin tamamı, okulun ilk yıllarında ortak dersler kapsamında eğitim alır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Doğrusal ve sarmal içerik düzenlemelerinin paylaştığı ortak özellik aşağıdakilerden hangisidir?",
+    "A": "Konular arasında ardışıklık, aşamalılık ve zorunlu ilişki bulunur.",
+    "B": "Konular, birbirinden bağımsız bölümler hâlinde sıralama gözetmeksizin öğretilir.",
+    "C": "İçerik, süreç boyunca öğrencilerin ihtiyaçlarına göre şekillendirilir.",
+    "D": "Yeni öğrenilenler, ön öğrenmelerin üzerine inşa edilir.",
+    "Answer": "Yeni öğrenilenler, ön öğrenmelerin üzerine inşa edilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Sorgulama temelli programlama yaklaşımında, içerik öğrencilerin soruları ve ihtiyaçlarına göre süreç içerisinde şekillenir. Bu yaklaşımda, konuların seçimi sırasında belirli ölçütlere dikkat edilmesi gereklidir. Aşağıdakilerden hangisi bu kriterlerden biri değildir?",
+    "A": "Konunun kullanım sıklığı",
+    "B": "Konunun işleniş süresi",
+    "C": "Konunun niteliği",
+    "D": "Konunun zorluk derecesi",
+    "Answer": "Konunun işleniş süresi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bu yöntemde içerik, geleneksel ünite ve bölümler yerine, konuların birbiriyle bağlantılandırıldığı projeler doğrultusunda düzenlenir. Öğrenme, bireysel olarak ya da ekip halinde yapılabilir. Anlatılan içerik düzenleme modeli aşağıdakilerden hangisidir?",
+    "A": "Sorgulama",
+    "B": "Çekirdek",
+    "C": "Sarmal",
+    "D": "Konu ağı",
+    "Answer": "Konu ağı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aybike Öğretmen, matematik dersindeki kazanımlara uygun yazılmış bazı problem örneklerinin öğrenciler için yeterince açık olmadığını ve öğrencilerin çözüm yollarını bulmakta zorlandıklarını fark ederek endişe duymaktadır. Aybike Öğretmen'in kaygı duyduğu bu durum, aşağıdaki içerik belirleme ilkelerinden hangisinin yanlış uygulanmasından kaynaklanmaktadır?",
+    "A": "Soyutlama",
+    "B": "Denge",
+    "C": "Yordama",
+    "D": "Kaynaşıklık",
+    "Answer": "Soyutlama",
+    "Image": "",
+    "Explaination": ""
+  }
+]

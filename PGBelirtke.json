@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "Aşağıdakilerden hangisi belirtke tablosunun işlevlerinden biri olarak kabul edilmez?",
+    "A": "Dersi hem nitelik hem de nicelik açısından özetler.",
+    "B": "Öğrenci ihtiyaçlarının belirlenmesini sağlar.",
+    "C": "Eğitim durumlarının düzenlenmesine kılavuzluk eder.",
+    "D": "Ölçme aracının kapsam geçerliliğini belirler.",
+    "Answer": "Öğrenci ihtiyaçlarının belirlenmesini sağlar.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Belirtke tablosunun en önemli fonksiyonu aşağıdakilerden hangisidir?",
+    "A": "Eğitim durumlarının düzenlenmesine yol gösterir.",
+    "B": "Ölçme aracının kapsam geçerliliğini belirler.",
+    "C": "Dersi nitel ve nicel açıdan özetler.",
+    "D": "Ölçme aracında yer alacak soru sayısının belirlenmesine rehberlik eder.",
+    "Answer": "Dersi nitel ve nicel açıdan özetler.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Program geliştirme ekibi, koordineli bir şekilde çalışarak; İhtiyaç analizi Hedef belirleme ve düzenleme Hedefleri davranışlara dönüştürme İçerik belirleme ve düzenleme adımlarını sırasıyla gerçekleştirmiştir. Program geliştirme ekibinin bir sonraki yapacağı program geliştirme işlemi aşağıdakilerden hangisidir?",
+    "A": "Puanlama gruplarını belirleme",
+    "B": "Belirtke tablosu hazırlama",
+    "C": "Programı deneme",
+    "D": "Programı değerlendirme",
+    "Answer": "Belirtke tablosu hazırlama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İnan Öğretmen, dersin başında o günkü konuyla bağlantılı olarak başından geçen ilginç bir olayı öğrencilere anlatmıştır. İnan Öğretmen’in bu uygulaması, eğitim durumlarının hangi adımına karşılık gelmektedir?",
+    "A": "Dikkat çekme",
+    "B": "Ön bilgileri harekete geçirme",
+    "C": "Öğrencileri güdüleme",
+    "D": "Hedeften haberdar etme",
+    "Answer": "Dikkat çekme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Belgin Öğretmen, soruya yanlış cevap veren öğrencisine, \"Cevabın yanlış. Doğru cevabı bulabilmek için yaptığın işlemlerde bulduğun bir sayıyı diğer aşamalara yanlış aktarıp aktarmadığını kontrol et ve işlemi yeniden gözden geçir,\" şeklinde geri bildirimde bulunmuştur. Belgin Öğretmen’in verdiği dönüt aşağıdakilerden hangisiyle ilişkilidir?",
+    "A": "Teyit edici",
+    "B": "Düzeltici",
+    "C": "Eklemleyici",
+    "D": "Açıklayıcı",
+    "Answer": "Düzeltici",
+    "Image": "",
+    "Explaination": ""
+  }
+]

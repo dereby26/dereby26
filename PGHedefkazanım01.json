@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "Bir ülkenin politik görüşlerini yansıtan ve kapsamı oldukça geniş olan hedef türü nedir?",
+    "A": "Genel",
+    "B": "Özel",
+    "C": "Bilişsel",
+    "D": "Uzak",
+    "Answer": "Uzak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, hedeflerin kazanım veya davranış haline getirilmesinin gerekçeleri arasında gösterilemez?",
+    "A": "Hedefleri ölçülebilir ve gözlenebilir hâle getirmek",
+    "B": "Öğrenci ihtiyaçlarının belirlenmesini sağlamak",
+    "C": "Eğitim durumlarının düzenlenmesine rehberlik etmek",
+    "D": "Öğrencilere kazandırılması hedeflenen nitelikleri somutlaştırmak",
+    "Answer": "Öğrenci ihtiyaçlarının belirlenmesini sağlamak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki kazanımlardan hangisinin değerlendirilmesi ve izlenmesi diğerlerine kıyasla daha güçtür?",
+    "A": "Enerji tasarrufu sağlamak için bir proje planlar.",
+    "B": "Suyu boşa harcamamayı alışkanlık hâline getirir.",
+    "C": "Okuduğu “enerji verimliliği” adlı metni bölümlere ayırır.",
+    "D": "Enerji tasarrufu konusunda bilgilendirici broşür hazırlar.",
+    "Answer": "Okuduğu “enerji verimliliği” adlı metni bölümlere ayırır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Performans testleriyle ölçülmeye en uygun, ölçülmesi ve gözlemlenmesi en kolay olan özel hedef türü aşağıdakilerden hangisidir?",
+    "A": "Bilişsel",
+    "B": "Duyuşsal",
+    "C": "Uzak",
+    "D": "Devinimsel",
+    "Answer": "Devinimsel",
+    "Image": "",
+    "Explaination": ""
+  }
+]

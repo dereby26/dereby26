@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "Bir programın ülke çapında uygulamaya geçilmeden önce eksik yönlerini belirlemek için aşağıdaki program geliştirme aşamalarından hangisinin gerçekleştirilmesi gerekir?",
+    "A": "Öğrenci gereksinimlerinin belirlenmesi",
+    "B": "Program içeriğinin yapılandırılması",
+    "C": "Programın pilot okullarda test edilmesi",
+    "D": "Programın hedeflere erişim düzeyinin ölçülmesi",
+    "Answer": "Programın pilot okullarda test edilmesi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisi, program deneme çalışmalarında kullanılan ölçütlerden biri değildir?",
+    "A": "Belirlenen örneklemin evreni temsil etmesi",
+    "B": "Tecrübeli ve başarılı öğretmenlerin belirlenmesi",
+    "C": "Önceden pilot okullarda çalışmış yöneticilerin tercih edilmesi",
+    "D": "Yeni programa uygun eğitim ortamlarının hazırlanması",
+    "Answer": "Önceden pilot okullarda çalışmış yöneticilerin tercih edilmesi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bahar Öğretmen, öğretim programı hedeflerinin başlangıçta ve sonunda en az iki defa değerlendirilerek, hedeflere ne kadar ulaşıldığının belirlenmesi gerektiğini savunurken, Behzat Öğretmen ise programın bağlam, girdi, süreç ve ürün boyutlarının tamamının değerlendirilmesi gerektiğini benimsemektedirler. Bahar ve Behzat Öğretmen'in benimsediği program değerlendirme modelleri aşağıdakilerden hangisinde doğru şekilde verilmiştir?",
+    "A": "Metfessel, Michael modeli - Eğitsel eleştiri modeli",
+    "B": "İhtiyaca cevap verici model - Hedefe dayalı model",
+    "C": "Öğelere dayalı model - Eğitsel eleştiri modeli",
+    "D": "Hedefe dayalı model - Toplam değerlendirme modeli",
+    "Answer": "Hedefe dayalı model - Toplam değerlendirme modeli",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğretmenlerin ünitelendirilmiş yıllık plan oluştururken en çok dikkate aldığı kriter aşağıdakilerden hangisidir?",
+    "A": "Programın hedefleriyle uyumlu mu?",
+    "B": "Öğrenci ihtiyaçlarını karşılıyor mu?",
+    "C": "Eğitim durumlarına uygun mu?",
+    "D": "Öğrenci seviyesine hitap ediyor mu?",
+    "Answer": "Eğitim durumlarına uygun mu?",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Eğitimsel gereksinimler ve yasal zorunluluklar kapsamında, öğretmenler yılın başında ünitelendirilmiş yıllık planlarını hazırlar ve okul yönetiminin onayına sunarlar. Ünitelendirilmiş yıllık planı hazırlarken öğretmenlerin dikkate aldığı en önemli unsur aşağıdakilerden hangisidir?",
+    "A": "Öğretim programı",
+    "B": "Milli Eğitim Temel Kanunu",
+    "C": "Örtük program",
+    "D": "Ekstra program",
+    "Answer": "Öğretim programı",
+    "Image": "",
+    "Explaination": ""
+  }
+]
