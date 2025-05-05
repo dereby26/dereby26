@@ -1,0 +1,192 @@
+[
+  {
+    "Question": "Edebiyat öğretmeni Mete Bey’in, öğrencilerin Türk Edebiyatı dersindeki bilgilerini sınamak için oluşturduğu testte hem Divan Edebiyatı hem de Halk Edebiyatı ile ilgili sorular sormuştur. Mete Bey’in iddiasını en doğru biçimde destekleyecek ölçme aracının hangi niteliği aşağıdakilerden hangisidir?",
+    "A": "Güvenirlik",
+    "B": "Duyarlık",
+    "C": "Kullanışlılık",
+    "D": "Kapsam geçerliği",
+    "Answer": "Kapsam geçerliği",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrencilerin Türkçe dersindeki bilgi düzeyini değerlendirmek için hazırlanan çoktan seçmeli test, 70 kişilik karışık bir gruba uygulanmıştır. Sonuçlar üzerinden yapılan madde analizinde KR-20 güvenirlik katsayısı 0,93 olarak hesaplanmıştır. Bu güvenirlik değeri baz alındığında aşağıdakilerden hangisi kesin olarak söylenebilir?",
+    "A": "Yapı geçerliği yüksektir.",
+    "B": "Kararlılığı yüksektir.",
+    "C": "Kapsam geçerliği düşüktür.",
+    "D": "Tek boyutlu yapıyı ölçer.",
+    "Answer": "Kararlılığı yüksektir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kutay Öğretmen, geliştirdiği testte öğrencilere bir hareket problemi sormuştur. Bazı öğrenciler denklemi doğru bir şekilde kurmuş; ancak sorunun net olmayışından dolayı hız yerine mesafeyi hesaplamış ve yanlış cevabı işaretlemişlerdir. Aşağıdakilerden hangisi, bu olayın soruya olan etkileri ile ilgili yanlıştır?",
+    "A": "Zorlaşmasına neden olmuştur.",
+    "B": "Güvenirliği düşmüştür.",
+    "C": "Geçerliği düşmüştür.",
+    "D": "Şans başarısı artmıştır.",
+    "Answer": "Geçerliği düşmüştür.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "80 soruluk bir sınavın 40. sorusunun, soruyu bilen öğrenciler tarafından yanlış cevaplandığı ya da boş bırakıldığı gözlemlenmiş, sadece birkaç öğrenci doğru cevabı vermiştir. Bu soruyla ilgili olarak: I. Soru zordur. II. Sorunun ayırt ediciliği düşüktür. III. Sorunun geçerliği düşüktür. IV. Sorunun güvenirliği düşüktür. V. Sorunun kullanışlığı düşüktür. Aşağıdakilerden hangisi ya da hangileri yukarıdaki durumun bir sonucu olarak ortaya çıkmıştır?",
+    "A": "Yalnız I",
+    "B": "Yalnız II",
+    "C": "I ve III",
+    "D": "II, III ve IV",
+    "Answer": "II, III ve IV",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Ortaokul 2. sınıf öğrencilerinin Matematik dersine yönelik bilgi düzeylerini ölçmek için hazırlanan 40 soruluk çoktan seçmeli sınavın, 5. sınıf öğrencilerine uygulanması sonucunda, bir öğrenci sınavdan \"0\" puan almıştır. Sonuçlar değerlendirilirken düzeltme formülü kullanılmıştır. Aşağıdakilerden hangisi bu olayla ilgili kesin bir yargıdır?",
+    "A": "Öğrenci, Matematik dersine yeterince hazırlanmamıştır.",
+    "B": "Öğrencinin sınavda doğru cevabı bulunmamaktadır.",
+    "C": "Sınavın pratik kullanımı yetersizdir.",
+    "D": "Sınavın öğrencileri ayırt etme gücü zayıftır.",
+    "Answer": "Öğrencinin sınavda doğru cevabı bulunmamaktadır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Evrim’e, 5 seçenekli 100 soruluk bir sınav yapılmıştır. Sınav sonucunda Evrim, 75 doğru, 20 yanlış ve 5 boş bırakmıştır. (Sınavda 4 yanlış 1 doğruyu götürmektedir). Evrim’in düzeltme formülüne göre hesaplanan puanı kaçtır?",
+    "A": "46",
+    "B": "55",
+    "C": "70",
+    "D": "66",
+    "Answer": "66",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, bu sonuca dayanarak ölçme sonuçlarına karışan hata türüdür?",
+    "A": "Sabit hata",
+    "B": "Tesadüfi hata",
+    "C": "Sistematik hata",
+    "D": "Standart hata",
+    "Answer": "Tesadüfi hata",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, bu durumun yapılan ölçmenin doğrudan hangi özelliğini etkilediğini göstermektedir?",
+    "A": "Güvenirlik",
+    "B": "Duyarlık",
+    "C": "Tutarlılık",
+    "D": "Geçerlik",
+    "Answer": "Geçerlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisi yanlış bir ifadedir?",
+    "A": "Duyarlık, ölçme aracında yer alan soru adediyle doğrudan ilişkilidir.",
+    "B": "Hatalar, bireylerin bilgi düzeylerine göre sıralamalarının değişmesine neden olur.",
+    "C": "Güvenirlik, gerçek puanlar arasındaki farklılıkların artması durumunda düşer.",
+    "D": "Geçerlik, ölçme aracının ayırt edici özelliklerine bağlı olarak belirlenir.",
+    "Answer": "Güvenirlik, gerçek puanlar arasındaki farklılıkların artması durumunda düşer.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aysel Hanım, Matematik dersindeki 4 temel konuyu ölçmek amacıyla 20 soruluk bir test hazırlamıştır. Ayşe Hanım, testi bir Matematik uzmanına inceletmiş ve uzman, ilk iki konuda temel kavramların ölçülmediğini fark etmiştir. Daha sonra Aysel Hanım, ilk iki konuyla ilgili 10 soru eklemiş ve tekrar uzmana sunmuştur. Uzman bu kez, eklenen soruların temel kavramları içerdiğini ancak gereksiz soruların da bulunduğunu ve bu durumun testin amacını saptırabileceğini söylemiştir. Son olarak Aysel Hanım, gereksiz soruları testten çıkarmıştır. İlave edilen 10 soru ve ilgisiz soruların çıkarılması sonucunda, uzman görüşüne göre testin hangi yönü artmıştır?",
+    "A": "Kararlılık",
+    "B": "Kullanışlılık",
+    "C": "Tutarlılık",
+    "D": "Geçerlik",
+    "Answer": "Geçerlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir akademisyen, performans ölçümü yapmak amacıyla hazırladığı testin sonuçlarını değerlendirirken, öğrencilerin soruların hepsini yanıtlayamamasına rağmen testin amaçlarına hizmet ettiğini ifade etmiştir. Aşağıdaki seçeneklerden hangisi, akademisyenin bu ifadesini en iyi şekilde açıklar?",
+    "A": "Öğrencilerin derse yönelik bilgileri iyi düzeydedir.",
+    "B": "Testteki soruların zorluk seviyesi oldukça yüksektir.",
+    "C": "Testteki sorular, konu içeriğini başarılı bir şekilde yansıtmaktadır.",
+    "D": "Testin uygulandığı grup, heterojen bireylerden oluşmaktadır.",
+    "Answer": "Testteki sorular, konu içeriğini başarılı bir şekilde yansıtmaktadır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Biyoloji dersinde hazırlanan başarı testinin kapsam geçerliliğini artırmak amacıyla aşağıdaki seçeneklerden hangisinin uygulanması en etkili olur?",
+    "A": "Ayırt edici sorulara yer vermek",
+    "B": "Hedeflere tutarlı sorulara yer vermek",
+    "C": "Soru sayısını artırmak",
+    "D": "Seçenek sayısını artırmak",
+    "Answer": "Hedeflere tutarlı sorulara yer vermek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "80 soruluk bir sınavın uygulanması sırasında, süre yetmediği için son 3 soru hiçbir öğrenci tarafından cevaplanamamıştır. Bu duruma bakıldığında, ölçme işleminde hangi hata türü meydana gelmiştir?",
+    "A": "Sabit",
+    "B": "Sistematik",
+    "C": "Rassal",
+    "D": "Ortalama",
+    "Answer": "Rassal",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmen, öğrencilerin Türkçe dersindeki başarı düzeylerini ölçmek amacıyla Ocak, Şubat, Mart, Nisan ve Mayıs aylarında her ay değişik sınavlar yapmıştır. Yapılan bu sınavların güvenirlik ve geçerlik düzeyleri analiz edilmiş ve %4 anlam düzeyinde önemli farklar tespit edilmiştir. Bu verilere göre, testlerden elde edilen puanlar üzerinden öğrencilerin dönem sonu notlarını belirlemek için en doğru karar aşağıdaki seçeneklerden hangisidir?",
+    "A": "En yüksek not ağırlığı, en hızlı puanlanabilen teste verilmelidir.",
+    "B": "Not ağırlıkları, testlerin geçerlilik düzeylerine orantılı olarak belirlenmelidir.",
+    "C": "Tüm testlere eşit not ağırlığı uygulanmalıdır.",
+    "D": "En yüksek ağırlık, en güvenilir ölçme aracına verilmelidir.",
+    "Answer": "En yüksek ağırlık, en güvenilir ölçme aracına verilmelidir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrenciler, üniversite giriş sınavlarında kullanılan testleri sık sık eleştirmektedir. Öğrencilerin eleştiri nedeni, bu testlerin üniversite hayatında gerekecek becerileri tam olarak ölçemediğidir. Onlara göre, sınavların performansa dayalı değerlendirmelerle yapılması daha uygun olacaktır. Performansa dayalı değerlendirilen öğrencilerin üniversite hayatında daha başarılı olacaklarını düşünmektedirler. Performans görevlerine dayalı sınav yapılmasını isteyen öğrenciler bu talebinin temel nedeni, ölçme işleminin hangi özelliğiyle en fazla ilgilidir?",
+    "A": "Kullanışlılık",
+    "B": "Kapsam geçerliği",
+    "C": "Yordama geçerliği",
+    "D": "Güvenirlik",
+    "Answer": "Yordama geçerliği",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yapılan üniversite giriş sınavında, adayların sınavdan aldıkları puanlar ile lise başarı ortalamaları karşılaştırılmış ve bu iki puanın aynı yönde ve oldukça yüksek düzeyde bir korelasyon gösterdiği belirlenmiştir. Aşağıdakilerden hangisi, adaylara uygulanan giriş sınavı hakkında söylenebilir?",
+    "A": "Yapı geçerliği yüksektir.",
+    "B": "Kullanışlılığı yüksektir.",
+    "C": "Uygunluk geçerliği yüksektir.",
+    "D": "Yordama geçerliği yüksektir.",
+    "Answer": "Yordama geçerliği yüksektir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir testin geçerlik değeri 0,90 ise, güvenirlik değeri en az kaç olmalıdır?",
+    "A": "0,30",
+    "B": "0,81",
+    "C": "0,64",
+    "D": "0,90",
+    "Answer": "0,81",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir kişilik envanteri uygulandıktan sonra psikolog, katılımcılara soruları nasıl yanıtladıklarını ve yanıt verme sürecinde neler düşündüklerini sormuş ve bu cevapları kaydetmiştir. Rehberlik uzmanının bu çalışması, testin hangi özelliğini ortaya çıkarmayı amaçlamaktadır?",
+    "A": "Yapı geçerliği",
+    "B": "İç tutarlılık",
+    "C": "Yordama geçerliği",
+    "D": "Kullanışlık",
+    "Answer": "Yapı geçerliği",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "I. Yeniden test yöntemi II. Puanlayıcı güvenirliği III. KR-20 yöntemi IV. Cronbach Alfa katsayısı Yukarıdaki güvenirlik yöntemlerinden hangileri iç tutarlığı değerlendirmeye yöneliktir?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "III ve IV",
+    "D": "I ve III",
+    "Answer": "III ve IV",
+    "Image": "",
+    "Explaination": ""
+  }
+]

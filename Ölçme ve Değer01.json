@@ -1,0 +1,252 @@
+[
+  {
+    "Question": "Öğrencilerin ekonomik durumlarına göre sıralanması işlemi hangi ölçek türüne karşılık gelmektedir?",
+    "A": "Sınıflama",
+    "B": "Sıralama",
+    "C": "Eşit Aralıklı",
+    "D": "Eşit Oranlı",
+    "Answer": "Sıralama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisi bir ölçme işlemine örnek olarak gösterilemez?",
+    "A": "Ayşe 3 ayda 5 kilo verdi.",
+    "B": "Fenerbahçe 4 maçtan 3'ünde galip geldi.",
+    "C": "Ahmet'in sınav notu beklediğinin 5 puan altında geldi.",
+    "D": "Can LYS'de %5'lik dilime girdi.",
+    "Answer": "Ahmet'in sınav notu beklediğinin 5 puan altında geldi.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir otobüs firması, iki şehir arasındaki mesafeyi metreyle gösterdiğinde, hangi birim özelliğini önemsemediği söylenebilir?",
+    "A": "Eşitlik",
+    "B": "Genellik",
+    "C": "Güvenirlik",
+    "D": "Geçerlik",
+    "Answer": "Geçerlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "I. Zeynep, uygun kıyafet giymediği için törene katılamadı. II. Eren, sınavdan 85 puan alarak istediği programa kabul edildi. III. Ayşe, matematik testinde 50 soru doğru yanıtladı. IV. Müzik seçmelerinde yeterli performans sergileyemeyen Mehmet, orkestraya alınmadı. V. Ceren, yeterli krediye ulaşamadığı için belirli derslerden başarısız kabul edildi. Yukarıdaki maddelerden hangisi değerlendirme sürecine dahil edilemez?",
+    "A": "I",
+    "B": "II CIII",
+    "C": "IV",
+    "D": "V",
+    "Answer": "I",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir marangoz, kullandığı ölçü şeridinin esnek yapısı nedeniyle, ölçüm sırasında şerit uzamış ve sonuçlar beklenenden daha kısa çıkmıştır. Yapılan ölçüm işleminde, birimde bulunması gereken hangi ilke ihlal edilmiştir?",
+    "A": "Eşitlik",
+    "B": "Genellik",
+    "C": "Geçerlik",
+    "D": "Kullanışlılık",
+    "Answer": "Geçerlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Üniversitelerdeki sınavlarda, her öğrencinin sınav salonuna girmesi için belirli bir kod numarası verilmektedir. Sınav salonlarının bu numaralarla kodlanması, hangi ölçek türüne karşılık gelmektedir?",
+    "A": "Sınıflama",
+    "B": "Sıralama",
+    "C": "Eşit Aralıklı",
+    "D": "Eşit Oranlı",
+    "Answer": "Sınıflama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yapılan bir mühendislik çalışmasında, araştırmacı çapı 15 mm olan yarım daire şeklindeki metal plakaları sabitleyerek, plakaların ısı iletkenliği farklarını ölçmeyi amaçlayan bir cihaz geliştirmiştir. Bu cihaz sayısal farklılıkları ortaya koyabilmiş; ancak 0,05 derece sıcaklık farkı seviyesinde ölçüm cihazının sıfır değerini gösterdiği tespit edilmiştir. Bu bilgilere dayanarak, bilim insanının geliştirmiş olduğu ölçek aşağıdakilerden hangisidir?",
+    "A": "Eşit Oranlı",
+    "B": "Sınıflama",
+    "C": "Eşit Aralıklı",
+    "D": "Sıralama",
+    "Answer": "Eşit Aralıklı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Katılım sınavında uygulanan ölçüt ve değerlendirmenin amacı aşağıdaki seçeneklerden hangisinde doğru olarak belirtilmiştir? Ölçüt               Amaç",
+    "A": "Mutlak           Biçimlendirici",
+    "B": "Bağıl            Değer biçme",
+    "C": "Bağıl             Tanılayıcı",
+    "D": "Mutlak           Değer biçme",
+    "Answer": "Bağıl            Değer biçme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Mezuniyet belgesi verilmesi sürecinde kullanılan ölçüt ve değerlendirme türü hangi seçenekte doğru olarak belirtilmiştir? Ölçüt                Amaç",
+    "A": "Bağıl            Biçimlendirici",
+    "B": "Mutlak          Tanılayıcı",
+    "C": "Bağıl            Değer biçme",
+    "D": "Mutlak          Değer biçme",
+    "Answer": "Mutlak          Değer biçme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bağıl ölçüt olarak kullanılması doğru olmayan veri aşağıdaki seçeneklerden hangisidir?",
+    "A": "Puanların varyansı",
+    "B": "Grubun yetenek düzeyi",
+    "C": "Ülke normları",
+    "D": "Öğrencinin erişisi",
+    "Answer": "Öğrencinin erişisi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Matematik sınavı sonunda sonuçlar şöyleydi: I. Ayşe sınavı 30 dakikada bitirdi. II. Ayşe’nin sıralaması: 2 III. Ayşe, Fen Lisesi’ne kabul edildi. IV. Ayşe sınavda çok başarılı bir performans gösterdi. Yukarıdaki ifadelerle ilgili olarak aşağıdaki eşleştirmelerden hangisi doğrudur?",
+    "A": "Ölçme Ölçme Ölçme Ölçme",
+    "B": "Değerlendirme Ölçme Ölçme Ölçme",
+    "C": "Ölçme Ölçme Ölçme Ölçme",
+    "D": "Ölçme Ölçme Değerlendirme Değerlendirme",
+    "Answer": "Ölçme Ölçme Ölçme Ölçme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bu duruma göre, ikinci eğitim uzmanının eleştirisi hangi kavramla tanımlanabilir?",
+    "A": "Hesap hatası",
+    "B": "Ölçüt hatası",
+    "C": "Yanlı hata",
+    "D": "Ölçme hatası",
+    "Answer": "Hesap hatası",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Şehirlerin başarılarını kıyaslarken kullanılan ölçüte göre değerlendirmenin türü aşağıdakilerden hangisidir?",
+    "A": "Mutlak",
+    "B": "Tanılayıcı",
+    "C": "Bağıl",
+    "D": "Biçimlendirmeye yönelik",
+    "Answer": "Bağıl",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Ölçeklere dair aşağıda verilen ifadelerden hangisi doğru değildir?",
+    "A": "Eşit oranlı ölçeklerde, bir özelliğin diğerinin 3 katı olduğu söylenebilir.",
+    "B": "Sınıflama ölçeklerinde özellikleri verilen sayısal kodların özellikleri miktarlarına göre sıralanabilir.",
+    "C": "Sıralama ölçeklerinde özellikler standart hale getirilirse, eşit aralıklı ölçeğe geçildiği kabul edilir.",
+    "D": "Eşit aralıklı ölçeklerde, göreceli bir sıfır noktası bulunduğundan, oransal karşılaştırma yapılamaz.",
+    "Answer": "Sınıflama ölçeklerinde özellikleri verilen sayısal kodların özellikleri miktarlarına göre sıralanabilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Başak, arkadaşlarına \"Ben sınıfın en hızlı koşucusuyum.\" diye belirtmiş, ardından Jale \"Ben Başak’tan daha hızlı koşarım.\" demiştir. İki arkadaşın bu ifadeleri sırasıyla hangi ölçek düzeyindedir?",
+    "A": "Sıralama-Sınıflama",
+    "B": "Sınıflama-Eşit Aralıklı",
+    "C": "Eşit Aralıklı-Sıralama",
+    "D": "Sınıflama-Sıralama",
+    "Answer": "Sınıflama-Sıralama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir hazırlık sınıfında yapılan sınava 100 öğrenci katılmış ve sınav sonuçlarına göre en başarılı 40 öğrenci bir üst sınıfa geçmiştir. Ancak, üst sınıfa geçen öğrencilerin öğrenme zorlukları yaşadığı gözlemlenmiştir. Bu sorunun temel kaynağı öğretmen açısından aşağıdakilerden hangisidir?",
+    "A": "Üst kura alınan öğrenci sayısının fazla olması",
+    "B": "Mutlak ölçüt kullanmak yerine bağıl ölçüt kullanması",
+    "C": "Dolaylı bir ölçme yöntemi kullanması",
+    "D": "Önceki seviyedeki öğretimin yeterli düzeyde olmaması",
+    "Answer": "Mutlak ölçüt kullanmak yerine bağıl ölçüt kullanması",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kıymet’in 6 soruya doğru yanıt vermesinin belirlenmesi, yukarıdaki bilgilere göre hangi kavramla ifade edilebilir?",
+    "A": "Ölçüt",
+    "B": "Değerlendirme",
+    "C": "Ölçme Kuralı",
+    "D": "Ölçme",
+    "Answer": "Ölçme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Verilen bilgilere göre, değerlendirme amacı ve ölçüt dikkate alındığında aşağıdaki seçeneklerden hangisi doğrudur?",
+    "A": "Mutlak-Tanılayıcı",
+    "B": "Bağıl-Tanılayıcı",
+    "C": "Mutlak-Biçimlendirici",
+    "D": "Mutlak-Düzey Belirleme",
+    "Answer": "Mutlak-Düzey Belirleme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi yalnızca dolaylı olarak ölçülebilir?",
+    "A": "Bir koli yumurtanın kütlesi",
+    "B": "Yüzme becerisi",
+    "C": "Bir aracın yağ seviyesinin yağ çubuğuyla ölçülmesi",
+    "D": "Spor salonunda bulunan sporcu sayısının belirlenmesi",
+    "Answer": "Yüzme becerisi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki durumlardan hangisinde mutlak değerlendirme yerine bağıl değerlendirme tercih edilmelidir?",
+    "A": "Süreci geliştirmeye yönelik değerlendirme",
+    "B": "Öğrencinin mevcut bilgi düzeyinin ölçülmesi",
+    "C": "Bir programa, en yüksek standartlara sahip öğrencileri seçme.",
+    "D": "Öğrencinin mezun olma yeterliliğinin belirlenmesi",
+    "Answer": "Öğrencinin mezun olma yeterliliğinin belirlenmesi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "I. Yaşı 60’ın üzerinde olan çalışanlara sağlık kontrolü önerme II. Satış performansı en az %10 artan çalışanlara prim verme III. Eğitim programının %70'ini tamamlayan katılımcılara sertifika verme IV. Yıl sonu ortalaması 85 olan öğrenciyi onur listesine ekleme Yukarıda yer alan ifadelerden hangileri mutlak ölçüt kapsamında değerlendirilebilir?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "I, III ve IV",
+    "D": "I, II ve III",
+    "Answer": "I, II ve III",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmen, yeni bir konuya geçmeden önce, öğrencilerin gerekli ön bilgi ve becerilere sahip olup olmadıklarını anlamak için bir test yapmış ve ardından değerlendirme sonuçlarına göre karar vermiştir. Bu değerlendirme işleminin hedefi aşağıdakilerden hangisidir?",
+    "A": "Biçimlendirmeye yönelik",
+    "B": "Düzey belirlemek",
+    "C": "Hazırbulunuşluğu belirlemek",
+    "D": "Sürece odaklanmak",
+    "Answer": "Hazırbulunuşluğu belirlemek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Ölçme sonuçlarının bir ölçütle kıyaslanıp bir sonuca varılmasıyla ilgili aşağıdaki işlemlerden hangisi doğrudur?",
+    "A": "Bir ankete katılan kişilerin meslek gruplarının belirlenmesi",
+    "B": "Bir spor takımına en yetenekli oyuncuların seçilmesi",
+    "C": "Öğrencileri başarı sırasına koyma",
+    "D": "Bir becerinin ölçülmesi için rubric hazırlama",
+    "Answer": "Bir becerinin ölçülmesi için rubric hazırlama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir proje başvurusu için mülakat yapılacaktır. Bu mülakata, değerlendirme testinde ortalamanın en az 1.5 standart sapma üzerinde puan alan adaylar davet edilecektir. Değerlendirme testi sonuçları normal dağılım göstermektedir. Bu ön eleme süreciyle ilgili olarak: I. Mutlak ölçüt kullanılmıştır. II. Adayların %7'si bu ön eleme koşulunu karşılamaktadır. III. Soruların %93'ünü doğru yanıtlayan adaylar bu koşulu yerine getirebilir. Bu bilgilere göre, yukarıdaki ifadelerden hangilerinin doğru olduğu söylenebilir?",
+    "A": "Yalnız I",
+    "B": "Yalnız II",
+    "C": "I ve II",
+    "D": "I ve III",
+    "Answer": "Yalnız I",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisinde verilen ölçüt örneği diğerlerinden farklıdır?",
+    "A": "Sınıfın medyan notunu veya daha yüksek alan öğrenciler bu dersi başarıyla tamamlar.",
+    "B": "Z puanı en az 1,5 olan öğrencilere burs sağlanacaktır.",
+    "C": "Konuyla ilgili en kapsamlı makaleyi yazan öğrenciye ödül verilecektir.",
+    "D": "Ders saatinin %20’dan fazlasına katılmayan öğrenci dersten başarısız sayılacaktır.",
+    "Answer": "Konuyla ilgili en kapsamlı makaleyi yazan öğrenciye ödül verilecektir.",
+    "Image": "",
+    "Explaination": ""
+  }
+]

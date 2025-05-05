@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "I. Her soru bağımsız şekilde cevaplanabilecek yapıda olmalıdır. II. Sorular açık ve net bir ifadeye sahip olmalıdır. III. Sorularda, katılımcıların düzeyine uygun bir dil kullanılmalıdır. IV. Şans faktörünü en aza indirmek için düzeltme formülü kullanılmalıdır. V. Puanlama 1-0 sistemiyle yapılmalıdır. Yukarıdaki ifadelerden hangileri tüm soru türleri için geçerli olan kurallardır?",
+    "A": "I ve II",
+    "B": "II ve III",
+    "C": "II, III ve IV",
+    "D": "I, II ve III",
+    "Answer": "I, II ve III",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Puanlama yaparken nesnelliği ön planda tutar. Öğrenciye, beceriyi nasıl geliştireceği hakkında bilgi verir. Ölçümden elde edilen ham puanlar, eşit aralık ilkesine göre düzenlenmiştir. Beceriyi oluşturan standartlar açıklanmamıştır. Yukarıda sıralanan açıklamalardan hangisi ya da hangileri performans değerlendirmede kullanılan rubriğin niteliklerinden biri olarak kabul edilmez?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "III ve IV",
+    "D": "II ve III",
+    "Answer": "III ve IV",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir sınav sorusunun varyansının yüksek olması için aşağıdaki şartlardan hangisinin sağlanması gerekir?",
+    "A": "Zor olmalı",
+    "B": "Bilmeyenlerin yapabileceği şekilde hazırlanmalı",
+    "C": "Kolay olmalı",
+    "D": "Orta güçlükte olmalı",
+    "Answer": "Orta güçlükte olmalı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğrenci 4 seçenekli 40 soruluk çoktan seçmeli bir testte, 25 doğru, 10 yanlış ve 5 boş cevap vermiştir. Aşağıdakilerden hangisi öğrencinin düzeltilmiş puanıdır?",
+    "A": "12",
+    "B": "18",
+    "C": "14",
+    "D": "16",
+    "Answer": "18",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrencinin değerlendirme yetilerini geliştirmesine yardımcı olur. Sonuç odaklı geçerliliği yüksektir. Hem öğretmen hem de öğrenci tarafından kullanılabilir. Sadece sonuca yönelik değerlendirme yapar. Tümel değerlendirme sürecinde kullanılabilir. Yukarıda belirtilen maddelerden hangileri rubriklerin temel özelliklerinden biri değildir?",
+    "A": "Yalnız I",
+    "B": "Yalnız IV",
+    "C": "II ve IV",
+    "D": "III ve V",
+    "Answer": "Yalnız IV",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir şirketin personel alımında kullanacağı en yüksek güvenirlik, geçerlik ve kullanışlılığa sahip ölçme aracı aşağıdakilerden hangisidir?",
+    "A": "Yazılı yoklama",
+    "B": "Doğru-yanlış",
+    "C": "Eşleştirmeli",
+    "D": "Çoktan seçmeli",
+    "Answer": "Çoktan seçmeli",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir otomotiv fabrikasında tekniker alımında 50 soruluk çoktan seçmeli bir test kullanılmış, ancak seçilen teknikerlerin iş performansları beklenenin altında kalmıştır. Fabrika yöneticisi ise, çoktan seçmeli testlerin güvenilirlik ve geçerlik açısından en iyi ölçme aracı olduğunu belirterek, sorunun testlerden değil başka faktörlerden kaynaklandığını ifade etmiştir. Bu şartlar altında, fabrika yöneticisinin ihmal ettiği konuyu göz önünde bulundurarak, çoktan seçmeli teste alternatif olarak hangi ölçme aracı kullanılmalıdır?",
+    "A": "Boşluk doldurma türü test",
+    "B": "Portfolyo",
+    "C": "Yazılı yoklama",
+    "D": "Performans testi",
+    "Answer": "Performans testi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki ölçme araçlarından hangisinin summatif değerlendirme sürecinde kullanılması, bu yaklaşımın bakış açısına uygun değildir?",
+    "A": "Yapılandırılmış grid",
+    "B": "Standart test",
+    "C": "Kavram haritası",
+    "D": "Dallanmış ağaç",
+    "Answer": "Standart test",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kapsam geçerliliği oldukça iyi düzeydedir. Belirli ölçüde objektif bir yapıya sahiptir. Başarı şansa bağlı değildir. Yukarıda sayılan özellikler, aşağıdaki ölçme araçlarından hangisine aittir?",
+    "A": "Çoktan seçmeli",
+    "B": "Boşluk doldurmalı",
+    "C": "Eşleştirmeli",
+    "D": "Rubrik",
+    "Answer": "Çoktan seçmeli",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir ölçme aracının tasarım, uygulama ve puanlama süreçlerinin ekonomik olması, kullanışlılık kavramıyla ilişkilidir. Aşağıdaki değerlendirme araçlarından hangisi en yüksek kullanışlılığa sahiptir?",
+    "A": "İş performans testi",
+    "B": "Sözlü yoklama",
+    "C": "Portfolyo",
+    "D": "Doğru-yanlış testi",
+    "Answer": "Doğru-yanlış testi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir lisede portfolyo sistemi uygulanırken, öğrencilere Matematik dersinde bir performans görevi verilmiştir. Zeki bir öğrenci olan İhsan, problemin çözümünü zihninde yaparak sadece sonucunu deftere yazmıştır, çözüm adımlarını ise göstermemiştir. Aşağıdaki ölçme araçlarından hangisiyle, öğretmenin İhsan’ın Matematik dersine yönelik performansını değerlendirmesi önerilir?",
+    "A": "Analitik rubrik",
+    "B": "Çoktan seçmeli test",
+    "C": "Kontrol listesi",
+    "D": "Gözlem formu",
+    "Answer": "Analitik rubrik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki ölçme araçlarından hangisinde, sonuçsal geçerlik veya öğrencinin değerlendirme sürecindeki aktif katılımı en azdır?",
+    "A": "Portfolyo",
+    "B": "Yazılı yoklama",
+    "C": "Öz değerlendirme",
+    "D": "Rubrik",
+    "Answer": "Yazılı yoklama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yalnızca üst seviyedeki becerileri değerlendirmelidir. Yüksek iç tutarlılık gereklidir. Geniş bir içerik yelpazesi sunmalıdır. Önem taşıyan davranışları kapsamalıdır. Hazırlanması epey zor olmalıdır. Yukarıdaki ifadelerden hangisi veya hangileri başarı testinin sahip olması gereken özelliklerden biri değildir?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "II, III ve IV",
+    "D": "I, II ve V",
+    "Answer": "I, II ve V",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki ifadelerden hangisi tümel değerlendirmenin en önemli avantajı olarak kabul edilir?",
+    "A": "Öğrencilerin sosyal yetkinliklerini artırır.",
+    "B": "Öğrenciye değerlendirme ve analiz yapma becerisi kazandırır.",
+    "C": "Öğrencilerin başkalarının duygularını anlama ve empati kurma yetisini geliştirir.",
+    "D": "Öğrencinin gelişimini bütünsel olarak takip ederek onu çok yönlü tanımaya yardımcı olur.",
+    "Answer": "Öğrencinin gelişimini bütünsel olarak takip ederek onu çok yönlü tanımaya yardımcı olur.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Programın değerlendirme sürecinde kullanılır. Öğrencilerin kritik becerilerle ilgili eksikliklerini saptar. Ana amacı, öğrenci gelişimini desteklemektir. Geçme veya kalma notu verilir. Öğrencilere öz değerlendirme imkânı tanıyarak kendi öğrenme süreçlerinden sorumlu olmalarını sağlar. Yukarıda belirtilen maddelerden hangileri izlenimci yaklaşımı benimseyen tümel değerlendirmenin özelliklerinden sayılmaz?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "II, IlI ve IV",
+    "D": "I, II ve IV",
+    "Answer": "I, II ve IV",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Düşünceleri düzenleme becerisinin ölçülmesi Hazırlık sürecinin kısa sürmesi Puanlamada farklı faktörlerin etkili olabilmesi Düzeltme formülüne başvurulmaması Hızlı okuma yeteneğine sahip olanların başarılı olması Yukarıda belirtilen maddelerden hangisi yazılı sınavların özelliklerinden biri değildir?",
+    "A": "I",
+    "B": "II",
+    "C": "III",
+    "D": "V",
+    "Answer": "V",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmenin, öğrencileri başarılarına göre sıralamak yerine onları bireysel olarak değerlendirmek istemesinin amacı nedir?",
+    "A": "Öğrencilere değerlendirme yapma ve geri bildirim verme becerisi kazandırmak",
+    "B": "Öğrencilerin gelişim süreçlerini çok yönlü takip ederek onları desteklemek",
+    "C": "Aileleri, çocuklarının akademik ve kişisel gelişimi hakkında bilgilendirmek",
+    "D": "Öğrencilerin öğrenme süreçlerinde sorumluluk almalarını teşvik etmek",
+    "Answer": "Aileleri, çocuklarının akademik ve kişisel gelişimi hakkında bilgilendirmek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Süreç merkezli bir yaklaşıma sahiptir. Güvenirlik ve geçerlilik düzeyi, geleneksel ölçme araçlarına göre yüksektir. Sonuç geçerliliği güçlüdür. Değerlendirme bireysel olarak yapılır. Maliyet açısından ekonomiktir. Yukarıdaki ifadelerden hangileri portfolyo değerlendirmenin özellikleri arasındadır?",
+    "A": "I ve II",
+    "B": "II, III ve IV",
+    "C": "II, III ve V",
+    "D": "I, III ve IV",
+    "Answer": "I, III ve IV",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Çeldiricilerin ve doğru cevabın anlam olarak birbirine yaklaşması, çoktan seçmeli sorunun hangi niteliğini nasıl etkiler?",
+    "A": "Zorlaşır.",
+    "B": "Kolaylaşır.",
+    "C": "Ayırt ediciliği düşer.",
+    "D": "Güvenirliği düşer.",
+    "Answer": "Ayırt ediciliği düşer.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "I. İzlenimci yaklaşımı destekler. II. Değerlendirme süreci, öğrenmeye katkı sağlar. III. Beceriyi meydana getiren ölçütleri tanımlar. IV. Hem performans hem de ürün değerlendirmesi için uygundur. Yukarıda verilen özelliklere göre aşağıdaki seçeneklerden hangisi bu ölçme aracıdır?",
+    "A": "Kişilik envanteri",
+    "B": "Rubrik",
+    "C": "Kontrol listesi",
+    "D": "Dereceleme ölçeği",
+    "Answer": "Rubrik",
+    "Image": "",
+    "Explaination": ""
+  }
+]

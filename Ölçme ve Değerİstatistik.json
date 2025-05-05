@@ -1,0 +1,52 @@
+[
+  {
+    "Question": "Bir bilim insanı, deney sonuçlarından elde ettiği veriler üzerinde analiz yapmak istemektedir. Bu amaçla, topladığı verileri önce tek tek gözden geçirmiştir. Bilim insanının veriler üzerinde istatistiksel bir işlem gerçekleştirebilmesi için başlangıçta hangi adımı atması beklenir?",
+    "A": "Verileri belirli kategoriler altında gruplandırmalıdır.",
+    "B": "Veriler üzerinde ortalama, medyan ve mod gibi merkezi eğilim ölçülerini hesaplamalıdır.",
+    "C": "Verileri görselleştirmek için uygun grafikler oluşturmalıdır.",
+    "D": "Veriler üzerinde standart sapma ve varyans gibi merkezi değişim ölçülerini hesaplamalıdır.",
+    "Answer": "Veriler üzerinde standart sapma ve varyans gibi merkezi değişim ölçülerini hesaplamalıdır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aritmetik puanı 70 ve standart sapması 4 olan bir ölçümde 78 puan alan bir sporcunun performansını ifade eden seçeneklerden hangisi doğru kabul edilir?",
+    "A": "Sporcu, grubun %50’sinden daha düşük performans göstermiştir.",
+    "B": "Sporcu, grubun %98’lik diliminden daha iyi bir performans sergilemiştir.",
+    "C": "Verilen bilgilerle sporcunun başarısı belirlenemez.",
+    "D": "Sporcu, grubun en fazla %84’ünden daha iyi bir performans göstermiş olabilir.",
+    "Answer": "Sporcu, grubun %98’lik diliminden daha iyi bir performans sergilemiştir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir araştırma grubunun iki farklı testten aldığı ortalama puan 65 olarak hesaplanmıştır. Ancak, değişkenlik açısından ilk testin ranjı 60 iken, ikinci testin ranjı 30 olarak bulunmuştur. Bu durum hakkında aşağıdakilerden hangisi söylenebilir?",
+    "A": "Her iki sınavın tepe değeri ortaktır.",
+    "B": "Her iki sınavın en yüksek ve en düşük değerleri aynıdır.",
+    "C": "Varyans değerleri benzerdir.",
+    "D": "İkinci sınavın puanları daha homojendir.",
+    "Answer": "İkinci sınavın puanları daha homojendir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Sağa çarpık bir dağılımda aritmetik ortalama, mod ve medyan arasındaki ilişki hangi seçenekte doğru verilmiştir?",
+    "A": "Mod > aritmetik ortalama > medyan",
+    "B": "aritmetik ortalama > mod > medyan",
+    "C": "medyan > aritmetik ortalama > mod",
+    "D": "Mod > medyan > aritmetik ortalama",
+    "Answer": "Mod > medyan > aritmetik ortalama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "2. 5, 10, 25, 30, 45, 50, 65 Yukarıdaki sayı dizisine aşağıdakilerden hangisi eklenirse medyanı 35 olur?",
+    "A": "55",
+    "B": "80",
+    "C": "40",
+    "D": "30",
+    "Answer": "40",
+    "Image": "",
+    "Explaination": ""
+  }
+]
