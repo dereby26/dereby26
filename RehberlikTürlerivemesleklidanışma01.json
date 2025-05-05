@@ -1,0 +1,382 @@
+[
+  {
+    "Question": "Çalışma bulgularına göre, ailede daha önce kendine zarar verme girişimi yaşanmışsa, çocukların ileride herhangi bir olumsuz yaşam deneyimi sonrasında benzer riskli eylemlere yönelme ihtimali daha yüksektir. Risk grubundaki öğrencilere yönelik olarak beceri kazandırma çalışmaları, rehberliğin temel işlevlerinden hangisine hizmet etmektedir?",
+    "A": "Tamamlayıcı",
+    "B": "İyileştirici",
+    "C": "Geliştirici",
+    "D": "Önleyici",
+    "Answer": "Önleyici",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kendi ilgi, yetenek ve kişilik özelliklerine uygun bir meslek sahibi birey, hem kendi ruh sağlığını koruyabilir hem de daha kaliteli ve çok mal/hizmet üretebilir. Bu anlayış daha çok rehberliğin hangi disiplinle ilişkisini belirtir?",
+    "A": "Ekonomi",
+    "B": "Psikoloji",
+    "C": "Ruh sağlığı",
+    "D": "Eğitim",
+    "Answer": "Ekonomi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bireyin tamamen gelişimini sağlayacak ortamı oluşturmak, hangi rehberlik yaklaşımının temel amacıdır?",
+    "A": "Krize müdahale",
+    "B": "Gelişimsel rehberlik",
+    "C": "Önleyici rehberlik",
+    "D": "İyileştirici rehberlik",
+    "Answer": "Gelişimsel rehberlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi gelişimsel rehberlik yaklaşımının dayanaklarından biri değildir?",
+    "A": "Gelişim ilkeleri",
+    "B": "Gelişimi etkileyen etmenler",
+    "C": "Gelişim ihtiyaçları",
+    "D": "Gelişim görevleri",
+    "Answer": "Gelişim görevleri",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Maslow’a göre, aşağıdakilerden hangisi “bireyin kendini gerçekleştirme ihtiyacı” içinde yer alan üst düzeydeki bir gereksinimdir?",
+    "A": "Başarı",
+    "B": "Statü sahibi olma",
+    "C": "Estetik beğeni",
+    "D": "Kimlik duygusu kazanma",
+    "Answer": "Estetik beğeni",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Cinsel farklılıkları öğrenme ve cinsel kimliği kazanmaya başlama, hangi döneme özgü bir gelişim görevidir?",
+    "A": "Okul öncesi dönem",
+    "B": "Ön ergenlik dönemi",
+    "C": "İlköğretimin birinci dönemi",
+    "D": "İlköğretimin ikinci dönemi",
+    "Answer": "Ön ergenlik dönemi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, okul öncesi dönemde eğitsel rehberlik hizmetleri kapsamındaki rehberlik etkinliklerinden biridir?",
+    "A": "Çocuğu kitap okumaya teşvik etmek ve okul sevgisini artırmak",
+    "B": "Çocuğa farklı meslekler hakkında bilinç kazandırmak",
+    "C": "Çocuğun sağlıklı sosyal beceriler edinmesine rehberlik etmek",
+    "D": "Çocuğun kendine yönelik olumlu bir benlik algısı oluşturmasına destek olmak",
+    "Answer": "Çocuğun kendine yönelik olumlu bir benlik algısı oluşturmasına destek olmak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Farklı öğretim kademelerindeki rehberlik uygulamalarında aynen geçerliliğini koruyan aşağıdakilerden hangisidir?",
+    "A": "Yararlanılacak teknikler",
+    "B": "Rehberliğin temel ilkeleri",
+    "C": "İzlenecek programlar",
+    "D": "Öğrencilerin gereksinimleri",
+    "Answer": "Rehberliğin temel ilkeleri",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İlköğretimde hangi rehberlik yaklaşımı temel alınmalıdır?",
+    "A": "İyileştirici",
+    "B": "Önleyici",
+    "C": "Klinik",
+    "D": "Gelişimsel",
+    "Answer": "Gelişimsel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi ilköğretimdeki rehberlik hizmetlerinin amaçlarından biri değildir?",
+    "A": "Öğrencilerin kendilerini tarafsız ve gerçekçi bir şekilde tanımalarına destek olmak",
+    "B": "Çocuğun sağlıklı bir kişilik gelişimi kazanmasına katkı sağlamak",
+    "C": "Çocuğun toplumsal uyum becerilerini geliştirmesine yardımcı olmak",
+    "D": "İş ve meslek hayatına yönelik değerler ve tutumlar oluşturmasını desteklemek",
+    "Answer": "İş ve meslek hayatına yönelik değerler ve tutumlar oluşturmasını desteklemek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrencilerin iş ve çalışma yaşamına ilişkin gerçekçi değerlendirmeler yapabilmesine yardımcı olmak, hangi öğretim kademesiyle ilgili mesleki rehberlik görevlerinden biridir?",
+    "A": "Okul öncesi öğretim",
+    "B": "Ortaöğretim",
+    "C": "İlköğretim birinci kademe",
+    "D": "İlköğretim ikinci kademe",
+    "Answer": "Ortaöğretim",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi orta öğretimde rehberlik hizmetlerinin karakteristik özelliklerinden biri değildir?",
+    "A": "Grup etkinlikleri kadar, bireysel yöntemler ve teknikler de önemli rol oynar.",
+    "B": "Hizmetlerin uygulanmasında sorun merkezli bir yaklaşım benimsenir.",
+    "C": "Hizmetler, ergenin gelişimsel görevlerine dayanır.",
+    "D": "Okul yöneticileri, tüm öğretmenler, uzmanlar ve veliler sürece dahil olur.",
+    "Answer": "Hizmetlerin uygulanmasında sorun merkezli bir yaklaşım benimsenir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Orta öğretimde rehberlik hizmetlerinin temel gerekçesi aşağıdakilerden hangisidir?",
+    "A": "Ergenlik dönemine özgü gelişimsel gereksinimler",
+    "B": "Ortaöğretimde farklı okul türleri ve amaçları",
+    "C": "Ergenlik dönemindeki sorunların değişken yapısı",
+    "D": "Meslek seçiminde karar verme sürecinin yaşandığı dönem",
+    "Answer": "Ortaöğretimde farklı okul türleri ve amaçları",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Okul öncesi eğitimde kişisel rehberlik hizmetleri hangi amaca yöneliktir?",
+    "A": "Çocuğun kendine güven duygusunu artırmak",
+    "B": "Okula uyum sağlamasını ve ilköğretime hazır hale gelmesini desteklemek",
+    "C": "Okuma ve okul sevgisini teşvik etmek",
+    "D": "Yaş dönemine uygun mesleki gelişim görevlerini yerine getirmesine yardımcı olmak",
+    "Answer": "Okula uyum sağlamasını ve ilköğretime hazır hale gelmesini desteklemek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi ilköğretimde rehberlik hizmetlerinde anahtar konumundaki kişidir?",
+    "A": "Uzman",
+    "B": "Yönetici",
+    "C": "Öğretmen",
+    "D": "Anne ve baba",
+    "Answer": "Öğretmen",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi ilköğretimde rehberlik hizmetlerinin temel gerekçelerinden biri değildir?",
+    "A": "Mesleki gelişim görevlerinin yerine getirilmesi açısından kritik bir dönem olması",
+    "B": "Ülke sorunlarının çözümüne katkıda bulunmak için uygun bir dönem olması",
+    "C": "Temel eğitim yıllarının, çocuğun kişilik oluşumu ve temel tutum ve davranışlarının kazanımı açısından önemli bir evre olması",
+    "D": "Çocuğun ev ortamından ayrılarak ilk kez yeni bir sosyal çevreye adım attığı dönem olması",
+    "Answer": "Ülke sorunlarının çözümüne katkıda bulunmak için uygun bir dönem olması",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "“Gelişim görevleri” kavramını ortaya atan bilim adamı aşağıdakilerden hangisidir?",
+    "A": "Maslow",
+    "B": "Piaget",
+    "C": "Freud",
+    "D": "Havighurst",
+    "Answer": "Havighurst",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi gelişimsel rehberlik yaklaşımının özelliklerinden biri değildir?",
+    "A": "Görev yönelimli olması",
+    "B": "Yaratıcı ve esnek olması",
+    "C": "Öğretmen odaklı olması",
+    "D": "Tüm gelişim alanlarına yönelik yeterlilik kazandırması",
+    "Answer": "Öğretmen odaklı olması",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, kapsamlı rehberlik programlarının “müdahale hizmetleri” boyutunun hedeflediği alanlardan biri değildir?",
+    "A": "Stresle başa çıkma",
+    "B": "Personel eğitimi",
+    "C": "Madde kullanımı",
+    "D": "Ailevi konular",
+    "Answer": "Personel eğitimi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Türkiye’de gelişimsel rehberlik yaklaşımı, programlara hangi yıl yansıtılmıştır?",
+    "A": "1960",
+    "B": "1980",
+    "C": "2002",
+    "D": "1995",
+    "Answer": "2002",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi kapsamlı gelişimsel rehberlik programlarının temel unsurlarından biri değildir?",
+    "A": "Rehberlik müfredatı",
+    "B": "Öğretim hizmetleri",
+    "C": "Müdahale hizmetleri",
+    "D": "Bireysel planlama",
+    "Answer": "Öğretim hizmetleri",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, kapsamlı gelişimsel rehberlik programlarının “rehberlik müfredatı” boyutunun hedeflediği alanlardan biri değildir?",
+    "A": "Kendine güven",
+    "B": "Motivasyon",
+    "C": "Ebeveyn eğitimi",
+    "D": "İletişim becerileri",
+    "Answer": "Ebeveyn eğitimi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Rehberlik hizmetlerinin gelişimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Türkiye’de rehberlik çalışmaları bireysel farklılıkların dikkate alınması amacıyla başlamıştır.",
+    "B": "İlk rehberlik dersleri İstanbul Eğitim Enstitüsü’nde açılmıştır.",
+    "C": "İlk rehberlik uygulamaları eğitsel rehberlik uygulamaları olarak başlamıştır.",
+    "D": "Rehberlik hizmetleri ilk olarak ABD’de başlamıştır.",
+    "Answer": "İlk rehberlik dersleri İstanbul Eğitim Enstitüsü’nde açılmıştır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Okulu terk eden öğrenciye acilen müdahale edilmesine yönelik yapılan rehberlik yardımı aşağıdaki rehberlik çeşitlerinden hangisi içinde yer alır?",
+    "A": "Yöneltici rehberlik",
+    "B": "Uyum sağlayıcı rehberlik",
+    "C": "Ayarlayıcı rehberlik",
+    "D": "Önleyici rehberlik",
+    "Answer": "Önleyici rehberlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İzleme hizmetlerinin temel amacı nedir?",
+    "A": "Mezunların mevcut durumunu analiz etmek",
+    "B": "Uygulanan programın verimliliğini ölçmek",
+    "C": "Okul danışmanının performansını değerlendirmek",
+    "D": "Öğrencilerin uyum sürecini incelemek",
+    "Answer": "Uygulanan programın verimliliğini ölçmek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrencinin okul içinde derslerle ilgili bir kursa yerleştirilmesi, ne tür bir yerleştirmedir?",
+    "A": "Mesleki",
+    "B": "Sosyal",
+    "C": "Kişisel",
+    "D": "Eğitsel",
+    "Answer": "Eğitsel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Rehberlik hizmetlerinin en yaygın olduğu kurum hangisidir?",
+    "A": "Sağlık",
+    "B": "Adalet",
+    "C": "Eğitim",
+    "D": "Sosyal Yardım",
+    "Answer": "Eğitim",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yöneltme yaparken aşağıdakilerden hangisinin görüşünü dikkate almak gerekmez?",
+    "A": "Komşuların",
+    "B": "Ailenin",
+    "C": "Öğretmenlerin",
+    "D": "Psikolojik danışmanın",
+    "Answer": "Komşuların",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Her bir okul düzeyindeki öğrencilerin ailelerine, çocukların yaş dönemi özellikleri ve bu özelliklere uygun davranış biçimleri hakkında bilgi vermeyi amaçlayan 0-18 yaş aile eğitimi, aşağıdaki rehberlik türlerinden hangisini ifade eder?",
+    "A": "Eğitsel rehberlik - Önleyici rehberlik",
+    "B": "Kişisel rehberlik - Yöneltici rehberlik",
+    "C": "Bireysel rehberlik - Tamamlayıcı rehberlik",
+    "D": "Geliştirici rehberlik - Grupla rehberlik",
+    "Answer": "Geliştirici rehberlik - Grupla rehberlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Psikolojik danışmanların okul rehberlik servislerinde, öğrencilerin özelliklerini, karşılaştıkları sorunları ve gelecekle ilgili arzularını belirleyip ileride ortaya çıkabilecek sorunları önceden tahmin etmeye çalışarak rehberlik programlarını geliştirmeleri, rehberliğin hangi temel işleviyle ilişkilidir?",
+    "A": "Geliştirici",
+    "B": "Tamamlayıc",
+    "C": "Ayarlayıcı ı",
+    "D": "Uyum sağlayıcı",
+    "Answer": "Ayarlayıcı ı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıda belirtilen rehberlik türleriyle ilgili ifadelerden hangisi doğru kabul edilir?",
+    "A": "Sorun alanlarına göre rehberlik türleri arasında içerik ve uygulama açısından en kapsamlı hizmet, eğitimsel rehberliktir.",
+    "B": "Bireysel ve grup psikolojik danışma hizmetleri belirli bir plan doğrultusunda yürütülür.",
+    "C": "Okullarda grup psikolojik danışma hizmetlerinin uygulanması mümkün değildir.",
+    "D": "Mesleki rehberlik desteği, meslek seçimi sonrasında dahi süreklilik gösterir.",
+    "Answer": "Mesleki rehberlik desteği, meslek seçimi sonrasında dahi süreklilik gösterir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hukuk fakültesi ikinci sınıf öğrencisi olan İlkan, gelecekle ilgili planları sorulduğunda, “Mezun olduktan sonra kendi hukuk büromu açıp, adil ve yenilikçi bir şekilde insanlara hizmet vermek istiyorum” demektedir. Bu bilgilerden yola çıkarak, İlkan meslek seçimi sürecinin hangi aşamasındadır?",
+    "A": "Karar verme",
+    "B": "Yerleşme",
+    "C": "Araştırma-keşfetme",
+    "D": "Hazırlık",
+    "Answer": "Hazırlık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Grup rehberliği etkinliklerinin amaçlarına uygun olmayan seçenek aşağıdakilerden hangisidir?",
+    "A": "Öğrencilerin uzun vadeli akademik ve profesyonel hedefler belirlemesine katkı sağlayacak bilgi kaynaklarına erişim imkânı sunmak",
+    "B": "Öğrencilerin çok boyutlu sorun alanlarını tanımlayabilmelerini ve akran dayanışmasıyla çözüm üretme kapasitelerini güçlendirmek",
+    "C": "Belirli grupların gelişimsel ihtiyaçlarına yönelik kanıta dayalı bilgi paylaşımı ve materyal desteği sağlamak",
+    "D": "Öğrencilerin biyopsikososyal boyuttaki konuları analiz edebilme becerilerini geliştirmeye yönelik bilinç kazandırmak",
+    "Answer": "Öğrencilerin çok boyutlu sorun alanlarını tanımlayabilmelerini ve akran dayanışmasıyla çözüm üretme kapasitelerini güçlendirmek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Rehberliğin gelişimiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "A": "Rehberlik, ilk olarak ABD’de ortaya çıkmış ve gelişim göstermiştir.",
+    "B": "İlk rehberlik ofisi, 1908 yılında Frank Parsons tarafından kurulmuştur.",
+    "C": "Türkiye’de rehberlik hizmetleri 1950’li yıllarda hayata geçirilmiştir.",
+    "D": "Avrupa’daki rehberlik çalışmaları, ABD’ye kıyasla oldukça geç başlamıştır.",
+    "Answer": "Türkiye’de rehberlik hizmetleri 1950’li yıllarda hayata geçirilmiştir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Rehberlik hizmetleri ilk olarak aşağıdaki çalışmalardan hangisiyle başlamıştır?",
+    "A": "Kişisel rehberlik",
+    "B": "Eğitsel rehberlik",
+    "C": "Mesleki rehberlik",
+    "D": "Gelişimci rehberlik",
+    "Answer": "Mesleki rehberlik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi rehberliğin temel ilkeleriyle bağdaşmaz?",
+    "A": "Öğrencilerin kendi potansiyellerini en iyi şekilde kullanmalarına destek olmak",
+    "B": "Rehberlik çalışmalarında rehber öğretmenlerle ortak hareket etmek",
+    "C": "Rehberlik hizmetlerinin uzman kişiler tarafından yetkin bir şekilde sunulmasını benimsemek",
+    "D": "Yatılı okullarda etkili şekilde yürütülen kapsamlı bir rehberlik programını tüm liselere uyarlamak.",
+    "Answer": "Yatılı okullarda etkili şekilde yürütülen kapsamlı bir rehberlik programını tüm liselere uyarlamak.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İleri yaştaki kişilerin ruhsal durumlarını iyileştirmek ve olumsuz duygularını azaltmak amacıyla yürütülen proje doğrultusunda, huzurevleri ve yaşlı bakım merkezlerine psikolojik destek uzmanları görevlendirilmiş, talep eden bireylere psikolojik yardım sağlanmaya başlanmıştır. Gerçekleştirilen bu çalışma, rehberliğin uygulandığı alanların sınıflandırılması açısından aşağıdakilerden hangisinin kapsamında ele alınmaktadır?",
+    "A": "Eğitim alanında",
+    "B": "Sağlık alanında",
+    "C": "Endüstri alanında",
+    "D": "Sosyal yardım alanında",
+    "Answer": "Sosyal yardım alanında",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Çocukluk dönemlerinde duygusal ihtiyaçlar, genelde narsistik biçimde karşılanırken, ergenlik dönemine gelindiğinde bu ihtiyaçların bir kısmı gerçek ilişkilere yönelir. Ergen, yalnızca kişisel çıkarları doğrultusunda değil, aynı zamanda başkalarına yardımcı olma güdüsüyle de insanlarla etkileşim kurmaya başlar. Ebeveyn eğitim programında, yukarıdaki açıklamaları ifade eden bir psikolojik danışman, rehberlik hizmetlerinin hangi fonksiyonunu kullanmaktadır?",
+    "A": "Önleyici",
+    "B": "Tamamlayıcı",
+    "C": "Geliştirici",
+    "D": "Uyum sağlayıcı",
+    "Answer": "Geliştirici",
+    "Image": "",
+    "Explaination": ""
+  }
+]

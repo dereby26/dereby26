@@ -1,0 +1,132 @@
+[
+  {
+    "Question": "Sınıfta etkili bir iletişim kurmanın yolu, konuşmacının anlatım becerileri kadar, dinleyicinin dikkatine de bağlıdır. Aşağıdakilerden hangisi, etkili bir dinleyicinin sahip olduğu özelliklerden biri olarak kabul edilmez?",
+    "A": "Karşıdaki kişinin sözünü kesmeden ve kendi fikrini dayatmadan dinler.",
+    "B": "Konuşmacıyı dinlerken, kendi cevabını hazırlamaya odaklanır.",
+    "C": "Konuşmacının beden dili, mimikler ve ses tonu gibi sözsüz ipuçlarını da gözlemler.",
+    "D": "Empati kurarak, konuşmacının anlattıklarını özetler veya geri bildirim verir.",
+    "Answer": "Konuşmacıyı dinlerken, kendi cevabını hazırlamaya odaklanır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "“Gerçekten zor bir durumdasın. Hem iyi bir üniversiteye gitme şansın var hem de ailenin baskısı seni sıkıntıya sokuyor. Anlayabiliyorum, böyle bir kararı vermek çok karmaşık olabilir\" diyen bir arkadaş, arkadaşına aşağıdakilerden hangisini söylerse empatik bir yaklaşım sergilemiş olur?",
+    "A": "Ailenle bu durumu konuşmamı ve araya girerek yardımcı olmamı ister misin?",
+    "B": "Ailenle duygularını ve düşüncelerini paylaşırsan, seni daha iyi anlayabilirler.",
+    "C": "Bu durum gerçekten zorlayıcı, seni anlıyorum ve yanındayım.",
+    "D": "Ailenin bu tutumu, seninle olan bağını koruma isteğinden kaynaklanıyor olabilir.",
+    "Answer": "Bu durum gerçekten zorlayıcı, seni anlıyorum ve yanındayım.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İlkokul çağında ayrılık kaygısı yaşayan bir çocuğun velisine aşağıdaki tavsiyelerden hangisinin verilmesi uygun değildir?",
+    "A": "Sınıf içinde olumlu davranışlar sergileyen öğrenciler, diğerlerine model olarak sunulmalıdır.",
+    "B": "Çocuğun durumu hakkında sınıf öğretmeni ve rehberlik servisiyle iş birliği yapılmalıdır.",
+    "C": "Çocuğun kaygısının kaynağı olabilecek durumlar analiz edilmelidir.",
+    "D": "Çocuğun hissettikleri nedeniyle yargılanmaması ve anlayışla karşılanması gerekir.",
+    "Answer": "Sınıf içinde olumlu davranışlar sergileyen öğrenciler, diğerlerine model olarak sunulmalıdır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrencileri üzerinde sürekli kontrol sağlamaya çalışan bir öğretmenin sınıfında, aşağıdakilerden hangisinin meydana gelme olasılığı daha yüksektir?",
+    "A": "Öğrenciler, kendi davranışlarını düzenleme ve kontrol etme konusunda zorluk yaşarlar.",
+    "B": "Öğrenciler, her şeyin kusursuz olmasını isteyen bir tutum sergilerler.",
+    "C": "Öğrenciler, sık sık kendilerini çaresiz ve umutsuz hissederler.",
+    "D": "Öğrenciler, diğer insanların haklarını göz ardı edebilirler.",
+    "Answer": "Öğrenciler, sık sık kendilerini çaresiz ve umutsuz hissederler.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisi, iletişimin etkili olmasını sağlamak için dikkat edilmesi gereken konulara dair doğru bir bilgi içermez?",
+    "A": "Sözlü mesajlar, ses tonu ve beden dili gibi sözsüz unsurlarla güçlendirilmelidir.",
+    "B": "İletişimin sağlıklı olabilmesi için hem gönderen hem de alan tarafın sürece aktif katılımı şarttır.",
+    "C": "Mesajın etkili bir şekilde ulaşması için doğru iletişim yöntemi ve araçları kullanılmalıdır.",
+    "D": "Geri bildirimler, kişisel duygu ve düşünceleri ifade eden 'ben dili' kullanılarak verilmelidir.",
+    "Answer": "Geri bildirimler, kişisel duygu ve düşünceleri ifade eden 'ben dili' kullanılarak verilmelidir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Eğitimde güven temelli ilişkiler, öğretmen ve öğrenciler arasındaki başarıyı artıran kilit faktörlerdir. Bu bağlamda, aşağıdakilerden hangisi bu koşullar arasında yer almaz?",
+    "A": "Öğrencileri oldukları gibi kabul ederek saygı gösterme",
+    "B": "Öğrencilere samimi ve doğal bir şekilde yaklaşma",
+    "C": "Öğrencilerin duygularını anlamaya çalışarak onlarla bağ kurma",
+    "D": "Öğrencilerin zayıf yönlerini öne çıkarma",
+    "Answer": "Öğrencilerin zayıf yönlerini öne çıkarma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğrencilerin dersle yeterince ilgilenmediğini ve uyarılarını dikkate almadıklarını fark eden bir öğretmen, bu duruma karşı 'saydamlık' becerisine uygun bir yanıt vermek istiyorsa, aşağıdakilerden hangisini söylemelidir?",
+    "A": "Beni dinlemeniz için ne yapmam gerekiyor?",
+    "B": "Uyarılarımı dikkate almamaya devam ederseniz okul yöneticileri ile görüşmek zorunda kalacağım.",
+    "C": "Emeğime saygı göstermiyor oluşunuz beni çok üzüyor.",
+    "D": "Sınav notlarınız düşük geldiğinde ne demek istediğimi daha iyi anlayacaksınız.",
+    "Answer": "Emeğime saygı göstermiyor oluşunuz beni çok üzüyor.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İlayda, hafta sonu düzenlenecek bir etkinliğe katılmak istiyordu, ancak annesi sınav sonuçlarına göre karar vereceğini söyledi. İlayda hafta boyunca sınavlarına yoğunlaşarak yüksek notlar aldı ve annesi bu başarı üzerine etkinliğe gitmesine izin verdi. İlayda ve annesi, aralarındaki anlaşmazlığı çözmek için aşağıdaki yöntemlerden hangisine başvurmuşlardır?",
+    "A": "Ayıcık",
+    "B": "Kaplumbağa",
+    "C": "Köpekbalığı",
+    "D": "Tilki",
+    "Answer": "Tilki",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Sınavda kopya çekmeye çalışan bir öğrenciyi gözlemleyen öğretmen, öğrenciyi davranışı hakkında uyarıp, sınav sonrasında bu konuyu görüşmek için onu odasına davet etti. Öğretmen, kopya girişiminde bulunan öğrenciyle yaptığı görüşmede, aşağıdaki ifadelerden hangisini kullanırsa iletişimde bir engel oluşturmaz?",
+    "A": "Kopya çekmek, sorumluluk bilinci tam olarak oturmamış öğrencilerin başvurabileceği bir yöntemdir.",
+    "B": "Bu davranış hakkında kendi düşüncelerini nasıl ifade edersin?",
+    "C": "Kopya çekerek yüksek bir not aldığında, vicdanen gerçekten huzurlu olabilecek misin?",
+    "D": "Bu hareketin sonucunda disiplin cezası alman söz konusu olabilir.",
+    "Answer": "Bu davranış hakkında kendi düşüncelerini nasıl ifade edersin?",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Arkadaşıyla yaşadığı kavga nedeniyle psikolojik danışmana yönlendirilen Yiğit, görüşmenin başında sessiz kalarak kendini ifade etmekte zorlanmış ve iç dünyasını paylaşmakta güçlük yaşamıştır. Okul psikolojik danışmanı, Yiğit’in sessiz kaldığı bu durumda aşağıdaki tepkilerden hangisini verirse, ona kendini ifade etmesi için bir yaklaşım sergilemiş olur?",
+    "A": "Sessiz kalırsan sana destek olamam.",
+    "B": "Hatalı bir davranış yaptığını düşündüğün için konuşmaktan kaçınıyorsun.",
+    "C": "Kendini ifade etmezsen, haklı olduğunu anlatmakta zorlanabilirsin.",
+    "D": "Şu an neler hissediyorsun, benimle paylaşmak ister misin?",
+    "Answer": "Şu an neler hissediyorsun, benimle paylaşmak ister misin?",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğrenci, çevresindekilerin olumsuz tepkilerinden etkilenip hedeflerini küçülttüğünü söylediğinde, sınıf öğretmeni hangi tepkiyi verir ise 'kendini açma' becerisini desteklemiş olur?",
+    "A": "Azimle ilerlemeli ve seni olumsuz etkileyenlere en güçlü yanıtı elde edeceğin başarılarla vermelisin.",
+    "B": "Motivasyonunu kaybettiğinde, başarının da olumsuz yönde etkileneceğini aklından çıkarma.",
+    "C": "Kariyerimin ilk yıllarında ben de benzer eleştirilere maruz kaldım.",
+    "D": "Başkalarının söylediklerini çok fazla önemsememelisin.",
+    "Answer": "Kariyerimin ilk yıllarında ben de benzer eleştirilere maruz kaldım.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Okullarda karşılaşılan sorunlardan biri de akran zorbalığıdır. Bu sorun, öğrenciler arasında farklı şekillerde ortaya çıkabilir. Fiziksel zorbalık, sözlü taciz, sosyal dışlanma ve siber zorbalık gibi çeşitli türlerde kendini gösterir. Fiziksel zorbalık, kişiye zarar verme amaçlı fiziksel şiddet, sözlü taciz alay ya da hakaret, sosyal dışlanma ise bir gruptan bireyi dışlama şeklinde görülür. Ancak siber zorbalık, teknolojinin kullanıldığı bir zorbalık türüdür. Aşağıdakilerden hangisi, siber zorbalık olarak bilinen akran zorbalığı kategorisine dahil edilebilir?",
+    "A": "Çıkar elde etmek için fiziksel güç kullanma.",
+    "B": "Sosyal medyada korkutucu veya tehdit edici mesajlar paylaşma.",
+    "C": "Kırıcı ve küçük düşürücü ifadeler kullanmamaya özen göster.",
+    "D": "Birini topluluktan uzaklaştırma veya onu yalnız hissettirme.",
+    "Answer": "Sosyal medyada korkutucu veya tehdit edici mesajlar paylaşma.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Müzik dersinde bir enstrüman çalmada zorluk yaşayan Aylan, aşağıdaki ifadelerden hangisini dile getirirse, bu onun güçlü bir öz saygıya sahip olduğunu gösterir?",
+    "A": "Bu tür konularda pek yetenekli olmadığımı düşünüyorum.",
+    "B": "Zaten bu hareketi doğru yapabilen kimse yok gibi görünüyor.",
+    "C": "Arkadaşlarım benimle dalga geçebilir.",
+    "D": "Başaramadım, ancak yeniden denemekten vazgeçmeyeceğim.",
+    "Answer": "Başaramadım, ancak yeniden denemekten vazgeçmeyeceğim.",
+    "Image": "",
+    "Explaination": ""
+  }
+]
