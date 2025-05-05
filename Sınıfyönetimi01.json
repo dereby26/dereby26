@@ -1,0 +1,302 @@
+[
+  {
+    "Question": "Geleneksel ve çağdaş eğitim yöntemleri düşünüldüğünde, aşağıdakilerden hangisi bu yaklaşımların ortak bir özelliğidir?",
+    "A": "Otoriter bir sınıf ortamı oluşturma",
+    "B": "Öğrencilerin ihtiyaçlarını merkeze alma",
+    "C": "Öğrencilerin öz denetim becerilerini geliştirme",
+    "D": "Düzenli ve planlı çalışmalar yürütme",
+    "Answer": "Düzenli ve planlı çalışmalar yürütme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki sınıf yönetim prensiplerinden hangisi eğitimcilerin öncelikli olarak dikkat etmesi gereken en önemli ilkedir?",
+    "A": "Herkese adil ve eşit yaklaşma",
+    "B": "Sınıf içinde disiplini koruma",
+    "C": "İnsan onuruna saygılı bir tutum sergileme",
+    "D": "Olumlu ve istenen davranışları teşvik etme",
+    "Answer": "İnsan onuruna saygılı bir tutum sergileme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi etkili bir sınıf yönetimi stratejisinin en temel amacıdır?",
+    "A": "Öğrenme sürecini destekleyen etkili ve verimli bir ortam sağlama",
+    "B": "Öğrencilerin öğrenmeye yönelik motivasyonlarını artırma",
+    "C": "Zaman yönetimini planlı ve etkili bir şekilde gerçekleştirme",
+    "D": "Öğrencilerin devamsızlık oranlarını en düşük seviyeye çekme",
+    "Answer": "Öğrenme sürecini destekleyen etkili ve verimli bir ortam sağlama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Sınıf yönetiminde zaman boyutu önemli bir etkendir. Öğretmenler ders planı yaparken her aşamanın süresini de göz önünde bulundurur. Fakat ders sırasında gelişen bazı durumlar zamanın etkili kullanımını zorlaştırır; bu durumlar zaman tuzakları olarak adlandırılır. Aşağıdakilerden hangisi etkili zaman kullanımını zorlaştıran durumlardan biri olarak kabul edilmez?",
+    "A": "Derse geç kalan öğrenci ile öğretmen arasında yaşanan anlaşmazlık",
+    "B": "Öğrencilerin dersi bölmeye yönelik konuyla ilgisiz sorular sorması",
+    "C": "Ders sırasında okul yönetiminin sınıflara duyuru yapması",
+    "D": "Aynı öğrenciye, soruyu doğru cevaplayana kadar ipucu sağlanması.",
+    "Answer": "Aynı öğrenciye, soruyu doğru cevaplayana kadar ipucu sağlanması.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Barlas Öğretmen, sınıf içi kuralları öğrencilerin görebileceği şekilde, dramatizasyon yöntemiyle öğretmeyi planlamaktadır. Asya Öğretmen ise farklı ilgi alanlarına sahip öğrencilerin grup çalışmaları yaparak güçlü iletişim becerileri geliştirebileceği akran desteği yöntemini kullanmak istemektedir. Aşağıdakilerden hangisi Barlas ve Asya öğretmenlerinin hedefledikleri başarıya en uygun sınıf yerleşim düzenidir?",
+    "A": "Daire - Çalışma istasyonu",
+    "B": "U düzeni - Küme",
+    "C": "Konferans masası - Proje grupları",
+    "D": "Küme - Daire",
+    "Answer": "U düzeni - Küme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bazen sınıfta öngörülemeyen olaylar meydana gelebilir. Öğretmen, bu durumlar karşısında sakin kalmalı, hızlı ve yerinde çözümler bulabilmelidir. Sınıfta farklı ilgi ve yeteneklere sahip öğrenciler olduğundan, öğretmen sadece ders anlatmakla sınırlı kalmaz, ayrıca öğrencilerin ihtiyaçlarına da destek sağlar. Tüm bunlar yapılırken öğretmenin davranışları öğrenciler tarafından izlenir. Açıklamada değinilmeyen sınıfın yapısal yönü aşağıdakilerden hangisidir?",
+    "A": "Anındalık",
+    "B": "Kestirilemezlik",
+    "C": "Ortak geçmiş",
+    "D": "Açıklık",
+    "Answer": "Ortak geçmiş",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Ali Öğretmen’e göre, sınıf kuralları öğrencilerin gelişim seviyeleri ve ihtiyaçlarına uygun şekilde belirlenmelidir. Küçük yaş grubu öğrencilerle çalışırken öğretmenlerin daha esnek davranmaları gerektiğini savunur; çünkü bu yaş grubu sınıf, öğretmen ve kurallara henüz alışma sürecindedir. Ali Öğretmen’in uyguladığı sınıf yönetimi modeli aşağıdakilerden hangisidir?",
+    "A": "Önlemsel",
+    "B": "Gelişimsel",
+    "C": "Tepkisel",
+    "D": "Bütünsel",
+    "Answer": "Gelişimsel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bahri Öğretmen, öğrencilerin istenmeyen davranışlarını önlemek amacıyla sınıf kuralları belirlemiş; bu kurallara uyanları ödüllendirmiş, uymayanlara ise ceza vermeyi tercih etmiştir. Aşağıdakilerden hangisi, Bahri Öğretmen’in uyguladığı sınıf yönetimi modelidir?",
+    "A": "Tepkisel",
+    "B": "Bütünsel",
+    "C": "Önlemsel",
+    "D": "Bilişsel",
+    "Answer": "Önlemsel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Hazan Öğretmen, öğrenciler yanlış davranışlar sergilediğinde duruma müdahale eder. Sınıfında belirli kurallar olmadığı için öğrenciler, hangi davranışların istenmeyen olduğunu ancak yanlış davranış ortaya çıktıktan sonra fark ederler. Aşağıdakilerden hangisi, Hazan Öğretmen’in uyguladığı sınıf yönetimi modelidir?",
+    "A": "Önlemsel",
+    "B": "Bütünsel",
+    "C": "Bilişsel",
+    "D": "Tepkisel",
+    "Answer": "Tepkisel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Işıl Öğretmen, sınıfında olumsuz davranışların önüne geçmeyi hedefler. Öğrencilerin hazırbulunuşluk düzeyine uygun kurallar belirlemiş ve bu kuralları titizlikle uygulamaktadır. Arada sırada, kurallarla çözülemeyen olumsuz davranışlarla karşılaştığında ise öğrencilere uygun bir yaklaşım sergileyerek müdahale eder. Aşağıdakilerden hangisi Işıl Öğretmen’in uyguladığı sınıf yönetimi modelidir?",
+    "A": "Önlemsel",
+    "B": "Tepkisel",
+    "C": "Bilişsel",
+    "D": "Bütünsel",
+    "Answer": "Bütünsel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Çoğunlukla genç ve deneyimsiz eğitmenlerin mesleklerinin ilk yıllarında farkında olmadan benimsedikleri klasik eğitim yönetimi yaklaşımı aşağıdakilerden hangisidir?",
+    "A": "Önlemsel",
+    "B": "Bütünsel",
+    "C": "Tepkisel",
+    "D": "Bilişsel",
+    "Answer": "Tepkisel",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Mustafa Öğretmen, geçmişte kopya çekme olaylarının yaşandığını öğrendiği sınıfta sınava başlamadan önce tüm öğrencilerin kitaplarını ve defterlerini masasına toplamaktadır ve masalarda yazılı not olup olmadığını kontrol etmektedir. Linet Öğretmen ise, sınav sırasında kopya çeken bir öğrenci fark ederse, sınav sonrasında öğrenciyle özel bir görüşme yaparak kopya çekmenin sonuçları hakkında rehberlik etmektedir. Aşağıdakilerden hangisi, Mustafa ve Linet Öğretmen’in uyguladığı disiplin modellerini tanımlar?",
+    "A": "Cezalandırıcı-korkutucu",
+    "B": "Yapıcı-intikamcı",
+    "C": "Düzeltici-cezalandırıcı",
+    "D": "Yapıcı-düzeltici",
+    "Answer": "Yapıcı-düzeltici",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Erol Öğretmen, sınıfta bir sorun yaşandığında önce sorunun öncesindeki gelişmeleri öğrenir, ardından sorunun özünü kavramaya çalışır. En sonunda ise, bu iki bilgiye dayanarak durumu oluşturan öğrenciye uygun bir tepki verir. Aşağıdakilerden hangisi, Erol Öğretmen’in uyguladığı disiplin modelidir?",
+    "A": "Davranış değişikliği",
+    "B": "Kounin",
+    "C": "Gerçeklik terapisi",
+    "D": "Olumlu disiplin",
+    "Answer": "Olumlu disiplin",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Melike Öğretmen bir mesleki gelişim seminerinde şöyle konuştu: “Öğrencilerim arasında olumlu davranışlar sergileyenleri sınıfın önünde ödüllendiriyorum. Diğer öğrenciler de bu davranışları örnek alarak benimsemeye başlıyor. Böylece sınıfta pozitif bir etki oluşturuyorum. Olumsuz davranışlar sergileyen öğrencilerimle ise özel bir görüşme yaparak durumu ele alıyorum. Aşağıdakilerden hangisi, Melike Öğretmen’in uyguladığı disiplin modelidir?",
+    "A": "Kounin",
+    "B": "Davranış değişikliği",
+    "C": "Olumlu disiplin",
+    "D": "Gerçeklik terapisi",
+    "Answer": "Kounin",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Nefise Öğretmen, öğrencilerine etkili seçim yapma, stresle başa çıkma ve sorun çözme becerileri kazandırmayı amaçlamaktadır. Bu nedenle, olumsuz bir davranışın ardından öğrencileriyle toplantılar düzenler. Toplantılarda, tüm öğrencilerle birlikte davranışı analiz ederek değerlendirme yapar. Nefise Öğretmen, bu yöntemle sınıfta disiplinin sağlandığını düşünmektedir. Aşağıdakilerden hangisi, Nefise Öğretmen’in uyguladığı disiplin modelidir?",
+    "A": "Davranış değişikliği",
+    "B": "Gerçeklik terapisi",
+    "C": "Olumlu disiplin",
+    "D": "Kounin",
+    "Answer": "Gerçeklik terapisi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Nil Öğretmen, balık kılçığı diyagramı aracılığıyla Çanakkale Savaşı’nın sebeplerini ve sonuçlarını sınıfa anlatırken, öğrenciler konunun kilit noktalarını not alarak öğretmenlerini dikkatle takip etmiştir. Aşağıdakilerden hangisi, bu derste sınıf içi iletişim için kullanılmamıştır?",
+    "A": "Kaynak",
+    "B": "Kanal",
+    "C": "Alıcı",
+    "D": "Dönüt",
+    "Answer": "Dönüt",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Özgül, okul tiyatrosunda sahne alır, tüm okul maçlarını takip eder ve maç boyunca takıma tezahürat yapar. Sınıflar arası turnuvaların düzenlenmesinde de aktif olarak yer alır ancak akademik başarıya fazla önem vermez, yalnızca geçer notu yeterli görür. Aşağıdakilerden hangisi, Özgül’ün karakterini en iyi niteleyen öğrenci profilidir?",
+    "A": "Başarılı",
+    "B": "Bağımlı",
+    "C": "Gölge",
+    "D": "Sosyal",
+    "Answer": "Sosyal",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Pelin, hem sınıf arkadaşları hem de öğretmenleri tarafından değer verilen bir öğrencidir. Sınav sonuçları başarılıdır ve ona verilen görevleri daima vaktinde bitirir. Aşağıdakilerden hangisi, Pelin’in özelliklerini en iyi yansıtan öğrenci tipidir?",
+    "A": "Başarılı",
+    "B": "Sosyal",
+    "C": "Bağımlı",
+    "D": "Gölge",
+    "Answer": "Başarılı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Faik, sınıfta dikkat çekmeyen, genelde fark edilmeyen bir öğrencidir. Veli toplantısında ailesi Faik’in durumu hakkında sorular sorduğunda, öğretmenlerin bir kısmı bu öğrenciyi hatırlamakta güçlük çekmiştir. Aşağıdakilerden hangisi, Faik’in özelliklerini en iyi yansıtan öğrenci tipidir?",
+    "A": "Başarılı",
+    "B": "Gölge",
+    "C": "Sosyal",
+    "D": "Bağımlı",
+    "Answer": "Gölge",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Fatih, bireysel çalışma becerisi zayıf olan bir öğrencidir. Karar alma sürecinde büyük zorluk çektiğinden, çoğu durumda çevresindekilerden tavsiye istemektedir. Aşağıdakilerden hangisi, Fatih’in özelliklerini en iyi yansıtan öğrenci tipidir?",
+    "A": "Başarılı",
+    "B": "Sosyal",
+    "C": "Gölge",
+    "D": "Bağımlı",
+    "Answer": "Bağımlı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Güven Öğretmen, mesleğine karşı oldukça ilgili, ancak öğrencilerine karşı mesafeli bir tutum sergilemektedir. Öğrencilere, “Buradayken yalnızca ders anlatırım; kişisel sorunlarınız veya ihtiyaçlarınızla ilgilenmem. Derste sadece ders konuşulur,” diyerek sınırlarını koymaktadır. Aşağıdaki öğretmen tiplerinden hangisi Güven Öğretmen’in yaklaşımını en iyi şekilde ifade eder?",
+    "A": "Fakirleşmiş öğretmen",
+    "B": "Yavaşlamış sarkaç",
+    "C": "İş öğretmeni",
+    "D": "Mahalle kahvesi öğretmeni",
+    "Answer": "İş öğretmeni",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Pınar Öğretmen hem mesleki sorumluluklarına bağlı hem de öğrencilerini önemseyen bir öğretmendir. Öğrencilerinin ihtiyaçlarına duyarlıdır, onlara rehberlik yapar ve derslerini aksatmadan planlı bir biçimde yürütür. Pınar Öğretmen’in tutumunu en iyi açıklayan öğretmen tipi aşağıdakilerden hangisidir?",
+    "A": "İş öğretmeni",
+    "B": "Sınıf öğretmeni",
+    "C": "Fakirleşmiş öğretmen",
+    "D": "Yavaşlamış sarkaç",
+    "Answer": "Sınıf öğretmeni",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İlbey Öğretmen, ders içeriklerini ve öğrencilerinin öğrenme gereksinimlerini önemsemez. Plansız bir şekilde çalışır; çoğu zaman sınıfa ne işleyeceğini bilmeden gelir ve ders dışı konulara yoğunlaşır. Öğrencileri başta bu rahat tavrı hoş karşılasa da, diğer sınıfların gerisinde kaldıklarını fark ettiklerinde bu durumu Zeynep Öğretmen’e iletmişlerdir. Aşağıdakilerden hangisi, İlbey Öğretmen’in sınıf yönetiminde sergilediği özellikleri en iyi şekilde tanımlar?",
+    "A": "Otokratik",
+    "B": "Demokratik",
+    "C": "Duygusal",
+    "D": "İlgisiz",
+    "Answer": "İlgisiz",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İnan Öğretmen, öğrencilerine kendi değer verdiği davranışları kazandırmayı amaçlar. Bir gün, derse geç kalıp kapıyı çalmadan içeri giren öğrencisini defalarca dışarı çıkararak, kapıyı vurarak girmesini tekrar ettirmiştir. Aşağıdaki öğretmen davranışlarından hangisi, İnan Öğretmen’in sınıf yönetiminde sergilediği özellikleri en iyi şekilde açıklar?",
+    "A": "Otokratik",
+    "B": "İlgisiz",
+    "C": "Kalıplayıcı",
+    "D": "Demokratik",
+    "Answer": "Kalıplayıcı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisi, sınıf içi iletişim üzerinde olumsuz bir etkiye sahiptir?",
+    "A": "Öğrencilere kendilerini ifade etme fırsatı sunmak",
+    "B": "Karşıdaki kişiyi dikkatle ve anlayarak dinlemek",
+    "C": "Ben dili kullanarak yapıcı bir iletişim sağlamak",
+    "D": "Sen diliyle öğrencilerle iletişim kurmak",
+    "Answer": "Sen diliyle öğrencilerle iletişim kurmak",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Merve, genelde yabancı dil dersinde sınıfın önünde konuşmaktan çekinen bir öğrenci olarak tanınırken, bir gün öne çıkıp başarılı bir konuşma yapmıştır. Öğretmeni, “Bravo Merve, konuşmayı harika yaptın! Bence öne çıkmaktan çekinmemelisin. Cesaretin ve başarın için bu küçük anahtarlığı sana hediye etmek istiyorum,” diyerek ona ödül vermiştir. Zamanla, Merve’nin yabancı dil dersinde daha fazla konuşma isteğinde artış gözlenmiştir. Bu durum aşağıdakilerden hangisini ifade etmektedir?",
+    "A": "İstenen davranışı teşvik etme",
+    "B": "İstenen davranışı pekiştirme",
+    "C": "İstenen davranışı destekleme",
+    "D": "İstenen davranışı görmezden gelme",
+    "Answer": "İstenen davranışı pekiştirme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, sınıfta istenmeyen davranışları önlemek isteyen bir öğretmenin öncelikle gerçekleştirmesi gereken adımdır?",
+    "A": "Başarıya odaklanmak, başarısızlığı ikinci plana atmak",
+    "B": "Öğrencilerin kendini rahatça ifade edebilmesine fırsat tanımak",
+    "C": "Sınıf içi davranış kurallarını birlikte belirlemek",
+    "D": "Öğrencilere seviyelerine uygun, başarabilecekleri görevler vermek",
+    "Answer": "Sınıf içi davranış kurallarını birlikte belirlemek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisi, sınıf davranış kurallarının öğrencilerce benimsenmesini sağlamada en etkili adımdır?",
+    "A": "Kuralları net, anlaşılır ve öz biçimde belirlemek",
+    "B": "Kuralları öğrencilerle birlikte belirleme",
+    "C": "Derslik, laboratuvar ve spor salonu için ayrı kurallar belirlemek",
+    "D": "Gereğinden fazla kural koymaktan kaçınmak",
+    "Answer": "Kuralları öğrencilerle birlikte belirleme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Sınıf kuralları, açık ve kesin ifadelerle oluşturulmalı, belirsizlik içeren sözlerden kaçınılmalıdır. Bu sayede öğrenciler, ne yapmaları gerektiğini net bir şekilde kavrayabilir. Buna göre aşağıdakilerden hangisi yanlış bir kural ifadesi olarak değerlendirilebilir?",
+    "A": "Projelerinizi, belirlenen teslim tarihlerine uygun şekilde zamanında tamamlayınız.",
+    "B": "Başkalarını rahatsız etmeyen, saygılı ve özenli davranışlar sergileyiniz.",
+    "C": "Yerlere çöp atanları nazikçe uyarın.",
+    "D": "Öğretmeni dinlerken sessiz ve dikkatli olun.",
+    "Answer": "Başkalarını rahatsız etmeyen, saygılı ve özenli davranışlar sergileyiniz.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Merve, eğitimde bir anlık dikkat kaybıyla masadaki kitaplara dalmıştır. Fakat kısa bir süre sonra tekrar eğitmene odaklanıp dinlemeye başlamıştır. Bu durumda öğretmenin tercih edebileceği en iyi yaklaşım aşağıdakilerden hangisidir?",
+    "A": "Öğrenciyi uyarmak",
+    "B": "İkinci derecede ceza uygulamak",
+    "C": "Öğrenciye belirli görev ve sorumluluklar vermek",
+    "D": "Görmezden gelmek",
+    "Answer": "Görmezden gelmek",
+    "Image": "",
+    "Explaination": ""
+  }
+]
