@@ -1,0 +1,272 @@
+[
+  {
+    "Question": "Can’ın bu alanda daha başarılı olabilmesi ve fen bilimlerine yönelik becerilerini geliştirebilmesi için, eğitim sisteminin hangi öğretim ilkeleri doğrultusunda yeniden düzenlenmesi gerektiği ele alınmaktadır.",
+    "A": "Öğrenciye görelik",
+    "B": "Basitten karmaşığa",
+    "C": "Yasama yakınlık",
+    "D": "Güncellik",
+    "Answer": "Yasama yakınlık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aytuğ Öğretmen, özellikle öğrencilerin zorlanabileceği konuları işlerken, anlamayı kolaylaştırmak adına örnek sayısını çoğaltmakta ve derslerde sade bir dil kullanmaktadır. Ayrıca, öğrencilerin konuyu daha iyi kavramaları için görsel destekler sunmaktadır. Yukarıda verilen bilgilere göre, Aytuğ Öğretmen’in ön planda tuttuğu öğretim ilkesi aşağıdakilerden hangisidir?",
+    "A": "Yaşama yakınlık",
+    "B": "Öğrenciye görelik",
+    "C": "Bilinenden bilinmeyene",
+    "D": "Açıklık",
+    "Answer": "Açıklık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğretmen Nur, görev yaptığı ilkokulda bir öğretim etkinliği sırasında “Aşk derdiyle hoşem el çek ilâcumdan tabîb, Kılma derman kim helâküm zehri dermânundadur” beyitini okur. Ardından öğrencilere “Bu beyitin anlamı nedir?” diye sorar. Ancak öğrencilerin beyitin anlamını bilmediğini fark eder. Nur öğretmen aşağıdaki hangi öğretim ilkesini görmezden geldiği söylenir?",
+    "A": "Bilinenden bilinmeyene",
+    "B": "Öğrenciye görelik",
+    "C": "Yakından uzağa",
+    "D": "Açıklık",
+    "Answer": "Öğrenciye görelik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Arif Öğretmen, öğrencilerinin çevrelerindeki olayları fark etmeleri ve dünyadaki gelişmeleri yakından takip edebilmeleri için derslerinde güncel medya haberlerini ve görsel kaynakları öğretim materyali olarak kullanmaktadır. Bu şekilde, öğrencilerinin bilinç seviyesini yükseltmeyi hedeflemektedir. Arif Öğretmen’in derslerini planlarken başvurduğu öğretim ilkesi aşağıdakilerden hangisidir?",
+    "A": "Yakından uzağa",
+    "B": "Öğrenciye görelik",
+    "C": "Sosyallik",
+    "D": "Güncellik",
+    "Answer": "Güncellik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Deniz’in sınıfındaki öğrenciler, \"yarım\" kavramını önce bir portakalı ikiye bölerek kavrarken, ilerleyen yıllarda 1/2 simgesinin de aynı anlamı ifade ettiğini öğrenirler. Bu gibi yaklaşımlar, ilkokul matematik derslerinde pek çok farklı konu için kullanılmaktadır. Bu bilgi doğrultusunda, ilkokul matematik derslerinde en fazla işe yarayan öğretim ilkesi aşağıdakilerden hangisidir?",
+    "A": "Bilgi ve becerinin güvence altına alınması",
+    "B": "Açıklık",
+    "C": "Somuttan soyuta",
+    "D": "Bilinenden bilinmeyene",
+    "Answer": "Somuttan soyuta",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Zeynep Öğretmen, müfredattaki hedefler doğrultusunda derslerini işlerken, her bir öğrencisinin ilgi ve ihtiyaçlarını dikkate almalıdır. Aynı yaş grubunda olsa bile, farklı sınıflardaki öğrencilere tek bir yöntemle ders anlatması uygun olmaz. Bu nedenle, derslerde farklı yöntemlerle ilerlemesi beklenen ve doğal bir süreçtir. Yukarıda bahsedilen program unsuru ve öğretim ilkesi aşağıdakilerden hangisidir?",
+    "A": "Uygulanabilirlik-bilgi ve becerinin güvence altına alınması",
+    "B": "Çerçeve-yasama yakinlik",
+    "C": "Amaca uygunluk-etkin katilim",
+    "D": "Esneklik-öğrenciye görelik",
+    "Answer": "Esneklik-öğrenciye görelik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Dördüncü sınıf öğretmeni sosyal bilgiler dersinde “Doğal afetlere yönelik gerekli hazırlıkları yapar.” kazanımına yönelik olarak öğrencilere evde deprem çantasının hazırlamalarını gerektiği ve bu çantanın içerisinde bulunması gerekenleri sınıfta örnek bir deprem çantası hazırlayarak sağlar, dersten sonra her öğrenci evinde ebeveynlerinin yardımıyla deprem çantası hazırlar. Öğretmenin bu süreçte başvurduğu öğretim ilkeleri aşağıdakilerden hangisidir?",
+    "A": "Somuttan soyuta – Bilinenden bilinmeyene",
+    "B": "Somuttan soyuta - Hayatilik",
+    "C": "Açıklık - Ekonomiklik",
+    "D": "Açıklık - Transfer etme",
+    "Answer": "Somuttan soyuta - Hayatilik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yapılandırmacı eğitim yaklaşımlarında, öğretmenler öğrencilerine hazır bilgi sunmak yerine, onların kendi düşüncelerini üretmelerine öncelik verirler. Evrensel doğruların peşinden gitmektense, hayatlarına uyarlayabilecekleri bilgiler ön plandadır. Çağdaş eğitim anlayışları dikkate alındığında, aşağıda verilen öğretim ilkelerinden hangisi işlevini yitirmiştir?",
+    "A": "Bilgi ve becerinin güvence altına alınması",
+    "B": "Yasama yakınlık",
+    "C": "Güncellik",
+    "D": "Otoriteye itaat ve özgürlük (sosyallik)",
+    "Answer": "Bilgi ve becerinin güvence altına alınması",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir sınıf öğretmeni, \"yaşadığı bölgeyi tanıma\" kazanımını vermek amacıyla dersinde \"Uzay, dünya, kıta, ülke, bölge, şehir, ilçe ve mahalle\" ilişkisini sıralı bir şekilde işlemiştir. Ancak dönem sonu değerlendirmesinde, sınıfın büyük bir kısmının bu kazanımı edinemediği anlaşılmıştır. Öğretmenin eğitim sürecini aşağıdaki yaklaşımlardan hangisine göre tekrar düzenlemesi gerekir?",
+    "A": "Hayatilik",
+    "B": "Yakından uzağa",
+    "C": "Bilinenden bilinmeyene",
+    "D": "Somuttan soyuta",
+    "Answer": "Yakından uzağa",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir ilkokul öğretmeni, okuma yazma dersinde öğrencilerine önce sesli harfleri, ardından sessiz harfleri öğretmiş. Bu süreçte cümle kurma işlemi ise önce kısa cümlelerden başlayarak uzun cümlelere doğru ilerlemiştir.",
+    "A": "Bilinenden bilinmeyene",
+    "B": "Somuttan soyuta",
+    "C": "Genelden özele",
+    "D": "Basitten karmaşığa",
+    "Answer": "Basitten karmaşığa",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Gökalp Öğretmen, öğrencilerinin öğrenim süreçlerinde daha fazla inisiyatif almasını sağlamak amacıyla, ders planlamasından değerlendirmeye kadar farklı görevler yükler. Görevlerini başarıyla yerine getiren öğrencileri ya takdir eder ya da sembolik hediyeler sunar.",
+    "A": "Sosyallik-ipucu",
+    "B": "Hayatilik-dönüt",
+    "C": "Aktivite-pekiştirme",
+    "D": "Öğrenciye görelik-dönüt",
+    "Answer": "Aktivite-pekiştirme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Leyla Öğretmen, 'toprak yapısı' konusunu anlatmaya başlamadan önce öğrencilere sınır çizgisi kavramını sormuş ve ülkeler arasında yer alan sınırlar veya çitler hakkında konuşmuştur. Leyla Öğretmen’in başvurduğu öğretim yaklaşımı aşağıdakilerden hangisidir?",
+    "A": "Basitten karmaşığa",
+    "B": "Somuttan soyuta",
+    "C": "Özelden genele",
+    "D": "Bilinenden bilinmeyene",
+    "Answer": "Bilinenden bilinmeyene",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmen, 6 ile 7 yaş arasındaki öğrencilerin, toplama ve çıkarma işlemi yapmalarına yardım etmek için renkli plastik çubuklar ve abaküs kullanımını öğretmiştir. Buna göre, öğretmen aşağıdaki öğretim ilkelerinden hangisini kullanmıştır?",
+    "A": "Güncellik",
+    "B": "Somuttan soyuta",
+    "C": "Açıklık",
+    "D": "Bilinenden bilinmeyene",
+    "Answer": "Somuttan soyuta",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aliye Öğretmen, öğrencilerinin hem okul ve sınıf kurallarına uymasını hem de kendi kararlarını alabilen bireyler olarak gelişmesini desteklemek amacıyla ders planlarını bu şekilde hazırlamaktadır. Aliye Öğretmen'in kullanması gereken öğretim prensibi aşağıdakilerden hangisidir?",
+    "A": "Sosyallik",
+    "B": "Bütünlük",
+    "C": "Ekonomiklik",
+    "D": "Yaşama yakınlık",
+    "Answer": "Sosyallik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yeni eğitim programı, öğrencilerin sadece akademik başarılarına değil, aynı zamanda becerilerini ve tutumlarını geliştirmeye yöneliktir. Eskiden yalnızca bilişsel alanı hedef alan belirtilen tablolar, şimdi hem bilişsel, hem duyuşsal hem de devinimsel kazanımları içerecek biçimde genişletilmiştir.",
+    "A": "Sosyallik",
+    "B": "Ekonomiklik",
+    "C": "Hayatilik",
+    "D": "Bütünlük",
+    "Answer": "Bütünlük",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İkinci sınıf hayat bilgisi dersinde “Kendimizi ve Çevremizi Temiz Tutalım” konusunda sırasıyla “Evimiz, okulumuz, sokağımız, mahallemiz” ile ilgili çalışmalar yaptıran bir öğretmen, bu dersin etkinliklerinde hangi ilkeyi göz önüne almıştır?",
+    "A": "Güncellik",
+    "B": "Basitten karmaşığa",
+    "C": "Yakından uzağa",
+    "D": "Somuttan soyuta",
+    "Answer": "Yakından uzağa",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Ayaz Öğretmen, soyut kavramları anlatım yoluyla öğretirken, beceri gerektiren konular için uygulamalı yöntemler kullanır. Tutum kazandırmaya yönelik konularda ise drama ve tartışma yöntemlerinden yararlanarak kısa sürede birçok kazanıma ulaşmayı amaçlar. Ayaz Öğretmen'in tercih ettiği öğretim ilkesi aşağıdakilerden hangisidir?",
+    "A": "Bütünlük",
+    "B": "Sosyallik",
+    "C": "Öğrenciye görelik",
+    "D": "Ekonomiklik",
+    "Answer": "Ekonomiklik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmen o günkü dersinin hemen başında soru cevap ve tartışma yöntemlerini kullanarak öğrencinin konuya ilişkin mevcut bilgi birikimini belirlemiş ve dersin işleyişine ona göre devam etmiştir. Dersin işleyişini öğrencilerin bilgi seviyesini dikkate alan bir öğretmen aşağıdaki hangi öğretim ilkesini ön plana çıkarmaktadır?",
+    "A": "Bilgi ve becerinin güvence altına alınması",
+    "B": "Bilinenden bilinmeyene",
+    "C": "Bütünlük",
+    "D": "Öğrenciye görelik",
+    "Answer": "Bilinenden bilinmeyene",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki seçeneklerden hangisi hayatilik ilkesine uygun bir uygulamayı temsil eder?",
+    "A": "Kısa sürede ve az emekle birden fazla kazanıma ulaşma",
+    "B": "Yeni konuyu öğretirken, öğrencilerin mevcut bilgilerini temel olarak kullanma.",
+    "C": "Öncelikle duyusal deneyimleri, ardından bilişsel süreçleri harekete geçirme.",
+    "D": "Eğitim fakültesinde öğrendiklerinden yola çıkarak hedefe uygun öğretim yöntemi seçme",
+    "Answer": "Eğitim fakültesinde öğrendiklerinden yola çıkarak hedefe uygun öğretim yöntemi seçme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "\"İhtiyaç belirleme\" çalışmalarının program geliştirme sürecinde temel alınması, aşağıdaki hangi öğretim ilkesini ön plana taşır?",
+    "A": "Yaşama yakınlık",
+    "B": "Ekonomiklik",
+    "C": "Bütünlük",
+    "D": "Açıklık",
+    "Answer": "Yaşama yakınlık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi, öğrenme-öğretme sürecinin bilinenden bilinmeyene ilkesine göre düzenlendiğini göstermez?",
+    "A": "Cevizin yapısından yola çıkarak, insan beyninin yapısını öğretme",
+    "B": "Denk küme konusunu işlemeden önce, küme ve eleman kavramlarını hatırlatma",
+    "C": "Dersin başında öğrencilerin ön koşul bilgilerini harekete geçirme",
+    "D": "Ritmik sayma işlemini sayı boncukları ile yaptırma",
+    "Answer": "Ritmik sayma işlemini sayı boncukları ile yaptırma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmen öğrencilerine önce doğal sayıları öğretmiş, sonra tek basamaklı sayılarla toplamayı sonra da iki basamaklı sayılarla toplamayı öğretmiştir. Buna göre, öğretmenin aşağıdaki öğretim ilkelerinden hangisini göz önüne aldığı söylenir?",
+    "A": "Aktüalite",
+    "B": "Hayatilik",
+    "C": "Soyuttan somuta",
+    "D": "Basitten karmaşığa",
+    "Answer": "Basitten karmaşığa",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmen öğrencilerinin öğrenme sürecinde kendilerini yetersiz hissedip başarısız olacaklarını düşünmelerini ve bu yüzden öğrenilmiş çaresizlik yaşamalarını engellemek için hangi öğretim ilkesine göre hareket etmelidir?",
+    "A": "Yaşama yakınlık",
+    "B": "Basitten karmaşığa",
+    "C": "Açıklık",
+    "D": "Güncellik",
+    "Answer": "Basitten karmaşığa",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Anaokulunda oyun odaklı bir yaklaşım izlerken, lise ve üniversitede sözlü anlatım yöntemlerini kullanmayı tercih etmektedir. Bu durumu en iyi açıklayan öğretim ilkesi aşağıdakilerden hangisidir?",
+    "A": "Basitten karmaşığa",
+    "B": "Yaşama yakınlık",
+    "C": "Öğrenciye görelik",
+    "D": "Bütünlük",
+    "Answer": "Öğrenciye görelik",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "İzel öğretmen aşağıda çeşitli etkinliklerden hangisini yaptığında “İş, Etkin Katılım, Aktivite” öğretim ilkesine uygun davranmış ve etkinliklerde kalıcı öğrenmeyi sağlar?",
+    "A": "Yapmış olduğu deneyi tüm öğrencilerin izlemesini sağlama.",
+    "B": "Konuyu somutlaştırmak için üç boyutlu model kullanarak anlatma.",
+    "C": "Konuyu anlattıktan sonra küçük grup çalışması yaptırma.",
+    "D": "Ders içeriğini desteklemek amacıyla projeksiyonla belgesel izletme.",
+    "Answer": "Konuyu anlattıktan sonra küçük grup çalışması yaptırma.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Emre Öğretmen, coğrafya dersinde Türkiye’deki nehirlerin akış yönlerini hem harita üzerinde gösterdi hem de sözel olarak açıkladı. Sonrasında, öğrenciler Türkiye haritasını kullanarak bu nehirlerin yollarını renkli kalemlerle işaretledi. Öğretmenin benimsediği öğretim ilkeleri aşağıdakilerden hangisidir?",
+    "A": "Hayatilik-aktivite",
+    "B": "Öğrenciye görelik-ekonomiklik",
+    "C": "Sosyallik-ekonomiklik",
+    "D": "Açıklık-aktivite",
+    "Answer": "Açıklık-aktivite",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Melike Öğretmen derslerinde sadece bir öğretim yöntemi kullanmakla yetinmeyip, öğrencilerinin hem bilişsel gelişimlerini hem de becerilerini geliştirmek ve tutum kazandırmak amacıyla çeşitli öğretim tekniklerini birlikte kullanmaktadır.",
+    "A": "Sosyallik",
+    "B": "Açıklık",
+    "C": "Bütünlük",
+    "D": "Hayatilik",
+    "Answer": "Bütünlük",
+    "Image": "",
+    "Explaination": ""
+  }
+]

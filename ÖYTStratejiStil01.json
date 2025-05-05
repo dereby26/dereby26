@@ -1,0 +1,42 @@
+[
+  {
+    "Question": "Yaparak ve yaşayarak öğrenmeyi seven Tuğba, sosyal ve girişken bir kişiliktir. Ancak, aceleci ve heyecanlı yapısı nedeniyle bazen arkadaşları tarafından şakalarla karşılanır. Tuğba’nın Kolb’a göre sahip olduğu öğrenme biçimi aşağıdakilerden hangisi olabilir?",
+    "A": "Somut yaşantı",
+    "B": "Yansıtıcı gözlem",
+    "C": "Somut random",
+    "D": "Aktif yaşantı",
+    "Answer": "Aktif yaşantı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Atlas, robotik teknolojilerine oldukça ilgi duyar. Bu yüzden kitaplar okuyup, makaleler inceleyerek konu üzerinde düşünür. Malzemeleri sağladıktan sonra kendi robotunu yapar ve bu robotla ilgili çeşitli deneyler gerçekleştirir. Atlas’ın öğrenme yaklaşımı, Kolb’un öğrenme teorisine göre aşağıdakilerden hangisi ile açıklanabilir?",
+    "A": "Özümseyen",
+    "B": "Ayrıştıran",
+    "C": "Aktif yaşantı",
+    "D": "Soyut kavramsallaştırma",
+    "Answer": "Ayrıştıran",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Servet duyu organlarını kullanarak çevresindeki bilgileri toplar ve bunları sistemli bir biçimde uzun süreli hafızasına kaydeder. Gregorc’un öğrenme stilleri modeline göre, Servet’in sahip olduğu öğrenme stili aşağıdakilerden hangisidir?",
+    "A": "Somut yaşantı",
+    "B": "Soyut random",
+    "C": "Somut ardışık",
+    "D": "Somut random",
+    "Answer": "Somut ardışık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Fadime derslerde işlenen konuları eve döndüğünde kitaptan okur ve sınıfta yazdığı notları başka bir deftere özenle, daha düzenli bir şekilde yazar. Fadime’nin tercih ettiği öğrenme yöntemi aşağıdakilerden hangisidir?",
+    "A": "Dikkat",
+    "B": "Duyuşsal",
+    "C": "Anlamlandırma",
+    "D": "Tekrar",
+    "Answer": "Duyuşsal",
+    "Image": "",
+    "Explaination": ""
+  }
+]

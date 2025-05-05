@@ -1,0 +1,142 @@
+[
+  {
+    "Question": "Sevda Öğretmen, kimya dersinde öğrencilerinin bir sorunun sebeplerini ve etkilerini inceleyebilmeleri için onlardan balık kılçığı diyagramı oluşturmalarını istedi. Balık kılçığı tekniğini kullanarak Sevda Öğretmen’in ulaşmak istediği temel amaç aşağıdakilerden hangisidir?",
+    "A": "Problemi detaylı bir şekilde analiz etmek",
+    "B": "Problemi yenilikçi çözümler bulmak",
+    "C": "Kavramsal hataları belirlemek",
+    "D": "Öğrencilerin görsel ifade yeteneklerini geliştirmek",
+    "Answer": "Problemi detaylı bir şekilde analiz etmek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kavram haritalarıyla ilgili aşağıdaki özelliklerden hangisi doğru değildir?",
+    "A": "Öğrencilerin kavram yanılgılarını fark etmelerini sağlar.",
+    "B": "Dersin görsel açıdan zenginleşmesine katkıda bulunur.",
+    "C": "Öznel değerlendirmeler ve kişisel bilgiler içerir.",
+    "D": "Anlamlı ve kalıcı öğrenmeyi destekleyen bir yapıya sahiptir.",
+    "Answer": "Öznel değerlendirmeler ve kişisel bilgiler içerir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi kavram haritası türleri arasında yer almaz?",
+    "A": "Sınıflama haritası",
+    "B": "Zihin haritası",
+    "C": "Olaylar zinciri",
+    "D": "Akış çizgisi",
+    "Answer": "Zihin haritası",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Fahriye Hanım, derste öğrencilerin su döngüsü konusu hakkında bildiklerini paylaşmalarını istemiş ve tahtaya yazmıştır. Daha sonra, ipuçları vererek öğrencilerden yazdıkları özellikleri gruplandırıp her gruba uygun başlıklar bulmalarını istemiştir. Aşağıdakilerden hangisi, Fahriye Hanım’ın dersinde kullandığı öğretim tekniğidir?",
+    "A": "Yapılandırılmış grid",
+    "B": "Tanımlayıcı dallanmış ağaç",
+    "C": "Kavram ağları",
+    "D": "Zihin haritası",
+    "Answer": "Kavram ağları",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Fergül Öğretmen, öğrencilere soğuk algınlığı tedavisi için bildikleri alternatif yöntemleri yazmaları için kâğıt dağıtmıştır. Etkinliğin ikinci bölümünde ise, bu tür yöntemlerin zararlarına değinmiş ve soğuk algınlığına karşı bilimsel olarak önerilen tedavi yollarını açıklayan bir yazı dağıtarak öğrencilerin dikkatle okumalarını sağlamıştır. Aşağıdakilerden hangisi, Fergül Öğretmen’in dersinde kullandığı öğretim tekniğidir?",
+    "A": "Kelime ilişkilendirme",
+    "B": "Kavramsal değişim",
+    "C": "Anlam çözümleme",
+    "D": "Tahmin-gözlem-açıklama",
+    "Answer": "Kavramsal değişim",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "I. Yapılandırılmış grid Yukarıdakilerden hangisi veya hangileri, öğretim tekniği olma özelliğinden ziyade ölçme-değerlendirme amaçlı kullanılmaktadır?",
+    "A": "Yalnız I",
+    "B": "I ve IV",
+    "C": "Yalnız III",
+    "D": "I ve III",
+    "Answer": "I ve IV",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Gonca Öğretmen: Arkadaşlar, bitkilerin büyüme sürecini anlatan bir şema oluşturmanızı istiyorum. Ahmet Öğretmen’in öğrencilerinden hazırlamalarını istediği şema, aşağıdaki öğretim tekniklerinden hangisine dayanmaktadır?",
+    "A": "Olaylar zinciri harita",
+    "B": "Akış çizgisi",
+    "C": "Sınıflama haritası",
+    "D": "Zihin haritası",
+    "Answer": "Zihin haritası",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Fen Bilgisi öğretmeni Gökçe Hanım, sınavını yapılandırılmış grid yöntemiyle hazırladı. Bu yöntemde, 14 kutucuktan oluşan bir ızgara kullanıldı ve her kutucuk numaralandırıldı. Öğrenciler, soruların cevaplarını bu numaralı kutucuklara yazarak sınavı tamamladı. Gökçe Hanım, sınav süresini 35 dakika olarak belirledi. Gökçe Öğretmen'in sınavında aşağıdaki sorunlardan hangisiyle karşılaşma olasılığı daha yüksektir?",
+    "A": "Öğrencilerin rastlantısal olarak doğru cevaba ulaşması",
+    "B": "Sınavın, öğrencinin seviyesine uygun şekilde hazırlanmış olmaması",
+    "C": "Sınavın, kavramsal hataları belirlemede yetersiz kalması",
+    "D": "Sınav süresinin kısıtlı olması nedeniyle öğrencilerin ek süre talep etmesi",
+    "Answer": "Öğrencilerin rastlantısal olarak doğru cevaba ulaşması",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aytaç, deneyin çıkış noktasından hareket ederek geçen kavramları listelemiş ve önemli bazı kavramların tanımını yapmıştır. Deney için gerekli malzemeleri listeleyen Zeynep, deney sırasında gözlemlerini kaydetmiş ve sonuçları not etmiştir. Yaptığı çalışmaları bir şablona yerleştirip öğretim materyali olarak sunmak isteyen Aytaç, aşağıdaki tekniklerden hangisini kullanmalıdır?",
+    "A": "Yapılandırılmış grid",
+    "B": "Akış şeması",
+    "C": "Tanımlayıcı dallanmış ağaç",
+    "D": "Vee diyagramı",
+    "Answer": "Akış şeması",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kimya öğretmeni Bahadır Bey, dersin başında öğrencilere \"asit ve baz\" kavramlarını verip bu kelimelerin onlara ne ifade ettiğini yazmalarını istemiştir. Ders boyunca bu kavramları tanımlamış ve örnekler vermiştir. Dersin sonunda ise aynı kavramları tekrar sorarak, ders sonunda kelimelerin ne anlam kazandığını yazmalarını istemiştir. Aşağıdakilerden hangisi, Bahadır Öğretmen’in dersinde kullandığı öğretim tekniğidir?",
+    "A": "Anlam çözümleme",
+    "B": "Kavramsal değişim",
+    "C": "Kelime ilişkilendirme",
+    "D": "Kavram çarkı",
+    "Answer": "Kavram çarkı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Kavramsal karikatür tekniğinin hem öğretim yöntemi hem de öğretim aracı olarak kullanılabilme özelliğine sahip temel niteliği aşağıdakilerden hangisidir?",
+    "A": "Öğrencilerin mizah anlayışını ve espri yeteneğini geliştirir.",
+    "B": "Farklı görüşlere ve düşüncelere saygı duyma becerisini artırır.",
+    "C": "Öğrencilerde merak uyandırarak araştırma yapma isteği oluşturur.",
+    "D": "İşlenen konuların tekrar edilmesine ve pekiştirilmesine yardımcı olur.",
+    "Answer": "Öğrencilerde merak uyandırarak araştırma yapma isteği oluşturur.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Barlas Öğretmen, edebiyat dersinde incelenen bir hikâye ile ilgili olarak her öğrencinin hikâyenin ana ve yan fikirlerini, karakterleri, olayların geçtiği zaman ve mekanları anlamalarını ve bunları kelimeler, basit şekiller ya da resimlerle ifade ederek bir şablon oluşturmalarını talep etmiştir.",
+    "A": "Kavramsal karikatür",
+    "B": "Vee diyagramı",
+    "C": "Yapılandırılmış grid",
+    "D": "Kavram çarkı",
+    "Answer": "Kavram çarkı",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Cahit Öğretmen, bir grup öğrenciden \"Dijital eğitim, yüz yüze eğitimin yerini alabilir\" şeklinde bir metin yazmalarını istemiş, diğer gruptan ise bu metni çürütmeleri için bir karşı argüman hazırlamalarını talep etmiştir.",
+    "A": "Zıt panel",
+    "B": "Tekzip",
+    "C": "Kavram kargaşası yaratma",
+    "D": "Kavramsal değişim metinleri",
+    "Answer": "Tekzip",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Serkan Öğretmen, beşinci sınıf fen bilgisi dersinde öğrencilerden \"mevsimlere\" örnekler vermelerini, sevdikleri bir mevsimi çizmelerini ve mevsimlerle ilgili bir şarkının sözlerini yazmalarını istemiştir. Etkinlik kağıtları incelendiğinde öğrencilerin kavram eksikliği olmadığı tespit edilmiştir. Aşağıdakilerden hangisi, derste uygulanan tekniktir?",
+    "A": "Çürütme metinleri",
+    "B": "Kavramsal değişim dokümanları",
+    "C": "Zihin haritası",
+    "D": "Çalışma yaprakları",
+    "Answer": "Çürütme metinleri",
+    "Image": "",
+    "Explaination": ""
+  }
+]
