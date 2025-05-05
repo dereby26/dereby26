@@ -1,0 +1,292 @@
+[
+  {
+    "Question": "Aşağıdaki ifadelerden hangisi, bilişsel öğrenme yaklaşımlarının temel özellikleri arasında yer almaz? Bir çocuk sevgi dolu bir ailede büyüyorsa, sevmeyi öğrenir. Bir çocuk sürekli destekleniyorsa, başkalarına destek olmayı öğrenir. Bir çocuk yalnız bırakılıyorsa, içine kapanmayı öğrenir. Bir çocuk hoşgörüyle yetiştiriliyorsa, sabırlı olmayı öğrenir.",
+    "A": "Öğrencilere yaratıcı ve eleştirel düşünme ile etkin öğrenme becerileri kazandırılmalıdır.",
+    "B": "Öğrenme sürecinde insan zihninin çevresindeki olayları anlamaya yönelik yaptığı işlemler ele alınır.",
+    "C": "Bilginin algılanması, işlenmesi ve gerekli olduğunda geri getirilerek kullanılması üzerinde durulur.",
+    "D": "Öğrenme gözlenebilir davranış değişikliği olarak tanımlanır.",
+    "Answer": "Öğrenme gözlenebilir davranış değişikliği olarak tanımlanır.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yukarıdaki bilgilere göre, aşağıdaki hangi öğrenme kuramının prensipleri gözlemlenebilir?",
+    "A": "Tepkisel koşullanma",
+    "B": "İçgörüsel öğrenme",
+    "C": "Sosyal öğrenme",
+    "D": "İnsancıl yaklaşım",
+    "Answer": "Sosyal öğrenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "I. Bulutlu bir günde koyu görünen yaprakları yeşil olarak algılama Yukarıda belirtilenler, sırasıyla aşağıdakilerden hangisine örnek teşkil eder?",
+    "A": "Algıda tamamlama - algıda benzerlik - algıda seçicilik",
+    "B": "Algıda değişmezlik - algıda bütünlük - algıda seçicilik",
+    "C": "Algı yanılması - algıda yakınlık - algıda seçicilik",
+    "D": "Algıda değişmezlik - algıda seçicilik - algı yanılması",
+    "Answer": "Algıda değişmezlik - algıda seçicilik - algı yanılması",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi İşaret-Gestalt kuramında sönme olgusunu açıklar?",
+    "A": "Pekiştirecin çekilmesiyle sönme otomatik olarak gerçekleşir.",
+    "B": "Algısal karmaşa yaşayan bireylerde davranışların sönme eğilimi artar.",
+    "C": "Organizmanın beklentisi yerine gelmediği için davranış ortadan kalkar.",
+    "D": "İhtiyacı karşılamayan davranışlar, zamanla tekrarlanmaz hale gelir.",
+    "Answer": "Organizmanın beklentisi yerine gelmediği için davranış ortadan kalkar.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Ayda’nın ablası kuş beslemektedir. Ayda, sömestr tatilinde ailesinin yanına gittiğinde, annesi evin bahçesinde yaralı bir kuş bulmuş, ancak kuşa nasıl bakacağını bilememiştir. Ayda, kuşlarla ilgili özel bir deneyimi olmamasına rağmen, annesine kuşun bakımı ve iyileşmesi için önerilerde bulunmuştur. Ayda'nın bu durumu, aşağıdaki seçeneklerden hangisiyle en uygun şekilde açıklanabilir?",
+    "A": "Gözlem yoluyla öğrenme",
+    "B": "Kavrama yoluyla öğrenme",
+    "C": "Gestalt yaklaşımı",
+    "D": "Örtük öğrenme",
+    "Answer": "Örtük öğrenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir deneyde, birinci gruptaki aşçılardan çeşitli tariflerin adımlarını ezberlemeleri istenmiş, ikinci gruptaki aşçılar ise bir süre boyunca mutfakta serbest zaman geçirmiştir. Daha sonra her iki gruba farklı tarifler ezberletilmiştir. Deney sonunda, birinci gruptaki aşçıların ilk tarifleri hatırlamada zorluk çektikleri gözlenmiştir. Yukarıda anlatılan durum, aşağıdaki kavramlardan hangisiyle bağlantılı olabilir?",
+    "A": "Olumsuz transfer",
+    "B": "Amnezi",
+    "C": "Bitişiklik",
+    "D": "Ket vurma",
+    "Answer": "Ket vurma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdakilerden hangisi bilişsel öğrenme yaklaşımının önerileri arasında yer almaz?",
+    "A": "Öğretimi planlama, uygulama ve değerlendirme sürecine öğrencileri katma",
+    "B": "Öğrencinin duygularını anlamaya dayalı, açık iletişimin ve karşılıklı saygının hakim olduğu bir öğrenme ortamı oluşturma.",
+    "C": "Öğretmenin ders içeriğini, öğrencilerin gelişim seviyelerine ve öğrenmeye hazır oluşlarına göre uyarlaması.",
+    "D": "Öğrencilerin öğrenmeye istekli olmalarını teşvik edecek motive edici ortamlar oluşturma.",
+    "Answer": "Öğrencinin duygularını anlamaya dayalı, açık iletişimin ve karşılıklı saygının hakim olduğu bir öğrenme ortamı oluşturma.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir öğretmen, yazı yazmayı öğretmek istediği öğrencileri için önce düz çizgiler çizdirip, daha sonra eğik çizgiler çalıştırmış, sonrasında da harfleri yazmalarını istemiştir. Öğretmen, her adımı başarıyla tamamlayan öğrencilere pekiştirme sağlamıştır. Öğretmenin kullandığı teknik aşağıdakilerden hangisidir?",
+    "A": "Küçük adımlar yöntemi",
+    "B": "Biçimlendirme",
+    "C": "Kademeli yaklaşma",
+    "D": "Zincirleme",
+    "Answer": "Biçimlendirme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Öğretmeniyle konuşan Selin, \"Resim yapmada diğer arkadaşlarım kadar yetenekli değilim, ne kadar denesem de istediklerimi başaramıyorum,\" diyerek hislerini paylaşır.",
+    "A": "Öngörü kapasitesi",
+    "B": "Öz düzenleme kapasitesi",
+    "C": "Sembolleştirme kapasitesi",
+    "D": "Özyeterlik kapasitesi",
+    "Answer": "Özyeterlik kapasitesi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Son zamanlarda sosyal medya platformlarında; yorumlarda, paylaşımlarda ve içeriklerde Türkçe yerine İngilizce kelimelerin tercih edildiği fark edilmektedir. Bu durum, gençlerin kendi dillerini düzgün kullanmalarını zorlaştırdığı gibi, farkında olmadan İngilizce kelimeleri öğrenmelerine de yol açmaktadır. Bu çerçevede, farkında olmadan İngilizce kelimeleri edinmemiz aşağıdakilerden hangisine örnek olarak değerlendirilebilir?",
+    "A": "Kavrama yoluyla öğrenme",
+    "B": "Gözlem yoluyla öğrenme",
+    "C": "Bilgiyi işleme kuramı",
+    "D": "Gizil öğrenme",
+    "Answer": "Gizil öğrenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Yeni bir roman yazmak isteyen yazar Ekrem, haftalarca ilham aramış ama bir türlü uygun bir konu bulamamıştır. Bir akşam haberlerde, bir köyde yaşanan doğa olaylarını izlerken, \"İşte bu, tam da aradığım şey!\" diyerek masasından kalkmış ve romanının ana temasını doğa felaketleri üzerine kurmak için çalışmaya başlamıştır. Ekrem’in bu deneyimi, aşağıdaki hangi duruma örnek olarak değerlendirilebilir?",
+    "A": "İçgörüsel öğrenme",
+    "B": "Algıda seçicilik",
+    "C": "Dolaylı güdülenme",
+    "D": "İşaret öğrenme",
+    "Answer": "İçgörüsel öğrenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıda verilen öğretmen davranışlarından hangisi bilişsel öğrenme kuramlarının ilkelerini yansıtmamaktadır?",
+    "A": "Öğrencilere bilgiyi en yararlı ve etkili biçimde aktarma",
+    "B": "Öğrencilerin derse dikkatini çekecek teknikler geliştirme ve kullanma",
+    "C": "Öğrencileri birden fazla öğrenme stratejisi kullanmaya cesaretlendirme",
+    "D": "İstenmeyen öğrenci davranışlarını ortadan kaldıracak yöntemler kullanma",
+    "Answer": "İstenmeyen öğrenci davranışlarını ortadan kaldıracak yöntemler kullanma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir müzik öğretmeni, öğrencilerine bir dizi nota ezberletir. Birkaç gün sonra, öğrencilere yeni bir nota dizisi daha verir ve bu notaları da ezberlemelerini ister. Daha sonra öğrencilere ilk nota dizisini çalmaları söylendiğinde, öğrenciler ikinci diziyi hatırladıkları için ilk diziyi hatırlamakta güçlük çekerler. Öğrencilerin ilk listedeki sayıları hatırlamada yaşadıkları zorluk, aşağıdaki hangi süreçle ifade edilebilir?",
+    "A": "Geriye doğru ket vurma",
+    "B": "Olumsuz transfer",
+    "C": "Engellenme",
+    "D": "Algıda seçicilik",
+    "Answer": "Geriye doğru ket vurma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Marangozhanede ustasını izleyen Kerim, birkaç gün sonra kendi başına bir sandalye yapmaya karar verir. Ustasının adımlarını takip etmeye çalışsa da, sandalyenin dengesini tutturmakta zorlanır. Bu duruma göre Kerim, gözlem yoluyla öğrenmenin hangi aşamasında zorluk çekmektedir?",
+    "A": "Zihinsel deneme",
+    "B": "Dikkat",
+    "C": "Hatırlama",
+    "D": "Uygulama",
+    "Answer": "Uygulama",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Buket, dans performansı sınavından önce tüm günü dinlenerek geçirmiştir. Akşam stüdyoya gittiğinde, arkadaşlarının ara vermeden prova yaptığını görünce kendisinin de sınava hazırlanması gerektiğini düşünür ve hemen çalışmaya başlar. Buket’te gerçekleşen bu davranış değişikliği aşağıdakilerden hangisiyle açıklanabilir?",
+    "A": "Doğrudan ödüllendirme",
+    "B": "Dolaylı pekiştirme",
+    "C": "Dolaylı güdülenme",
+    "D": "Dolaylı ceza",
+    "Answer": "Dolaylı güdülenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aşağıdaki ifadelerden hangisi sezgi ve kavrama yoluyla öğrenmeyle ilgili olarak yanlıştır?",
+    "A": "Deneyim, bireyin problem çözme becerisini geliştirmede önemli bir rol oynar.",
+    "B": "Kazanılan bilgiler ve beceriler, farklı durumlara uyarlanarak etkili bir şekilde kullanılabilir.",
+    "C": "Çözülen problemler, kalıcı öğrenme sağladığı için uzun süre hatırlanır ve tekrar uygulanabilir.",
+    "D": "Bir problemi çözmek için bazen sadece belirli bir yönüne odaklanmak yeterli olabilir.",
+    "Answer": "Bir problemi çözmek için bazen sadece belirli bir yönüne odaklanmak yeterli olabilir.",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "“Reklamda çok fazla görsel öge kullanıldığında, izleyiciler asıl mesajı gözden kaçırabilir ve sadece resimlere odaklanabilir,\" diyen bir reklamcı, aşağıda verilen Gestalt ilkelerinden hangisinin altını çizmektedir?",
+    "A": "Algı yanılması",
+    "B": "Şekil-zemin ilişkisi",
+    "C": "Algıda değişmezlik",
+    "D": "Algıda bütünlük",
+    "Answer": "Şekil-zemin ilişkisi",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Çalışırken meslektaşlarının yüksek sesle iş dünyası hakkında yaptığı konuşmaları duymazdan gelen Hayri, birkaç gün sonra toplantıda \"Bu yılki ekonomik büyüme oranı ne?\" sorusuna doğru yanıt verdiğini fark edince kendine şaşırır. Hayri’nin sınıfta sorulan soruya doğru yanıt vermesi, aşağıdaki hangi süreçle ifade edilebilir?",
+    "A": "Duyarlaştırma",
+    "B": "Algıda seçicilik",
+    "C": "Bilgiyi işleme kuramı",
+    "D": "Gizil öğrenme",
+    "Answer": "Gizil öğrenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Spor mağazaları, yaz tatili öncesinde plaj ürünlerini vitrinlerine yerleştirerek, tatile hazırlanan müşterilerin ilgisini çekmeye çalışırlar. Bu durum, aşağıda verilen hangi Gestalt prensibi ile ilişkilendirilebilir?",
+    "A": "Algıda bütünlük",
+    "B": "Algıda süreklilik",
+    "C": "Algıda benzerlik",
+    "D": "Algıda yakınlık",
+    "Answer": "Algıda yakınlık",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Biyoloji sınavı öncesi yeterince hazırlanamayan Çağla’nın, sınavdan önce hızlıca ders notlarına bakarak önemli yerleri aklında tutmaya çalışması, hangi bellek türünden faydalandığını işaret eder?",
+    "A": "Duyusal kayit",
+    "B": "Epizodik bellek",
+    "C": "Kısa süreli bellek",
+    "D": "İşlemsel bellek",
+    "Answer": "Kısa süreli bellek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir kişinin, \"Anadolu'da Zaman\" isimli televizyon programını izlerken, eşiyle birlikte en son gittikleri tatil yerini hatırlaması, aşağıda verilen hangi bellek türüyle ilişkilendirilebilir?",
+    "A": "Epizodik bellek",
+    "B": "Semantik bellek",
+    "C": "Kısa süreli bellek",
+    "D": "Duyusal kayıt",
+    "Answer": "Epizodik bellek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Biyoloji sınavı öncesi yeterince hazırlanamayan Çağla’nın, sınavdan önce hızlıca ders notlarına bakarak önemli yerleri aklında tutmaya çalışması, hangi bellek türünden faydalandığını işaret eder?",
+    "A": "Duyusal kayıt",
+    "B": "Epizodik bellek",
+    "C": "İşlemsel bellek",
+    "D": "Kısa süreli bellek",
+    "Answer": "Kısa süreli bellek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir kişinin, \"Anadolu'da Zaman\" isimli televizyon programını izlerken, eşiyle birlikte en son gittikleri tatil yerini hatırlaması, aşağıda verilen hangi bellek türüyle ilişkilendirilebilir?",
+    "A": "Semantik bellek",
+    "B": "Epizodik bellek",
+    "C": "Kısa süreli bellek",
+    "D": "Duyusal kayıt",
+    "Answer": "Epizodik bellek",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Geçen yıl katıldığı İngilizce kursunda bir gramer kuralını hatalı şekilde öğrenen Ayşe, bu yılki İngilizce kursunda aynı kuralın doğru versiyonunu öğrenmiştir. Ancak, sınıfta yapılan dil bilgisi testlerinde, bazen eski kursta öğrendiği yanlış bilgiyi kullanarak cevap verdiğini fark etmiş ve bu durumun kendisine zorluk çıkardığını gözlemlemiştir. Bu durumda, Ayşe'nin gramer konusunda öğrendiği bilgileri karıştırması aşağıdaki durumlardan hangisine bir örnek olarak değerlendirilebilir?",
+    "A": "Olumsuz aktarma",
+    "B": "Bellek izlerinin bozulması",
+    "C": "İleri doğru ket vurma",
+    "D": "Güdüsel unutma",
+    "Answer": "İleri doğru ket vurma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "3 yaşındaki oğlunun saçlarını kestirirken ağladığını fark eden bir anne, bir çocuk gelişim uzmanına danışır. Uzman, anneye \"Bazı çocuklar, makasın başlarına zarar vereceğini düşündükleri için saç kestirmekten korkabilirler. Oğlunuza sizin saçlarınızı keserken izleme şansı verin ve bu süreçte hiç acı hissetmediğinizi, hatta rahatladığınızı ona anlatın,\" diyerek bir çözüm önerir. Çocuk gelişim uzmanının bu açıklamaları, aşağıdaki hangi öğrenme teorisi ile açıklanabilir?",
+    "A": "Tepkisel koşullanma",
+    "B": "Sosyal öğrenme",
+    "C": "Sezgi ve kavrama yoluyla öğrenme",
+    "D": "Bilgiyi işleme kuramı",
+    "Answer": "Sosyal öğrenme",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Demet Hanım, sunuculuğunu yaptığı televizyon programlarında hep ünlü bir stilist’in kıyafetlerini giymektedir ve izleyiciler program sonunda kıyafetlerinin ne kadar şık olduğundan bahsetmektedir. Bu duruma birkaç kez tanık olan Demet Hanım'ın, sahne kıyafetlerini o stiliste yaptırmaya karar vermesi, aşağıdaki öğrenme kuramlarından hangisiyle açıklanabilir?",
+    "A": "Fark edilemeyen öğrenmeler",
+    "B": "Davranışsal öğrenmeler",
+    "C": "Model alma yoluyla öğrenmeler",
+    "D": "Problem çözme yoluyla öğrenmeler",
+    "Answer": "Model alma yoluyla öğrenmeler",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Aras, sınıf arkadaşının futbol formasıyla okula geldiğinde herkesin ona ilgi gösterdiğini görür. Bir sonraki gün, Aras da abisinin futbol formasını giyip okula gelir. Ancak o gün öğretmen formanın okul kıyafet yönetmeliğine uymadığını söyleyince, Berk formayı hemen çıkarıp dolabına koyar. Yukarıdaki örnekte, sırasıyla aşağıdaki kavramlardan hangileri geçmektedir?",
+    "A": "Dolaylı güdülenme - dolaylı duygu",
+    "B": "Dolaylı pekiştirme - dolaylı ceza",
+    "C": "Dolaylı güdülenme - doğrudan pekiştirme",
+    "D": "Dolaylı duygu - dolaylı pekiştirme",
+    "Answer": "Dolaylı pekiştirme - dolaylı ceza",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Beşiktaş’a gönülden bağlı olan Arif, bir TV yarışmasında Beşiktaş’ın önceki sezonki başkanının ismi sorulduğunda, sürekli güncel başkanın adını düşünmüş ve soruyu cevaplayamamıştır. Arif'in bu durumu, aşağıdakilerden hangisiyle en doğru şekilde açıklanır?",
+    "A": "Olumsuz transfer",
+    "B": "Unutma",
+    "C": "Genellenmiş ketleyici etki",
+    "D": "Amnezi",
+    "Answer": "Unutma",
+    "Image": "",
+    "Explaination": ""
+  },
+  {
+    "Question": "Bir cezaevinde infaz koruma başmemuru, infaz koruma memurlarının işe sürekli geç geldiklerini fark etmiş ve bir gün geç gelen bir infaz koruma memurunu koridorda yüksek sesle uyarmıştır. Bu olayın ardından tüm infaz koruma memurları işe tam zamanında gelmeye başlamıştır. İnfaz koruma başmemurunun geç kalan bir infaz koruma memurunu uyarmasının, diğer infaz koruma memurlarının tutumlarını değiştirmesi aşağıdakilerden hangisiyle açıklanabilir?",
+    "A": "Dolaylı duygu",
+    "B": "Dolaylı pekiştirme",
+    "C": "Dolaylı ceza",
+    "D": "Dolaylı genelleme",
+    "Answer": "Dolaylı ceza",
+    "Image": "",
+    "Explaination": ""
+  }
+]
